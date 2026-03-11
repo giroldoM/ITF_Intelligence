@@ -36,3 +36,28 @@ COMO EXECUTAR
 1. Instale as dependencias: pip install -r requirements.txt
 2. Navegue para a pasta da chave desejada (masculino/ ou feminino/).
 3. Execute os scripts na ordem numerica logica (Scrapers -> Cleaner -> Elo -> ML).
+
+
+
+VISOES DE RELATORIO (MVP - EM DESENVOLVIMENTO)
+----------------------------------------------
+O produto final entrega valor atraves de duas oticas complementares, desenhadas especificamente para atender as dores de treinadores, scouts e diretores de academias:
+
+1. RELATORIO INDIVIDUAL (SCOUTING REPORT)
+Foco: Raio-X profundo de um unico atleta.
+Casos de uso: Avaliacao de desempenho, preparacao de torneios, recrutamento universitario (College Tennis) e justificativa de patrocinio.
+Metricas principais:
+- Rating Global (Elo absoluto).
+- Percentil Ajustado a Idade (ex: "Top 2% entre nascidos em 2008").
+- Curva de Momentum (grafico de evolucao ou estagnacao nos ultimos 12 meses).
+- Perfil de Superficie (calculo matematico que define se e Especialista ou Versatil).
+- Resumo textual gerado automaticamente com os principais insights do atleta.
+
+2. RELATORIO MACRO (ACADEMY BENCHMARK)
+Foco: Gestao do portfolio de atletas de um centro de treinamento, rede ou federacao.
+Casos de uso: Alocacao de recursos, avaliacao da metodologia de treino e auditoria interna.
+Metricas principais:
+- Ranking Interno de Promessas (ordenado pelo Elo Ajustado a Idade, revelando quem sao as verdadeiras joias escondidas).
+- Rising Stars (os atletas da rede que mais ganharam Elo nos ultimos 3 a 6 meses).
+- Diagnostico de Superficie da Academia (ex: identificar se a academia so forma especialistas no Saibro, expondo fraquezas no piso rapido).
+- Alertas de Estagnacao (identificacao precoce de atletas que pararam de evoluir matematicamente).
