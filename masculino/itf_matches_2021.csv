@@ -1,0 +1,141 @@
+Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface,Round,Result,Score
+800600773,800561455.0,Daniel Jose Pinzon Pinto,COL,J4 Lima,2021,26 Apr to 01 May 2021,Clay,2nd Round,L,1-6 1-6
+800600773,800573278.0,Jaime Febres Rechkemmer,PER,J4 Lima,2021,26 Apr to 01 May 2021,Clay,1st Round,W,6-1 6-1
+800573038,800569599.0,Vineeth Mutyala,IND,JB1 Pune,2021,06 Dec to 11 Dec 2021,Hard,Quarter-final,L,2-6 3-6
+800573038,800544103.0,Arjun Gohad,IND,JB1 Pune,2021,06 Dec to 11 Dec 2021,Hard,2nd Round,W,6-2 6-1
+800573038,800542089.0,Anshul Satav,IND,JB1 Pune,2021,06 Dec to 11 Dec 2021,Hard,1st Round,W,6-2 6-0
+800573038,800516438.0,Jaishnav Shinde,IND,J3 Pune,2021,29 Nov to 04 Dec 2021,Hard,2nd Round,L,2-6 3-6
+800573038,800600078.0,Siddhanth Vinod,IND,J3 Pune,2021,29 Nov to 04 Dec 2021,Hard,1st Round,W,6-3 6-1
+800573038,800543963.0,Shivam Sandeep Kadam,IND,J4 Hyderabad,2021,30 Aug to 04 Sep 2021,Hard,2nd Round,L,2-6 1-6
+800573038,800553777.0,Harsh Fogaat,IND,J4 Hyderabad,2021,30 Aug to 04 Sep 2021,Hard,1st Round,W,6-4 6-1
+800599182,800513529.0,Tobias Leitner,AUT,J5 San Marino,2021,27 Jul to 31 Jul 2021,Clay,1st Round,L,2-6 0-6
+800690276,800677440.0,aoi oura,JPN,J5 Gifu,2021,08 Dec to 12 Dec 2021,Hard,Quarter-final,L,4-6 6-3 5-10
+800690276,800688975.0,Sota Yasue,JPN,J5 Gifu,2021,08 Dec to 12 Dec 2021,Hard,2nd Round,W,6-3 3-6 11-9
+800690276,800678588.0,KENTO NUKATA,JPN,J5 Gifu,2021,08 Dec to 12 Dec 2021,Hard,1st Round,W,7-5 6-0
+800680775,800653706.0,Luca Benaibbouche,USA,J5 Managua,2021,20 Sep to 25 Sep 2021,Hard,1st Round,L,2-6 2-6
+800623299,800551250.0,Aryan Nanda,IND,J3 Tashkent,2021,16 Aug to 21 Aug 2021,Hard,1st Round,L,1-6 0-6
+800623299,800492023.0,Tair Niyazov,KAZ,J4 Tashkent,2021,09 Aug to 14 Aug 2021,Hard,1st Round,L,0-6 0-6
+800603811,800535533.0,Poonthong Komolpisut,THA,J4 Nonthaburi,2021,06 Dec to 11 Dec 2021,Hard,1st Round,L,2-6 0-6
+800603811,800576728.0,Jeremy Zhang,AUS,J4 Nonthaburi,2021,29 Nov to 04 Dec 2021,Hard,1st Round,L,3-6 1-6
+800603811,800535504.0,Rajata Thamcharoensatit,THA,J5 Nonthaburi,2021,22 Nov to 27 Nov 2021,Hard,1st Round,L,1-6 1-6
+800603811,800564294.0,Takumi Watanabe,JPN,J5 Nonthaburi,2021,15 Nov to 20 Nov 2021,Hard,2nd Round,L,0-6 2-6
+800603811,800552286.0,Zitawe Kulphisanrat,THA,J5 Nonthaburi,2021,15 Nov to 20 Nov 2021,Hard,1st Round,W,6-1 6-1
+800603811,800564294.0,Takumi Watanabe,JPN,J4 Nonthaburi,2021,25 Oct to 30 Oct 2021,Hard,2nd Round,L,1-6 2-6
+800603811,800522061.0,Jao Van Schalkwyk,THA,J4 Nonthaburi,2021,25 Oct to 30 Oct 2021,Hard,1st Round,W,6-2 6-3
+800661541,800655886.0,Riduan Aityn,KAZ,J3 Tashkent,2021,16 Aug to 21 Aug 2021,Hard,1st Round,L,4-6 4-6
+800679228,800504969.0,Hady El Kordy,EGY,J2 Stellenbosch,2021,18 Oct to 22 Oct 2021,Hard,1st Round,L,1-6 0-6
+800679228,800652290.0,Andre Viljoen,RSA,J3 Johannesburg,2021,06 Sep to 10 Sep 2021,Hard,2nd Round,L,6-3 3-6 2-10
+800679228,800595378.0,Mark Nawa,BOT,J3 Johannesburg,2021,06 Sep to 10 Sep 2021,Hard,1st Round,W,4-6 6-0 10-8
+800679228,800591634.0,Boitshepo Maake,RSA,J4 Pretoria,2021,30 Aug to 03 Sep 2021,Hard,2nd Round,L,4-6 4-6
+800679228,800591441.0,Conrad Beneke,RSA,J4 Pretoria,2021,30 Aug to 03 Sep 2021,Hard,1st Round,W,6-3 7-5
+800681941,800652248.0,Sanjaya C Kodali,USA,J4 Corpus Christi,2021,27 Sep to 02 Oct 2021,Hard,2nd Round,L,4-6 5-7
+800676585,800583593.0,Mateo Garcia Flores,GUA,J5 Llanos de Curundu,2021,23 Aug to 28 Aug 2021,Clay,1st Round,L,2-6 0-6
+800664959,800564824.0,Batsomi Marobela,BOT,J4 Windhoek,2021,03 May to 08 May 2021,Hard,1st Round,L,3-6 5-7
+800664959,800643947.0,Calum Jestin,RSA,J5 Windhoek,2021,26 Apr to 01 May 2021,Hard,Quarter-final,L,0-6 1-6
+800664959,800660752.0,Joel O E Hiveluah,NAM,J5 Windhoek,2021,26 Apr to 01 May 2021,Hard,2nd Round,W,6-1 6-0
+800746221,800583661.0,Mickael Kaouk,FRA,J5 Yaoundé,2021,08 Nov to 13 Nov 2021,Hard,1st Round,L,1-6 2-6
+800746221,800570202.0,Octave Caillat,FRA,J5 Yaoundé,2021,01 Nov to 06 Nov 2021,Hard,1st Round,L,4-6 0-6
+800655068,800503736.0,Darkhan Zhakanger,KAZ,J4 Bishkek,2021,30 Aug to 04 Sep 2021,Clay,2nd Round,L,4-6 4-6
+800655068,800492027.0,Rustam Sarmanov,KAZ,J4 Bishkek,2021,30 Aug to 04 Sep 2021,Clay,1st Round,W,6-3 7-5
+800655068,800492014.0,Zhakas Kozbak,KAZ,J5 Bishkek,2021,23 Aug to 28 Aug 2021,Clay,2nd Round,L,1-6 3-6
+800655068,800492027.0,Rustam Sarmanov,KAZ,J5 Bishkek,2021,23 Aug to 28 Aug 2021,Clay,1st Round,W,7-5 6-2
+800655068,800537465.0,Sarvar Zaparov,UZB,J3 Tashkent,2021,16 Aug to 21 Aug 2021,Hard,1st Round,L,6-7 3-6
+800655068,800492027.0,Rustam Sarmanov,KAZ,J4 Tashkent,2021,09 Aug to 14 Aug 2021,Hard,Quarter-final,L,4-6 2-6
+800655068,800492023.0,Tair Niyazov,KAZ,J4 Tashkent,2021,09 Aug to 14 Aug 2021,Hard,2nd Round,W,6-3 7-6
+800655068,800639263.0,samandar qodirov,UZB,J4 Tashkent,2021,09 Aug to 14 Aug 2021,Hard,1st Round,W,6-2 6-3
+800598185,800589828.0,Aku Salo,FIN,J5 Nastola,2021,18 Oct to 23 Oct 2021,Hard,1st Round,L,1-6 0-6
+800570885,800482117.0,Kanan Gasimov,AZE,J5 Tehran,2021,11 Oct to 16 Oct 2021,Clay,1st Round,L,0-6 0-6
+800570885,800507084.0,Tuncay Duran,TUR,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,2nd Round,L,1-6 0-6
+800570885,800555291.0,Daria Doragahi,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,1st Round,W,7-6 7-6
+800570885,800513569.0,Mahmut Bera Binici,TUR,J5 Urmia,2021,24 May to 29 May 2021,Clay,1st Round,L,1-6 0-6
+800570885,800532297.0,Adam Gestinger,CZE,J5 Urmia,2021,24 May to 29 May 2021,Clay,Quarter-final,L,2-6 2-6
+800570885,800667630.0,Nima Nourani,IRI,J5 Urmia,2021,24 May to 29 May 2021,Clay,2nd Round,W,6-0 6-2
+800570885,800484294.0,Baran Soyler,TUR,J4 Shiraz,2021,17 May to 22 May 2021,Clay,1st Round,L,0-6 0-6
+800638992,800625747.0,Cole Cozens,CAN,J3 Repentigny,2021,29 Aug to 04 Sep 2021,Hard,1st Round,L,3-6 2-6
+800677693,800522774.0,Mudiwa Munyimani,AUS,J3 Johannesburg,2021,06 Sep to 10 Sep 2021,Hard,1st Round,L,0-6 1-6
+800690376,800520129.0,Nikita Fiadutsik,BLR,J4 Cairo,2021,08 Nov to 14 Nov 2021,Clay,1st Round,L,2-6 3-6
+800601480,800575913.0,Woojun Kang,KOR,J5 Andong,2021,08 Nov to 13 Nov 2021,Hard,1st Round,L,1-6 2-6
+800683472,800623845.0,Noah Coghlan,AUS,J5 Playford,2021,20 Sep to 24 Sep 2021,Hard,2nd Round,L,1-6 2-6
+800690419,800689760.0,Ryan Watt,NZL,J5 Christchurch,2021,08 Nov to 12 Nov 2021,Hard,2nd Round,L,7-6 1-6 1-6
+800580910,800569455.0,Muk Chau Jiang,HKG,J4 Hong Kong,2021,01 Nov to 06 Nov 2021,Hard,2nd Round,L,3-6 0-6
+800580910,800627320.0,Minkyu Chung,KOR,J4 Hong Kong,2021,01 Nov to 06 Nov 2021,Hard,1st Round,W,6-0 6-0
+800647720,800627825.0,Cesar Cruz,ESA,J4 Guatemala,2021,15 Nov to 20 Nov 2021,Hard,Quarter-final,L,0-6 1-6
+800647720,800645983.0,Fabian Andres Matute,HON,J4 Guatemala,2021,15 Nov to 20 Nov 2021,Hard,2nd Round,W,6-3 6-2
+800576317,800499391.0,Danylo Rekun,UKR,J5 Yerevan,2021,11 Oct to 16 Oct 2021,Clay,2nd Round,L,2-6 3-6
+800576317,800564853.0,Avetik Ghazaryan,ARM,J5 Yerevan,2021,11 Oct to 16 Oct 2021,Clay,1st Round,W,4-6 7-6 10-5
+800655637,800564192.0,Luka Takumi Stula,SRB,J5 Gifu,2021,08 Dec to 12 Dec 2021,Hard,1st Round,L,1-6 0-6
+800655637,800684644.0,YU INOMATA,JPN,J5 Chigasaki,2021,16 Nov to 21 Nov 2021,Carpet,1st Round,L,2-6 4-6
+800655637,800668247.0,Koshiro Nakamae,JPN,J4 Nagoya,2021,20 Oct to 24 Oct 2021,Carpet,2nd Round,L,6-4 3-6 2-10
+800655637,800625815.0,REN IMAIZUMI,JPN,J4 Nagoya,2021,20 Oct to 24 Oct 2021,Carpet,1st Round,W,6-3 6-0
+800655637,800678588.0,KENTO NUKATA,JPN,J4 Osaka,2021,12 Oct to 16 Oct 2021,Hard,1st Round,L,0-6 6-4 7-10
+800655637,800680198.0,Richi Hamada,JPN,J4 Miki-City,2021,08 Sep to 12 Sep 2021,Hard,1st Round,L,3-6 0-6
+800644930,800522765.0,Aryan Giri,USA,J5 Islamabad,2021,15 Nov to 20 Nov 2021,Hard,1st Round,L,6-7 2-6
+800644930,800538179.0,Amir Asylkozhaev,RUS,J5 Islamabad,2021,08 Nov to 13 Nov 2021,Hard,1st Round,L,2-6 3-6
+800644930,800511155.0,Zalan Khan,PAK,J5 Islamabad,2021,08 Feb to 13 Feb 2021,Hard,2nd Round,L,1-6 0-6
+800644930,800595613.0,Bilal Taibzada,AFG,J5 Islamabad,2021,08 Feb to 13 Feb 2021,Hard,1st Round,W,6-0 6-1
+800644930,800544991.0,Meethre Barot,USA,J5 Islamabad,2021,01 Feb to 06 Feb 2021,Hard,2nd Round,L,0-6 0-6
+800655667,800558800.0,Gabriel GUIMARAY,PER,J5 Lima,2021,10 May to 15 May 2021,Clay,1st Round,L,2-6 1-6
+800675354,800640520.0,Ibrahim Furkan Deniz,TUR,J5 Tehran,2021,11 Oct to 16 Oct 2021,Clay,1st Round,L,3-6 2-6
+800675354,800654377.0,Parsa Forghani,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,Quarter-final,L,2-6 7-6 9-11
+800675354,800578138.0,Ilia Mehrabani,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,2nd Round,W,6-1 0-6 10-8
+800675354,800854516.0,Ali Khebri,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,1st Round,W,6-1 6-0
+800585054,800582936.0,Siddhartha Lama,USA,J5 Pokhara,2021,06 Dec to 11 Dec 2021,Clay,1st Round,L,0-6 1-6
+800585054,800558387.0,Halel Ashoosh,ISR,J5 Pokhara,2021,29 Nov to 04 Dec 2021,Clay,1st Round,L,0-6 0-6
+800570947,800519145.0,Valerio Amadio,ITA,J5 Cuneo,2021,16 Aug to 22 Aug 2021,Clay,1st Round,L,6-2 3-6 2-10
+800625880,800472419.0,Setthawut Sinpibarn,THA,J4 Nonthaburi,2021,06 Dec to 11 Dec 2021,Hard,1st Round,L,4-6 5-7
+800625880,800680782.0,Boxiong Zhang,CHN,J4 Singapore,2021,30 Aug to 04 Sep 2021,Hard,Quarter-final,L,0-6 2-6
+800625880,800583610.0,Ayush Ramachandran,IND,J4 Singapore,2021,30 Aug to 04 Sep 2021,Hard,2nd Round,W,6-3 7-5
+800625880,800676796.0,Takahito Uemura,JPN,J4 Singapore,2021,30 Aug to 04 Sep 2021,Hard,1st Round,W,6-3 6-4
+800625880,800581870.0,Damian Chng,USA,J5 Singapore,2021,15 Mar to 20 Mar 2021,Hard,1st Round,L,0-6 2-6
+800684589,800555198.0,Guilherme Siqueira,BRA,J4 Atlanta,2021,18 Oct to 23 Oct 2021,Hard,1st Round,L,2-6 4-6
+800689702,800631106.0,Yassin Elaroussy,EGY,J5 Cairo,2021,01 Nov to 07 Nov 2021,Clay,2nd Round,L,2-6 2-6
+800689702,800635669.0,Hassan Ammar,EGY,J5 Cairo,2021,01 Nov to 07 Nov 2021,Clay,1st Round,W,3-6 6-3 10-6
+800727582,800530437.0,Fadi Bidan,LBN,J5 Sfax,2021,06 Apr to 11 Apr 2021,Hard,1st Round,L,0-6 1-6
+800592831,800636899.0,Joan Sura,ALB,J5 Tirana,2021,20 Sep to 25 Sep 2021,Hard,1st Round,W,6-2 6-0
+800667722,800437862.0,Bekzhan Yerezhep,KAZ,J4 Bishkek,2021,30 Aug to 04 Sep 2021,Clay,1st Round,L,1-6 0-6
+800667722,800467094.0,Alisher Sadvakasov,KAZ,J5 Bishkek,2021,23 Aug to 28 Aug 2021,Clay,1st Round,L,2-6 3-6
+800667722,800521853.0,Artur Ibragimov,UZB,J5 Bishkek,2021,24 May to 29 May 2021,Clay,1st Round,L,1-6 1-6
+800667722,800546326.0,Ilya Ignatov,UZB,J5 Bishkek,2021,17 May to 22 May 2021,Clay,1st Round,L,0-6 0-6
+800678463,800677076.0,Mario Garcia,USA,J2 Guadalajara,2021,16 Aug to 21 Aug 2021,Clay,2nd Round,L,1-6 1-6
+800680367,800680450.0,Declan Jones,AUS,J5 Playford,2021,13 Sep to 17 Sep 2021,Hard,2nd Round,L,6-4 2-6 7-10
+800636004,800668154.0,RYUNOSUKE KABASAWA,JPN,J5 Yamanashi,2021,24 Nov to 28 Nov 2021,Clay,1st Round,L,3-6 6-7
+800664119,800467094.0,Alisher Sadvakasov,KAZ,J5 Karaganda,2021,16 Nov to 21 Nov 2021,Hard,1st Round,L,1-6 1-6
+800665370,800579320.0,Alejandro Gonzalez,MEX,J5 Veracruz,2021,11 Oct to 16 Oct 2021,Hard,1st Round,L,0-6 0-6
+800599117,800600505.0,Gianfranco Rafael Garcia Medina,PER,J5 Lima,2021,10 May to 15 May 2021,Clay,1st Round,L,4-6 2-6
+800599117,800595739.0,Giacomo Valerga Carrillo,PER,J4 Lima,2021,03 May to 08 May 2021,Clay,1st Round,L,6-1 1-6 11-13
+800599117,800533966.0,Santiago Ferrero,PER,J4 Lima,2021,26 Apr to 01 May 2021,Clay,1st Round,L,2-6 0-6
+800654807,800569811.0,Aaron Rittberger,USA,J3 Burlington,2021,01 Nov to 05 Nov 2021,Hard,2nd Round,L,6-4 2-6 8-10
+800654807,800680807.0,Gryffin Minor,CAN,J4 Woodbridge 		,2021,25 Oct to 29 Oct 2021,Hard,2nd Round,L,5-7 0-6
+800654807,800597380.0,Dani Szabo,CAN,J4 Woodbridge 		,2021,25 Oct to 29 Oct 2021,Hard,1st Round,W,6-4 6-3
+800665751,800553756.0,Nick Yousefian,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,1st Round,L,0-6 0-6
+800665751,800553756.0,Nick Yousefian,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,Quarter-final,L,0-6 0-6
+800665751,800675641.0,Matin Nooshmehr,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,2nd Round,W,7-5 2-6 10-4
+800665751,800640503.0,Kasra Bassam pour,IRI,J5 Isfahan,2021,26 Jul to 31 Jul 2021,Clay,1st Round,W,6-2 6-1
+800689616,800549109.0,Tom Sorin,ISR,J4 Harare,2021,01 Nov to 06 Nov 2021,Hard,Quarter-final,L,0-6 1-6
+800689616,800653226.0,Enoch Tadiwanashe Gore,ZIM,J4 Harare,2021,01 Nov to 06 Nov 2021,Hard,2nd Round,W,4-0
+800635133,800683119.0,Borris Ekani Essono,CMR,J5 Yaoundé,2021,01 Nov to 06 Nov 2021,Hard,1st Round,L,3-6 0-6
+800635133,800592856.0,Dominique Rolland,USA,J4 Cotonou,2021,26 Oct to 31 Oct 2021,Hard,2nd Round,L,1-6 0-6
+800635133,800578399.0,Bright Nii Nortei Nortey,GHA,J4 Cotonou,2021,26 Oct to 31 Oct 2021,Hard,1st Round,W,6-4 6-3
+800635133,800646945.0,Philip Ofei Mensah Darko,GHA,J4 Cotonou,2021,26 Oct to 31 Oct 2021,Hard,Quarter-final,W,6-0 6-0
+800635133,800636141.0,Jefferson Temgoua,CMR,J4 Lome,2021,18 Oct to 23 Oct 2021,Hard,1st Round,L,6-2 3-6 6-10
+800635133,800568490.0,Hod'abalo isak Padio,TOG,J5 Lome,2021,11 Oct to 16 Oct 2021,Hard,1st Round,L,1-6 0-6
+800635133,800652388.0,Mark Backeberg,RSA,J3 Johannesburg,2021,06 Sep to 10 Sep 2021,Hard,1st Round,L,0-6 2-6
+800635133,800597080.0,Mostafa Noureldine,EGY,J4 Accra,2021,23 Aug to 28 Aug 2021,Hard,1st Round,L,3-6 2-6
+800635133,800556802.0,Karim Bennani,MAR,J4 Accra,2021,16 Aug to 21 Aug 2021,Hard,1st Round,L,1-6 2-6
+800635133,800604217.0,Joseph Hammond,GHA,J5 Accra,2021,02 Aug to 07 Aug 2021,Hard,1st Round,L,6-1 2-6 4-10
+800635133,800487440.0,George Russell,GBR,J4 Nairobi,2021,12 Jul to 16 Jul 2021,Clay,2nd Round,L,1-6 0-6
+800635133,800577681.0,Raymond Oduor,KEN,J5 Nairobi,2021,05 Jul to 09 Jul 2021,Clay,1st Round,L,3-6 6-7
+800635133,800491798.0,Oscar Bain Moreno De Vega,GER,J5 Nairobi,2021,28 Jun to 02 Jul 2021,Clay,2nd Round,L,1-6 0-6
+800661140,800649901.0,khalil acra,DOM,J4 Santo Domingo,2021,11 Oct to 16 Oct 2021,Hard,1st Round,L,1-6 2-6
+800661140,800653610.0,Dominick Mosejczuk,USA,J4 Santo Domingo,2021,04 Oct to 09 Oct 2021,Hard,2nd Round,L,0-6 1-6
+800661140,800661606.0,Pedwar Castillo,DOM,J4 Santo Domingo,2021,04 Oct to 09 Oct 2021,Hard,1st Round,W,6-1 6-1
+800636001,800519864.0,Seika Nishima,JPN,J5 Yamanashi,2021,24 Nov to 28 Nov 2021,Clay,2nd Round,L,2-6 1-6
+800636001,800687409.0,KITTO MOCHIZUKI,JPN,J5 Yamanashi,2021,24 Nov to 28 Nov 2021,Clay,1st Round,W,6-1 7-5
+800589411,800577760.0,Nikita Safonov,RUS,J5 Islamabad,2021,15 Nov to 20 Nov 2021,Hard,1st Round,L,1-6 2-6
+800589411,800560324.0,Dev Kanbargimath,ROU,J5 Islamabad,2021,08 Nov to 13 Nov 2021,Hard,1st Round,L,2-6 1-6
+800688029,800595681.0,Haadi Sarwar,GBR,J5 Islamabad,2021,08 Nov to 13 Nov 2021,Hard,Quarter-final,L,2-6 3-6
+800578176,800511159.0,Abdullah Khan,PAK,J4 Doha,2021,29 Nov to 04 Dec 2021,Hard,1st Round,L,3-6 3-6
+800582910,800558387.0,Halel Ashoosh,ISR,J5 Pokhara,2021,06 Dec to 11 Dec 2021,Clay,1st Round,L,2-6 4-6
+800582910,800592492.0,Matvey Greschner,USA,J5 Pokhara,2021,29 Nov to 04 Dec 2021,Clay,1st Round,L,3-6 0-6
+800585052,800538179.0,Amir Asylkozhaev,RUS,J5 Pokhara,2021,06 Dec to 11 Dec 2021,Clay,1st Round,L,1-6 0-6
+800585052,800575178.0,Chinmay Mitul Patel,IND,J5 Pokhara,2021,29 Nov to 04 Dec 2021,Clay,1st Round,L,3-6 0-6
