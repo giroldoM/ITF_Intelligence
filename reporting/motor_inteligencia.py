@@ -11,19 +11,41 @@ class MotorInteligencia:
         diretorio_atual = os.path.dirname(os.path.abspath(__file__))
         raiz_projeto = os.path.abspath(os.path.join(diretorio_atual, '..'))
         
-        # Guardamos a pasta na classe para usar depois no carregamento do modelo XGBoost
         self.pasta_dados = os.path.join(raiz_projeto, 'masculino') if chave == 'M' else os.path.join(raiz_projeto, 'feminino')
         
         print(f"[{chave}] Carregando dados para inteligencia de negocio a partir de: {self.pasta_dados}")
-        self.df_players = pd.read_csv(os.path.join(self.pasta_dados, f"dim_players_{chave}.csv"))
-        self.df_matches = pd.read_csv(os.path.join(self.pasta_dados, f"fact_matches_with_elo_{chave}.csv"))
+        
+        # --- LÓGICA DE NOMES DE ARQUIVOS ADAPTÁVEL ---
+        if chave == 'M':
+            arquivo_players = "dim_players.csv"
+            arquivo_matches = "fact_matches_with_elo.csv"
+            arquivo_ativos = "jogadores_ids_top4000_enriched.csv"
+        else:
+            arquivo_players = "dim_players_W.csv"
+            arquivo_matches = "fact_matches_with_elo_W.csv"
+            arquivo_ativos = "jogadoras_ids_top4000_enriched.csv"
+            
+        self.df_players = pd.read_csv(os.path.join(self.pasta_dados, arquivo_players))
+        self.df_matches = pd.read_csv(os.path.join(self.pasta_dados, arquivo_matches))
+        # ---------------------------------------------
         
         self.df_players['Player_ID'] = self.df_players['Player_ID'].astype(str).str.replace('.0', '', regex=False)
         self.df_matches['winner_id'] = self.df_matches['winner_id'].astype(str).str.replace('.0', '', regex=False)
         self.df_matches['loser_id'] = self.df_matches['loser_id'].astype(str).str.replace('.0', '', regex=False)
-        
         self.df_matches['Tourney_Date'] = pd.to_datetime(self.df_matches['Tourney_Date'])
         
+        # Filtro de Ativos (Top 4000)
+        caminho_ativos = os.path.join(self.pasta_dados, arquivo_ativos)
+        
+        if os.path.exists(caminho_ativos):
+            df_ativos = pd.read_csv(caminho_ativos)
+            col_id = 'Player_ID' if 'Player_ID' in df_ativos.columns else df_ativos.columns[0]
+            self.lista_ativos = df_ativos[col_id].astype(str).str.replace('.0', '', regex=False).tolist()
+            print(f"[{chave}] Filtro de Ativos ativado: {len(self.lista_ativos)} jogadores no ranking oficial.")
+        else:
+            print(f"[{chave}] AVISO: {arquivo_ativos} nao encontrado. Ranquando contra toda a base historica.")
+            self.lista_ativos = None
+
         self._calcular_elos_atuais()
 
     def _obter_ultimos_elos(self, df, col_w, col_l):
@@ -55,18 +77,23 @@ class MotorInteligencia:
     def gerar_raio_x_jogador(self, player_id):
         player_id = str(player_id)
         info = self.df_players[self.df_players['Player_ID'] == player_id]
-        if info.empty:
-            return {"erro": "Jogador nao encontrado."}
+        if info.empty: return {"erro": "Jogador não encontrado."}
         
         nome = info.iloc[0]['Name']
         nacionalidade = info.iloc[0]['Nationality']
         ano_nasc = info.iloc[0]['Birth_Year']
-        mao_dominante = info.iloc[0].get('Hand', 'U')
-        if pd.isna(mao_dominante) or mao_dominante == 'U': mao_dominante = "Destro/Canhoto (N/A)"
-        elif mao_dominante == 'R': mao_dominante = "Destro"
-        elif mao_dominante == 'L': mao_dominante = "Canhoto"
-
         idade_aprox = datetime.now().year - int(ano_nasc) if pd.notna(ano_nasc) else "N/A"
+        
+        # Logica limpa para a Mao Dominante
+        mao_dominante = info.iloc[0].get('Hand', 'U')
+        str_mao = ""
+        if pd.notna(mao_dominante) and mao_dominante in ['R', 'L']:
+            if mao_dominante == 'R':
+                str_mao = " &middot; Mão: Destra" if self.chave == 'W' else " &middot; Mão: Destro"
+            else:
+                str_mao = " &middot; Mão: Canhota" if self.chave == 'W' else " &middot; Mão: Canhoto"
+                
+        linha_meta = f"{nacionalidade} &middot; {idade_aprox} anos ({int(ano_nasc) if pd.notna(ano_nasc) else 'N/A'}){str_mao}"
 
         jogos_w = self.df_matches[self.df_matches['winner_id'] == player_id].copy()
         jogos_l = self.df_matches[self.df_matches['loser_id'] == player_id].copy()
@@ -76,7 +103,6 @@ class MotorInteligencia:
             jogos_w['Meu_Elo_Surface'] = jogos_w['Winner_Surface_Elo']
             jogos_w['Opponent_Elo'] = jogos_w['Loser_Global_Elo']
             jogos_w['Resultado'] = 'W'
-            
         if not jogos_l.empty:
             jogos_l['Meu_Elo'] = jogos_l['Loser_Global_Elo']
             jogos_l['Meu_Elo_Surface'] = jogos_l['Loser_Surface_Elo']
@@ -84,24 +110,30 @@ class MotorInteligencia:
             jogos_l['Resultado'] = 'L'
         
         historico = pd.concat([jogos_w, jogos_l]).sort_values('Tourney_Date')
-        if historico.empty:
-            return {"nome": nome, "erro": "Sem historico de partidas."}
+        if historico.empty: return {"nome": nome, "erro": "Sem histórico de partidas."}
 
         elo_atual = historico.iloc[-1]['Meu_Elo']
-        rank_global = (self.elos_atuais['Elo'] > elo_atual).sum() + 1
-        total_jogadores = len(self.elos_atuais)
+        
+        if self.lista_ativos:
+            concorrentes_ativos = self.elos_atuais[self.elos_atuais['Player_ID'].isin(self.lista_ativos)]
+        else:
+            concorrentes_ativos = self.elos_atuais
+            
+        rank_global = (concorrentes_ativos['Elo'] > elo_atual).sum() + 1
+        total_jogadores = len(concorrentes_ativos)
         
         percentil = 0
         media_idade, std_idade = 1500.0, 100.0
         if pd.notna(ano_nasc):
-            concorrentes = self.elos_atuais[self.elos_atuais['Birth_Year'] == ano_nasc]
-            rank_na_idade = (concorrentes['Elo'] > elo_atual).sum() + 1
-            total_concorrentes = len(concorrentes)
+            concorrentes_idade = concorrentes_ativos[concorrentes_ativos['Birth_Year'] == ano_nasc]
+            rank_na_idade = (concorrentes_idade['Elo'] > elo_atual).sum() + 1
+            total_concorrentes = len(concorrentes_idade)
+            
             if total_concorrentes > 0:
                 percentil = 100 - ((rank_na_idade / total_concorrentes) * 100)
                 percentil_str = f"Top {100 - percentil:.1f}%" if percentil > 50 else f"Bottom {percentil:.1f}%"
-                media_idade = concorrentes['Elo'].mean()
-                std_idade = concorrentes['Elo'].std()
+                media_idade = concorrentes_idade['Elo'].mean()
+                std_idade = concorrentes_idade['Elo'].std()
             else:
                 percentil_str = "N/A"
         else:
@@ -126,7 +158,7 @@ class MotorInteligencia:
         if superficies_elos[melhor_piso] - superficies_elos[pior_piso] > 150:
             tag_superficie = f"Especialista em {melhor_piso}"
         else:
-            tag_superficie = "Perfil Versatil"
+            tag_superficie = "Perfil Versátil"
 
         data_atual = historico['Tourney_Date'].max()
         historico_6m = historico[historico['Tourney_Date'] >= (data_atual - timedelta(days=180))]
@@ -136,19 +168,20 @@ class MotorInteligencia:
         derrotas_6m = len(historico_6m[historico_6m['Resultado'] == 'L'])
         oponentes_media_6m = historico_6m['Opponent_Elo'].mean() if not historico_6m.empty else 0
 
-        txt_momento = "em forte ascensao" if delta_6_meses > 40 else "em fase de estabilizacao" if delta_6_meses > -20 else "enfrentando oscilacoes"
-        txt_elite = "acima da media da sua geracao" if percentil >= 75 else "dentro da media da sua idade"
-        headline = f"Jogador {txt_momento}, {txt_elite}, com forte aptidao para {melhor_piso}."
+        txt_momento = "em forte ascensão" if delta_6_meses > 40 else "em fase de estabilização" if delta_6_meses > -20 else "enfrentando oscilações"
+        txt_elite = "acima da média da sua geração" if percentil >= 75 else "dentro da média da sua idade"
+        headline = f"Jogador(a) {txt_momento}, {txt_elite}, com forte aptidão para {melhor_piso}."
 
-        bullet_idade = f"Posicionamento: Atualmente no {percentil_str} mundial entre os nascidos em {int(ano_nasc) if pd.notna(ano_nasc) else 'N/A'}. {'Demonstra alto potencial de projecao.' if percentil >= 85 else 'Requer ganhos marginais para atingir a elite da categoria.'}"
-        bullet_piso = f"Perfil Competitivo: O diferencial entre o melhor e o pior piso indica um {tag_superficie.lower()}. O rating no {melhor_piso} e o seu principal trunfo."
+        bullet_idade = f"Posicionamento: Atualmente no {percentil_str} mundial entre os nascidos em {int(ano_nasc) if pd.notna(ano_nasc) else 'N/A'}. {'Demonstra alto potencial de projeção.' if percentil >= 85 else 'Requer ganhos marginais para atingir a elite da categoria.'}"
+        bullet_piso = f"Perfil Competitivo: O diferencial entre o melhor e o pior piso indica um {tag_superficie.lower()}. O rating no {melhor_piso} é o principal trunfo."
         
-        txt_oponente = "adversarios de alto nivel" if oponentes_media_6m > media_idade else "adversarios de nivel mediano/inferior"
-        bullet_forma = f"Momento Recente: Nos ultimos 6 meses, regista um recorde de {vitorias_6m}V - {derrotas_6m}D. Tem enfrentado {txt_oponente} (Elo Medio: {round(oponentes_media_6m)}), resultando num delta de {round(delta_6_meses)} pontos."
+        txt_oponente = "adversários de alto nível" if oponentes_media_6m > media_idade else "adversários de nível mediano/inferior"
+        bullet_forma = f"Momento Recente: Nos últimos 6 meses, regista um recorde de {vitorias_6m}V - {derrotas_6m}D. Tem enfrentado {txt_oponente} (Elo Médio: {round(oponentes_media_6m)}), resultando num delta de {round(delta_6_meses)} pontos."
 
         return {
             "id": player_id,
             "nome": nome,
+            "linha_meta": linha_meta,
             "nacionalidade": nacionalidade,
             "idade": idade_aprox,
             "ano_nasc": int(ano_nasc) if pd.notna(ano_nasc) else "Desconhecido",
@@ -184,21 +217,66 @@ class MotorInteligencia:
             "historico_completo": historico[['Tourney_Date', 'Surface', 'Meu_Elo', 'Meu_Elo_Surface', 'Resultado']]
         }
 
+    def buscar_adversarios_dinamicos(self, player_id, dados_scout):
+        """Seleciona 3 adversários reais baseados nas regras de negocio B2B."""
+        adversarios = []
+        ano_nasc = dados_scout.get('ano_nasc')
+        elo_global = dados_scout['elo_global_atual']
+        melhor_piso = dados_scout['melhor_piso']
+
+        # Filtrar apenas ativos (excluindo o proprio jogador)
+        if self.lista_ativos:
+            pool = self.elos_atuais[(self.elos_atuais['Player_ID'].isin(self.lista_ativos)) & (self.elos_atuais['Player_ID'] != player_id)].copy()
+        else:
+            pool = self.elos_atuais[self.elos_atuais['Player_ID'] != player_id].copy()
+
+        if pool.empty: return []
+
+        # 1. O Numero 1 da mesma idade (Quadra Dura)
+        pool_hard = pool.merge(self.elos_hard[['Player_ID', 'Elo']], on='Player_ID', how='left', suffixes=('', '_hard'))
+        pool_mesma_idade = pool_hard[pool_hard['Birth_Year'] == ano_nasc].sort_values(by='Elo_hard', ascending=False)
+        if not pool_mesma_idade.empty:
+            adv_1 = pool_mesma_idade.iloc[0]
+            adversarios.append({
+                "id": str(adv_1['Player_ID']), "piso": "Piso Duro",
+                "contexto": f"#1 da Geracao {ano_nasc} (Piso Duro)"
+            })
+
+        # 2. O Alvo de Ranking (10 posicoes acima no Global)
+        acima_global = pool[pool['Elo'] > elo_global].sort_values(by='Elo', ascending=True)
+        if not acima_global.empty:
+            idx = min(9, len(acima_global) - 1) # Pega o 10o cara acima
+            adv_2 = acima_global.iloc[idx]
+            adversarios.append({
+                "id": str(adv_2['Player_ID']), "piso": melhor_piso,
+                "contexto": f"Alvo Direto (+10 posicoes no Global)"
+            })
+
+        # 3. O Rival de Superficie (Especialista um pouco acima no mesmo piso favorito)
+        mapa_dfs = {'Saibro': self.elos_clay, 'Piso Duro': self.elos_hard, 'Grama': self.elos_grass}
+        df_sup = mapa_dfs.get(melhor_piso)
+        if df_sup is not None and not df_sup.empty:
+            chave_elo_sup = 'elo_saibro' if melhor_piso == 'Saibro' else 'elo_hard' if melhor_piso == 'Piso Duro' else 'elo_grass'
+            meu_elo_sup = dados_scout.get(chave_elo_sup, 1500)
+            
+            pool_sup = df_sup[(df_sup['Player_ID'].isin(pool['Player_ID'])) & (df_sup['Elo'] > meu_elo_sup)].sort_values(by='Elo', ascending=True)
+            if not pool_sup.empty:
+                idx_sup = min(4, len(pool_sup) - 1) # ~5 posicoes acima neste piso
+                adv_3 = pool_sup.iloc[idx_sup]
+                adversarios.append({
+                    "id": str(adv_3['Player_ID']), "piso": melhor_piso,
+                    "contexto": f"Rival Proximo ({melhor_piso})"
+                })
+
+        return adversarios
+
     def simular_confronto_ia(self, id_jogador_a, id_jogador_b, superficie='Saibro'):
-        """
-        Calcula as variaveis em tempo real e pede a probabilidade ao modelo guardado.
-        Superficies aceitas: 'Saibro', 'Piso Duro', 'Grama'.
-        """
-        # 1. Puxar dados completos dos dois atletas
         raio_a = self.gerar_raio_x_jogador(id_jogador_a)
         raio_b = self.gerar_raio_x_jogador(id_jogador_b)
         
-        if "erro" in raio_a or "erro" in raio_b:
-            return {"erro": "Um dos IDs fornecidos nao foi encontrado."}
+        if "erro" in raio_a or "erro" in raio_b: return {"erro": "Um dos IDs nao foi encontrado."}
 
-        # 2. Calcular as Features exatas
         elo_diff = raio_a['elo_global_atual'] - raio_b['elo_global_atual']
-        
         mapa_superficie = {'Saibro': 'elo_saibro', 'Piso Duro': 'elo_hard', 'Grama': 'elo_grass'}
         chave_sup = mapa_superficie.get(superficie, 'elo_saibro')
         surface_elo_diff = raio_a[chave_sup] - raio_b[chave_sup]
@@ -207,48 +285,20 @@ class MotorInteligencia:
         idade_b = raio_b['idade'] if raio_b['idade'] != "N/A" else 18
         age_diff = idade_a - idade_b
 
-        df_simulacao = pd.DataFrame({
-            'elo_diff': [elo_diff],
-            'surface_elo_diff': [surface_elo_diff],
-            'age_diff': [age_diff]
-        })
+        df_simulacao = pd.DataFrame({'elo_diff': [elo_diff], 'surface_elo_diff': [surface_elo_diff], 'age_diff': [age_diff]})
 
-        # 3. Carregar IA e Simular
         caminho_modelo = os.path.join(self.pasta_dados, f"xgb_model_{self.chave}.json")
-        if not os.path.exists(caminho_modelo):
-            return {"erro": f"Ficheiro de modelo nao encontrado: {caminho_modelo}"}
+        if not os.path.exists(caminho_modelo): return {"erro": f"Ficheiro de modelo nao encontrado: {caminho_modelo}"}
             
         modelo_ia = xgb.XGBClassifier()
         modelo_ia.load_model(caminho_modelo)
         
-        # O [0][1] pega exatamente a probabilidade da classe 1 (Vitoria do Jogador A)
         prob_a = modelo_ia.predict_proba(df_simulacao)[0][1]
         
         return {
             "jogador_a": raio_a['nome'],
             "jogador_b": raio_b['nome'],
             "superficie": superficie,
-            "probabilidade_vitoria_a": round(prob_a * 100, 2), # <-- Mudou para 2
-            "probabilidade_vitoria_b": round((1 - prob_a) * 100, 2) # <-- Mudou para 2
+            "probabilidade_vitoria_a": round(prob_a * 100, 2),
+            "probabilidade_vitoria_b": round((1 - prob_a) * 100, 2)
         }
-        
-
-if __name__ == "__main__":
-    motor = MotorInteligencia(chave='W')
-    
-    # ID da Victoria Barros
-    id_cliente = "800655335" 
-    
-    #\
-    # Pode substituir pelo ID real dela ou de outra se este nao constar na sua base.
-    id_adversaria = "800591535"
-    
-    print("\n--- SIMULADOR DE HEAD-TO-HEAD (XGBOOST) ---")
-    resultado = motor.simular_confronto_ia(id_cliente, id_adversaria, superficie='Piso Duro')
-    
-    if "erro" in resultado:
-        print(f"Erro na simulacao: {resultado['erro']}")
-    else:
-        print(f"Matchup: {resultado['jogador_a']} vs {resultado['jogador_b']} ({resultado['superficie']})")
-        print(f"Probabilidade de {resultado['jogador_a']}: {resultado['probabilidade_vitoria_a']:.2f}%")
-        print(f"Probabilidade de {resultado['jogador_b']}: {resultado['probabilidade_vitoria_b']:.2f}%")

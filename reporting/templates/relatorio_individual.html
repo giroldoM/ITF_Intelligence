@@ -229,7 +229,7 @@
     <div class="row" style="margin-bottom: 25px; align-items: center;">
         <div class="col-7">
             <h1 class="hero-name">{{ nome }}</h1>
-            <p class="hero-meta">{{ nacionalidade }} &middot; {{ idade }} anos ({{ ano_nasc }}) &middot; Mão: {{ mao_dominante }}</p>
+            <p class="hero-meta">{{ linha_meta | safe }}</p>
             <p class="hero-headline">{{ headline }}</p>
         </div>
         <div class="col-5 kpi-container">
@@ -330,7 +330,7 @@
     </div>
 
     <div class="methodology">
-        Documento gerado automaticamente pela plataforma <strong>ITF Intelligence</strong>. Os ratings são calculados via sistema Elo proprietário, ajustado por superfície e nível do torneio. O painel "Benchmark de Inteligência Artificial" utiliza um modelo de Machine Learning (XGBoost calibrado) treinado em resultados históricos recentes para projetar confrontos hipotéticos com base na disparidade de força, piso e idade. Estas projeções são estritamente matemáticas e não constituem garantias de resultado desportivo.
+        Documento gerado automaticamente pela plataforma <strong>ITF Intelligence</strong>. Os ratings são calculados via sistema Elo proprietário, ajustado por superfície e nível do torneio. O painel "Benchmark de Inteligência Artificial" utiliza um modelo estatístico/probabilístico de inteligência artificial, treinado em resultados históricos para projetar confrontos hipotéticos com base nas informações contextuais da partida. Estas projeções são estritamente matemáticas e não constituem garantias de resultado desportivo.
     </div>
 
 </body>
