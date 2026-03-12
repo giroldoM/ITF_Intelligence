@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>ITF Intelligence - Agency Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* =========================================
+           SISTEMA DE CORES - "PRECISÃO PRIMEIRO"
+           ========================================= */
+        :root {
+            /* Core Neutrals */
+            --ink-900: #0B1220;   /* Texto principal, títulos, heróis */
+            --ink-700: #1E293B;   /* Subtítulos e labels */
+            --slate-600: #475569; /* Texto secundário */
+            --slate-400: #94A3B8; /* Eixos, notas, labels leves */
+            --line-300: #CBD5E1;  /* Bordas e divisórias */
+            --grid-200: #E2E8F0;  /* Gridlines suaves */
+            --panel-100: #F1F5F9; /* Fundo de cards */
+            --paper-0: #FFFFFF;   /* Fundo principal */
+            
+            /* Brand / Emphasis */
+            --primary-blue: #1D4ED8; /* Destaque principal */
+            --deep-blue: #1E3A8A;    /* Headings escuros, ênfase */
+            --teal-signal: #0F766E;  /* Destaque secundário (ex: circuito feminino) */
+            
+            /* Semantic */
+            --positive: #15803D;
+            --warning: #B7791F;
+            --negative: #A63A50;
+            
+            /* Surfaces (mesma força ótica) */
+            --clay: #A65A3A;
+            --hard: #5B6E91;
+            --grass: #5C7F62;
+        }
+
+        /* =========================================
+           RESET E BASE
+           ========================================= */
+        @page { 
+            size: A4 portrait; 
+            margin: 15mm; 
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--paper-0); 
+            color: var(--ink-900);
+            margin: 0; 
+            padding: 0; 
+            font-size: 10px; 
+            line-height: 1.4;
+        }
+
+        /* Tipografia de Números Tabulares (Alinhamento em tabelas e KPIs) */
+        .tabular-num, td, .kpi-value { 
+            font-variant-numeric: tabular-nums; 
+        }
+
+        /* =========================================
+           COMPONENTES - ESTILO HUDL / STATSBOMB
+           ========================================= */
+        .header {
+            border-bottom: 1px solid var(--line-300);
+            padding-bottom: 8px; 
+            margin-bottom: 20px;
+        }
+        .header h1 { 
+            margin: 0; 
+            font-size: 22px; 
+            font-weight: 700;
+            color: var(--ink-900); 
+            letter-spacing: -0.5px;
+        }
+        .header p { 
+            margin: 2px 0 0 0; 
+            color: var(--slate-600); 
+            font-size: 10px; 
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        /* Títulos contidos, sem all-caps excessivo */
+        .section-title {
+            color: var(--paper-0);
+            font-size: 14px; 
+            font-weight: 600;
+            margin-top: 20px; 
+            margin-bottom: 15px;
+            padding: 8px 12px;
+            border-radius: 4px;
+            text-transform: uppercase; 
+            letter-spacing: 1px;
+        }
+        
+        .title-m { background-color: var(--ink-900); }
+        .title-w { background-color: var(--teal-signal); }
+        
+        /* Cards limpos: sem sombras, raio pequeno, bordas sutis */
+        .card {
+            background-color: var(--panel-100); 
+            border: 1px solid var(--line-300);
+            border-radius: 8px; 
+            padding: 12px; 
+            margin-bottom: 15px;
+        }
+        .card h3 {
+            margin-top: 0; 
+            font-size: 11px; 
+            color: var(--ink-700);
+            font-weight: 600;
+            border-bottom: 1px solid var(--line-300); 
+            padding-bottom: 4px;
+            margin-bottom: 10px;
+        }
+        .chart-img { 
+            width: 100%; 
+            display: block; 
+            border-radius: 4px;
+        }
+        
+        /* Tabelas de alta densidade de dados */
+        .data-table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-top: 5px; 
+        }
+        .data-table th, .data-table td {
+            text-align: left; 
+            padding: 6px 8px; 
+            border-bottom: 1px solid var(--grid-200);
+        }
+        .data-table th { 
+            color: var(--slate-600); 
+            font-weight: 600; 
+            font-size: 9px; 
+            text-transform: uppercase;
+        }
+        .data-table td { 
+            font-weight: 600; 
+            font-size: 11px; 
+            color: var(--ink-900);
+        }
+        .data-table tr:last-child td { border-bottom: none; }
+        
+        /* Ênfases semânticas parsimoniosas */
+        .highlight-primary { color: var(--primary-blue); }
+        .highlight-secondary { color: var(--teal-signal); }
+        .text-positive { color: var(--positive); }
+        .text-negative { color: var(--negative); }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Relatório de Portfólio de Atletas</h1>
+        <p>Benchmark Competitivo Global - ITF Intelligence | {{ data_geracao }}</p>
+    </div>
+
+    <div class="section-title title-m">Divisão Masculina (ATP / ITF)</div>
+    
+    <div class="card">
+        <h3>Mapa de Talentos: Idade vs. Rating ELO Global</h3>
+        <img src="{{ grafico_dispersao_m }}" class="chart-img" alt="Mapa de Talentos Masculino">
+    </div>
+    
+    <div class="card">
+        <h3>Atletas Monitorizados</h3>
+        <table class="data-table">
+            <tr>
+                <th>Atleta</th>
+                <th>ID ITF</th>
+                <th>Rating ELO</th>
+            </tr>
+            {% for atleta in atletas_m %}
+            <tr>
+                <td>{{ atleta.nome }}</td>
+                <td class="tabular-num">{{ atleta.id }}</td>
+                <td class="tabular-num highlight-primary">{{ atleta.elo }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="card">
+        <h3>Domínio por Superfície: Média da Agência vs. Circuito (ATP/ITF)</h3>
+        <img src="{{ grafico_superficies_m }}" class="chart-img" alt="Comparativo de Superfícies Masculino">
+    </div>
+
+
+    <div style="page-break-before: always;"></div>
+
+
+    <div class="header">
+        <h1>Relatório de Portfólio de Atletas</h1>
+        <p>Benchmark Competitivo Global - ITF Intelligence | {{ data_geracao }}</p>
+    </div>
+
+    <div class="section-title title-w">Divisão Feminina (WTA / ITF)</div>
+    
+    <div class="card">
+        <h3>Mapa de Talentos: Idade vs. Rating ELO Global</h3>
+        <img src="{{ grafico_dispersao_w }}" class="chart-img" alt="Mapa de Talentos Feminino">
+    </div>
+    
+    <div class="card">
+        <h3>Atletas Monitorizadas</h3>
+        <table class="data-table">
+            <tr>
+                <th>Atleta</th>
+                <th>ID ITF</th>
+                <th>Rating ELO</th>
+            </tr>
+            {% for atleta in atletas_w %}
+            <tr>
+                <td>{{ atleta.nome }}</td>
+                <td class="tabular-num">{{ atleta.id }}</td>
+                <td class="tabular-num highlight-secondary">{{ atleta.elo }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="card">
+        <h3>Domínio por Superfície: Média da Agência vs. Circuito (WTA/ITF)</h3>
+        <img src="{{ grafico_superficies_w }}" class="chart-img" alt="Comparativo de Superfícies Feminino">
+    </div>
+
+</body>
+</html>
