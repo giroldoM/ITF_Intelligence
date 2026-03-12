@@ -224,7 +224,7 @@ class MotorInteligencia:
         # O [0][1] pega exatamente a probabilidade da classe 1 (Vitoria do Jogador A)
         prob_a = modelo_ia.predict_proba(df_simulacao)[0][1]
         
-        rreturn {
+        return {
             "jogador_a": raio_a['nome'],
             "jogador_b": raio_b['nome'],
             "superficie": superficie,
