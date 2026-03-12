@@ -2,67 +2,335 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Scouting Report</title>
+    <title>ITF Intelligence - Scouting Report</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; margin: 40px; }
-        .header { border-bottom: 3px solid #0b2545; padding-bottom: 10px; margin-bottom: 20px; }
-        .header h1 { margin: 0; color: #0b2545; font-size: 28px; text-transform: uppercase; }
-        .header h3 { margin: 5px 0 0 0; color: #777; font-weight: normal; }
-        
-        .grid-cards { display: table; width: 100%; margin-bottom: 30px; }
-        .card { display: table-cell; width: 25%; padding: 15px; background-color: #f8f9fa; border-radius: 8px; text-align: center; border: 1px solid #eee; }
-        .card-spacer { display: table-cell; width: 2%; }
-        .card-title { font-size: 12px; color: #777; text-transform: uppercase; letter-spacing: 1px; }
-        .card-value { font-size: 24px; font-weight: bold; color: #0b2545; margin-top: 5px; }
-        .card-highlight { color: #e2725b; } /* Cor de destaque para o percentil */
+        /* =========================================
+           PALETA DE CORES B2B E VARIÁVEIS
+           ========================================= */
+        :root {
+            --ink-900: #0B1220;
+            --ink-700: #1E293B;
+            --slate-600: #475569;
+            --slate-400: #94A3B8;
+            --line-300: #CBD5E1;
+            --grid-200: #E2E8F0;
+            --panel-100: #F1F5F9;
+            --paper-0: #FFFFFF;
+            --primary-blue: #1D4ED8;
+            --clay: #A65A3A;
+            --hard: #5B6E91;
+            --grass: #5C7F62;
+        }
 
-        .section-title { font-size: 18px; color: #0b2545; border-bottom: 1px solid #ddd; padding-bottom: 5px; margin-top: 30px; margin-bottom: 15px; }
+        /* =========================================
+           RESET E BASE A4
+           ========================================= */
+        @page {
+            size: A4 portrait;
+            margin: 18mm;
+        }
         
-        .charts { text-align: center; margin-top: 20px; }
-        .charts img { max-width: 48%; display: inline-block; vertical-align: top; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--paper-0);
+            color: var(--ink-900);
+            margin: 0;
+            padding: 0;
+            font-size: 10px; /* Base size */
+            line-height: 1.4;
+        }
+
+        /* Tipografia de Números (Tabular para alinhamento perfeito) */
+        .tabular-num { font-variant-numeric: tabular-nums; }
+
+        /* =========================================
+           SISTEMA DE GRID (Base 12 colunas em Flexbox para PDF)
+           ========================================= */
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            align-items: stretch;
+        }
+        /* 7 Colunas = ~58% | 5 Colunas = ~40% (com gap) */
+        .col-7 { width: 58%; }
+        .col-5 { width: 40%; }
+
+        /* =========================================
+           COMPONENTES VISUAIS
+           ========================================= */
+        .card {
+            background-color: var(--panel-100);
+            border: 1px solid var(--grid-200);
+            border-radius: 8px;
+            padding: 12px;
+            box-sizing: border-box;
+        }
+
+        .section-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--slate-600);
+            border-bottom: 1px solid var(--line-300);
+            padding-bottom: 4px;
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        /* --- FAIXA 1: HERO & KPIs --- */
+        .hero-name {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--ink-900);
+            margin: 0 0 4px 0;
+            line-height: 1.1;
+        }
+        .hero-meta {
+            font-size: 11px;
+            color: var(--slate-600);
+            margin: 0 0 12px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .hero-headline {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--primary-blue);
+            margin: 0;
+            border-left: 3px solid var(--primary-blue);
+            padding-left: 10px;
+        }
+
+        .kpi-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+        }
+        .kpi-box {
+            flex: 1;
+            background-color: var(--panel-100);
+            border: 1px solid var(--grid-200);
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+        .kpi-label {
+            font-size: 9px;
+            color: var(--slate-600);
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+        .kpi-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--ink-900);
+            margin-bottom: 2px;
+        }
+        .kpi-sub {
+            font-size: 9px;
+            color: var(--slate-400);
+        }
+        .text-blue { color: var(--primary-blue); }
+
+        /* --- IMAGENS (Gráficos) --- */
+        .chart-img {
+            width: 100%;
+            display: block;
+        }
+
+        /* --- FAIXA 3: PERFIL DE SUPERFÍCIE --- */
+        .profile-wrapper {
+            display: flex;
+            align-items: center;
+        }
+        .radar-container {
+            width: 45%;
+        }
+        .table-container {
+            width: 55%;
+            padding-left: 10px;
+        }
+        .surface-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 10px;
+        }
+        .surface-table th, .surface-table td {
+            text-align: left;
+            padding: 5px 2px;
+            border-bottom: 1px solid var(--line-300);
+        }
+        .surface-table th { color: var(--slate-600); font-weight: normal; }
+        .surface-table td.val { font-weight: 700; text-align: right; }
+        .tag-piso {
+            display: inline-block;
+            margin-top: 8px;
+            background-color: var(--grid-200);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 9px;
+            font-weight: 600;
+            color: var(--ink-700);
+        }
+
+        /* --- FAIXA 3: AI BENCHMARK (H2H) --- */
+        .h2h-row {
+            margin-bottom: 12px;
+        }
+        .h2h-row:last-child { margin-bottom: 0; }
         
-        .footer { margin-top: 50px; font-size: 10px; color: #aaa; text-align: center; border-top: 1px solid #eee; padding-top: 10px; }
+        .h2h-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 3px;
+            font-size: 10px;
+        }
+        .h2h-opp { font-weight: 600; color: var(--ink-900); }
+        .h2h-context { color: var(--slate-600); font-size: 9px; }
+        .h2h-prob-text { font-weight: 700; color: var(--primary-blue); }
+        
+        .h2h-bar-bg {
+            background-color: var(--line-300);
+            height: 6px;
+            border-radius: 3px;
+            position: relative;
+            overflow: hidden;
+        }
+        .h2h-bar-fill {
+            background-color: var(--primary-blue);
+            height: 100%;
+            border-radius: 3px;
+        }
+
+        /* --- FAIXA 4: LEITURA FINAL --- */
+        .bullets-list {
+            margin: 0;
+            padding-left: 15px;
+            color: var(--ink-700);
+            font-size: 10px;
+        }
+        .bullets-list li { margin-bottom: 6px; }
+        
+        .methodology {
+            margin-top: 20px;
+            border-top: 1px solid var(--line-300);
+            padding-top: 8px;
+            font-size: 8px;
+            color: var(--slate-400);
+            text-align: justify;
+        }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1>{{ nome }}</h1>
-        <h3>{{ nacionalidade }} | Idade: {{ idade }} (Nasc: {{ ano_nasc }}) | ITF ID: {{ id }}</h3>
-    </div>
-
-    <div class="grid-cards">
-        <div class="card">
-            <div class="card-title">Elo Global (Força)</div>
-            <div class="card-value">{{ elo_global_atual }}</div>
+    <div class="row" style="margin-bottom: 25px; align-items: center;">
+        <div class="col-7">
+            <h1 class="hero-name">{{ nome }}</h1>
+            <p class="hero-meta">{{ nacionalidade }} &middot; {{ idade }} anos ({{ ano_nasc }}) &middot; Mão: {{ mao_dominante }}</p>
+            <p class="hero-headline">{{ headline }}</p>
         </div>
-        <div class="card-spacer"></div>
-        <div class="card">
-            <div class="card-title">Ranking da Idade</div>
-            <div class="card-value card-highlight">{{ percentil_idade }}</div>
-            <div style="font-size: 10px; color: #777; margin-top: 5px;">({{ ranking_idade }})</div>
-        </div>
-        <div class="card-spacer"></div>
-        <div class="card">
-            <div class="card-title">Perfil Técnico</div>
-            <div class="card-value" style="font-size: 16px; margin-top: 10px;">{{ tag_superficie }}</div>
-        </div>
-        <div class="card-spacer"></div>
-        <div class="card">
-            <div class="card-title">Momentum (6M)</div>
-            <div class="card-value" style="font-size: 16px; margin-top: 10px;">{{ tag_momentum }} ({{ delta_6_meses }})</div>
+        <div class="col-5 kpi-container">
+            <div class="kpi-box">
+                <div class="kpi-label">Rating Global</div>
+                <div class="kpi-value tabular-num">{{ elo_global_atual }}</div>
+                <div class="kpi-sub">#{{ ranking_global }} do mundo</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-label">Percentil Idade</div>
+                <div class="kpi-value text-blue tabular-num">{{ percentil_idade }}</div>
+                <div class="kpi-sub">Rank: {{ ranking_idade }}</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-label">Momentum 6M</div>
+                <div class="kpi-value tabular-num">{{ delta_6_meses }}</div>
+                <div class="kpi-sub">{{ vitorias_6m }}V - {{ derrotas_6m }}D</div>
+            </div>
         </div>
     </div>
 
-    <div class="section-title">Análise Visual de Desempenho</div>
-    <div class="charts">
-        <img src="{{ caminho_grafico_evolucao }}" alt="Evolução do Elo">
-        <img src="{{ caminho_grafico_superficie }}" alt="Força por Superfície">
+    <div class="row">
+        <div class="col-7 card">
+            <h3 class="section-title">Evolução Temporal (6 Meses)</h3>
+            <img src="{{ caminho_spark }}" class="chart-img" alt="Sparkline">
+        </div>
+        <div class="col-5 card">
+            <h3 class="section-title">Análise de Excepcionalidade ({{ ano_nasc }})</h3>
+            <img src="{{ caminho_gauss }}" class="chart-img" alt="Gaussiana">
+        </div>
     </div>
 
-    <div class="footer">
-        Relatório gerado automaticamente por <strong>ITF Intelligence</strong> - O Motor Analítico do Ténis de Base.<br>
-        *Os dados de percentil são comparados estritamente com atletas do mesmo ano de nascimento ({{ ano_nasc }}).
+    <div class="row">
+        <div class="col-7 card">
+            <h3 class="section-title">Perfil Competitivo de Superfície</h3>
+            <div class="profile-wrapper">
+                <div class="radar-container">
+                    <img src="{{ caminho_radar }}" class="chart-img" alt="Radar">
+                </div>
+                <div class="table-container">
+                    <table class="surface-table">
+                        <tr>
+                            <th>Piso</th>
+                            <th style="text-align: right;">Elo</th>
+                            <th style="text-align: right;">Rank Global</th>
+                        </tr>
+                        <tr>
+                            <td><span style="color: var(--clay);">Saibro</span></td>
+                            <td class="val tabular-num">{{ elo_saibro }}</td>
+                            <td class="val tabular-num">#{{ ranking_saibro }}</td>
+                        </tr>
+                        <tr>
+                            <td><span style="color: var(--hard);">Piso Duro</span></td>
+                            <td class="val tabular-num">{{ elo_hard }}</td>
+                            <td class="val tabular-num">#{{ ranking_hard }}</td>
+                        </tr>
+                        <tr>
+                            <td><span style="color: var(--grass);">Grama</span></td>
+                            <td class="val tabular-num">{{ elo_grass }}</td>
+                            <td class="val tabular-num">#{{ ranking_grass }}</td>
+                        </tr>
+                    </table>
+                    <div class="tag-piso">Classificação: {{ tag_superficie }}</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-5 card">
+            <h3 class="section-title">Benchmark de Inteligência Artificial</h3>
+            
+            {% for sim in simulacoes %}
+            <div class="h2h-row">
+                <div class="h2h-header">
+                    <div>
+                        <span class="h2h-opp">{{ sim.adversario }}</span> 
+                        <span class="h2h-context">({{ sim.contexto }})</span>
+                    </div>
+                    <div class="h2h-prob-text tabular-num">{{ sim.probabilidade }}%</div>
+                </div>
+                <div class="h2h-bar-bg">
+                    <div class="h2h-bar-fill" style="width: {{ sim.probabilidade }}%;"></div>
+                </div>
+            </div>
+            {% endfor %}
+            
+        </div>
+    </div>
+
+    <div class="row" style="margin-bottom: 0;">
+        <div class="col-12" style="width: 100%;">
+            <h3 class="section-title">Leitura Executiva</h3>
+            <ul class="bullets-list">
+                <li>{{ bullet_idade }}</li>
+                <li>{{ bullet_piso }}</li>
+                <li>{{ bullet_forma }}</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="methodology">
+        Documento gerado automaticamente pela plataforma <strong>ITF Intelligence</strong>. Os ratings são calculados via sistema Elo proprietário, ajustado por superfície e nível do torneio. O painel "Benchmark de Inteligência Artificial" utiliza um modelo de Machine Learning (XGBoost calibrado) treinado em resultados históricos recentes para projetar confrontos hipotéticos com base na disparidade de força, piso e idade. Estas projeções são estritamente matemáticas e não constituem garantias de resultado desportivo.
     </div>
 
 </body>
