@@ -11,9 +11,14 @@ from gerador_graficos import EstudioGrafico
 # 'W' = Feminino | 'M' = Masculino
 # ==========================================
 LISTA_JOGADORES = [
-    ("800680259", "M"), # Victoria Barros
-    # ("COLOQUE_O_ID_DO_MENINO_AQUI", "M"), 
-    # ("OUTRA_MENINA", "W"),
+    ("800684304","M"), #Henrique Queiroz
+    ("800716347","M"), #Livas Damazio
+    ("800680259","M"), #Luis Guto Miguel
+    ("800695229","M"), #Lucas Moscatto
+    ("800695060","W"), #Nauhany Silva
+    ("800642706","M"), #Pedro DIETRICH
+    ("800655734", "W"), # Pietra Rivoli
+    
 ]
 # ==========================================
 
