@@ -31,3 +31,12 @@ print(f"Log Loss: {log_loss(y_test, y_pred_proba):.4f}")
 print("\n--- IMPORTÂNCIA DAS FEATURES ---")
 for col, imp in zip(features, xgb_model.feature_importances_):
     print(f"{col}: {imp:.2%}")
+
+
+# =========================================================
+# 8. EXPORTAÇÃO DO MODELO (A PONTE PARA O RELATÓRIO)
+# =========================================================
+print("\nA exportar o modelo treinado para o motor de relatórios...")
+caminho_modelo = "xgb_model_W.json"
+xgb_model.save_model(caminho_modelo)
+print(f"[+] Modelo exportado com sucesso para: {caminho_modelo}")

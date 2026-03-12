@@ -93,3 +93,11 @@ print("\nImportância das Features (XGBoost Base):")
 importances = xgb_model.feature_importances_
 for col, imp in zip(features, importances):
     print(f" -> {col}: {imp:.2%}")
+
+# =========================================================
+# 8. EXPORTAÇÃO DO MODELO (A PONTE PARA O RELATÓRIO)
+# =========================================================
+print("\nA exportar o modelo treinado para o motor de relatórios...")
+caminho_modelo = "xgb_model_M.json"
+xgb_model.save_model(caminho_modelo)
+print(f"[+] Modelo exportado com sucesso para: {caminho_modelo}")
