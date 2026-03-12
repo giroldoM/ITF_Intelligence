@@ -52,43 +52,26 @@ class FabricaRelatorios:
         print(f"\n--- LOTE CONCLUÍDO! {total} PDFs gerados com sucesso. ---")
 
     def _gerar_pdf_unico(self, player_id, motor):
-        # 1. Dados do Atleta
         dados_scout = motor.gerar_raio_x_jogador(player_id)
-        if "erro" in dados_scout:
-            print(f"  -> ERRO: {dados_scout['erro']} (Pulando...)")
-            return
+        if "erro" in dados_scout: return
             
-        # 2. Gráficos Premium
         c_spark = self.estudio.gerar_sparkline_evolucao(dados_scout['historico_completo'], player_id)
         c_gauss = self.estudio.gerar_gaussiana(dados_scout['gaussiana_media_idade'], dados_scout['gaussiana_std_idade'], dados_scout['elo_global_atual'], player_id)
-        c_radar = self.estudio.gerar_radar_superficies(dados_scout['elo_saibro'], dados_scout['elo_hard'], dados_scout['elo_grass'], player_id)
         
         dados_scout['caminho_spark'] = f"file://{c_spark}"
         dados_scout['caminho_gauss'] = f"file://{c_gauss}"
-        dados_scout['caminho_radar'] = f"file://{c_radar}"
         
-        # 3. H2H Dinâmico e Automático
         cenarios_h2h = motor.buscar_adversarios_dinamicos(player_id, dados_scout)
         lista_simulacoes = []
         for adv in cenarios_h2h:
             res = motor.simular_confronto_ia(player_id, adv['id'], superficie=adv['piso'])
             if "erro" not in res:
-                lista_simulacoes.append({
-                    "adversario": res['jogador_b'],
-                    "contexto": adv['contexto'],
-                    "probabilidade": res['probabilidade_vitoria_a']
-                })
+                lista_simulacoes.append({"adversario": res['jogador_b'], "contexto": adv['contexto'], "probabilidade": res['probabilidade_vitoria_a']})
         dados_scout['simulacoes'] = lista_simulacoes
         
-        # 4. Compilar PDF
         template = self.env.get_template('relatorio_individual.html')
-        html_renderizado = template.render(dados_scout)
-        
-        nome_arquivo = f"{dados_scout['nome'].replace(' ', '_')}_{dados_scout['id']}.pdf"
-        caminho_pdf = os.path.join(self.pasta_destino, nome_arquivo)
-        
-        HTML(string=html_renderizado, base_url=self.diretorio_atual).write_pdf(caminho_pdf)
-        print(f"  -> Sucesso: {nome_arquivo}")
+        caminho_pdf = os.path.join(self.pasta_destino, f"{dados_scout['nome'].replace(' ', '_')}_{dados_scout['id']}.pdf")
+        HTML(string=template.render(dados_scout), base_url=self.diretorio_atual).write_pdf(caminho_pdf)
 
 if __name__ == "__main__":
     fabrica = FabricaRelatorios()

@@ -5,223 +5,54 @@
     <title>ITF Intelligence - Scouting Report</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        /* =========================================
-           PALETA DE CORES B2B E VARIÁVEIS
-           ========================================= */
         :root {
-            --ink-900: #0B1220;
-            --ink-700: #1E293B;
-            --slate-600: #475569;
-            --slate-400: #94A3B8;
-            --line-300: #CBD5E1;
-            --grid-200: #E2E8F0;
-            --panel-100: #F1F5F9;
-            --paper-0: #FFFFFF;
-            --primary-blue: #1D4ED8;
-            --clay: #A65A3A;
-            --hard: #5B6E91;
-            --grass: #5C7F62;
+            --ink-900: #0B1220; --ink-700: #1E293B; --slate-600: #475569; --slate-400: #94A3B8;
+            --line-300: #CBD5E1; --grid-200: #E2E8F0; --panel-100: #F1F5F9; --paper-0: #FFFFFF;
+            --primary-blue: #1D4ED8; --clay: #A65A3A; --hard: #5B6E91; --grass: #5C7F62;
         }
-
-        /* =========================================
-           RESET E BASE A4
-           ========================================= */
-        @page {
-            size: A4 portrait;
-            margin: 18mm;
-        }
-        
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: var(--paper-0);
-            color: var(--ink-900);
-            margin: 0;
-            padding: 0;
-            font-size: 10px; /* Base size */
-            line-height: 1.4;
-        }
-
-        /* Tipografia de Números (Tabular para alinhamento perfeito) */
+        @page { size: A4 portrait; margin: 18mm; }
+        body { font-family: 'Inter', sans-serif; background-color: var(--paper-0); color: var(--ink-900); margin: 0; padding: 0; font-size: 10px; line-height: 1.4; }
         .tabular-num { font-variant-numeric: tabular-nums; }
+        .row { display: flex; justify-content: space-between; margin-bottom: 15px; align-items: stretch; }
+        .col-7 { width: 58%; } .col-5 { width: 40%; }
+        .card { background-color: var(--panel-100); border: 1px solid var(--grid-200); border-radius: 8px; padding: 12px; box-sizing: border-box; }
+        .section-title { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--slate-600); border-bottom: 1px solid var(--line-300); padding-bottom: 4px; margin-top: 0; margin-bottom: 10px; font-weight: 600; }
+        
+        .hero-name { font-size: 28px; font-weight: 700; color: var(--ink-900); margin: 0 0 4px 0; line-height: 1.1; }
+        .hero-meta { font-size: 11px; color: var(--slate-600); margin: 0 0 12px 0; text-transform: uppercase; letter-spacing: 0.5px; }
+        .hero-headline { font-size: 12px; font-weight: 600; color: var(--primary-blue); margin: 0; border-left: 3px solid var(--primary-blue); padding-left: 10px; }
 
-        /* =========================================
-           SISTEMA DE GRID (Base 12 colunas em Flexbox para PDF)
-           ========================================= */
-        .row {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 15px;
-            align-items: stretch;
-        }
-        /* 7 Colunas = ~58% | 5 Colunas = ~40% (com gap) */
-        .col-7 { width: 58%; }
-        .col-5 { width: 40%; }
-
-        /* =========================================
-           COMPONENTES VISUAIS
-           ========================================= */
-        .card {
-            background-color: var(--panel-100);
-            border: 1px solid var(--grid-200);
-            border-radius: 8px;
-            padding: 12px;
-            box-sizing: border-box;
-        }
-
-        .section-title {
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: var(--slate-600);
-            border-bottom: 1px solid var(--line-300);
-            padding-bottom: 4px;
-            margin-top: 0;
-            margin-bottom: 10px;
-            font-weight: 600;
-        }
-
-        /* --- FAIXA 1: HERO & KPIs --- */
-        .hero-name {
-            font-size: 28px;
-            font-weight: 700;
-            color: var(--ink-900);
-            margin: 0 0 4px 0;
-            line-height: 1.1;
-        }
-        .hero-meta {
-            font-size: 11px;
-            color: var(--slate-600);
-            margin: 0 0 12px 0;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        .hero-headline {
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--primary-blue);
-            margin: 0;
-            border-left: 3px solid var(--primary-blue);
-            padding-left: 10px;
-        }
-
-        .kpi-container {
-            display: flex;
-            justify-content: space-between;
-            gap: 10px;
-        }
-        .kpi-box {
-            flex: 1;
-            background-color: var(--panel-100);
-            border: 1px solid var(--grid-200);
-            border-radius: 8px;
-            padding: 10px;
-            text-align: center;
-        }
-        .kpi-label {
-            font-size: 9px;
-            color: var(--slate-600);
-            text-transform: uppercase;
-            margin-bottom: 4px;
-        }
-        .kpi-value {
-            font-size: 20px;
-            font-weight: 700;
-            color: var(--ink-900);
-            margin-bottom: 2px;
-        }
-        .kpi-sub {
-            font-size: 9px;
-            color: var(--slate-400);
-        }
+        .kpi-container { display: flex; justify-content: space-between; gap: 10px; }
+        .kpi-box { flex: 1; background-color: var(--panel-100); border: 1px solid var(--grid-200); border-radius: 8px; padding: 10px 8px; text-align: center; }
+        .kpi-label { font-size: 9px; color: var(--slate-600); text-transform: uppercase; margin-bottom: 4px; }
+        
+        /* AQUI FOI CORRIGIDA A QUEBRA DE TEXTO */
+        .kpi-value { font-size: 18px; font-weight: 700; color: var(--ink-900); margin-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        
+        .kpi-sub { font-size: 9px; color: var(--slate-400); white-space: nowrap; }
         .text-blue { color: var(--primary-blue); }
+        .chart-img { width: 100%; display: block; }
 
-        /* --- IMAGENS (Gráficos) --- */
-        .chart-img {
-            width: 100%;
-            display: block;
-        }
-
-        /* --- FAIXA 3: PERFIL DE SUPERFÍCIE --- */
-        .profile-wrapper {
-            display: flex;
-            align-items: center;
-        }
-        .radar-container {
-            width: 45%;
-        }
-        .table-container {
-            width: 55%;
-            padding-left: 10px;
-        }
-        .surface-table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 10px;
-        }
-        .surface-table th, .surface-table td {
-            text-align: left;
-            padding: 5px 2px;
-            border-bottom: 1px solid var(--line-300);
-        }
-        .surface-table th { color: var(--slate-600); font-weight: normal; }
-        .surface-table td.val { font-weight: 700; text-align: right; }
-        .tag-piso {
-            display: inline-block;
-            margin-top: 8px;
-            background-color: var(--grid-200);
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 9px;
-            font-weight: 600;
-            color: var(--ink-700);
-        }
-
-        /* --- FAIXA 3: AI BENCHMARK (H2H) --- */
-        .h2h-row {
-            margin-bottom: 12px;
-        }
-        .h2h-row:last-child { margin-bottom: 0; }
+        /* NOVA TABELA DE SUPERFÍCIE NO LUGAR DO RADAR */
+        .surface-table { width: 100%; border-collapse: collapse; font-size: 10px; }
+        .surface-table th, .surface-table td { text-align: right; padding: 6px 4px; border-bottom: 1px solid var(--line-300); }
+        .surface-table th:first-child, .surface-table td:first-child { text-align: left; }
+        .surface-table th { color: var(--slate-600); font-weight: 600; border-bottom: 2px solid var(--line-300); }
+        .surface-table td.val { font-weight: 700; color: var(--ink-900); }
+        .diff-pos { color: #15803D; font-weight: 700; }
+        .diff-neg { color: #A63A50; font-weight: 700; }
         
-        .h2h-header {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 3px;
-            font-size: 10px;
-        }
-        .h2h-opp { font-weight: 600; color: var(--ink-900); }
+       .h2h-row { margin-bottom: 12px; } .h2h-row:last-child { margin-bottom: 0; }
+        .h2h-header { display: flex; justify-content: space-between; align-items: flex-end; gap: 8px; margin-bottom: 3px; font-size: 10px; }
+        .h2h-header > div:first-child { flex: 1; line-height: 1.2; padding-right: 4px; }
+        .h2h-opp { font-weight: 600; color: var(--ink-900); } 
         .h2h-context { color: var(--slate-600); font-size: 9px; }
-        .h2h-prob-text { font-weight: 700; color: var(--primary-blue); }
-        
-        .h2h-bar-bg {
-            background-color: var(--line-300);
-            height: 6px;
-            border-radius: 3px;
-            position: relative;
-            overflow: hidden;
-        }
-        .h2h-bar-fill {
-            background-color: var(--primary-blue);
-            height: 100%;
-            border-radius: 3px;
-        }
-
-        /* --- FAIXA 4: LEITURA FINAL --- */
-        .bullets-list {
-            margin: 0;
-            padding-left: 15px;
-            color: var(--ink-700);
-            font-size: 10px;
-        }
+        .h2h-prob-text { font-weight: 700; color: var(--primary-blue); white-space: nowrap; flex-shrink: 0; }
+        .h2h-bar-bg { background-color: var(--line-300); height: 6px; border-radius: 3px; position: relative; overflow: hidden; }
+        .h2h-bar-fill { background-color: var(--primary-blue); height: 100%; border-radius: 3px; }
+        .bullets-list { margin: 0; padding-left: 15px; color: var(--ink-700); font-size: 10px; }
         .bullets-list li { margin-bottom: 6px; }
-        
-        .methodology {
-            margin-top: 20px;
-            border-top: 1px solid var(--line-300);
-            padding-top: 8px;
-            font-size: 8px;
-            color: var(--slate-400);
-            text-align: justify;
-        }
+        .methodology { margin-top: 20px; border-top: 1px solid var(--line-300); padding-top: 8px; font-size: 8px; color: var(--slate-400); text-align: justify; }
     </style>
 </head>
 <body>
@@ -234,72 +65,87 @@
         </div>
         <div class="col-5 kpi-container">
             <div class="kpi-box">
-                <div class="kpi-label">Rating Global</div>
-                <div class="kpi-value tabular-num">{{ elo_global_atual }}</div>
-                <div class="kpi-sub">#{{ ranking_global }} do mundo</div>
+                <div class="kpi-label">Ranking Oficial</div>
+                <div class="kpi-value tabular-num">#{{ rank_itf }}</div>
+                <div class="kpi-sub">Ranking ITF</div>
             </div>
             <div class="kpi-box">
                 <div class="kpi-label">Percentil Idade</div>
                 <div class="kpi-value text-blue tabular-num">{{ percentil_idade }}</div>
-                <div class="kpi-sub">Rank: {{ ranking_idade }}</div>
+                <div class="kpi-sub">Geração {{ ano_nasc }}</div>
             </div>
             <div class="kpi-box">
                 <div class="kpi-label">Momentum 6M</div>
-                <div class="kpi-value tabular-num">{{ delta_6_meses }}</div>
-                <div class="kpi-sub">{{ vitorias_6m }}V - {{ derrotas_6m }}D</div>
+                <div class="kpi-value tabular-num">{{ win_rate }}%</div>
+                <div class="kpi-sub">Win Rate ({{ vitorias_6m }}V - {{ derrotas_6m }}D)</div>
             </div>
         </div>
     </div>
 
     <div class="row">
         <div class="col-7 card">
-            <h3 class="section-title">Evolução Temporal (6 Meses)</h3>
+            <h3 class="section-title">Evolução Temporal de Força (6 Meses)</h3>
             <img src="{{ caminho_spark }}" class="chart-img" alt="Sparkline">
         </div>
         <div class="col-5 card">
-            <h3 class="section-title">Análise de Excepcionalidade ({{ ano_nasc }})</h3>
+            <h3 class="section-title">Excepcionalidade da Geração ({{ ano_nasc }})</h3>
             <img src="{{ caminho_gauss }}" class="chart-img" alt="Gaussiana">
         </div>
     </div>
 
     <div class="row">
         <div class="col-7 card">
-            <h3 class="section-title">Perfil Competitivo de Superfície</h3>
-            <div class="profile-wrapper">
-                <div class="radar-container">
-                    <img src="{{ caminho_radar }}" class="chart-img" alt="Radar">
-                </div>
-                <div class="table-container">
-                    <table class="surface-table">
-                        <tr>
-                            <th>Piso</th>
-                            <th style="text-align: right;">Elo</th>
-                            <th style="text-align: right;">Rank Global</th>
-                        </tr>
-                        <tr>
-                            <td><span style="color: var(--clay);">Saibro</span></td>
-                            <td class="val tabular-num">{{ elo_saibro }}</td>
-                            <td class="val tabular-num">#{{ ranking_saibro }}</td>
-                        </tr>
-                        <tr>
-                            <td><span style="color: var(--hard);">Piso Duro</span></td>
-                            <td class="val tabular-num">{{ elo_hard }}</td>
-                            <td class="val tabular-num">#{{ ranking_hard }}</td>
-                        </tr>
-                        <tr>
-                            <td><span style="color: var(--grass);">Grama</span></td>
-                            <td class="val tabular-num">{{ elo_grass }}</td>
-                            <td class="val tabular-num">#{{ ranking_grass }}</td>
-                        </tr>
-                    </table>
-                    <div class="tag-piso">Classificação: {{ tag_superficie }}</div>
-                </div>
-            </div>
+            <h3 class="section-title">Análise Competitiva de Piso</h3>
+            <table class="surface-table">
+                <tr>
+                    <th>Escopo</th>
+                    <th>Elo do Atleta</th>
+                    <th>Média Idade</th>
+                    <th>Diferença</th>
+                    <th>Rank Global</th>
+                </tr>
+                <tr>
+                    <td><span style="color: var(--ink-900); font-weight: 700;">Global</span></td>
+                    <td class="val tabular-num">{{ elo_global_atual }}</td>
+                    <td class="tabular-num">{{ gaussiana_media_idade }}</td>
+                    <td class="tabular-num {% if diff_global.startswith('+') %}diff-pos{% else %}diff-neg{% endif %}">{{ diff_global }} pts</td>
+                    <td class="tabular-num">#{{ ranking_global }}</td>
+                </tr>
+                
+                {% if jogou_clay %}
+                <tr>
+                    <td><span style="color: var(--clay); font-weight: 700;">Saibro</span></td>
+                    <td class="val tabular-num">{{ elo_saibro }}</td>
+                    <td class="tabular-num">{{ med_clay }}</td>
+                    <td class="tabular-num {% if diff_clay.startswith('+') %}diff-pos{% else %}diff-neg{% endif %}">{{ diff_clay }} pts</td>
+                    <td class="tabular-num">#{{ rank_clay }}</td>
+                </tr>
+                {% endif %}
+                
+                {% if jogou_hard %}
+                <tr>
+                    <td><span style="color: var(--hard); font-weight: 700;">Piso Duro</span></td>
+                    <td class="val tabular-num">{{ elo_hard }}</td>
+                    <td class="tabular-num">{{ med_hard }}</td>
+                    <td class="tabular-num {% if diff_hard.startswith('+') %}diff-pos{% else %}diff-neg{% endif %}">{{ diff_hard }} pts</td>
+                    <td class="tabular-num">#{{ rank_hard }}</td>
+                </tr>
+                {% endif %}
+                
+                {% if jogou_grass %}
+                <tr>
+                    <td><span style="color: var(--grass); font-weight: 700;">Grama</span></td>
+                    <td class="val tabular-num">{{ elo_grass }}</td>
+                    <td class="tabular-num">{{ med_grass }}</td>
+                    <td class="tabular-num {% if diff_grass.startswith('+') %}diff-pos{% else %}diff-neg{% endif %}">{{ diff_grass }} pts</td>
+                    <td class="tabular-num">#{{ rank_grass }}</td>
+                </tr>
+                {% endif %}
+            </table>
         </div>
         
         <div class="col-5 card">
-            <h3 class="section-title">Benchmark de Inteligência Artificial</h3>
-            
+            <h3 class="section-title">AI Benchmark - Probabilidade de vitória</h3>
             {% for sim in simulacoes %}
             <div class="h2h-row">
                 <div class="h2h-header">
@@ -314,7 +160,6 @@
                 </div>
             </div>
             {% endfor %}
-            
         </div>
     </div>
 
@@ -332,6 +177,6 @@
     <div class="methodology">
         Documento gerado automaticamente pela plataforma <strong>ITF Intelligence</strong>. Os ratings são calculados via sistema Elo proprietário, ajustado por superfície e nível do torneio. O painel "Benchmark de Inteligência Artificial" utiliza um modelo estatístico/probabilístico de inteligência artificial, treinado em resultados históricos para projetar confrontos hipotéticos com base nas informações contextuais da partida. Estas projeções são estritamente matemáticas e não constituem garantias de resultado desportivo.
     </div>
-
+    
 </body>
 </html>

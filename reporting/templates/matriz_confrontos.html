@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Matriz de Confrontos</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink-900: #0B1220; --ink-700: #1E293B; --slate-600: #475569; --slate-400: #94A3B8;
+            --line-300: #CBD5E1; --grid-200: #E2E8F0; --panel-100: #F1F5F9; --paper-0: #FFFFFF;
+            --clay: #A65A3A; --hard: #5B6E91; --grass: #5C7F62;
+        }
+        @page { 
+            size: A4 portrait; margin: 20mm 15mm; 
+            @bottom-right { content: counter(page) " / " counter(pages); font-family: 'Inter'; font-size: 9px; color: var(--slate-400); }
+        }
+        body { font-family: 'Inter', sans-serif; color: var(--ink-900); font-size: 10px; margin: 0; }
+        .tabular-num { font-variant-numeric: tabular-nums; }
+        
+        .header-title { font-size: 24px; font-weight: 700; margin-bottom: 5px; }
+        .header-subtitle { font-size: 12px; color: var(--slate-600); margin-bottom: 25px; text-transform: uppercase; letter-spacing: 0.5px;}
+        
+        .disclaimer-box { background-color: var(--panel-100); border-left: 4px solid var(--ink-700); padding: 12px 16px; margin-bottom: 25px; font-size: 9px; color: var(--slate-600); text-align: justify; border-radius: 0 4px 4px 0;}
+        .disclaimer-title { font-weight: 700; color: var(--ink-900); margin-bottom: 4px; text-transform: uppercase;}
+
+        table { width: 100%; border-collapse: collapse; }
+        thead { display: table-header-group; }
+        tr { page-break-inside: avoid; }
+        th, td { padding: 8px 4px; text-align: right; border-bottom: 1px solid var(--grid-200); }
+        th { font-weight: 600; color: var(--slate-600); border-bottom: 2px solid var(--line-300); }
+        th:first-child, td:first-child { text-align: left; }
+        th:nth-child(3), td:nth-child(3) { text-align: center; } /* País */
+        
+        .col-nome { font-weight: 600; color: var(--ink-900); }
+        .col-hard { color: var(--hard); font-weight: 700; }
+        .col-clay { color: var(--clay); font-weight: 700; }
+        .col-grass { color: var(--grass); font-weight: 700; }
+    </style>
+</head>
+<body>
+
+    <div class="header-title">Matriz de Confrontos: {{ nome_jogador }}</div>
+    <div class="header-subtitle">Inteligência Artificial & Projeções de Circuito (Top 4000)</div>
+
+    <div class="disclaimer-box">
+        <div class="disclaimer-title">Nota Metodológica e Aviso Legal</div>
+        As probabilidades de vitória apresentadas neste documento são o resultado direto de um modelo estatístico e probabilístico de Inteligência Artificial e Aprendizado de Máquina. Os percentuais refletem expectativas matemáticas rigorosas calculadas sobre diferenciais de força latente, ajustes de superfície e disparidade geracional. Este é um instrumento de apoio à decisão analítica e não constitui, sob nenhuma hipótese, garantia de resultado desportivo futuro.
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Adversário</th>
+                <th>Rank ITF</th>
+                <th>País</th>
+                <th>Quadra Dura</th>
+                <th>Saibro</th>
+                <th>Grama</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for adv in matriz %}
+            <tr>
+                <td class="col-nome">{{ adv.nome }}</td>
+                <td class="tabular-num">#{{ adv.rank_itf }}</td>
+                <td>{{ adv.nacionalidade }}</td>
+                <td class="col-hard tabular-num">{{ adv.prob_hard }}%</td>
+                <td class="col-clay tabular-num">{{ adv.prob_clay }}%</td>
+                <td class="col-grass tabular-num">{{ adv.prob_grass }}%</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>
