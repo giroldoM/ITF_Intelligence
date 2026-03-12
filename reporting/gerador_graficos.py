@@ -1,141 +1,186 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-import os
+import pandas as pd
+import numpy as np
+import scipy.stats as stats
 import matplotlib.dates as mdates
+from math import pi
+import os
 
 class EstudioGrafico:
     def __init__(self, output_dir='outputs'):
-        """
-        Inicializa o estúdio e garante que a pasta de outputs das imagens existe.
-        """
         diretorio_atual = os.path.dirname(os.path.abspath(__file__))
         self.output_path = os.path.join(diretorio_atual, output_dir)
         
         if not os.path.exists(self.output_path):
             os.makedirs(self.output_path)
             
-        self._configurar_tema_premium()
+        # PALETA DE CORES B2B (ITF Intelligence)
+        self.colors = {
+            'text_main': '#0B1220',      # Ink 900
+            'text_sec': '#475569',       # Slate 600
+            'axis_light': '#CBD5E1',     # Line 300
+            'grid_light': '#E2E8F0',     # Grid 200
+            'brand_primary': '#1D4ED8',  # Primary Blue
+            'brand_bg_shade': '#1D4ED8', # Primary Blue (para usar com alpha/transparência)
+            'positive': '#15803D',       # Positive Green
+            'negative': '#A63A50',       # Negative Red
+            'clay': '#A65A3A',
+            'hard': '#5B6E91',
+            'grass': '#5C7F62',
+            'gray_curve': '#94A3B8'      # Slate 400
+        }
+        
+        self._configurar_tema_minimalista()
 
-    def _configurar_tema_premium(self):
-        """
-        Aplica um estilo corporativo limpo ao Seaborn, removendo o 'chart junk'.
-        """
+    def _configurar_tema_minimalista(self):
+        # Remove todo o "chart junk"
         sns.set_theme(style="white", font="sans-serif")
         plt.rcParams.update({
             'axes.spines.top': False,
             'axes.spines.right': False,
             'axes.spines.left': False,
-            'axes.linewidth': 1.2,
-            'axes.edgecolor': '#cccccc',
-            'axes.labelcolor': '#555555',
-            'xtick.color': '#777777',
-            'ytick.color': '#777777',
-            'text.color': '#333333',
+            'axes.edgecolor': self.colors['axis_light'],
+            'text.color': self.colors['text_main'],
+            'xtick.color': self.colors['text_sec'],
+            'ytick.color': self.colors['text_sec'],
             'font.size': 10,
-            'axes.titlesize': 14,
-            'axes.titleweight': 'bold'
+            'axes.titlesize': 12,
+            'axes.titleweight': 'bold',
+            'axes.titlecolor': self.colors['text_main'],
+            'figure.facecolor': '#FFFFFF',
+            'axes.facecolor': '#FFFFFF',
         })
 
-    def gerar_grafico_evolucao(self, df_historico, player_id):
-        """
-        Gera um gráfico de linha mostrando a evolução do Elo Global.
-        """
-        if df_historico.empty:
-            return None
+    def gerar_sparkline_evolucao(self, df_historico, player_id):
+        """Sparkline temporal focado na tendência, sem ruído."""
+        if df_historico.empty: return None
 
-        # Limitar ao último ano e meio para não ficar achatado
-        df_plot = df_historico.tail(50).copy()
+        df_plot = df_historico.tail(30).copy() # Foco no momento recente
+        
+        fig, ax = plt.subplots(figsize=(6, 2)) # Formato achatado e conciso
+        
+        # Determinar cor pela tendência (positivo ou negativo)
+        elo_inicial = df_plot.iloc[0]['Meu_Elo']
+        elo_final = df_plot.iloc[-1]['Meu_Elo']
+        cor_linha = self.colors['positive'] if elo_final >= elo_inicial else self.colors['negative']
 
-        fig, ax = plt.subplots(figsize=(8, 4))
+        ax.plot(df_plot['Tourney_Date'], df_plot['Meu_Elo'], color=cor_linha, linewidth=2.5)
         
-        # A linha de evolução
-        sns.lineplot(
-            data=df_plot, 
-            x='Tourney_Date', 
-            y='Meu_Elo', 
-            ax=ax, 
-            color='#0b2545', # Azul marinho profundo
-            linewidth=3,
-            marker='o',
-            markersize=6,
-            markerfacecolor='#eeb868', # Dourado nos pontos
-            markeredgewidth=0
-        )
+        # Marcador apenas no último ponto para destacar a posição atual
+        ax.plot(df_plot['Tourney_Date'].iloc[-1], elo_final, marker='o', color=cor_linha, markersize=6)
 
-        ax.set_title("Evolução do Rating (Últimos Jogos)")
-        ax.set_xlabel("")
-        ax.set_ylabel("Rating Global")
-        
-        # Formatar as datas no eixo X para ficarem legíveis
-        ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
-        plt.xticks(rotation=45, ha='right')
-        
-        # Linhas de grade horizontais muito suaves
-        ax.yaxis.grid(True, linestyle='--', color='#eeeeee')
+        # Eixos minimalistas
+        ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %y'))
+        ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
+        ax.yaxis.set_visible(False) # Esconde os números do eixo Y para focar na forma
+        ax.spines['bottom'].set_linewidth(1)
         
         plt.tight_layout()
-        
-        # Guardar a imagem
-        caminho_arquivo = os.path.join(self.output_path, f"evolucao_{player_id}.png")
-        plt.savefig(caminho_arquivo, dpi=300, bbox_inches='tight', transparent=False)
+        caminho_arquivo = os.path.join(self.output_path, f"sparkline_{player_id}.png")
+        plt.savefig(caminho_arquivo, dpi=300, bbox_inches='tight', transparent=True)
         plt.close()
-        
         return caminho_arquivo
 
-    def gerar_grafico_superficie(self, elo_saibro, elo_hard, player_id):
-        """
-        Gera um gráfico de barras comparando a força nos pisos.
-        """
-        fig, ax = plt.subplots(figsize=(5, 4))
-        
-        superficies = ['Saibro (Clay)', 'Rápido (Hard)']
-        elos = [elo_saibro, elo_hard]
-        cores = ['#e2725b', '#2a9d8f'] # Laranja terra batida e Verde/Azul cimento
-        
-        bars = ax.bar(superficies, elos, color=cores, width=0.5)
-        
-        ax.set_title("Força por Superfície")
-        ax.set_ylim(min(elos) - 100, max(elos) + 50) # Dar um respiro no eixo Y
-        
-        # Colocar o número exato em cima de cada barra
-        for bar in bars:
-            height = bar.get_height()
-            ax.annotate(f'{int(height)}',
-                        xy=(bar.get_x() + bar.get_width() / 2, height),
-                        xytext=(0, 3),  
-                        textcoords="offset points",
-                        ha='center', va='bottom', fontweight='bold', color='#333333')
+    def gerar_gaussiana(self, media, std, elo_atleta, player_id):
+        """Curva de distribuição normal para o Age-Adjusted Rating."""
+        fig, ax = plt.subplots(figsize=(6, 2.5))
 
-        # Esconder eixo Y esquerdo inteiro para ficar mais limpo
-        ax.get_yaxis().set_visible(False)
-        ax.spines['bottom'].set_color('#cccccc')
+        # Eixo X matemático: da média - 4 std até média + 4 std
+        x = np.linspace(media - 4*std, media + 4*std, 500)
+        y = stats.norm.pdf(x, media, std)
+
+        # Desenhar a curva cinza
+        ax.plot(x, y, color=self.colors['gray_curve'], linewidth=1.5)
+
+        # Preenchimento (Shading) apenas na cauda onde o atleta está
+        if elo_atleta >= media:
+            x_fill = np.linspace(elo_atleta, media + 4*std, 100)
+        else:
+            x_fill = np.linspace(media - 4*std, elo_atleta, 100)
+        
+        y_fill = stats.norm.pdf(x_fill, media, std)
+        ax.fill_between(x_fill, y_fill, color=self.colors['brand_bg_shade'], alpha=0.15)
+
+        # Linha da Média (Neutro)
+        ax.axvline(media, color=self.colors['axis_light'], linestyle='--', linewidth=1)
+        
+        # Linha do Atleta (Destaque)
+        altura_atleta = stats.norm.pdf(elo_atleta, media, std)
+        ax.vlines(x=elo_atleta, ymin=0, ymax=altura_atleta, color=self.colors['brand_primary'], linewidth=2)
+        ax.plot(elo_atleta, altura_atleta, marker='o', color=self.colors['brand_primary'], markersize=6) # Ponto no topo
+
+        # Limpeza total dos eixos
+        ax.yaxis.set_visible(False)
+        ax.spines['bottom'].set_color(self.colors['axis_light'])
+        
+        # Deixar apenas 2 números no eixo X: A média e o Atleta
+        ax.set_xticks([media, elo_atleta])
+        ax.set_xticklabels([f"Média: {int(media)}", f"Atleta: {int(elo_atleta)}"], fontweight='bold')
 
         plt.tight_layout()
-        
-        caminho_arquivo = os.path.join(self.output_path, f"superficie_{player_id}.png")
-        plt.savefig(caminho_arquivo, dpi=300, bbox_inches='tight', transparent=False)
+        caminho_arquivo = os.path.join(self.output_path, f"gaussiana_{player_id}.png")
+        plt.savefig(caminho_arquivo, dpi=300, bbox_inches='tight', transparent=True)
         plt.close()
+        return caminho_arquivo
+
+    def gerar_radar_superficies(self, elo_saibro, elo_hard, elo_grass, player_id):
+        """Radar chart minimalista estrito, normalizado internamente."""
+        fig, ax = plt.subplots(figsize=(3, 3), subplot_kw=dict(polar=True))
         
+        categorias = ['Saibro', 'Rápido', 'Grama']
+        elos = [elo_saibro, elo_hard, elo_grass]
+        N = len(categorias)
+        
+        # Ângulos matemáticos
+        angles = [n / float(N) * 2 * pi for n in range(N)]
+        angles += angles[:1]
+        elos += elos[:1] # Fechar o polígono
+
+        # Remover bordas escuras e configurar grids finos
+        ax.spines['polar'].set_visible(False)
+        ax.grid(color=self.colors['grid_light'], linewidth=0.5)
+        
+        # Rótulos (Omitindo os números e deixando apenas as superfícies)
+        ax.set_xticks(angles[:-1])
+        ax.set_xticklabels(categorias, color=self.colors['text_sec'], size=9, weight='bold')
+        
+        # Posição e cores dos rótulos (ajuste fino)
+        for label, color in zip(ax.get_xticklabels(), [self.colors['clay'], self.colors['hard'], self.colors['grass']]):
+            label.set_color(color)
+
+        # Grid rings limitados a 3 aneis (como pedido pelo consultor)
+        min_elo = min(elos[:-1]) - 100
+        max_elo = max(elos[:-1]) + 50
+        ax.set_ylim(min_elo, max_elo)
+        ax.set_yticks(np.linspace(min_elo, max_elo, 3))
+        ax.set_yticklabels([]) # Sem radial tick labels!
+
+        # Desenhar o polígono principal
+        ax.plot(angles, elos, color=self.colors['brand_primary'], linewidth=2)
+        ax.fill(angles, elos, color=self.colors['brand_bg_shade'], alpha=0.08) # Fill de 8% maximo
+
+        plt.tight_layout()
+        caminho_arquivo = os.path.join(self.output_path, f"radar_{player_id}.png")
+        plt.savefig(caminho_arquivo, dpi=300, bbox_inches='tight', transparent=True)
+        plt.close()
         return caminho_arquivo
 
 # --- TESTE INTEGRADO ---
 if __name__ == "__main__":
     from motor_inteligencia import MotorInteligencia
     
-    print("1. Extraindo dados do Motor de Inteligência...")
+    print("1. Extraindo dados da inteligência para os gráficos...")
     motor = MotorInteligencia(chave='W')
+    id_alvo = "800655335" # Exemplo: Victoria Barros
+    dados = motor.gerar_raio_x_jogador(id_alvo)
     
-    # ID da Victoria Barros
-    id_alvo = "800655335"
-    dados_scout = motor.gerar_raio_x_jogador(id_alvo)
-    
-    print("\n2. Passando dados para o Estúdio Gráfico...")
+    print("2. Desenhando as visualizações matemáticas B2B...")
     estudio = EstudioGrafico()
     
-    # Gerando as duas imagens
-    caminho_evolucao = estudio.gerar_grafico_evolucao(dados_scout['historico_completo'], id_alvo)
-    caminho_superficie = estudio.gerar_grafico_superficie(dados_scout['elo_saibro'], dados_scout['elo_hard'], id_alvo)
+    caminho_spark = estudio.gerar_sparkline_evolucao(dados['historico_completo'], id_alvo)
+    caminho_gauss = estudio.gerar_gaussiana(dados['gaussiana_media_idade'], dados['gaussiana_std_idade'], dados['elo_global_atual'], id_alvo)
+    caminho_radar = estudio.gerar_radar_superficies(dados['elo_saibro'], dados['elo_hard'], dados['elo_grass'], id_alvo)
     
     print(f"\n--- SUCESSO! ---")
-    print(f"Gráfico de evolução guardado em: {caminho_evolucao}")
-    print(f"Gráfico de superfície guardado em: {caminho_superficie}")
+    print(f"Abra a pasta 'outputs' e veja a qualidade das 3 novas imagens geradas.")
