@@ -7,8 +7,8 @@ from motor_inteligencia import MotorInteligencia
 # ==========================================
 # ID PARA A MATRIZ GIGANTE
 # ==========================================
-ID_ALVO = "800716347"  # Substitua pelo ID do Guto ou outro
-GENERO = "M"           # 'M' ou 'W'
+ID_ALVO = "800655734"  # Substitua pelo ID do Guto ou outro
+GENERO = "W"           # 'M' ou 'W'
 # ==========================================
 
 print(f"--- INICIANDO MATRIZ DE CONFRONTOS ---")
