@@ -224,13 +224,14 @@ class MotorInteligencia:
         # O [0][1] pega exatamente a probabilidade da classe 1 (Vitoria do Jogador A)
         prob_a = modelo_ia.predict_proba(df_simulacao)[0][1]
         
-        return {
+        rreturn {
             "jogador_a": raio_a['nome'],
             "jogador_b": raio_b['nome'],
             "superficie": superficie,
-            "probabilidade_vitoria_a": round(prob_a * 100, 1),
-            "probabilidade_vitoria_b": round((1 - prob_a) * 100, 1)
+            "probabilidade_vitoria_a": round(prob_a * 100, 2), # <-- Mudou para 2
+            "probabilidade_vitoria_b": round((1 - prob_a) * 100, 2) # <-- Mudou para 2
         }
+        
 
 if __name__ == "__main__":
     motor = MotorInteligencia(chave='W')
@@ -249,5 +250,5 @@ if __name__ == "__main__":
         print(f"Erro na simulacao: {resultado['erro']}")
     else:
         print(f"Matchup: {resultado['jogador_a']} vs {resultado['jogador_b']} ({resultado['superficie']})")
-        print(f"Probabilidade de {resultado['jogador_a']}: {resultado['probabilidade_vitoria_a']}%")
-        print(f"Probabilidade de {resultado['jogador_b']}: {resultado['probabilidade_vitoria_b']}%")
+        print(f"Probabilidade de {resultado['jogador_a']}: {resultado['probabilidade_vitoria_a']:.2f}%")
+        print(f"Probabilidade de {resultado['jogador_b']}: {resultado['probabilidade_vitoria_b']:.2f}%")
