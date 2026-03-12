@@ -47,11 +47,12 @@ O produto final entrega valor atraves de duas oticas complementares, desenhadas 
 Foco: Raio-X profundo de um unico atleta.
 Casos de uso: Avaliacao de desempenho, preparacao de torneios, recrutamento universitario (College Tennis) e justificativa de patrocinio.
 Metricas principais:
-- Rating Global (Elo absoluto).
+- Rating Global (Elo absoluto) e solo. 
 - Percentil Ajustado a Idade (ex: "Top 2% entre nascidos em 2008").
 - Curva de Momentum (grafico de evolucao ou estagnacao nos ultimos 12 meses).
 - Perfil de Superficie (calculo matematico que define se e Especialista ou Versatil).
 - Resumo textual gerado automaticamente com os principais insights do atleta.
+- X vs y hipotetico - melhoraet
 
 2. RELATORIO MACRO (ACADEMY BENCHMARK)
 Foco: Gestao do portfolio de atletas de um centro de treinamento, rede ou federacao.
