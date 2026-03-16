@@ -803,11 +803,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800654359,800575563.0,Mateo Galvez,USA,J60 Quito,2023,03 Jul to 08 Jul 2023,Clay,1st Round,W,0-6 6-2 6-3
 800654359,800677590.0,Benjamin Maffini,ARG,J60 Quito,2023,03 Jul to 08 Jul 2023,Clay,Quarter-final,W,6-1 6-2
 800654359,800635530.0,Josue Bano,ECU,J60 Quito,2023,03 Jul to 08 Jul 2023,Clay,2nd Round,W,6-1 6-3
-800654359,800652170.0,Samuel Mesa Arias,COL,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,5-7 6-4 6-3
 800654359,800655582.0,Ricardo sebastian ramos vargas,PER,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,3-6 7-5 6-4
 800654359,800709178.0,CONSTANTINO PANNUNZIO,ARG,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,6-4 7-5
 800654359,800712557.0,Tomas Zurmendi,URU,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,6-2 6-2
 800654359,800693348.0,bautista de la Pena,CHI,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,7-5 7-5
+800654359,800652170.0,Samuel Mesa Arias,COL,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,5-7 6-4 6-3
 800658369,800576130.0,Juan Esteban Trujillo Hernandez,COL,J60 Pereira,2023,27 Nov to 02 Dec 2023,Clay,Final,W,7-6 7-5
 800658369,800690668.0,Jonatan Santiago Hidalgo,COL,J60 Pereira,2023,27 Nov to 02 Dec 2023,Clay,Semi-final,W,6-2 6-1
 800658369,800661241.0,Andres Ispas,CAN,J60 Pereira,2023,27 Nov to 02 Dec 2023,Clay,Quarter-final,W,6-3 6-7 6-3
@@ -1720,10 +1720,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800602679,800544017.0,Aditya Govila,IND,J300 Wanju (Asia/Oceania Regional Championships),2023,02 Oct to 08 Oct 2023,Hard,1st Round,L,1-6 0-6
 800602679,800568999.0,Wenbo Bai,CHN,J200 Chuncheon,2023,26 Sep to 01 Oct 2023,Hard,1st Round,L,2-6 6-7
 800602679,800575260.0,Kazuma Kimura,JPN,J100 Andong,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,7-5 3-6 1-6
-800602679,800679707.0,Samer Zaman,PAK,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 3,W,6-3 6-3
-800602679,800659871.0,Felipe Mamede,BRA,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 3,W,7-5 6-7 10-2
 800602679,800686514.0,Kanta Watanabe,JPN,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,L,4-6 6-3 8-10
 800602679,800652195.0,Juan Miguel Bolivar Idarraga,COL,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,L,3-6 3-6
+800602679,800679707.0,Samer Zaman,PAK,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 3,W,6-3 6-3
+800602679,800659871.0,Felipe Mamede,BRA,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 3,W,7-5 6-7 10-2
 800602679,800688606.0,Masahiro KANNO,JPN,J60 Dededo,2023,30 May to 03 Jun 2023,Hard,2nd Round,L,4-6 6-2 6-10
 800602679,800715910.0,Nicholas Tozer,AUS,J60 Dededo - CANCELLED,2023,24 May to 28 May 2023,Hard,2nd Round,L,5-7 4-6
 800602679,800742244.0,Yuri Fukuda,JPN,J60 Dededo - CANCELLED,2023,24 May to 28 May 2023,Hard,1st Round,W,6-2 6-0
@@ -3002,10 +3002,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800599048,800636001.0,Kei Matsumoto,JPN,J60 Nonthaburi,2023,19 Jun to 24 Jun 2023,Hard,2nd Round,W,6-2 6-1
 800599048,800705931.0,Karan Rawat,IND,J60 Nonthaburi,2023,19 Jun to 24 Jun 2023,Hard,1st Round,W,7-5 6-2
 800599048,800629135.0,Min Ho Ko,KOR,J60 Sunchang,2023,18 Apr to 23 Apr 2023,Hard,1st Round,L,4-6 3-6
-800599048,800660572.0,Akmal Abdullaev,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-0 6-1
-800599048,800709862.0,Dharma Pantaratorn,THA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-2
 800599048,800667373.0,Motoharu Abe,JPN,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 4-6
 800599048,800732180.0,Hung-Jui Chen,TPE,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-2
+800599048,800660572.0,Akmal Abdullaev,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-0 6-1
+800599048,800709862.0,Dharma Pantaratorn,THA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-2
 800599048,800571069.0,NAVYA VERMA,IND,J60 Kathmandu,2023,06 Feb to 11 Feb 2023,Hard,1st Round,L,3-6 2-6
 800599048,800590684.0,Mayank Sharma,IND,J60 Kathmandu,2023,30 Jan to 04 Feb 2023,Hard,1st Round,L,4-6 4-6
 800621001,800567042.0,Luka Nikolic,SRB,J30 Ingelheim,2023,19 Sep to 24 Sep 2023,Clay,1st Round,L,3-6 4-6
@@ -3845,12 +3845,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800598481,800706728.0,Akshat Dhull,IND,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,3rd Round,W,6-1 6-3
 800598481,800701535.0,Kohei TAKANO,JPN,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,2nd Round,W,6-4 6-1
 800598481,800625292.0,Yanhong Li,CHN,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,1st Round,W,6-2 6-3
-800598481,800602679.0,Min Hyuk Cho,KOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,6-7 2-6
 800598481,800645448.0,Hamza Roman,PAK,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-1 6-1
 800598481,800709862.0,Dharma Pantaratorn,THA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-0
 800598481,800679717.0,Shivtej Shirfule,IND,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-0 6-7 6-3
 800598481,800732180.0,Hung-Jui Chen,TPE,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-0 7-5
 800598481,800709908.0,Zachariah Wu,NZL,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-2 6-0
+800598481,800602679.0,Min Hyuk Cho,KOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,6-7 2-6
 800598481,800822738.0,Hyeonseok Seo,KOR,J60 Tay Ninh City,2023,06 Mar to 12 Mar 2023,Hard,Semi-final,L,2-6 4-6
 800598481,800558850.0,Jaden Dewandaka Tan,INA,J60 Tay Ninh City,2023,06 Mar to 12 Mar 2023,Hard,Quarter-final,W,6-2 6-2
 800598481,800544262.0,Michael Dylan Jimenez,SGP,J60 Tay Ninh City,2023,06 Mar to 12 Mar 2023,Hard,3rd Round,W,6-4 6-2
@@ -4079,10 +4079,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800740436,800589301.0,Morgan Bucaille,FRA,J30 Kingston,2023,06 Nov to 12 Nov 2023,Hard,1st Round,W,6-3 4-6 6-0
 800740436,800733767.0,Connor Plunkett,USA,J30 Nassau,2023,26 Jun to 30 Jun 2023,Hard,2nd Round,L,7-6 3-6 1-6
 800740436,800670567.0,Dentry Mortimer,BAH,J30 Nassau,2023,26 Jun to 30 Jun 2023,Hard,1st Round,W,6-3 7-5
+800740436,800649901.0,khalil acra,DOM,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-0 6-1
 800740436,800726811.0,Aidan Clarke,BAR,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-1 6-1
 800740436,800667530.0,Jose Lugo,NCA,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-0 6-2
 800740436,800712720.0,Kahj Mark Anthony Clarke,JAM,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-3 6-2
-800740436,800649901.0,khalil acra,DOM,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-0 6-1
 800721308,800600965.0,Paris Pouatcha,USA,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,1st Round,L,0-6 1-6
 800721308,800762883.0,Ashton Yarwood,USA,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,3rd Round,W,6-2 6-1
 800721308,800762131.0,Edward Horton,USA,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,2nd Round,W,6-1 6-0
@@ -4212,8 +4212,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800567584,800544168.0,Vitalii Hnidets,UKR,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,3rd Round,W,6-4 6-3
 800567584,800670642.0,Daniel Uta,ROU,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,2nd Round,W,6-0 7-6
 800567584,800567412.0,Arda Aroyo,TUR,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,1st Round,W,6-0 6-3
-800567584,800587093.0,Timothee Andriveau,FRA,J30 Blagnac,2023,20 Mar to 25 Mar 2023,Clay,2nd Round,L,2-6 1-6
-800567584,800547221.0,Jim Saint Martin,FRA,J30 Blagnac,2023,20 Mar to 25 Mar 2023,Clay,1st Round,W,6-2 7-5
 800746542,800668247.0,Koshiro Nakamae,JPN,J30 Matsuyama,2023,06 Dec to 10 Dec 2023,Hard,1st Round,L,3-6 3-6
 800746542,800711858.0,Ymerali Ibraimi,AUS,J30 Perth,2023,22 Nov to 26 Nov 2023,Hard,Quarter-final,L,4-6 5-7
 800746542,800711174.0,Ethan Domingo,AUS,J30 Perth,2023,22 Nov to 26 Nov 2023,Hard,2nd Round,W,6-3 6-3
@@ -4335,70 +4333,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800659854,800676056.0,Aaryan Khimasia,KEN,J60 Nairobi,2023,17 Jul to 22 Jul 2023,Clay,1st Round,W,6-2 6-2
 800659854,800598507.0,Fumin Jiang,CHN,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,1-6 5-7
 800659854,800584263.0,Sattam Moafa,KSA,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,1st Round,W,6-4 6-2
-800698105,800578269.0,Ruben Fernandez Ruiz,ESP,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,Quarter-final,L,4-6 7-5 4-6
-800698105,800567180.0,Francisco Guimaraes,POR,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,3rd Round,W,6-4 7-6
-800698105,800688882.0,Rin Kojima,JPN,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,W,6-1 6-1
-800698105,800700634.0,Jose Rodrigues,POR,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,1st Round,W,6-3 6-2
-800698105,800700290.0,Manuel Marques,POR,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,3rd Round,W,6-1 6-7 10-5
-800698105,800724566.0,Vasco Rebelo da Silva,POR,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,W,6-1 6-3
-800698105,800603086.0,Michael O'Leary,IRL,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,1st Round,W,6-4 6-1
-800698105,800555410.0,Diego Fernandez da Silva,POR,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,1st Round,L,0-6 6-3 2-6
-800698105,800553114.0,Alejandro Lopez Escribano,ESP,J60 Estepona,2023,19 Sep to 24 Sep 2023,Hard,2nd Round,L,6-3 2-6 7-10
-800698105,800649739.0,Setu Goyal,IND,J60 Estepona,2023,19 Sep to 24 Sep 2023,Hard,1st Round,W,6-2 7-6
-800698105,800531062.0,Jose Freitas,POR,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,L,6-1 6-7 1-6
-800698105,800722997.0,Petter Christopher Berg Hagen,NOR,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-3 4-6 6-1
-800698105,800580459.0,Eoin Quinn,IRL,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,3rd Round,W,6-3 6-1
-800698105,800661025.0,Thomas PIOT,FRA,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,W,6-1 6-1
-800698105,800748339.0,Bernardo Cardoso,POR,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-1 6-1
-800698105,800698197.0,Enrique Carrascosa Diaz,ESP,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,3rd Round,L,3-6 3-6
-800698105,800639107.0,GIOVANNI CONIGLIARO,ITA,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,2nd Round,W,5-7 6-2 10-6
-800698105,800555410.0,Diego Fernandez da Silva,POR,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,1st Round,W,6-1 5-7 10-8
-800589486,800602231.0,Ali Missoum,MAR,J30 Fes,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,2-6 2-6
-800589486,800541962.0,Ibrahim Benyahia,MAR,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,1st Round,L,3-6 6-7
-800589486,800568664.0,Joao Morgado,POR,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,L,0-6 3-6
-800589486,800654363.0,Adryan Ballestero,FRA,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,1st Round,W,6-4 6-2
-800589486,800676955.0,Jeri Lassila,FIN,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,3rd Round,L,2-6 5-7
-800589486,800567584.0,Salvador Monteiro,POR,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,2nd Round,W,2-6 6-3 6-4
-800589486,800557982.0,Nathan Walters,ESP,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,1st Round,W,6-2 6-3
-800589486,800532505.0,Jules Caby,FRA,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,2nd Round,L,0-6 2-6
-800589486,800602813.0,Joel Hansson,SWE,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,1st Round,W,6-7 6-0 7-6
-800589486,800552943.0,Miguel Angel Machado,ESP,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,L,6-2 2-6 3-6
-800589486,800586597.0,Lissandro Barreto Melato,FRA,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-4 6-4
-800589486,800594501.0,Ferdinand Livet Novkirichka,FRA,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,2nd Round,L,4-6 2-6
-800589486,800564176.0,Calin Apostol,ROU,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,1st Round,W,7-5 7-5
-800589486,800578269.0,Ruben Fernandez Ruiz,ESP,J100 Lousada,2023,22 May to 28 May 2023,Clay,1st Round,L,6-4 1-6 0-6
-800589486,800599230.0,Gabriel Tacanho,POR,J100 Lousada,2023,15 May to 21 May 2023,Clay,1st Round,L,6-2 2-6 3-6
-800589486,800506181.0,Vicente Faria,POR,J100 Lousada,2023,15 May to 21 May 2023,Clay,3rd Round,W,6-3 6-2
-800589486,800594804.0,Tomas Sa,POR,J100 Lousada,2023,15 May to 21 May 2023,Clay,2nd Round,W,6-3 6-1
-800589486,800729439.0,Arnau Anton Garcia,ESP,J30 Girona,2023,02 May to 06 May 2023,Clay,1st Round,L,1-6 3-6
-800589486,800579214.0,Keoni Puig Mccallan,ESP,J30 Zaragoza,2023,25 Apr to 30 Apr 2023,Clay,2nd Round,L,5-7 0-6
-800589486,800643937.0,Kilian Kok,SUI,J30 Zaragoza,2023,25 Apr to 30 Apr 2023,Clay,1st Round,W,7-6 6-1
-800589486,800530441.0,Anas Bennour Dit Sahli,TUN,J30 Oran,2023,06 Mar to 11 Mar 2023,Clay,2nd Round,L,2-6 1-6
-800589486,800565992.0,Mohammed slimane KICHOU,ALG,J30 Oran,2023,06 Mar to 11 Mar 2023,Clay,1st Round,W,6-0 6-3
-800589486,800563056.0,Danny Stella,ITA,J30 Oran,2023,06 Mar to 11 Mar 2023,Clay,Quarter-final,W,6-2 6-3
-800589486,800718270.0,MOHAMMED JAWAD BENHABIB,ALG,J30 Oran,2023,06 Mar to 11 Mar 2023,Clay,1st Round,W,6-0 6-0
-800589486,800542050.0,Goncalo Serras Pereira,POR,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,Quarter-final,L,4-6 3-6
-800589486,800535714.0,Nico Rating,ESP,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,2nd Round,W,6-2 2-6 6-4
-800589486,800739068.0,Salim Soltani,ALG,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,1st Round,W,6-0 6-0
-800589486,800565992.0,Mohammed slimane KICHOU,ALG,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,Quarter-final,W,7-5 6-3
-800589486,800649030.0,Karim kechaou,TUN,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,2nd Round,W,6-1 6-2
-800589486,800693896.0,Amine Nessai,ALG,J30 Oran,2023,27 Feb to 04 Mar 2023,Clay,1st Round,W,6-0 6-3
-800643082,800701263.0,Raphael  Nii Nortei Dowuona,GHA,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,2nd Round,L,6-2 4-6 4-6
-800643082,800715303.0,MONCEF CHIBANI,TUN,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,1st Round,W,6-0 6-0
-800643082,800631041.0,Anas Ben youssef,TUN,J60 Kelibia,2023,20 Jun to 25 Jun 2023,Hard,1st Round,L,2-5
-800643082,800579772.0,Gregoire Delattre,FRA,J30 Bizerte,2023,13 Jun to 18 Jun 2023,Clay,2nd Round,L,6-7 4-6
-800643082,800602960.0,Leith Ouerghi,TUN,J30 Bizerte,2023,13 Jun to 18 Jun 2023,Clay,1st Round,W,6-0 6-1
-800643082,800510275.0,Nicholas Miharu Bowles-Rokudo,GBR,J30 Mahdia,2023,23 May to 28 May 2023,Hard,1st Round,L,3-6 6-4 3-6
-800643082,800662186.0,Habib Mezghenni,TUN,J30 Mahdia,2023,23 May to 28 May 2023,Hard,Quarter-final,W,6-0 2-0
-800643082,800733076.0,Iyad Golli,TUN,J30 Mahdia,2023,23 May to 28 May 2023,Hard,2nd Round,W,6-0 6-0
-800643082,800670613.0,Elyes Bouagila,TUN,J30 Mahdia,2023,23 May to 28 May 2023,Hard,1st Round,W,6-2 6-4
-800643082,800693613.0,Luis Andres Flores Avila,MEX,J30 Kairouan,2023,16 May to 21 May 2023,Hard,1st Round,L,1-6 1-6
-800643082,800632009.0,Hlumani Kekana,RSA,WJT Boys Africa Qualifying,2023,09 May to 13 May 2023,,,W,6-4 6-0
-800643082,800722358.0,ghali salah-eddine,MAR,WJT Boys Africa Qualifying,2023,09 May to 13 May 2023,,,L,7-6 2-6 3-6
-800643082,800650471.0,Artur Aiukhanov,RUS,J100 Monastir,2023,11 Apr to 16 Apr 2023,Hard,1st Round,L,4-6 4-6
-800643082,800568996.0,Anas Ben Chiekh,TUN,J100 Sousse,2023,04 Apr to 09 Apr 2023,Hard,2nd Round,L,3-6 5-7
-800643082,800701263.0,Raphael  Nii Nortei Dowuona,GHA,J100 Sousse,2023,04 Apr to 09 Apr 2023,Hard,1st Round,W,3-1
-800643082,800519445.0,Carlo Alberto Caniato,ITA,J200 Hammamet,2023,24 Jan to 29 Jan 2023,Clay,1st Round,L,0-6 0-6
 800667359,800687499.0,Gun Song,KOR,J30 Yeongwol,2023,31 Oct to 05 Nov 2023,Hard,1st Round,L,6-3 4-6 5-10
 800667359,800601480.0,Jae Min Lee,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,6-2 4-6 5-7
 800667359,800596337.0,Juyoung Hong,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,Quarter-final,W,6-0 6-0
@@ -4528,8 +4462,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800684025,800537727.0,Tuna Rizaoglu,TUR,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,3rd Round,W,6-2 6-2
 800684025,800565911.0,Pavlo Ryshty,UKR,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,W,6-2 6-1
 800684025,800732084.0,Hengzhou Wang,CHN,J100 Istanbul,2023,10 Apr to 16 Apr 2023,Hard,1st Round,L,5-7 6-4 5-10
-800655675,800639841.0,GHALI KOMAT,MAR,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,W,7-5 5-7 6-3
 800655675,800672538.0,Dominik Macej,SVK,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,W,6-1 6-2
+800655675,800639841.0,GHALI KOMAT,MAR,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,W,7-5 5-7 6-3
 800655675,800650301.0,Pedro Henrique Chabalgoity,BRA,J30 Trujillo,2023,19 Jun to 24 Jun 2023,Clay,1st Round,L,2-6 3-6
 800655675,800697708.0,Simon Ignacio Flores Leyton,CHI,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,6-1 6-7 6-7
 800655675,800644039.0,Jerry Christopher Brow Salinas,PER,J100 Lima,2023,08 May to 13 May 2023,Clay,Quarter-final,L,4-6 4-6
@@ -4757,19 +4691,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800584484,800630695.0,Amir Jaber,JOR,J30 Beirut,2023,21 Aug to 25 Aug 2023,Clay,1st Round,W,6-3 6-2
 800584484,800593351.0,Anthony Moukarzel,LBN,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,2nd Round,L,6-3 0-6 1-6
 800584484,800664083.0,Deniz Zeki,TUR,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,1st Round,W,6-1 6-3
-800694428,800560553.0,Alessandro Meo,ITA,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,2nd Round,L,4-6 3-6
-800694428,800589620.0,Lasse Zajc Gajsek,SLO,J30 Paralimni,2023,13 Nov to 19 Nov 2023,Carpet,2nd Round,L,2-6 1-6
-800694428,800705052.0,Ben Chetewy Ungar,ISR,J30 Sajur,2023,04 Sep to 09 Sep 2023,Hard,1st Round,L,3-6 0-6
-800694428,800588965.0,Itay Ezra,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,L,5-7 4-6
-800694428,800595783.0,Artem Golikov,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,6-0 6-1
-800694428,800638691.0,Itamar Pavlovitch,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,Quarter-final,W,7-6 6-3
-800694428,800591881.0,Uriya Ofer,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,W,6-4 3-6 10-8
-800694428,800638939.0,Orian Mizrachi,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,5-7 6-0 10-4
-800694428,800589341.0,Chen Kogan,ISR,J30 Nahariya,2023,23 Jan to 29 Jan 2023,Hard,1st Round,L,3-6 2-6
-800694428,800548528.0,Zachary Habif,USA,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,Quarter-final,L,0-6 2-6
-800694428,800687146.0,Michael Chang,USA,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,2nd Round,W,6-3 6-1
-800694428,800632344.0,Uri Gilon,ISR,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,1st Round,W,6-2 4-6 11-9
-800694428,800626357.0,Dan Brand,ISR,J60 Ramat Hasharon,2023,10 Jan to 14 Jan 2023,Hard,1st Round,L,1-6 1-6
 800586897,800597378.0,Tomas Krejci,CZE,J30 Fleesensee,2023,28 Nov to 03 Dec 2023,Carpet,2nd Round,L,4-6 4-6
 800586897,800600868.0,Vuk Arnautovic,SUI,J30 Fleesensee,2023,28 Nov to 03 Dec 2023,Carpet,1st Round,W,4-6 6-4 6-3
 800586897,800691439.0,Ronit Gupta,IND,J60 Hannover,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,3-6 2-6
@@ -5005,10 +4926,23 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800746729,800659987.0,Vedant Gundu,IND,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,2nd Round,W,6-1 6-0
 800746729,800721658.0,Trang Minh Quang Do,VIE,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,1st Round,W,6-1 6-1
 800746729,800580041.0,Mikhail Michshenko,KAZ,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-2 6-1
-800746729,800602679.0,Min Hyuk Cho,KOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-3
 800746729,800693111.0,Prakaash Sarran,IND,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-1
 800746729,800709908.0,Zachariah Wu,NZL,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-2
 800746729,800740257.0,Fu Wang Choi,HKG,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-2
+800746729,800602679.0,Min Hyuk Cho,KOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-4 6-3
+800694428,800560553.0,Alessandro Meo,ITA,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,2nd Round,L,4-6 3-6
+800694428,800589620.0,Lasse Zajc Gajsek,SLO,J30 Paralimni,2023,13 Nov to 19 Nov 2023,Carpet,2nd Round,L,2-6 1-6
+800694428,800705052.0,Ben Chetewy Ungar,ISR,J30 Sajur,2023,04 Sep to 09 Sep 2023,Hard,1st Round,L,3-6 0-6
+800694428,800588965.0,Itay Ezra,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,L,5-7 4-6
+800694428,800595783.0,Artem Golikov,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,6-0 6-1
+800694428,800638691.0,Itamar Pavlovitch,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,Quarter-final,W,7-6 6-3
+800694428,800591881.0,Uriya Ofer,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,W,6-4 3-6 10-8
+800694428,800638939.0,Orian Mizrachi,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,5-7 6-0 10-4
+800694428,800589341.0,Chen Kogan,ISR,J30 Nahariya,2023,23 Jan to 29 Jan 2023,Hard,1st Round,L,3-6 2-6
+800694428,800548528.0,Zachary Habif,USA,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,Quarter-final,L,0-6 2-6
+800694428,800687146.0,Michael Chang,USA,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,2nd Round,W,6-3 6-1
+800694428,800632344.0,Uri Gilon,ISR,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,1st Round,W,6-2 4-6 11-9
+800694428,800626357.0,Dan Brand,ISR,J60 Ramat Hasharon,2023,10 Jan to 14 Jan 2023,Hard,1st Round,L,1-6 1-6
 800590931,800523686.0,Bader Idrees,KSA,J30 Riyadh,2023,23 Oct to 28 Oct 2023,Hard,Final,L,2-6 2-4
 800590931,800631924.0,Rafael Asadullin,RUS,J30 Riyadh,2023,23 Oct to 28 Oct 2023,Hard,Semi-final,W,4-6 7-6 6-3
 800590931,800537347.0,Eytan Miessen,BEL,J30 Riyadh,2023,23 Oct to 28 Oct 2023,Hard,Quarter-final,W,7-5 6-3
@@ -5682,7 +5616,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800680467,800590616.0,Victor Ryden,SWE,J60 Rhodes,2023,26 Sep to 01 Oct 2023,Hard,2nd Round,L,1-6 4-6
 800680467,800721890.0,NIKOLAOS PERGANTIS,GRE,J60 Rhodes,2023,26 Sep to 01 Oct 2023,Hard,1st Round,W,6-1 6-4
 800680467,800597132.0,Jakub Kusy,CZE,J30 Prostejov,2023,20 Sep to 24 Sep 2023,Clay,1st Round,L,4-6 6-4 2-6
-800680467,800638980.0,Marko Bekeni,SVK,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,2nd Round,L,6-2 4-6 2-6
 800559153,800565887.0,Dmitriy Titov,RUS,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,Quarter-final,L,2-6 3-6
 800559153,800521296.0,Demid Gorbachev,KAZ,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,W,6-3 3-6 7-6
 800559153,800589088.0,Ivan Sharabaika,BLR,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,1st Round,W,6-2 2-6 6-1
@@ -5743,10 +5676,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800598049,800694588.0,Rishi Ragav Janakaraj,IND,J30 Douala,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,L,4-6 1-6
 800598049,800765998.0,Pavel Azambou,CMR,J30 Douala,2023,30 Oct to 04 Nov 2023,Hard,1st Round,W,6-2 6-0
 800598049,800598010.0,Andrea Baudel,FRA,J30 Saint-Denis,2023,23 Oct to 29 Oct 2023,Clay,1st Round,L,1-6 2-6
+800598049,800661936.0,Leon Sloboda,SVK,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,L,1-6 1-6
 800598049,800722358.0,ghali salah-eddine,MAR,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 1,L,2-6 1-6
 800598049,800672663.0,Andy Tchinda Kepche,CAN,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 1,L,2-6 4-6
 800598049,800681412.0,Daniel Jade,FRA,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 1,L,4-6 4-6
-800598049,800661936.0,Leon Sloboda,SVK,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,L,1-6 1-6
 800598049,800710939.0,Chen-Yang Hsu,TPE,J60 Hong Kong,2023,16 Jan to 21 Jan 2023,Hard,1st Round,L,1-6 0-6
 800660842,800593816.0,Florian Doleys,AUT,J60 Maribor,2023,20 Nov to 25 Nov 2023,Carpet,1st Round,L,2-6 4-6
 800660842,800598997.0,Taisei Hata,JPN,J30 Domzale,2023,19 Sep to 24 Sep 2023,Clay,1st Round,L,1-6 2-6
@@ -5873,7 +5806,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800599918,800600513.0,Felix Triquart,GER,J30 Hasselt,2023,31 Jul to 05 Aug 2023,Clay,1st Round,L,6-7 1-6
 800599918,800653279.0,Florian Kralik,CZE,J30 Garisart,2023,11 Jul to 16 Jul 2023,Clay,2nd Round,L,2-6 2-6
 800599918,800577376.0,Vincent Schwabe,GER,J30 Garisart,2023,11 Jul to 16 Jul 2023,Clay,1st Round,W,6-1 6-1
-800599918,800551678.0,Noe Plique,LUX,J300 Charleroi-Marcinelle,2023,29 May to 03 Jun 2023,Clay,1st Round,L,5-7 6-7
 800709862,800581725.0,Yeonsu Jeong,KOR,J300 Nonthaburi (Asia Regional Championships),2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,1-6 2-6
 800709862,800592033.0,Rayan Sajjid Koothrat,IND,J300 Nonthaburi (Asia Regional Championships),2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,7-6 3-6 6-4
 800709862,800573015.0,Svarmanyu Singh,IND,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,L,5-7 2-6
@@ -7336,8 +7268,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800655341,800625878.0,Juan Diego Balao,URU,J30 Punta del Este,2023,04 Sep to 09 Sep 2023,Clay,1st Round,W,1-6 6-2 6-0
 800655341,800533298.0,Marcos Lee Chan Baratau,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,2nd Round,L,3-6 4-6
 800655341,800656378.0,Rafael Montalvo Galarza,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,W,6-2 6-1
-800655341,800575192.0,Daniel Camilo Serrato Camacho,COL,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,2nd Round,L,1-6 6-7
-800655341,800624081.0,Alejandro Kayser,ECU,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,1st Round,W,1-6 6-2 6-3
 800656188,800649692.0,Yubel Ubri,USA,J100 Arequipa,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,0-6 2-6
 800656188,800694772.0,Gianfranco Kuong Botto,PER,J100 Arequipa,2023,27 Nov to 02 Dec 2023,Clay,Quarter-final,W,6-0 6-4
 800656188,800677863.0,Ian Cunha Moreira,BRA,J100 Arequipa,2023,27 Nov to 02 Dec 2023,Clay,1st Round,W,5-7 6-2 10-5
@@ -7760,10 +7690,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800732662,800714116.0,Leo Li,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,1st Round,W,6-0 6-0
 800732662,800653863.0,Eddie Biss,NZL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,2nd Round,L,2-6 2-6
 800732662,800741009.0,Stas Majewski,POL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,W,7-6 6-0
-800732662,800670475.0,Joachim Mika Gunawan,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 1-6
-800732662,800770698.0,Abdulkhodiy Khosilov,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-1
 800732662,800659906.0,RUDRA BATHAM,IND,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-2 6-4
 800732662,800740257.0,Fu Wang Choi,HKG,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,1-6 3-6
+800732662,800670475.0,Joachim Mika Gunawan,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 1-6
+800732662,800770698.0,Abdulkhodiy Khosilov,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-1
 800732662,800624194.0,Luke Jie Xi Ho,SGP,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 6-2 10-12
 800657256,800631660.0,Sacha Fontanges,FRA,J30 Fujairah,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,1-6 6-3 3-6
 800657256,800716640.0,Jyle Daniel Landicho,PHI,J30 Fujairah,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,W,6-2 6-3
@@ -8094,7 +8024,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800693874,800547026.0,Lucas Mock,CAN,J30 Woodbridge 		,2023,23 Oct to 27 Oct 2023,Hard,2nd Round,L,6-1 6-7 6-7
 800693874,800711046.0,Caden Colburne,CAN,J30 Woodbridge 		,2023,23 Oct to 27 Oct 2023,Hard,1st Round,W,5-7 6-0 6-2
 800693874,800584135.0,Abhinav Chunduru,USA,J100 Quebec City	,2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,3-6 2-6
-800693874,800676782.0,Victor Mayer,CAN,J200 Montreal,2023,11 Sep to 15 Sep 2023,Hard,1st Round,L,6-2 5-7 4-10
 800598375,800529790.0,Otso Martikainen,FIN,J60 Tampere,2023,30 Oct to 03 Nov 2023,Hard,Semi-final,L,4-6 1-6
 800598375,800572563.0,Jami Savolainen,FIN,J60 Tampere,2023,30 Oct to 03 Nov 2023,Hard,Quarter-final,W,6-7 7-6 6-2
 800598375,800516900.0,Denis Maijorov,EST,J60 Tampere,2023,30 Oct to 03 Nov 2023,Hard,2nd Round,W,6-3 4-6 7-6
@@ -8819,10 +8748,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800602674,800596077.0,David - Ioan Morega,ROU,J60 Skopje,2023,14 Aug to 20 Aug 2023,Clay,3rd Round,L,0-6 2-6
 800602674,800698776.0,Andrej Paunovic,SRB,J60 Skopje,2023,14 Aug to 20 Aug 2023,Clay,2nd Round,W,6-3 6-4
 800602674,800566263.0,Aleksey Papkov,RUS,J60 Skopje,2023,14 Aug to 20 Aug 2023,Clay,1st Round,W,3-6 6-1 10-6
-800602674,800649493.0,Valdemar Dubin,DEN,J60 Sofia,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,6-3 3-6 2-6
-800602674,800645574.0,Stanislav Kosev,BUL,J60 Sofia,2023,07 Aug to 12 Aug 2023,Clay,Quarter-final,W,6-4 7-6
-800602674,800592230.0,Horia Dragos,ROU,J60 Sofia,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,W,6-2 6-0
-800602674,800594736.0,Theodor Kraytchev,GBR,J60 Sofia,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-0 6-1
 800575078,800692095.0,Akaru YOSHIMOTO,JPN,J30 Matsuyama,2023,06 Dec to 10 Dec 2023,Hard,1st Round,L,5-7 2-6
 800575078,800686382.0,Haruki Oshita,JPN,J30 Osaka,2023,07 Nov to 11 Nov 2023,Hard,2nd Round,L,4-6 5-7
 800575078,800686514.0,Kanta Watanabe,JPN,J30 Osaka,2023,07 Nov to 11 Nov 2023,Hard,1st Round,W,6-1 6-3
@@ -9206,8 +9131,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800630695,800585667.0,Yaroslav Pshenichniy,KAZ,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,2-6 6-3 6-2
 800630695,800688968.0,Zachary Sng,SGP,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 1-6
 800630695,800705312.0,Cooper Kose,AUS,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,6-4 4-6 0-6
-800630695,800670641.0,Rafalentino Ali Da Costa,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,0-6 0-6
 800630695,800660572.0,Akmal Abdullaev,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 6-1 1-6
+800630695,800670641.0,Rafalentino Ali Da Costa,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,0-6 0-6
 800681024,800565010.0,Turgay Hidiroglu,CYP,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,1st Round,L,4-6 6-2 4-10
 800742352,800733292.0,Ming Yu Ko,TPE,J60 Dededo,2023,30 May to 03 Jun 2023,Hard,1st Round,L,3-6 3-6
 800742352,800679485.0,Yuya Hirose,JPN,J60 Dededo - CANCELLED,2023,24 May to 28 May 2023,Hard,2nd Round,L,0-6 0-6
@@ -9301,6 +9226,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800654564,800653311.0,Andrei Bokarev,RUS,J30 Dushanbe,2023,07 Aug to 12 Aug 2023,Hard,2nd Round,L,3-6 3-6
 800654564,800538956.0,Kirill Tverdokhleb,RUS,J30 Dushanbe,2023,07 Aug to 12 Aug 2023,Hard,1st Round,W,6-2 6-2
 800620949,800639348.0,Mateja Stanisavljevic,SUI,J30 Horgen,2023,11 Sep to 16 Sep 2023,Clay,1st Round,L,2-6 4-6
+800657367,800575464.0,Aron Janos Major,HUN,J30 San Marino,2023,11 Jul to 15 Jul 2023,Clay,1st Round,L,2-6 4-6
 800587830,800602231.0,Ali Missoum,MAR,J60 Casablanca,2023,16 Oct to 21 Oct 2023,Clay,1st Round,L,0-6 4-6
 800587830,800722358.0,ghali salah-eddine,MAR,J60 Rabat,2023,09 Oct to 14 Oct 2023,Clay,1st Round,L,7-6 2-6 3-6
 800587830,800569643.0,Baran Sivasli,TUR,J200 Istanbul,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,4-6 5-7
@@ -9402,7 +9328,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800645881,800631579.0,Even Solheim,NOR,J30 Stavanger,2023,21 Nov to 26 Nov 2023,Hard,1st Round,W,6-4 7-6
 800645881,800604495.0,Alex Candelas Bas,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,2nd Round,L,1-6 2-6
 800645881,800562883.0,Jaime Foix,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,W,2-6 6-4 14-12
-800657367,800575464.0,Aron Janos Major,HUN,J30 San Marino,2023,11 Jul to 15 Jul 2023,Clay,1st Round,L,2-6 4-6
 800644423,800586204.0,Alessandro Mondazzi,ITA,J60 Bari,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,1-6 6-4 1-6
 800644423,800567066.0,Lorenzo Beraldo,ITA,J60 Pescara,2023,02 Oct to 07 Oct 2023,Clay,Final,L,6-7 4-6
 800644423,800516438.0,Jaishnav Shinde,IND,J60 Pescara,2023,02 Oct to 07 Oct 2023,Clay,Semi-final,W,6-0 5-7 6-4
@@ -10144,9 +10069,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800652636,800639892.0,Juan Arcila,COL,J30 Valledupar,2023,18 Sep to 22 Sep 2023,Hard,1st Round,W,6-3 6-4
 800652636,800586402.0,badlwim jared Escobar cifuentes,COL,J30 Cartagena,2023,11 Sep to 15 Sep 2023,Hard,1st Round,L,3-6 0-6
 800652636,800654980.0,Bardo Bucknell,USA,J30 Llanos de Curundu,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,4-6 4-6
+800652636,800621001.0,Eric Dylan Mueller,GER,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 2,L,4-6 2-6
 800652636,800639841.0,GHALI KOMAT,MAR,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,W,6-3 6-7 10-7
 800652636,800705099.0,Selwyn Tsz Yuen Wong,HKG,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,,W,6-1 6-0
-800652636,800621001.0,Eric Dylan Mueller,GER,2023 ITF World Junior Tennis Finals (Boys),2023,07 Aug to 12 Aug 2023,Clay,Round Robin Group 2,L,4-6 2-6
 800652636,800562057.0,Felipe Dreer,ARG,J100 Medellin,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,4-6 1-6
 800652636,800572683.0,Xavier Calvelo,USA,J60 Mexico City,2023,12 Jun to 17 Jun 2023,Hard,2nd Round,L,2-6 1-6
 800652636,800748530.0,Luis Miguel Perez Hernandez,MEX,J60 Mexico City,2023,12 Jun to 17 Jun 2023,Hard,1st Round,W,6-1 6-2
@@ -11617,6 +11542,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800590191,800632344.0,Uri Gilon,ISR,J30 Limassol,2023,22 May to 27 May 2023,Clay,1st Round,L,3-6 4-6
 800590191,800558394.0,Luka Talan Lopatic,SLO,J100 Limassol,2023,13 Mar to 18 Mar 2023,Hard,1st Round,L,0-6 0-6
 800590191,800572684.0,Jovan Matovic,SRB,J60 Larnaca,2023,06 Mar to 12 Mar 2023,Hard,1st Round,L,2-6 1-6
+800650283,800545523.0,Ciprian Florincas,ROU,J30 Targu Jiu,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,2-6 1-6
+800650283,800531628.0,Tudor Vlad,ROU,J30 Chisinau,2023,29 May to 03 Jun 2023,Clay,2nd Round,L,3-6 3-6
 800660950,800586597.0,Lissandro Barreto Melato,FRA,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,7-5 4-6 3-10
 800660950,800581405.0,Leonid Pyzhyanov,RUS,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,2nd Round,L,3-6 6-7
 800660950,800700376.0,Mehdi Ezziate,MAR,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,1st Round,W,6-1 6-0
@@ -11701,8 +11628,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800695593,800552249.0,Amir Albeg,ISR,J60 Ashkelon,2023,18 Apr to 22 Apr 2023,Hard,1st Round,L,3-6 2-6
 800695593,800590513.0,Stiven Uretsky,ISR,J30 Nahariya,2023,23 Jan to 29 Jan 2023,Hard,1st Round,L,5-7 6-1 10-12
 800695593,800638939.0,Orian Mizrachi,ISR,J60 Ramat Hasharon,2023,17 Jan to 21 Jan 2023,Hard,1st Round,L,0-6 2-6
-800650283,800545523.0,Ciprian Florincas,ROU,J30 Targu Jiu,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,2-6 1-6
-800650283,800531628.0,Tudor Vlad,ROU,J30 Chisinau,2023,29 May to 03 Jun 2023,Clay,2nd Round,L,3-6 3-6
 800656930,800593465.0,Riku Higashi,JPN,J30 Nonthaburi,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,0-6 0-6
 800656930,800650465.0,Jaydon Barki,INA,J30 Nonthaburi,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,4-6 3-6
 800656930,800654080.0,Tanishq Jadhav,IND,J60 Nonthaburi,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,1-6 2-6
@@ -11721,9 +11646,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800627606,800672334.0,Clement Wauters,BEL,J30 Beirut,2023,28 Aug to 01 Sep 2023,Clay,1st Round,L,1-6 3-6
 800627606,800591687.0,Hani Saray Al Deen,SYR,J30 Beirut,2023,28 Aug to 01 Sep 2023,Clay,Quarter-final,L,0-6 1-6
 800627606,800718677.0,Lionel Bahlis,LBN,J30 Beirut,2023,28 Aug to 01 Sep 2023,Clay,2nd Round,W,6-3 6-1
+800627606,800670475.0,Joachim Mika Gunawan,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 0-6
 800627606,800631911.0,Mansur Sainov,KAZ,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,0-6 0-6
 800627606,800746542.0,Taiki Takizawa,AUS,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,1-6 2-6
-800627606,800670475.0,Joachim Mika Gunawan,INA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 0-6
 800576317,800718446.0,Emil Enseleit,GER,J30 Fleesensee,2023,28 Nov to 03 Dec 2023,Carpet,1st Round,L,2-6 1-6
 800576317,800543860.0,Maxim Grossmann,HUN,J30 Rijeka,2023,25 Sep to 01 Oct 2023,Clay,1st Round,L,1-6 1-6
 800576317,800570047.0,Gasper Matijasic,SLO,J30 Domzale,2023,19 Sep to 24 Sep 2023,Clay,1st Round,L,1-6 2-6
@@ -12247,7 +12172,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800654974,800653885.0,Enzo Alcoforado,BRA,J30 Rio de Janeiro,2023,13 Nov to 19 Nov 2023,Hard,1st Round,L,3-6 6-0 6-10
 800654974,800684304.0,Henrique Queiroz,BRA,J100 Salvador,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,4-6 2-6
 800654974,800753457.0,Giovane Padilha Calou,BRA,J30 Sao Paulo,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,5-7 4-6
-800654974,800638249.0,Pedro Oliveira Lemos,BRA,J30 Serra Negra,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,2-6 1-6
 800543482,800630269.0,Prokhor Smirnov,RUS,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,1st Round,L,1-6 3-6
 800543482,800634862.0,Arseniy Trebukhin,KAZ,J30 Aktobe,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,6-7 5-7
 800543482,800654594.0,Samuel Sykora,SVK,J30 Aktobe,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-3 7-5
@@ -14958,10 +14882,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800709955,800568330.0,Laith Sukhtian,JOR,J30 Amman (Closed),2023,16 Oct to 22 Oct 2023,Hard,1st Round,W,6-4 3-6 6-4
 800654249,800698736.0,Marc Vucic,CRO,J60 Porec,2023,09 Oct to 15 Oct 2023,Clay,1st Round,L,1-6 5-7
 800654249,800763043.0,federico sartori,ITA,J60 Veli Losinj,2023,02 Oct to 08 Oct 2023,Clay,2nd Round,L,4-6 6-3 5-10
-800737750,800563674.0,Mandeep Reddy Kudumala,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,2nd Round,L,2-6 6-7
-800737750,800706278.0,Lakshya Dhiman,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,1st Round,W,6-1 6-1
 800680165,800585584.0,Sion Ji,KOR,J30 Yeongwol,2023,31 Oct to 05 Nov 2023,Hard,1st Round,L,3-6 4-6
 800680165,800665731.0,geonha roh,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,2-6 3-6
+800737750,800563674.0,Mandeep Reddy Kudumala,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,2nd Round,L,2-6 6-7
+800737750,800706278.0,Lakshya Dhiman,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,1st Round,W,6-1 6-1
 800596267,800666087.0,Bon Hong Koo,KOR,J30 Gimcheon,2023,28 Mar to 02 Apr 2023,Hard,1st Round,L,3-6
 800684967,800578460.0,Jacopo Antonelli,ITA,J30 Fes,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,0-6 1-6
 800684967,800578460.0,Jacopo Antonelli,ITA,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,1st Round,L,1-6 3-6
@@ -14994,12 +14918,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800715292,800678496.0,Joaquin Humberto Diaz Richard,CHI,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,Quarter-final,W,6-2 6-1
 800715292,800623852.0,Daniel Andres Benitez Peralta,ECU,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,2nd Round,W,6-2 6-2
 800715292,800652379.0,Nicholas Ros,BRA,J60 Salinas,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,1-6 2-6
+800688232,800592426.0,Sergio Paulo Bastos Sousa Betanzos,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 3-6
+800695208,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J30 Punta del Este,2023,04 Sep to 09 Sep 2023,Clay,2nd Round,L,2-6 2-6
+800695208,800678209.0,Jeronimo Piran,ARG,J30 Punta del Este,2023,04 Sep to 09 Sep 2023,Clay,1st Round,W,4-6 6-2 11-9
 800656559,800653254.0,Matthew Upton,GBR,J30 Paralimni,2023,13 Nov to 19 Nov 2023,Carpet,Quarter-final,L,1-6 1-6
 800656559,800640469.0,Marcos Iacovides,CYP,J30 Paralimni,2023,13 Nov to 19 Nov 2023,Carpet,2nd Round,W,6-4
 800656559,800720586.0,Ilias Pratsos,CYP,J30 Paralimni,2023,13 Nov to 19 Nov 2023,Carpet,1st Round,W,6-1 6-0
-800695208,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J30 Punta del Este,2023,04 Sep to 09 Sep 2023,Clay,2nd Round,L,2-6 2-6
-800695208,800678209.0,Jeronimo Piran,ARG,J30 Punta del Este,2023,04 Sep to 09 Sep 2023,Clay,1st Round,W,4-6 6-2 11-9
-800688232,800592426.0,Sergio Paulo Bastos Sousa Betanzos,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 3-6
 800688915,800650265.0,Taher Sahbani,TUN,J30 Bizerte,2023,13 Jun to 18 Jun 2023,Clay,1st Round,L,6-7 1-6
 800688915,800563516.0,Mikhail Sapozhnikov,RUS,J30 Mahdia,2023,23 May to 28 May 2023,Hard,1st Round,L,6-7 1-6
 800688915,800733702.0,Lennart Lehmitz,USA,J30 Kairouan,2023,16 May to 21 May 2023,Hard,1st Round,L,0-6 1-6
@@ -15018,6 +14942,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800698386,800580073.0,Tinaye Tongoona,ZIM,J30 Bulawayo,2023,22 May to 27 May 2023,Hard,1st Round,W,6-4 6-2
 800698386,800670362.0,RONAN TASHINGA MTISI,ZIM,J30 Bulawayo,2023,15 May to 20 May 2023,Hard,2nd Round,L,2-6 3-6
 800698386,800707911.0,Mqhelisi Brenden Sithole,ZIM,J30 Bulawayo,2023,15 May to 20 May 2023,Hard,1st Round,W,6-1 6-0
+800750043,800704070.0,Kulani Shipalana,RSA,J100 Pretoria,2023,18 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 4-6
 800645747,800590186.0,Jan Sykora,CZE,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,2nd Round,L,1-6 7-6 0-6
 800645747,800647228.0,Berke Muammer Okumus,TUR,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,1st Round,W,6-3 6-2
 800645747,800560324.0,Dev Kanbargimath,ROU,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,1-6 1-6
@@ -15042,7 +14967,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800645747,800575384.0,Arturo Pierangeli,ITA,J30 Adana,2023,23 Jan to 29 Jan 2023,Clay,1st Round,L,6-7 1-6
 800645747,800581718.0,Alessio Balestrieri,ITA,J100 Antalya,2023,16 Jan to 22 Jan 2023,Clay,2nd Round,L,0-6 2-6
 800645747,800563916.0,Kerem Tufekci,TUR,J100 Istanbul,2023,09 Jan to 15 Jan 2023,Hard,2nd Round,L,4-6 6-4 8-10
-800750043,800704070.0,Kulani Shipalana,RSA,J100 Pretoria,2023,18 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 4-6
 800732394,800695597.0,Ignacio Garnier,CRC,J30 San Jose,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,4-6 2-6
 800732394,800742342.0,Samuel Castillo Suarez,COL,J30 San Jose,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,4-6 0-6
 800732394,800655207.0,Danny Al Barbour,USA,J60 Llanos de Curundu,2023,01 May to 06 May 2023,Clay,1st Round,L,0-6 2-6
@@ -15187,8 +15111,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800711741,800564432.0,Yoshito Oda,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,2nd Round,W,7-6 7-5
 800711741,800688827.0,Yuto Hazama,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,1st Round,W,5-7 6-1 10-3
 800711741,800651447.0,Taku Ito,JPN,J30 Kurume,2023,08 Mar to 12 Mar 2023,Hard,1st Round,L,0-6 0-6
-800693464,800850956.0,Parth Deorukhakar,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,3-6 2-6
-800693464,800729955.0,Piyush Arjun Jadhav,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-2 6-1
+800671564,800650464.0,Christopher Kosei Ono,JPN,J30 Chigasaki,2023,22 Nov to 26 Nov 2023,Carpet,1st Round,L,3-6 5-7
 800672477,800701367.0,Haiyi Qin,CHN,J100 Burlington,2023,30 Oct to 03 Nov 2023,Hard,1st Round,L,3-6 4-6
 800672477,800685006.0,quincy yao,CAN,J30 Woodbridge 		,2023,23 Oct to 27 Oct 2023,Hard,Quarter-final,L,2-6 0-6
 800672477,800631530.0,Hans Deng,CAN,J30 Woodbridge 		,2023,23 Oct to 27 Oct 2023,Hard,2nd Round,W,3-6 6-3 10-8
@@ -15210,12 +15133,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800588322,800693604.0,Antonio Luis Evangelista,POR,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,2nd Round,W,6-1 6-0
 800588322,800678995.0,Manuel Vale,POR,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,1st Round,W,6-2 6-1
 800588322,800599145.0,Tiago Serpa Neves,POR,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,5-7 4-6
-800671564,800650464.0,Christopher Kosei Ono,JPN,J30 Chigasaki,2023,22 Nov to 26 Nov 2023,Carpet,1st Round,L,3-6 5-7
-800688308,800646558.0,Birk Arwedahl,SWE,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,3rd Round,L,4-6 4-6
-800688308,800684442.0,Thanathip Poti,THA,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,W,6-3 6-0
-800688308,800656504.0,Tanay Mukesh Sharma,IND,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,1st Round,W,7-5 6-4
-800688308,800656504.0,Tanay Mukesh Sharma,IND,J60 Nonthaburi,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,6-1 3-6 8-10
-800688308,800656052.0,Puchit Sukjai,THA,J60 Nonthaburi,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-4 7-6
+800693464,800850956.0,Parth Deorukhakar,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,3-6 2-6
+800693464,800729955.0,Piyush Arjun Jadhav,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-2 6-1
 800682948,800761708.0,Yassin Mohamed Hussein,EGY,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,L,6-1 6-7 8-10
 800682948,800679047.0,ATIF SAQUIB,IND,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-2 6-0
 800682948,800598959.0,Kaushik Arunkumar,IND,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,0-6 1-6
@@ -15223,6 +15142,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800682948,800632649.0,Ernest Yakubovskiy,RUS,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,2-6 1-6
 800682948,800626020.0,Kirill Kalennik,RUS,J30 Isa Town,2023,27 Feb to 04 Mar 2023,Hard,1st Round,L,0-6 0-6
 800682948,800683733.0,Miguel Espanca Ramos Maia,POR,J30 Isa Town,2023,20 Feb to 25 Feb 2023,Hard,1st Round,L,1-6 0-6
+800688308,800646558.0,Birk Arwedahl,SWE,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,3rd Round,L,4-6 4-6
+800688308,800684442.0,Thanathip Poti,THA,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,W,6-3 6-0
+800688308,800656504.0,Tanay Mukesh Sharma,IND,J60 Nonthaburi,2023,30 Oct to 04 Nov 2023,Hard,1st Round,W,7-5 6-4
+800688308,800656504.0,Tanay Mukesh Sharma,IND,J60 Nonthaburi,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,6-1 3-6 8-10
+800688308,800656052.0,Puchit Sukjai,THA,J60 Nonthaburi,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-4 7-6
 800579369,800657238.0,Adam Novotny,CZE,J30 Fleesensee,2023,28 Nov to 03 Dec 2023,Carpet,1st Round,L,4-6 1-6
 800720557,800655786.0,Jose carlos Portillo,MEX,J100 Estado de Mexico,2023,16 Oct to 21 Oct 2023,Hard,2nd Round,L,0-6 2-6
 800720557,800705653.0,Bruno Patricio Frias Lara,MEX,J100 Estado de Mexico,2023,16 Oct to 21 Oct 2023,Hard,1st Round,W,6-0 6-3
@@ -15290,12 +15214,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800646429,800677582.0,Facundo Grasso,ARG,J30 Talca,2023,01 May to 06 May 2023,Clay,1st Round,L,3-6 0-6
 800674700,800596337.0,Juyoung Hong,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,1-6 2-6
 800674700,800635783.0,tu tran,VIE,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,1st Round,L,7-5 6-7 3-10
+800694936,800620658.0,Noah Van Vaerenbergh,BEL,J30 Arnhem,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,0-6 1-6
+800694936,800660430.0,Lucas Mateo Moreno,SUI,J60 Emmeloord,2023,10 Oct to 14 Oct 2023,Carpet,1st Round,L,2-6 6-4 13-15
 800652058,800658367.0,William David Torales Amarilla,PAR,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,7-5 7-5
 800652058,800652195.0,Juan Miguel Bolivar Idarraga,COL,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,0-6 1-6
 800652058,800659871.0,Felipe Mamede,BRA,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,3-6 2-6
 800652058,800714038.0,Valentino Colabufo,ARG,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,0-6 1-6
-800694936,800620658.0,Noah Van Vaerenbergh,BEL,J30 Arnhem,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,0-6 1-6
-800694936,800660430.0,Lucas Mateo Moreno,SUI,J60 Emmeloord,2023,10 Oct to 14 Oct 2023,Carpet,1st Round,L,2-6 6-4 13-15
 800743430,800737504.0,Hayden Williams,USA,J30 Santo Domingo,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,L,1-6 1-6
 800743430,800644080.0,Nicolas Ciancaglini Rivera,BOL,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,3-6 3-6
 800743430,800653082.0,Abhishek Thorat,USA,J60 Santo Domingo,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,0-6 0-6
@@ -15402,23 +15326,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800599117,800595739.0,Giacomo Valerga Carrillo,PER,J100 Lima,2023,08 May to 13 May 2023,Clay,Quarter-final,L,5-7 2-6
 800599117,800688647.0,Luka Matellini,GBR,J100 Lima,2023,08 May to 13 May 2023,Clay,2nd Round,W,6-1 6-0
 800599117,800555735.0,Felipe Spagnuolo,ARG,J60 Lima,2023,01 May to 06 May 2023,Clay,1st Round,L,3-6 2-6
-800741514,800603110.0,Louis Lussier,CAN,J30 Le Diamant,2023,17 Apr to 22 Apr 2023,Hard,1st Round,L,1-6 3-6
 800594241,800677733.0,ALEXANDRU NICOLAE,ROU,J30 Bucharest,2023,21 Aug to 26 Aug 2023,Clay,2nd Round,L,2-6 0-6
 800594241,800551495.0,Rares Iliescu,ROU,J30 Bucharest,2023,21 Aug to 26 Aug 2023,Clay,1st Round,W,6-3 6-3
+800741514,800603110.0,Louis Lussier,CAN,J30 Le Diamant,2023,17 Apr to 22 Apr 2023,Hard,1st Round,L,1-6 3-6
 800723390,800680716.0,Mauricio Schtulmann Gasca,MEX,J60 Oaxaca,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,0-6 2-6
 800723390,800765660.0,Diego Jimenez,MEX,J60 Oaxaca,2023,09 Oct to 14 Oct 2023,Hard,1st Round,W,6-1 7-5
-800748033,800678245.0,Heemin Choi,KOR,J30 Ho Chi Minh City,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,1-6 4-6
-800748033,800660642.0,Napat Pattanalertphan,THA,J30 Ho Chi Minh City,2023,08 Nov to 12 Nov 2023,Hard,2nd Round,L,2-6 0-6
-800748033,800753187.0,Bochen Yao,CHN,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,1st Round,L,2-6 0-6
-800748033,800666087.0,Bon Hong Koo,KOR,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,1st Round,L,1-6 2-6
-800742039,800598540.0,Juan Carlos Portilla Morales,USA,J30 Tacarigua,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,0-6 0-6
-800742039,800759171.0,Nicholas Choo,USA,J30 Tacarigua,2023,21 Aug to 26 Aug 2023,Hard,Quarter-final,L,2-6 0-6
-800742039,800742031.0,Alhil Cyril,LCA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,7-5 1-6 6-3
-800742039,800796210.0,Dylan Marks,JAM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-2
-800742039,800692700.0,Harold Ronaldo Andre Cotom Hidalgo,GUA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
-800742039,800814074.0,Christofer Jair Nunez,HON,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,2-6 0-6
-800742039,800769530.0,Alejandro Morales,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
-800742039,800741909.0,Brendon Bridgewater,CUW,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 4-6 7-5
 800662592,800601481.0,Mikhail Kulyagin,RUS,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,L,1-6 1-6
 800662592,800503732.0,Tikhon Sorokin,KAZ,J30 Aktobe,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,4-6 6-4 2-6
 800662592,800521288.0,Erasyl Bakhtiyar,KAZ,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,0-6 1-6
@@ -15436,6 +15348,18 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800662592,800552452.0,Azat Sarsembaev,KAZ,J30 Namangan,2023,12 Jun to 17 Jun 2023,Hard,2nd Round,W,6-4 3-6 6-3
 800662592,800636302.0,Izhaan Ashfaq Izhaan,IND,J30 Namangan,2023,12 Jun to 17 Jun 2023,Hard,1st Round,W,5-7 6-4 6-2
 800662592,800553664.0,Serafim Vasilchenko,RUS,J30 Uchkun,2023,17 Apr to 22 Apr 2023,Clay,1st Round,L,1-6 1-6
+800742039,800598540.0,Juan Carlos Portilla Morales,USA,J30 Tacarigua,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,0-6 0-6
+800742039,800759171.0,Nicholas Choo,USA,J30 Tacarigua,2023,21 Aug to 26 Aug 2023,Hard,Quarter-final,L,2-6 0-6
+800742039,800742031.0,Alhil Cyril,LCA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,7-5 1-6 6-3
+800742039,800796210.0,Dylan Marks,JAM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-2
+800742039,800692700.0,Harold Ronaldo Andre Cotom Hidalgo,GUA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
+800742039,800769530.0,Alejandro Morales,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
+800742039,800741909.0,Brendon Bridgewater,CUW,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 4-6 7-5
+800742039,800814074.0,Christofer Jair Nunez,HON,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,2-6 0-6
+800748033,800678245.0,Heemin Choi,KOR,J30 Ho Chi Minh City,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,1-6 4-6
+800748033,800660642.0,Napat Pattanalertphan,THA,J30 Ho Chi Minh City,2023,08 Nov to 12 Nov 2023,Hard,2nd Round,L,2-6 0-6
+800748033,800753187.0,Bochen Yao,CHN,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,1st Round,L,2-6 0-6
+800748033,800666087.0,Bon Hong Koo,KOR,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,1st Round,L,1-6 2-6
 800703453,800603741.0,Igor Piasek,POL,J60 Windhoek,2023,03 Apr to 08 Apr 2023,Hard,2nd Round,L,3-6 3-6
 800703453,800693461.0,Pavlos Christoforakis,RSA,J30 Windhoek,2023,27 Mar to 01 Apr 2023,Hard,1st Round,L,6-7 2-6
 800600746,800596079.0,Benjamin Scharner,AUT,J30 Maria Lanzendorf,2023,09 Oct to 14 Oct 2023,Clay,1st Round,L,3-6 3-6
@@ -15462,10 +15386,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800712172,800656026.0,Danial Khatibi,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,Quarter-final,L,2-6 7-6 5-10
 800712172,800680997.0,siddharth jeebu,IND,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,W,7-5 6-2
 800712172,800706160.0,Hirad Asim,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-1 6-4
-800644926,800586416.0,Alan Aiukhanov,RUS,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,1-6 0-6
-800644926,800573442.0,Marat Salbiev,RUS,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,L,0-6 2-6
-800644926,800705500.0,Abdujafar Aliev,TJK,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-0 6-0
-800644926,800580246.0,Mehul Gautam,IND,J100 Fergana,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,1-6 2-6
 800597950,800550880.0,Ronaldo Kershis,LAT,J100 Aizkraukle,2023,27 Nov to 02 Dec 2023,Carpet,1st Round,L,1-6 2-6
 800597950,800621793.0,Andrew Cutocheras,GBR,J30 Aizkraukle,2023,02 Oct to 07 Oct 2023,Carpet,2nd Round,L,3-6 6-4 5-10
 800597950,800627815.0,Juliusz Stanczyk,POL,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,1st Round,L,3-6 0-6
@@ -15474,6 +15394,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800597950,800572933.0,Olaf Wisniewski,POL,J60 Ventspils,2023,22 May to 27 May 2023,Hard,Quarter-final,L,6-3 2-6 4-10
 800597950,800570277.0,Kaspar Lusti,EST,J100 Aizkraukle,2023,17 Apr to 22 Apr 2023,Carpet,1st Round,L,0-6 5-7
 800597950,800543000.0,Hugo Roberto Loit,EST,J60 Aizkraukle,2023,10 Apr to 15 Apr 2023,Carpet,1st Round,L,4-6 2-6
+800644926,800586416.0,Alan Aiukhanov,RUS,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,1-6 0-6
+800644926,800573442.0,Marat Salbiev,RUS,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,L,0-6 2-6
+800644926,800705500.0,Abdujafar Aliev,TJK,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-0 6-0
+800644926,800580246.0,Mehul Gautam,IND,J100 Fergana,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,1-6 2-6
 800746408,800582745.0,Tian hao Hou,CHN,J60 Kingston,2023,24 Jul to 30 Jul 2023,Hard,1st Round,L,0-6 0-6
 800746408,800668134.0,Brennon Chow,USA,J30 Kingston,2023,17 Jul to 23 Jul 2023,Hard,2nd Round,L,1-6 1-6
 800631606,800598694.0,Nicholas Fisk,GBR,J60 Heiveld,2023,30 Oct to 05 Nov 2023,Carpet,3rd Round,L,1-6 1-6
@@ -15525,10 +15449,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800600620,800727000.0,Piotr Dzikolowski,POL,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,2nd Round,L,4-6 1-6
 800600620,800629483.0,Viggo Lindstrup,SWE,J30 Jelgava,2023,11 Sep to 16 Sep 2023,Clay,1st Round,L,1-6 3-6
 800600620,800601215.0,Oskars Butans,LAT,J100 Liepaja,2023,28 Aug to 01 Sep 2023,Clay,2nd Round,L,3-6 3-6
-800743576,800573486.0,Krystof Kominek,CZE,J60 Veska,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,2-6 0-6
-800745017,800603684.0,ori Hillel,ISR,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,1-6 0-6
-800745017,800661919.0,Anjann Sai Boorela,IND,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,1st Round,L,1-6 1-6
-800760511,800765228.0,Tatsuki Anjo,JPN,J60 Yamanashi,2023,15 Nov to 19 Nov 2023,Clay,1st Round,L,4-6 2-6
 800654807,800534177.0,Matthew Zeifman,USA,J100 Burlington,2023,30 Oct to 03 Nov 2023,Hard,2nd Round,L,5-7 3-6
 800654807,800688517.0,Loic Massotte,CAN,J100 Burlington,2023,30 Oct to 03 Nov 2023,Hard,1st Round,W,6-1 6-0
 800654807,800685006.0,quincy yao,CAN,J30 Woodbridge 		,2023,23 Oct to 27 Oct 2023,Hard,1st Round,L,1-6 2-6
@@ -15536,6 +15456,18 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800654807,800731490.0,Boda Zheng,CHN,J30 Islamabad,2023,13 Feb to 18 Feb 2023,Hard,Quarter-final,L,3-6 5-7
 800654807,800652175.0,Mustansir Ali Khan Barons,PAK,J30 Islamabad,2023,13 Feb to 18 Feb 2023,Hard,2nd Round,W,6-2 6-1
 800654807,800576425.0,Bilal Asim,PAK,J30 Islamabad,2023,06 Feb to 11 Feb 2023,Hard,1st Round,L,6-3 2-6 3-6
+800760511,800765228.0,Tatsuki Anjo,JPN,J60 Yamanashi,2023,15 Nov to 19 Nov 2023,Clay,1st Round,L,4-6 2-6
+800743576,800573486.0,Krystof Kominek,CZE,J60 Veska,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,2-6 0-6
+800745017,800603684.0,ori Hillel,ISR,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,1-6 0-6
+800745017,800661919.0,Anjann Sai Boorela,IND,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,1st Round,L,1-6 1-6
+800665751,800702895.0,Behrad Afshari,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,1st Round,L,6-7 6-2 9-11
+800665751,800654599.0,bardia sharifi,IRI,J30 Karaj,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,3-6 3-6
+800665751,800624729.0,Airik Abedinzadeh,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,L,1-6 1-6
+800665751,800639546.0,Arian Chehrazi,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-4 1-6 10-7
+800665751,800666220.0,Amir hossein Nabilou,IRI,J100 Tehran,2023,26 Jun to 01 Jul 2023,Clay,1st Round,L,3-6 1-6
+800665751,800545842.0,Kivanc Bedir,TUR,J60 Kish Island,2023,30 Jan to 04 Feb 2023,Clay,2nd Round,L,1-6 0-6
+800665751,800678193.0,Artin Zarandi,IRI,J60 Kish Island,2023,30 Jan to 04 Feb 2023,Clay,1st Round,W,6-1 2-6 10-5
+800665751,800640361.0,Parsa Samareh,IRI,J60 Kish Island,2023,23 Jan to 28 Jan 2023,Clay,1st Round,L,0-6 3-6
 800594330,800727660.0,Arshiya Rasoulinia,IRI,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,1st Round,L,1-5
 800594330,800620643.0,Luka Cordas,AUT,J30 Al Zahra,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,L,2-6 3-6
 800594330,800675354.0,MANI MOLAASGARI,IRI,J30 Urmia,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,1-6 1-6
@@ -15552,23 +15484,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800594330,800673062.0,Cristian Anton Leontidis,ROU,J30 Adana,2023,23 Jan to 29 Jan 2023,Clay,1st Round,L,1-6 4-6
 800594330,800579792.0,Raffael Gasanov,GER,J100 Antalya,2023,16 Jan to 22 Jan 2023,Clay,2nd Round,L,4-6 4-6
 800594330,800546842.0,Kai-Luca Ampaw,GBR,J100 Istanbul,2023,09 Jan to 15 Jan 2023,Hard,1st Round,L,1-6 2-6
-800665751,800702895.0,Behrad Afshari,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,1st Round,L,6-7 6-2 9-11
-800665751,800654599.0,bardia sharifi,IRI,J30 Karaj,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,3-6 3-6
-800665751,800624729.0,Airik Abedinzadeh,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,2nd Round,L,1-6 1-6
-800665751,800639546.0,Arian Chehrazi,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,1st Round,W,6-4 1-6 10-7
-800665751,800666220.0,Amir hossein Nabilou,IRI,J100 Tehran,2023,26 Jun to 01 Jul 2023,Clay,1st Round,L,3-6 1-6
-800665751,800545842.0,Kivanc Bedir,TUR,J60 Kish Island,2023,30 Jan to 04 Feb 2023,Clay,2nd Round,L,1-6 0-6
-800665751,800678193.0,Artin Zarandi,IRI,J60 Kish Island,2023,30 Jan to 04 Feb 2023,Clay,1st Round,W,6-1 2-6 10-5
-800665751,800640361.0,Parsa Samareh,IRI,J60 Kish Island,2023,23 Jan to 28 Jan 2023,Clay,1st Round,L,0-6 3-6
-800757891,800760364.0,MIN HSIANG TSAO,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,1st Round,L,6-4 1-6 1-6
-800757891,800760865.0,CHENG-YU TSAI,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,3rd Round,W,6-3 1-6 11-9
-800757891,800839209.0,Jin-cheng Yeh,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,2nd Round,W,6-1 6-3
-800757891,800767534.0,daijiro uchikawa,JPN,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,1st Round,W,6-4 6-1
-800757891,800732180.0,Hung-Jui Chen,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,1st Round,L,3-6 2-6
-800757891,800760613.0,KAI-CHENG PENG,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,3rd Round,W,6-3 6-1
-800757891,800764434.0,Bo wei Chiang,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,2nd Round,W,6-3 6-4
-800757891,800705593.0,Shiyu Hashizume,JPN,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,1st Round,W,6-4 3-6 10-8
-800757891,800708563.0,CHIN KUAN LAI,TPE,J60 Changhua,2023,05 Sep to 10 Sep 2023,Hard,2nd Round,L,3-6 1-6
 800586201,800537608.0,Aleksandr Piskarev,RUS,J30 Maria Lanzendorf,2023,02 Oct to 07 Oct 2023,Clay,1st Round,L,4-6 4-6
 800586201,800569937.0,Anton Stipetic,CRO,J60 Domzale,2023,22 Aug to 27 Aug 2023,Clay,1st Round,L,4-6 3-6
 800586201,800675515.0,Filip Martinovic,CZE,J60 Domzale,2023,22 Aug to 27 Aug 2023,Clay,3rd Round,W,6-2 6-1
@@ -15578,6 +15493,15 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800586201,800570288.0,Zan Fris,SLO,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,1st Round,L,4-6 2-6
 800586201,800649839.0,Luka Videnovic,SLO,J100 Wolfsberg,2023,20 Feb to 25 Feb 2023,Carpet,1st Round,L,1-6 3-6
 800586201,800523227.0,Sergej Zivkovic,SRB,J30 Oberpullendorf,2023,24 Jan to 29 Jan 2023,Hard,1st Round,L,1-6 3-6
+800757891,800760364.0,MIN HSIANG TSAO,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,1st Round,L,6-4 1-6 1-6
+800757891,800760865.0,CHENG-YU TSAI,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,3rd Round,W,6-3 1-6 11-9
+800757891,800839209.0,Jin-cheng Yeh,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,2nd Round,W,6-1 6-3
+800757891,800767534.0,daijiro uchikawa,JPN,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,1st Round,W,6-4 6-1
+800757891,800732180.0,Hung-Jui Chen,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,1st Round,L,3-6 2-6
+800757891,800760613.0,KAI-CHENG PENG,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,3rd Round,W,6-3 6-1
+800757891,800764434.0,Bo wei Chiang,TPE,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,2nd Round,W,6-3 6-4
+800757891,800705593.0,Shiyu Hashizume,JPN,J30 Kaohsiung,2023,31 Oct to 05 Nov 2023,Hard,1st Round,W,6-4 3-6 10-8
+800757891,800708563.0,CHIN KUAN LAI,TPE,J60 Changhua,2023,05 Sep to 10 Sep 2023,Hard,2nd Round,L,3-6 1-6
 800706095,800647969.0,Danyil Kurochka,UKR,J30 Pazardzhik,2023,23 Oct to 28 Oct 2023,Clay,1st Round,L,4-6 7-5 9-11
 800706095,800571101.0,Samuil Sivinov,GBR,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,2nd Round,L,0-6 0-6
 800706095,800762986.0,Simeon Velev,USA,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,1st Round,W,6-1 6-3
@@ -15596,7 +15520,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800664721,800701728.0,MICHAEL BOLIDARD IBAKAKOMBOYO-AYESSA,CGO,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,W,6-1 6-0
 800664721,800635443.0,Mirija Andriantefihasina,MAD,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,2nd Round,L,4-6 3-6
 800664721,800743469.0,Issabe LOEMBA MANGAFOU,CGO,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,1st Round,W,6-0 6-1
-800749489,800751261.0,TIANCHENG LI,CHN,J30 Jingshan,2023,04 Jul to 09 Jul 2023,Hard,2nd Round,L,3-6 0-6
+800593812,800546455.0,Teva Ardillon,FGU,J100 Saint Cyprien,2023,30 Oct to 05 Nov 2023,Hard,1st Round,L,6-7 5-7
+800593812,800587194.0,Sebastian Gampert,GER,J60 Esch-Alzette,2023,20 Feb to 25 Feb 2023,Hard,2nd Round,L,7-6 5-7 2-10
+800593812,800769211.0,Clement Schmitz,BEL,J60 Esch-Alzette,2023,20 Feb to 25 Feb 2023,Hard,1st Round,W,6-0 6-1
 800698601,800687305.0,REDA EL AOUNI,MAR,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,Quarter-final,L,3-6 1-6
 800698601,800586825.0,Omar Kabbadj,MAR,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,2nd Round,W,7-6 6-2
 800698601,800630426.0,Sami Hayes,MAR,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,1st Round,W,3-6 6-2 10-6
@@ -15610,9 +15536,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800591348,800655025.0,Alexander Tokar,UKR,J60 Offenbach,2023,11 Jan to 15 Jan 2023,Hard,1st Round,L,0-6 2-6
 800591348,800587194.0,Sebastian Gampert,GER,J60 Frankfurt,2023,03 Jan to 08 Jan 2023,Hard,Quarter-final,L,3-6 1-6
 800591348,800572319.0,Lance Nisbet,GBR,J60 Frankfurt,2023,03 Jan to 08 Jan 2023,Hard,1st Round,W,7-5 7-6
-800593812,800546455.0,Teva Ardillon,FGU,J100 Saint Cyprien,2023,30 Oct to 05 Nov 2023,Hard,1st Round,L,6-7 5-7
-800593812,800587194.0,Sebastian Gampert,GER,J60 Esch-Alzette,2023,20 Feb to 25 Feb 2023,Hard,2nd Round,L,7-6 5-7 2-10
-800593812,800769211.0,Clement Schmitz,BEL,J60 Esch-Alzette,2023,20 Feb to 25 Feb 2023,Hard,1st Round,W,6-0 6-1
+800749489,800751261.0,TIANCHENG LI,CHN,J30 Jingshan,2023,04 Jul to 09 Jul 2023,Hard,2nd Round,L,3-6 0-6
 800742143,800726109.0,Lucas Wang,CAN,J60 Langley,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,4-6 5-7
 800742143,800739988.0,Yulin Li,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,L,1-6 6-4 3-6
 800742143,800695140.0,Andrew Sretavan,USA,J100 Vancouver,2023,10 Jul to 15 Jul 2023,Hard,2nd Round,L,0-6 0-6
@@ -15676,6 +15600,25 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800760232,800674191.0,Matias Penaranda,BOL,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,W,7-5 4-6 10-8
 800760232,800652714.0,Aaron Yu,HKG,J60 Santo Domingo,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,1-6 1-6
 800660260,800578645.0,Eduard Gabriel Coreisa,ROU,J30 Varna,2023,05 Sep to 10 Sep 2023,Clay,1st Round,L,1-6 1-6
+800586987,800582359.0,Lucas Bazin,FRA,J100 Saint Gregoire,2023,27 Nov to 02 Dec 2023,Hard,2nd Round,L,1-6 0-6
+800586987,800556212.0,Timothee Lustig,FRA,J100 Saint Gregoire,2023,27 Nov to 02 Dec 2023,Hard,1st Round,W,6-3 1-6 15-13
+800586987,800544650.0,Yanis Peterhans,SUI,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,2nd Round,L,7-6 3-6 2-6
+800586987,800689893.0,Yassine Mahmah,MAR,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,1st Round,W,6-2 2-6 6-2
+800586987,800586830.0,Lenny Couturier,FRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,6-3 2-6 5-7
+800586987,800594796.0,Gabriel Nogueira,BRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,Quarter-final,W,6-3 6-3
+800586987,800586532.0,Milan Icboyun,FRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,W,6-3 6-2
+800586987,800680654.0,Milo Nardelli,GBR,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-2 6-2
+800584058,800541391.0,Amar Silajdzic,BIH,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,2nd Round,L,0-5
+800584058,800649357.0,Andrej Milovanovic,SRB,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,1st Round,W,6-1 6-4
+800584058,800648973.0,MYKYTA KOLESNYK,UKR,J60 Tallinn,2023,27 Jun to 01 Jul 2023,Clay,2nd Round,L,4-6 2-6
+800584058,800647999.0,Hitoshi Shirabe,JPN,J60 Tallinn,2023,27 Jun to 01 Jul 2023,Clay,1st Round,W,1-6 6-4 14-12
+800584058,800572737.0,Oskari Paldanius,FIN,J100 Tallinn,2023,15 May to 20 May 2023,Clay,2nd Round,L,0-6 1-6
+800584058,800601215.0,Oskars Butans,LAT,J100 Tallinn,2023,15 May to 20 May 2023,Clay,1st Round,W,6-4 6-4
+800584058,800568586.0,Eduards Karpovs,LAT,J30 Tallinn,2023,24 Apr to 28 Apr 2023,Hard,2nd Round,L,4-6 6-1 9-11
+800584058,800734323.0,Filipp Dolgorukov,EST,J30 Tallinn,2023,24 Apr to 28 Apr 2023,Hard,1st Round,W,6-3 6-2
+800584058,800566259.0,Veikko Sivonen,FIN,J30 Tallinn,2023,06 Mar to 10 Mar 2023,Hard,2nd Round,L,4-6 6-4 4-10
+800584058,800624100.0,Satoshi Shirabe,JPN,J30 Tallinn,2023,06 Mar to 10 Mar 2023,Hard,1st Round,W,7-6 6-1
+800584058,800582618.0,Axel Bergh,SWE,J30 Tartu,2023,27 Feb to 04 Mar 2023,Carpet,1st Round,L,4-6 2-6
 800587999,800587620.0,Nizar Rhazali,MAR,J30 Fes,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,7-5 4-6 3-6
 800587999,800643850.0,Arris Bahloul,ALG,J30 Boufarik,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,3-6 2-6
 800587999,800720824.0,Amine Jabrani,MAR,J30 Boufarik,2023,10 Jul to 15 Jul 2023,Clay,1st Round,W,6-1 6-4
@@ -15693,25 +15636,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800587999,800650677.0,Ibrahim Snoussi,TUN,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,2nd Round,W,2-6 7-6 7-6
 800587999,800586416.0,Alan Aiukhanov,RUS,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,1st Round,W,6-4 6-2
 800587999,800519716.0,Olaf Vanhooren,BEL,J30 Heiveld,2023,16 Jan to 21 Jan 2023,Carpet,1st Round,L,0-6 2-6
-800584058,800541391.0,Amar Silajdzic,BIH,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,2nd Round,L,0-5
-800584058,800649357.0,Andrej Milovanovic,SRB,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,1st Round,W,6-1 6-4
-800584058,800648973.0,MYKYTA KOLESNYK,UKR,J60 Tallinn,2023,27 Jun to 01 Jul 2023,Clay,2nd Round,L,4-6 2-6
-800584058,800647999.0,Hitoshi Shirabe,JPN,J60 Tallinn,2023,27 Jun to 01 Jul 2023,Clay,1st Round,W,1-6 6-4 14-12
-800584058,800572737.0,Oskari Paldanius,FIN,J100 Tallinn,2023,15 May to 20 May 2023,Clay,2nd Round,L,0-6 1-6
-800584058,800601215.0,Oskars Butans,LAT,J100 Tallinn,2023,15 May to 20 May 2023,Clay,1st Round,W,6-4 6-4
-800584058,800568586.0,Eduards Karpovs,LAT,J30 Tallinn,2023,24 Apr to 28 Apr 2023,Hard,2nd Round,L,4-6 6-1 9-11
-800584058,800734323.0,Filipp Dolgorukov,EST,J30 Tallinn,2023,24 Apr to 28 Apr 2023,Hard,1st Round,W,6-3 6-2
-800584058,800566259.0,Veikko Sivonen,FIN,J30 Tallinn,2023,06 Mar to 10 Mar 2023,Hard,2nd Round,L,4-6 6-4 4-10
-800584058,800624100.0,Satoshi Shirabe,JPN,J30 Tallinn,2023,06 Mar to 10 Mar 2023,Hard,1st Round,W,7-6 6-1
-800584058,800582618.0,Axel Bergh,SWE,J30 Tartu,2023,27 Feb to 04 Mar 2023,Carpet,1st Round,L,4-6 2-6
-800586987,800582359.0,Lucas Bazin,FRA,J100 Saint Gregoire,2023,27 Nov to 02 Dec 2023,Hard,2nd Round,L,1-6 0-6
-800586987,800556212.0,Timothee Lustig,FRA,J100 Saint Gregoire,2023,27 Nov to 02 Dec 2023,Hard,1st Round,W,6-3 1-6 15-13
-800586987,800544650.0,Yanis Peterhans,SUI,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,2nd Round,L,7-6 3-6 2-6
-800586987,800689893.0,Yassine Mahmah,MAR,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,1st Round,W,6-2 2-6 6-2
-800586987,800586830.0,Lenny Couturier,FRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,6-3 2-6 5-7
-800586987,800594796.0,Gabriel Nogueira,BRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,Quarter-final,W,6-3 6-3
-800586987,800586532.0,Milan Icboyun,FRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,W,6-3 6-2
-800586987,800680654.0,Milo Nardelli,GBR,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-2 6-2
 800643460,800590628.0,Kamonpanyakorn Thadpong,THA,J30 Islamabad,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,2-6 0-6
 800643460,800583022.0,Muhammad Kashan Tariq Qureshi,PAK,J30 Islamabad,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,3-6 6-3 6-2
 800643460,800644730.0,Muhammad Hamza AASIM,PAK,J30 Islamabad,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,2-6 2-6
@@ -15734,12 +15658,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800661489,800674704.0,Vasil Rusanov,BUL,J30 Skopje,2023,29 Aug to 03 Sep 2023,Clay,2nd Round,L,3-6 4-6
 800661489,800603052.0,Ognjen Belic,SRB,J30 Skopje,2023,29 Aug to 03 Sep 2023,Clay,1st Round,W,7-6 3-0
 800661489,800534509.0,Lukas Marjanovic,SLO,J30 Skopje,2023,09 May to 14 May 2023,Clay,1st Round,L,1-6 2-6
-800714415,800768300.0,Edward Mwakio,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,1st Round,L,2-6 3-6
-800714415,800747640.0,Jeff Okuku Hesbon,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,2nd Round,L,4-6 0-6
-800714415,800769685.0,Malli Muondu,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,1st Round,W,6-0 6-1
-800714415,800706728.0,Akshat Dhull,IND,J60 Nairobi,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,0-6 2-6
-800714415,800742769.0,Edison Nshimiyimana,RWA,J60 Kigali,2023,21 Aug to 26 Aug 2023,Clay,2nd Round,L,5-7 5-7
-800714415,800586888.0,Shabad Singh,IND,J60 Kigali,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,0-6 0-6
 800745817,800735637.0,Alejandro Vigil De Ovando,MEX,J30 San Jose,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,0-6 1-6
 800745817,800733155.0,Luka Radosavljevic,CAN,J30 San Jose,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,7-6 6-4
 800745817,800735637.0,Alejandro Vigil De Ovando,MEX,J30 San Jose,2023,27 Nov to 02 Dec 2023,Hard,2nd Round,L,5-7 7-6 7-10
@@ -15755,6 +15673,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800745817,800750628.0,George Zimmermann,CAN,J30 Grand Cayman,2023,29 May to 02 Jun 2023,Hard,1st Round,W,6-1 6-0
 800745817,800672215.0,Hugo Fidler,ARU,J30 Christiansted,2023,15 May to 19 May 2023,Hard,1st Round,L,4-6 4-6
 800745817,800708799.0,Mekai Peters,ISV,J30 Christiansted,2023,15 May to 19 May 2023,Hard,Quarter-final,W,6-1 6-4
+800714415,800768300.0,Edward Mwakio,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,1st Round,L,2-6 3-6
+800714415,800747640.0,Jeff Okuku Hesbon,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,2nd Round,L,4-6 0-6
+800714415,800769685.0,Malli Muondu,KEN,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,1st Round,W,6-0 6-1
+800714415,800706728.0,Akshat Dhull,IND,J60 Nairobi,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,0-6 2-6
+800714415,800742769.0,Edison Nshimiyimana,RWA,J60 Kigali,2023,21 Aug to 26 Aug 2023,Clay,2nd Round,L,5-7 5-7
+800714415,800586888.0,Shabad Singh,IND,J60 Kigali,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,0-6 0-6
 800733134,800591997.0,Minwoo Kim,KOR,J30 Ho Chi Minh City,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,3-6 7-5 5-7
 800733134,800728363.0,Hai Dang Ngo,VIE,J30 Ho Chi Minh City,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-2 6-0
 800733134,800598581.0,Gyeom Do,KOR,J30 Ho Chi Minh City,2023,08 Nov to 12 Nov 2023,Hard,1st Round,L,2-6 6-4 1-6
@@ -15816,20 +15740,15 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800592177,800566743.0,Rodion Lukashov,KAZ,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,1st Round,W,6-2 6-2
 800592177,800575831.0,Artemii Lazarev,RUS,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,L,6-3 0-6 6-7
 800592177,800531456.0,Boburmirzo Ekubjanov,UZB,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,7-6 7-6
-800593252,800521853.0,Artur Ibragimov,UZB,J30 Cholpon-Ata,2023,03 Jul to 08 Jul 2023,Hard,Quarter-final,L,1-6 4-6
-800593252,800667722.0,Islambek Almazbekov,KGZ,J30 Cholpon-Ata,2023,03 Jul to 08 Jul 2023,Hard,1st Round,W,6-0 6-3
-800593252,800593296.0,Arsen Tabaldyev,KGZ,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,3-6 6-4 2-6
 800588653,800578275.0,Denis Vishenchuk Vishenko,RUS,J30 Dushanbe,2023,08 May to 13 May 2023,Hard,1st Round,L,4-6 7-6 2-6
 800588653,800509692.0,Bobur Madaminov,UZB,J30 Dushanbe,2023,08 May to 13 May 2023,Hard,Quarter-final,L,2-6 7-5 4-10
 800588653,800733407.0,Jinghan Li,CHN,J30 Dushanbe,2023,08 May to 13 May 2023,Hard,2nd Round,W,6-1 6-1
 800588653,800586905.0,Fedor Altukhov,RUS,J30 Dushanbe,2023,01 May to 06 May 2023,Hard,2nd Round,L,6-7 6-4 9-11
 800588653,800705500.0,Abdujafar Aliev,TJK,J30 Dushanbe,2023,01 May to 06 May 2023,Hard,1st Round,W,6-0 6-0
+800593252,800521853.0,Artur Ibragimov,UZB,J30 Cholpon-Ata,2023,03 Jul to 08 Jul 2023,Hard,Quarter-final,L,1-6 4-6
+800593252,800667722.0,Islambek Almazbekov,KGZ,J30 Cholpon-Ata,2023,03 Jul to 08 Jul 2023,Hard,1st Round,W,6-0 6-3
+800593252,800593296.0,Arsen Tabaldyev,KGZ,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,3-6 6-4 2-6
 800769551,800736305.0,Vishvajeet Sanas,IND,J30 Dhaka,2023,06 Nov to 10 Nov 2023,Hard,1st Round,L,4-6 6-7
-800748090,800629952.0,David Ekpenyong,NGR,J30 Abuja,2023,14 Jun to 18 Jun 2023,Hard,2nd Round,L,2-6 1-6
-800748090,800742594.0,Jubril Andu,GBR,J30 Abuja,2023,14 Jun to 18 Jun 2023,Hard,1st Round,W,4-6 6-2 6-4
-800748090,800692998.0,Diganth M,IND,J30 Abuja,2023,07 Jun to 11 Jun 2023,Hard,1st Round,L,0-6 6-4 2-6
-800748090,800627031.0,Peter Oche John,NGR,J30 Abuja,2023,31 May to 04 Jun 2023,Hard,2nd Round,L,6-4 1-6 1-6
-800748090,800751273.0,OLAMILEKAN MOSES,NGR,J30 Abuja,2023,31 May to 04 Jun 2023,Hard,1st Round,W,6-4 7-6
 800735517,800762201.0,Jon Totorica,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,2-6 2-6
 800735517,800692338.0,Alexander Farias,USA,J30 Nassau,2023,26 Jun to 30 Jun 2023,Hard,Quarter-final,L,1-6 0-6
 800735517,800733860.0,Ayden Fraire,USA,J30 Nassau,2023,26 Jun to 30 Jun 2023,Hard,2nd Round,W,6-2 7-5
@@ -15838,6 +15757,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800735517,800638852.0,Alvaro Perez,DOM,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,L,2-6 1-6
 800735517,800741737.0,Ethan Warner,BAR,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-1 6-1
 800735517,800654803.0,DIEGO RICARDO FUENTES ROCHA,NCA,DCJ North/Central America & The Caribbean Pre-Qualifying,2023,27 Feb to 04 Mar 2023,,,W,6-2 6-3
+800748090,800629952.0,David Ekpenyong,NGR,J30 Abuja,2023,14 Jun to 18 Jun 2023,Hard,2nd Round,L,2-6 1-6
+800748090,800742594.0,Jubril Andu,GBR,J30 Abuja,2023,14 Jun to 18 Jun 2023,Hard,1st Round,W,4-6 6-2 6-4
+800748090,800692998.0,Diganth M,IND,J30 Abuja,2023,07 Jun to 11 Jun 2023,Hard,1st Round,L,0-6 6-4 2-6
+800748090,800627031.0,Peter Oche John,NGR,J30 Abuja,2023,31 May to 04 Jun 2023,Hard,2nd Round,L,6-4 1-6 1-6
+800748090,800751273.0,OLAMILEKAN MOSES,NGR,J30 Abuja,2023,31 May to 04 Jun 2023,Hard,1st Round,W,6-4 7-6
 800655690,800688647.0,Luka Matellini,GBR,J100 Lima,2023,08 May to 13 May 2023,Clay,1st Round,L,2-6 3-6
 800655690,800655350.0,Lucas Garcia Angarita,COL,J60 Lima,2023,01 May to 06 May 2023,Clay,2nd Round,L,6-2 3-6 3-10
 800655690,800709919.0,Mariano A Darelli,PER,J60 Lima,2023,01 May to 06 May 2023,Clay,1st Round,W,5-7 6-3 10-3
@@ -15868,6 +15792,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800757235,800187770.0,Shaun Mahelis,BAH,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-1 6-1
 800757235,800799705.0,Neevin Marcos,NED,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-2
 800757235,800769530.0,Alejandro Morales,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,6-7 5-7
+800683813,800516113.0,Maxym Kulish,UKR,J200 Gladbeck,2023,20 Jun to 24 Jun 2023,Clay,1st Round,L,2-6 5-7
+800567182,800540448.0,Akhmaddzhon Kosimi,TJK,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,2-6 4-6
+800567182,800573442.0,Marat Salbiev,RUS,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,Quarter-final,L,1-6 3-6
+800567182,800730899.0,Yasin Hajiloie,IRI,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,W,3-6 6-1 10-8
+800567182,800742402.0,Amirjon Uzoqov,TJK,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-0 6-0
 800650150,800648590.0,Tarik Pepic,SRB,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,Quarter-final,L,1-6 1-6
 800650150,800723462.0,Luka Djuric,GER,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,2nd Round,W,6-4 6-2
 800650150,800570277.0,Kaspar Lusti,EST,J30 Skopje,2023,22 Aug to 27 Aug 2023,Clay,1st Round,W,6-1 6-3
@@ -15878,24 +15807,19 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800650150,800562258.0,Nikola Matovic,SRB,J30 Skopje,2023,09 May to 14 May 2023,Clay,1st Round,L,0-6 3-6
 800650150,800626198.0,Kristijan Janev,MKD,J60 Skopje,2023,01 May to 07 May 2023,Clay,3rd Round,L,3-6 2-6
 800650150,800667589.0,Ivaylo Tomov,BUL,J60 Skopje,2023,01 May to 07 May 2023,Clay,1st Round,W,7-5 6-1
-800683813,800516113.0,Maxym Kulish,UKR,J200 Gladbeck,2023,20 Jun to 24 Jun 2023,Clay,1st Round,L,2-6 5-7
-800567182,800540448.0,Akhmaddzhon Kosimi,TJK,J60 Dushanbe,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,2-6 4-6
-800567182,800573442.0,Marat Salbiev,RUS,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,Quarter-final,L,1-6 3-6
-800567182,800730899.0,Yasin Hajiloie,IRI,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,W,3-6 6-1 10-8
-800567182,800742402.0,Amirjon Uzoqov,TJK,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,W,6-0 6-0
 800595070,800560553.0,Alessandro Meo,ITA,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,1st Round,L,6-2 1-6 4-10
 800591122,800582791.0,Luis Llorens Saracho,ESP,J30 Silla-Saladar,2023,31 Oct to 04 Nov 2023,Clay,1st Round,L,2-6 0-6
 800591122,800506561.0,Tiago Boschmans,POR,J200 Valencia,2023,07 Mar to 11 Mar 2023,Clay,1st Round,L,1-6 0-6
-800699057,800670827.0,maximilian williams,GBR,J60 Liverpool,2023,13 Nov to 17 Nov 2023,Hard,1st Round,L,3-6 0-6
-800699057,800521159.0,Martino Colabella,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,Quarter-final,L,0-6 1-6
-800699057,800667599.0,Joseph McLaughlin,IRL,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,2nd Round,W,6-3 6-1
-800699057,800598437.0,Ollie Anderson,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,1st Round,W,6-4 3-6 10-7
 800725050,800716783.0,Lucas Johansson,SWE,J30 Paralimni,2023,30 Oct to 05 Nov 2023,Carpet,Quarter-final,L,1-6 1-6
 800725050,800678670.0,Maxim Kozlov,CYP,J30 Paralimni,2023,30 Oct to 05 Nov 2023,Carpet,2nd Round,W,6-4 6-2
 800720184,800754634.0,Matvei Kobryk,BLR,J100 Tashkent,2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,3-6 2-6
 800720184,800503732.0,Tikhon Sorokin,KAZ,J30 Uchkun,2023,17 Apr to 22 Apr 2023,Clay,1st Round,L,1-6 0-6
 800720184,800545629.0,Yauheni Bursau,BLR,J30 Fergana,2023,03 Apr to 08 Apr 2023,Hard,2nd Round,L,3-6 0-6
 800720184,800630725.0,Richard Lacis,BLR,J30 Namangan,2023,27 Mar to 01 Apr 2023,Hard,2nd Round,L,1-6 0-6
+800699057,800670827.0,maximilian williams,GBR,J60 Liverpool,2023,13 Nov to 17 Nov 2023,Hard,1st Round,L,3-6 0-6
+800699057,800521159.0,Martino Colabella,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,Quarter-final,L,0-6 1-6
+800699057,800667599.0,Joseph McLaughlin,IRL,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,2nd Round,W,6-3 6-1
+800699057,800598437.0,Ollie Anderson,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,1st Round,W,6-4 3-6 10-7
 800694385,800680791.0,Krystof Vymazal,CZE,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,1st Round,L,1-6 2-6
 800694385,800570882.0,Taha Vaziri Harami,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,Quarter-final,W,6-4 6-2
 800694385,800761758.0,Karen Pouryahya,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,W,6-0 6-0
@@ -15905,8 +15829,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800694385,800545842.0,Kivanc Bedir,TUR,J60 Kish Island,2023,23 Jan to 28 Jan 2023,Clay,1st Round,L,2-6 0-6
 800598231,800568765.0,Ege Mocan,TUR,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,2nd Round,L,4-6 0-6
 800598231,800694048.0,Mahdi Samet,TUN,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,1st Round,W,6-3 7-6
-800651346,800572314.0,jed Mcmillan,GBR,J60 Glasgow,2023,28 Nov to 02 Dec 2023,Hard,1st Round,L,4-6 2-6
 800677766,800705713.0,Jack Lukic,USA,J60 Heiveld,2023,30 Oct to 05 Nov 2023,Carpet,1st Round,L,3-6 5-7
+800651346,800572314.0,jed Mcmillan,GBR,J60 Glasgow,2023,28 Nov to 02 Dec 2023,Hard,1st Round,L,4-6 2-6
 800717026,800660623.0,DAVID MOGILEVSKY,ISR,2023 WJT AsiaOceania Pre-Qualifying,2023,13 Feb to 18 Feb 2023,,,L,3-6 1-6
 800717026,800701180.0,Rami Saouli,LBN,2023 WJT AsiaOceania Pre-Qualifying,2023,13 Feb to 18 Feb 2023,,,L,2-6 5-7
 800717026,800629291.0,Haider Alafraid,KSA,2023 WJT AsiaOceania Pre-Qualifying,2023,13 Feb to 18 Feb 2023,,,W,2-6 7-6 7-6
@@ -15919,6 +15843,32 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800722810,800684768.0,Benoit Geldof,FRA,J30 Mauritius,2023,11 Sep to 15 Sep 2023,Hard,1st Round,L,0-6 3-6
 800722810,800757018.0,Mathis Jean Dorchies,MRI,J30 Mauritius,2023,11 Sep to 15 Sep 2023,Hard,Quarter-final,W,6-4 6-2
 800722810,800686611.0,Baalaaji HL,IND,J30 Mauritius,2023,11 Sep to 15 Sep 2023,Hard,1st Round,W,6-4 6-4
+800602599,800743156.0,Nate Boyko,CAN,J60 Armenia,2023,20 Nov to 25 Nov 2023,Clay,2nd Round,L,6-3 1-6 5-10
+800602599,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J60 Armenia,2023,20 Nov to 25 Nov 2023,Clay,1st Round,W,7-5 6-2
+800602599,800745460.0,Jeremy Milette,CAN,J30 Santo Domingo,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,4-6 1-6
+800602599,800704374.0,Jordan Papadopoulos,USA,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,0-6 0-6
+800602599,800686645.0,Javier Urgal,DOM,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-1 6-0
+800602599,800631915.0,Juan Sebastian Caicedo Arevalo,COL,J30 Valledupar,2023,18 Sep to 22 Sep 2023,Hard,1st Round,L,3-6 2-6
+800602599,800578882.0,Juan David Robayo Arias,COL,J30 Cartagena,2023,11 Sep to 15 Sep 2023,Hard,2nd Round,L,2-6 0-6
+800602599,800575069.0,Rafhael Gastelu de La Roca,PER,J30 Cartagena,2023,11 Sep to 15 Sep 2023,Hard,1st Round,W,6-2 7-5
+800602599,800581353.0,Bautista Leguizamon,ARG,J100 Cali,2023,24 Jul to 29 Jul 2023,Clay,2nd Round,L,2-6 2-6
+800602599,800565403.0,Juan Sebastian Hernandez Herrera,COL,J100 Medellin,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,2-6 6-4 7-10
+800602599,800661488.0,Dylan Wilhelm,USA,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,1st Round,L,2-6 1-6
+800602599,800597380.0,Dani Szabo,CAN,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,L,1-6 2-6
+800602599,800590488.0,Rafael Giusti Jodas,BRA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,Quarter-final,W,7-6 7-6
+800602599,800693413.0,Matias Schaeuffler,ESA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,2nd Round,W,6-4 6-2
+800602599,800728567.0,Jan Martien Roest Gonzalez,GUA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,W,6-0 6-1
+800602599,800653221.0,Rodrigo Machado Moreira Filho,BRA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,Quarter-final,L,2-6 6-7
+800602599,800718707.0,LUIS ANGEL ALVAREZ DE LEON,GUA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,2nd Round,W,6-0 6-0
+800602599,800696856.0,Axel Frias Jimenez,GUA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,1st Round,W,6-3 6-4
+800602599,800564799.0,Samuel Sanchez Gomez,COL,J30 Pereira,2023,08 May to 13 May 2023,Clay,2nd Round,L,6-3 2-6 2-6
+800602599,800652636.0,Emilio Cardona,COL,J30 Pereira,2023,08 May to 13 May 2023,Clay,1st Round,W,3-6 7-6 6-0
+800602599,800654067.0,Samuel Lopez-Cardenas,COL,J30 Ibagué,2023,01 May to 06 May 2023,Clay,1st Round,L,6-7 4-6
+800602599,800602823.0,Manue Londono,COL,J30 Cundinamarca,2023,24 Apr to 29 Apr 2023,Clay,1st Round,L,6-7 6-3 5-7
+800657111,800728597.0,Nathan Gold,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,2-6 1-6
+800657111,800763790.0,Nicolas Wild,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,3rd Round,L,3-6 2-6
+800657111,800729595.0,Christopher Condoianis,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,W,6-2 6-2
+800657111,800761581.0,Pearce Lane,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-2 3-6 10-6
 800593324,800583771.0,Issah Ali,KSA,J30 Al Zahra,2023,09 Oct to 15 Oct 2023,Hard,1st Round,L,1-6
 800593324,800563320.0,Yaqoub Mohammed,KUW,J30 Al Zahra,2023,02 Oct to 08 Oct 2023,Hard,Semi-final,L,4-6 2-6
 800593324,800583771.0,Issah Ali,KSA,J30 Al Zahra,2023,02 Oct to 08 Oct 2023,Hard,Quarter-final,W,3-6 6-3 6-2
@@ -15957,32 +15907,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800593324,800629502.0,Gustav Dressler,AUT,J60 Ramat Hasharon,2023,10 Jan to 14 Jan 2023,Hard,Quarter-final,W,2-6 7-5 10-8
 800593324,800652385.0,Elad Cohen,ISR,J60 Ramat Hasharon,2023,10 Jan to 14 Jan 2023,Hard,2nd Round,W,6-3 6-0
 800593324,800591354.0,Eldad Atzmon,ISR,J60 Ramat Hasharon,2023,10 Jan to 14 Jan 2023,Hard,1st Round,W,6-3 6-4
-800602599,800743156.0,Nate Boyko,CAN,J60 Armenia,2023,20 Nov to 25 Nov 2023,Clay,2nd Round,L,6-3 1-6 5-10
-800602599,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J60 Armenia,2023,20 Nov to 25 Nov 2023,Clay,1st Round,W,7-5 6-2
-800602599,800745460.0,Jeremy Milette,CAN,J30 Santo Domingo,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,4-6 1-6
-800602599,800704374.0,Jordan Papadopoulos,USA,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,0-6 0-6
-800602599,800686645.0,Javier Urgal,DOM,J30 Santo Domingo,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-1 6-0
-800602599,800631915.0,Juan Sebastian Caicedo Arevalo,COL,J30 Valledupar,2023,18 Sep to 22 Sep 2023,Hard,1st Round,L,3-6 2-6
-800602599,800578882.0,Juan David Robayo Arias,COL,J30 Cartagena,2023,11 Sep to 15 Sep 2023,Hard,2nd Round,L,2-6 0-6
-800602599,800575069.0,Rafhael Gastelu de La Roca,PER,J30 Cartagena,2023,11 Sep to 15 Sep 2023,Hard,1st Round,W,6-2 7-5
-800602599,800581353.0,Bautista Leguizamon,ARG,J100 Cali,2023,24 Jul to 29 Jul 2023,Clay,2nd Round,L,2-6 2-6
-800602599,800565403.0,Juan Sebastian Hernandez Herrera,COL,J100 Medellin,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,2-6 6-4 7-10
-800602599,800661488.0,Dylan Wilhelm,USA,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,1st Round,L,2-6 1-6
-800602599,800597380.0,Dani Szabo,CAN,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,L,1-6 2-6
-800602599,800590488.0,Rafael Giusti Jodas,BRA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,Quarter-final,W,7-6 7-6
-800602599,800693413.0,Matias Schaeuffler,ESA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,2nd Round,W,6-4 6-2
-800602599,800728567.0,Jan Martien Roest Gonzalez,GUA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,W,6-0 6-1
-800602599,800653221.0,Rodrigo Machado Moreira Filho,BRA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,Quarter-final,L,2-6 6-7
-800602599,800718707.0,LUIS ANGEL ALVAREZ DE LEON,GUA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,2nd Round,W,6-0 6-0
-800602599,800696856.0,Axel Frias Jimenez,GUA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,1st Round,W,6-3 6-4
-800602599,800564799.0,Samuel Sanchez Gomez,COL,J30 Pereira,2023,08 May to 13 May 2023,Clay,2nd Round,L,6-3 2-6 2-6
-800602599,800652636.0,Emilio Cardona,COL,J30 Pereira,2023,08 May to 13 May 2023,Clay,1st Round,W,3-6 7-6 6-0
-800602599,800654067.0,Samuel Lopez-Cardenas,COL,J30 Ibagué,2023,01 May to 06 May 2023,Clay,1st Round,L,6-7 4-6
-800602599,800602823.0,Manue Londono,COL,J30 Cundinamarca,2023,24 Apr to 29 Apr 2023,Clay,1st Round,L,6-7 6-3 5-7
-800657111,800728597.0,Nathan Gold,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,2-6 1-6
-800657111,800763790.0,Nicolas Wild,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,3rd Round,L,3-6 2-6
-800657111,800729595.0,Christopher Condoianis,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,W,6-2 6-2
-800657111,800761581.0,Pearce Lane,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,6-2 3-6 10-6
 800722457,800743005.0,Flynn Coventry-Searle,AUS,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,2nd Round,L,1-6 0-6
 800722457,800813466.0,Spencer Weyburne,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,1st Round,W,6-3 6-1 10-3
 800722457,800680306.0,Heaton Pann,AUS,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,0-6 4-6
@@ -16055,15 +15979,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800648035,800525908.0,Nikita Gavrilonoks,LAT,J100 Aizkraukle,2023,27 Nov to 02 Dec 2023,Carpet,1st Round,L,0-6 0-6
 800646955,800531951.0,Hector Edmond Fullone,GBR,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,3-6 2-6
 800635770,800578231.0,Nando Ordonez Aguilera,ESP,J60 Estepona,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,2-6 0-6
-800664194,800630304.0,Assan Sarmanov,KAZ,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,1st Round,L,1-6 3-6
-800664194,800630304.0,Assan Sarmanov,KAZ,J100 Ust-Kamenogorsk,2023,23 Oct to 28 Oct 2023,Carpet,1st Round,L,1-6 3-6
-800664194,800492013.0,Ivan Kizilov,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,Quarter-final,L,2-6 5-7
-800664194,800510046.0,Roman Issayev,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,W,3-6 6-3 10-8
-800711975,800580723.0,Adam Bey,ALG,J60 Algiers,2023,09 Oct to 14 Oct 2023,Clay,2nd Round,L,1-6 3-6
 800675252,800645096.0,SOTA KUDO,JPN,J30 Adelaide,2023,13 Sep to 17 Sep 2023,Hard,1st Round,L,1-6 0-6
 800675252,800672134.0,Aleksandar Govedarica,AUS,J30 Adelaide,2023,06 Sep to 10 Sep 2023,Hard,Quarter-final,L,2-6 1-6
 800675252,800683472.0,Jacquyn Colalancia,AUS,J30 Adelaide,2023,06 Sep to 10 Sep 2023,Hard,2nd Round,W,6-1 2-6 10-2
 800675252,800680434.0,Gabriel Vasconcelos Crispim Dos Santos,AUS,J30 Adelaide,2023,06 Sep to 10 Sep 2023,Hard,1st Round,W,6-1 6-0
+800711975,800580723.0,Adam Bey,ALG,J60 Algiers,2023,09 Oct to 14 Oct 2023,Clay,2nd Round,L,1-6 3-6
+800664194,800630304.0,Assan Sarmanov,KAZ,J30 Astana,2023,20 Nov to 25 Nov 2023,Hard,1st Round,L,1-6 3-6
+800664194,800630304.0,Assan Sarmanov,KAZ,J100 Ust-Kamenogorsk,2023,23 Oct to 28 Oct 2023,Carpet,1st Round,L,1-6 3-6
+800664194,800492013.0,Ivan Kizilov,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,Quarter-final,L,2-6 5-7
+800664194,800510046.0,Roman Issayev,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,W,3-6 6-3 10-8
+800672588,800570184.0,Dexter Arnarp,SWE,J60 Tampere,2023,30 Oct to 03 Nov 2023,Hard,1st Round,L,3-6 1-6
 800662186,800567136.0,Yosri Abdelmoula,TUN,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,1st Round,L,2-6 4-6
 800662186,800657138.0,Arman Dubreuil,FRA,J60 Algiers,2023,09 Oct to 14 Oct 2023,Clay,Quarter-final,L,2-6 1-6
 800662186,800718270.0,MOHAMMED JAWAD BENHABIB,ALG,J60 Algiers,2023,09 Oct to 14 Oct 2023,Clay,2nd Round,W,6-2 6-2
@@ -16088,14 +16013,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800662186,800553780.0,Samvid Andhare,IND,J60 Dakar,2023,27 Feb to 04 Mar 2023,Hard,2nd Round,L,6-3 0-6 3-10
 800662186,800693996.0,Papa Momar Prosper Gueye,SEN,J60 Dakar,2023,27 Feb to 04 Mar 2023,Hard,1st Round,W,6-1 6-3
 800662186,800583156.0,Jules Moucquot,FRA,J30 Dakar,2023,20 Feb to 25 Feb 2023,Hard,1st Round,L,5-7 1-6
-800672588,800570184.0,Dexter Arnarp,SWE,J60 Tampere,2023,30 Oct to 03 Nov 2023,Hard,1st Round,L,3-6 1-6
-800751622,800711066.0,PAULO SANTIAGO LOPEZ BRAVO,MEX,J100 Estado de Mexico,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,4-6 6-7
-800751622,800719877.0,Luca Cordova Manrique,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,3-6 1-6
 800745011,800701846.0,JEAN PAUL GLOIRE MALOUTA,CGO,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,2nd Round,L,0-6 6-2 2-6
 800745011,800749696.0,Johan MAPUARD MABELE,COD,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,W,6-4 7-5
 800745011,800743732.0,Srivaant Reddy Mummadi,IND,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,2nd Round,L,0-6 1-6
 800739945,800683326.0,Matthew K Chu,CAN,J30 Victoria,2023,16 Oct to 21 Oct 2023,Hard,1st Round,L,2-6 4-6
-800713291,800668476.0,Alejandro Osorio Naranjo,COL,J30 Ibagué,2023,01 May to 06 May 2023,Clay,1st Round,L,3-6 1-6
+800751622,800711066.0,PAULO SANTIAGO LOPEZ BRAVO,MEX,J100 Estado de Mexico,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,4-6 6-7
+800751622,800719877.0,Luca Cordova Manrique,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,3-6 1-6
 800717417,800707311.0,hachem Elaraby,EGY,J60 Cairo,2023,06 Nov to 12 Nov 2023,Clay,1st Round,L,4-6 5-7
 800717417,800716769.0,Ali Hakky,EGY,J60 Giza,2023,30 Oct to 05 Nov 2023,Clay,1st Round,L,3-6 6-4 8-10
 800717417,800636117.0,Yassin Hassan,EGY,J200 Cairo,2023,11 Sep to 15 Sep 2023,Clay,1st Round,L,4-6 2-6
@@ -16114,6 +16037,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800717417,800594702.0,Leonardo Leti Messina,ITA,J30 Ismailia,2023,23 Jan to 29 Jan 2023,Clay,Quarter-final,L,0-6 0-6
 800717417,800707311.0,hachem Elaraby,EGY,J30 Ismailia,2023,23 Jan to 29 Jan 2023,Clay,2nd Round,W,6-2 6-2
 800717417,800576322.0,Christian Streicher,AUT,J30 Ismailia,2023,23 Jan to 29 Jan 2023,Clay,1st Round,W,6-4 6-3
+800713291,800668476.0,Alejandro Osorio Naranjo,COL,J30 Ibagué,2023,01 May to 06 May 2023,Clay,1st Round,L,3-6 1-6
 800852705,800564179.0,Abdulrahman Salman,JOR,J30 Amman (Closed),2023,23 Oct to 29 Oct 2023,Hard,Quarter-final,L,5-7 6-7
 800852705,800709498.0,Adam Kilani,JOR,J30 Amman (Closed),2023,23 Oct to 29 Oct 2023,Hard,2nd Round,W,6-0 6-0
 800852705,800678764.0,Fares Salman,JOR,J30 Amman (Closed),2023,23 Oct to 29 Oct 2023,Hard,1st Round,W,6-2 7-6
@@ -16122,13 +16046,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800852705,800624194.0,Luke Jie Xi Ho,SGP,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,0-6 1-6
 800852705,800770698.0,Abdulkhodiy Khosilov,UZB,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 0-6
 800852705,800682961.0,Ridvan Loianov,KGZ,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,3-6 1-6
-800675000,800575337.0,Botond Nagy,HUN,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,2nd Round,L,3-6 1-6
-800675000,800636589.0,Timo Novak,GER,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,1st Round,W,6-3 6-3
-800675000,800562899.0,Ivan Salenko,UKR,J30 Humenne,2023,29 Aug to 03 Sep 2023,Clay,1st Round,L,1-6 0-6
-800675000,800535989.0,Daniel Stauch,CZE,J60 Zilina,2023,01 Aug to 06 Aug 2023,Clay,1st Round,L,4-6 4-6
-800675000,800543488.0,Zangar Nurlanuly,KAZ,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,2nd Round,L,2-6 0-6
-800675000,800589543.0,Kacper Czyrek,POL,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,1st Round,W,6-3 6-3
-800675000,800575295.0,Viktor Taskovics,HUN,J30 Trnava,2023,23 Jan to 29 Jan 2023,Hard,1st Round,L,4-6 7-6 3-10
 800715811,800598844.0,Devesh Sarawanan,MAS,J60 Perak 	,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,6-7 0-6
 800715811,800689788.0,Aoi Umezawa,JPN,J60 Seremban 	 	,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,7-5 5-7 2-6
 800715811,800668393.0,Hudson Baxter,AUS,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,2-6 1-6
@@ -16137,6 +16054,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800715811,800563506.0,Matthew Wilkes,SGP,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,2nd Round,L,6-7 1-6
 800715811,800583470.0,Syed Rayyan Ali,IND,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,1st Round,W,6-4 6-1
 800715811,800632004.0,Minh Tran Duc,VIE,J30 Singapore,2023,20 Feb to 25 Feb 2023,Hard,1st Round,L,1-6 1-6
+800675000,800575337.0,Botond Nagy,HUN,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,2nd Round,L,3-6 1-6
+800675000,800636589.0,Timo Novak,GER,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,1st Round,W,6-3 6-3
+800675000,800562899.0,Ivan Salenko,UKR,J30 Humenne,2023,29 Aug to 03 Sep 2023,Clay,1st Round,L,1-6 0-6
+800675000,800535989.0,Daniel Stauch,CZE,J60 Zilina,2023,01 Aug to 06 Aug 2023,Clay,1st Round,L,4-6 4-6
+800675000,800543488.0,Zangar Nurlanuly,KAZ,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,2nd Round,L,2-6 0-6
+800675000,800589543.0,Kacper Czyrek,POL,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,1st Round,W,6-3 6-3
+800675000,800575295.0,Viktor Taskovics,HUN,J30 Trnava,2023,23 Jan to 29 Jan 2023,Hard,1st Round,L,4-6 7-6 3-10
 800639836,800654251.0,Djordje Sapic,SRB,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,1st Round,L,6-7 3-6
 800639836,800602271.0,Matei Varbanciu,ROU,J60 Larnaca,2023,06 Mar to 12 Mar 2023,Hard,1st Round,L,3-6 1-6
 800689616,800648396.0,Marko Milosavljevic,SRB,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,0-6 2-6
@@ -16197,15 +16121,15 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800706942,800622599.0,Aleksa Velinovic,SRB,J30 Nairobi,2023,06 Feb to 10 Feb 2023,Clay,1st Round,L,1-6 1-6
 800706942,800697516.0,Claude ISHIMWE,RWA,J60 Nairobi,2023,30 Jan to 03 Feb 2023,Clay,2nd Round,L,1-6 1-6
 800706942,800676056.0,Aaryan Khimasia,KEN,J60 Nairobi,2023,30 Jan to 03 Feb 2023,Clay,1st Round,W,6-4 7-5
-800631721,800531196.0,Noe De Col,SUI,J30 Thalwil,2023,17 Apr to 22 Apr 2023,Clay,1st Round,L,2-6 3-6
+800655402,800624081.0,Alejandro Kayser,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,6-7 3-6
+800655402,800654259.0,Nicolas Aguiar,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,Quarter-final,W,6-1 6-4
+800648890,800594283.0,Ray Chetewy Ungar,ISR,J30 Mytilene,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 7-6 8-10
+800648890,800649399.0,Ohad Cohen,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,3-6 6-2 7-10
 800631878,800542765.0,Sander Sootla,EST,J30 Tbilisi,2023,17 Jul to 22 Jul 2023,Hard,1st Round,L,2-6 6-3 6-10
 800631878,800620841.0,Dzmitry Dziubailau,BLR,J60 Tbilisi,2023,03 Jul to 08 Jul 2023,Hard,Quarter-final,L,0-6 1-6
 800631878,800576727.0,Zaid Murtuzov,RUS,J60 Tbilisi,2023,03 Jul to 08 Jul 2023,Hard,2nd Round,W,6-1 6-3
 800631878,800672722.0,Alexandre Kalandarishvili,GEO,J60 Tbilisi,2023,03 Jul to 08 Jul 2023,Hard,1st Round,W,6-3 6-3
-800648890,800594283.0,Ray Chetewy Ungar,ISR,J30 Mytilene,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 7-6 8-10
-800648890,800649399.0,Ohad Cohen,ISR,J30 Ashkelon,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,3-6 6-2 7-10
-800655402,800624081.0,Alejandro Kayser,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,6-7 3-6
-800655402,800654259.0,Nicolas Aguiar,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,Quarter-final,W,6-1 6-4
+800631721,800531196.0,Noe De Col,SUI,J30 Thalwil,2023,17 Apr to 22 Apr 2023,Clay,1st Round,L,2-6 3-6
 800592194,800552086.0,Artsiom Marozau,POL,J30 Bielsko-Biala,2023,06 Sep to 10 Sep 2023,Clay,Quarter-final,L,7-6 1-6 5-10
 800592194,800595374.0,Otto Jandera,AUS,J30 Bielsko-Biala,2023,06 Sep to 10 Sep 2023,Clay,2nd Round,W,6-4 7-5
 800592194,800684633.0,Marcel Weiner,POL,J30 Bielsko-Biala,2023,06 Sep to 10 Sep 2023,Clay,1st Round,W,7-5 6-3
@@ -16237,23 +16161,18 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800709831,800695169.0,Mehdi Abdennabi,TUN,J100 Sousse,2023,04 Apr to 09 Apr 2023,Hard,1st Round,L,3-6 1-6
 800709831,800512342.0,Dogan Can Sipahioglu,TUR,J60 La Marsa,2023,21 Mar to 26 Mar 2023,Hard,1st Round,L,1-6 1-6
 800843375,800660412.0,Caleb Aryettey,GHA,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,1-6 0-6
-800733995,800621514.0,Antoni Gadzalinski,POL,J30 Kozerki,2023,22 Nov to 26 Nov 2023,Hard,1st Round,L,0-6 1-6
 800687761,800745160.0,Zi Yun Gu,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,L,4-6 4-6
 800687761,800634861.0,Rui Xie,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,3rd Round,L,0-6 2-6
 800687761,800759072.0,Yuan jiachen Ji huijin,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,2nd Round,W,1-6 7-5 10-7
 800687761,800757012.0,Kuai Yu,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,W,6-3 6-1
-800632736,800600620.0,Kristofers Krumins,LAT,J30 Siauliai,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,4-6 4-6
-800632736,800603741.0,Igor Piasek,POL,J30 Siauliai,2023,24 Jul to 29 Jul 2023,Clay,1st Round,L,4-6 1-6
-800670518,800724918.0,Gaspard Lemaitre,NZL,J30 Lautoka,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,1-6 0-6
-800670518,800694367.0,Oliver Wilcox,AUS,J30 Lautoka,2023,25 Jul to 30 Jul 2023,Hard,2nd Round,L,1-6 1-6
-800670518,800722990.0,Siale Draunidalo,FIJ,J30 Lautoka,2023,25 Jul to 30 Jul 2023,Hard,1st Round,W,6-3 6-1
-800670518,800583021.0,Yui Kitabayashi,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,2nd Round,L,0-6 0-6
-800670518,800748190.0,Ryota Hayashi,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,1st Round,W,7-5 4-6 10-3
-800682312,800624100.0,Satoshi Shirabe,JPN,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,Quarter-final,L,4-6 3-6
-800682312,800523229.0,Patriks Kozlovskis,LAT,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,2nd Round,W,7-6 6-2
+800733995,800621514.0,Antoni Gadzalinski,POL,J30 Kozerki,2023,22 Nov to 26 Nov 2023,Hard,1st Round,L,0-6 1-6
 800640420,800640484.0,Dhruv Sachdeva,IND,J60 Colombo,2023,25 Sep to 01 Oct 2023,Clay,2nd Round,L,2-6 2-6
 800640420,800700922.0,Nevan Kannangara,SRI,J60 Colombo,2023,25 Sep to 01 Oct 2023,Clay,1st Round,W,6-3 6-2
 800640420,800632740.0,Vishnu Balachandar,USA,J30 Colombo,2023,22 May to 28 May 2023,Clay,1st Round,L,2-6 1-6
+800632736,800600620.0,Kristofers Krumins,LAT,J30 Siauliai,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,4-6 4-6
+800632736,800603741.0,Igor Piasek,POL,J30 Siauliai,2023,24 Jul to 29 Jul 2023,Clay,1st Round,L,4-6 1-6
+800682312,800624100.0,Satoshi Shirabe,JPN,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,Quarter-final,L,4-6 3-6
+800682312,800523229.0,Patriks Kozlovskis,LAT,J30 Aizkraukle,2023,25 Sep to 30 Sep 2023,Carpet,2nd Round,W,7-6 6-2
 800632004,800693923.0,Pranav Mahesh Saravanakumar,IND,J30 Thu Dau Mot,2023,18 Sep to 24 Sep 2023,Hard,1st Round,L,3-6 1-6
 800632004,800632101.0,Pangya Pholphirul,THA,J30 Thu Dau Mot,2023,11 Sep to 17 Sep 2023,Hard,1st Round,L,3-6 2-6
 800632004,800600520.0,Jahfal Muna Kanahaya,INA,J60 Tay Ninh City,2023,06 Mar to 12 Mar 2023,Hard,1st Round,L,1-6 0-6
@@ -16264,6 +16183,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800632004,800670547.0,M Akmal Junaini,INA,J30 Singapore,2023,30 Jan to 04 Feb 2023,Hard,Quarter-final,L,4-6 1-6
 800632004,800651170.0,Ryan Guang Wen Chen,SGP,J30 Singapore,2023,30 Jan to 04 Feb 2023,Hard,2nd Round,W,6-1 6-0
 800632004,800600366.0,Yew Chin David Yong,SGP,J30 Singapore,2023,30 Jan to 04 Feb 2023,Hard,1st Round,W,6-3 6-3
+800670518,800724918.0,Gaspard Lemaitre,NZL,J30 Lautoka,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,1-6 0-6
+800670518,800694367.0,Oliver Wilcox,AUS,J30 Lautoka,2023,25 Jul to 30 Jul 2023,Hard,2nd Round,L,1-6 1-6
+800670518,800722990.0,Siale Draunidalo,FIJ,J30 Lautoka,2023,25 Jul to 30 Jul 2023,Hard,1st Round,W,6-3 6-1
+800670518,800583021.0,Yui Kitabayashi,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,2nd Round,L,0-6 0-6
+800670518,800748190.0,Ryota Hayashi,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,1st Round,W,7-5 4-6 10-3
 800777626,800638691.0,Itamar Pavlovitch,ISR,J30 Larnaca,2023,20 Nov to 26 Nov 2023,Hard,1st Round,L,2-6 3-6
 800777626,800590611.0,Aren Baybars,TUR,J30 Paralimni,2023,30 Oct to 05 Nov 2023,Carpet,1st Round,L,7-6 0-6 2-6
 800777626,800626790.0,PANAYIOTIS PYRISHIS,CYP,J30 Paralimni,2023,30 Oct to 05 Nov 2023,Carpet,Quarter-final,W,6-4 0-6 10-4
@@ -16295,6 +16219,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800674853,800678791.0,Matias Vargas Pallero,CHI,J30 Trujillo,2023,19 Jun to 24 Jun 2023,Clay,1st Round,W,4-6 6-2 6-2
 800674853,800590288.0,Bruno Loch Varella,BRA,J30 Trujillo,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,2-6 0-6
 800742412,800700376.0,Mehdi Ezziate,MAR,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,1-6 4-6
+800710230,800716939.0,YASWANTH GUNDLAPALLE,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,1-6 6-3 7-10
+800710230,800566473.0,Ahmed Mohammed,YEM,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,L,4-6 0-6
+800710230,800683126.0,ABDULRAHMAN ALDOSERI,BRN,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-3 6-4
+800710230,800593258.0,Shadi Kallel,BRN,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,6-4 4-6 6-10
+800710230,800671499.0,Matei Sucu,ROU,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,7-5 4-6 6-10
+800697883,800677707.0,Andres Alatorre,MEX,J100 Tampico,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,0-6 0-6
+800697883,800677707.0,Andres Alatorre,MEX,J100 Tampico,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,4-6 1-6
+800689243,800593800.0,Ryo Muto Lim,SGP,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,L,1-6 1-6
+800689243,800651037.0,Samay Pasad,IND,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,6-2 6-4
+800689243,800705067.0,Matthew Jian Hao Lee,CAN,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,1-6 1-6
 800655047,800655172.0,Santiago Arturo Flores Moreno,VEN,J30 Caracas (CLOSED),2023,04 Sep to 09 Sep 2023,Hard,2nd Round,L,1-6 0-6
 800655047,800621908.0,Manuel Enrique Aranguren Bracho,VEN,J30 Caracas (CLOSED),2023,04 Sep to 09 Sep 2023,Hard,1st Round,W,3-6 6-1 7-5
 800655047,800660391.0,Denis Troconis,VEN,J30 Caracas (CLOSED),2023,04 Sep to 09 Sep 2023,Hard,Quarter-final,W,6-3 6-4
@@ -16304,16 +16238,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800655047,800588436.0,Carlos Eduardo Morante,VEN,J30 Barquisimeto (CLOSED),2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,4-6 4-6
 800655047,800770988.0,Lucas Moscatto,BRA,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,3-6 4-6
 800655047,800717018.0,Benjamin perez,CHI,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,2-6 0-6
-800689243,800593800.0,Ryo Muto Lim,SGP,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,L,1-6 1-6
-800689243,800651037.0,Samay Pasad,IND,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,1st Round,W,6-2 6-4
-800689243,800705067.0,Matthew Jian Hao Lee,CAN,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,1-6 1-6
-800697883,800677707.0,Andres Alatorre,MEX,J100 Tampico,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,0-6 0-6
-800697883,800677707.0,Andres Alatorre,MEX,J100 Tampico,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,4-6 1-6
-800710230,800716939.0,YASWANTH GUNDLAPALLE,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,1-6 6-3 7-10
-800710230,800566473.0,Ahmed Mohammed,YEM,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,L,4-6 0-6
-800710230,800683126.0,ABDULRAHMAN ALDOSERI,BRN,J60 Isa Town,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-3 6-4
-800710230,800593258.0,Shadi Kallel,BRN,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,6-4 4-6 6-10
-800710230,800671499.0,Matei Sucu,ROU,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,7-5 4-6 6-10
 800670852,800600627.0,Rin Yoshida,JPN,J30 Chigasaki,2023,22 Nov to 26 Nov 2023,Carpet,2nd Round,L,7-5 0-6 7-10
 800670852,800670565.0,WATARU NAGANO,JPN,J30 Chigasaki,2023,22 Nov to 26 Nov 2023,Carpet,1st Round,W,6-2 6-2
 800670852,800678645.0,Kensui Komura,JPN,J60 Yamanashi,2023,15 Nov to 19 Nov 2023,Clay,1st Round,L,1-6 1-6
@@ -16327,8 +16251,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800660216,800620679.0,Cagan Efe Tufekci,TUR,J30 Mytilene,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,0-6 1-6
 800660216,800563916.0,Kerem Tufekci,TUR,J30 Mytilene,2023,19 Sep to 24 Sep 2023,Hard,Quarter-final,W,2-6 6-1 10-8
 800660216,800649401.0,Dor zohar,ISR,J30 Mytilene,2023,19 Sep to 24 Sep 2023,Hard,1st Round,W,5-7 7-5 10-8
-800733969,800573024.0,Jules Alias,FRA,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,1st Round,L,1-6 1-6
 800742376,800732262.0,Ryan Szilagy,ROU,J100 San Jose,2023,24 Apr to 29 Apr 2023,Hard,1st Round,L,0-6 0-6
+800733969,800573024.0,Jules Alias,FRA,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,1st Round,L,1-6 1-6
 800638224,800768441.0,Jaime Robles,ECU,J30 Kingston,2023,13 Nov to 19 Nov 2023,Hard,Quarter-final,L,4-6 2-6
 800638224,800726109.0,Lucas Wang,CAN,J100 Vancouver,2023,10 Jul to 15 Jul 2023,Hard,1st Round,L,1-6 1-6
 800638224,800712362.0,Liam Byrne,CAN,J60 Edmonton,2023,03 Jul to 08 Jul 2023,Hard,2nd Round,L,2-6 1-6
@@ -16454,6 +16378,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800747623,800756107.0,JUI EN SHIH,TPE,J60 Changhua,2023,12 Sep to 17 Sep 2023,Hard,2nd Round,W,6-3 6-0
 800747623,800760158.0,Tine-wei LIN,TPE,J60 Changhua,2023,05 Sep to 10 Sep 2023,Hard,1st Round,L,4-6 5-7
 800758878,800742693.0,Dehan Van Deventer,RSA,J60 Gaborone,2023,21 Aug to 26 Aug 2023,Hard,2nd Round,L,4-6 1-6
+800741171,800768609.0,Antonio Bermudez Murillo,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,2-6 2-6
+800741171,800790288.0,Markus Ingwersen,ARU,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-0 6-2
+800741171,800716469.0,Isaac Guerrero Hernandez,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 0-6
+800741171,800728571.0,Eric Quintero,PAN,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-4 7-5
+800741171,800742035.0,Boaz Koorndiijk,SUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-1
+800741171,800741898.0,Patrick Mactaggart,BAH,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,4-6 3-6
 800742386,800599131.0,Edoardo Barbalaco,ITA,J30 Yaoundé,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,0-6 1-6
 800742386,800694588.0,Rishi Ragav Janakaraj,IND,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,1-6 4-6
 800742386,800742367.0,Audu Paul Osilama,NGR,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,1st Round,W,6-2 4-6 5-3
@@ -16470,12 +16400,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800742197,800647427.0,Bagus Sandika Yusaka Sandika,INA,J30 Yogyakarta,2023,22 May to 28 May 2023,Hard,2nd Round,W,6-1 6-3
 800742197,800747195.0,Hanief Arazi Arazi Hanief,INA,J30 Yogyakarta,2023,22 May to 28 May 2023,Hard,1st Round,W,6-1 6-1
 800742197,800670352.0,Rangga Wisnu Kresna Rafansyah,INA,J30 Yogyakarta,2023,15 May to 21 May 2023,Hard,1st Round,L,2-6 2-6
-800741171,800768609.0,Antonio Bermudez Murillo,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,2-6 2-6
-800741171,800790288.0,Markus Ingwersen,ARU,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-0 6-2
-800741171,800716469.0,Isaac Guerrero Hernandez,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 0-6
-800741171,800728571.0,Eric Quintero,PAN,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-4 7-5
-800741171,800742035.0,Boaz Koorndiijk,SUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-1
-800741171,800741898.0,Patrick Mactaggart,BAH,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,4-6 3-6
 800722099,800702945.0,Masamichi Ando,CAN,J30 Burnaby,2023,05 Jun to 10 Jun 2023,Hard,2nd Round,L,1-6 0-6
 800720564,800584132.0,Ramazan Kaan Oktay,TUR,J60 Damour,2023,11 Sep to 17 Sep 2023,Clay,1st Round,L,2-6 0-6
 800720564,800592808.0,Yousef Al Hawasli,SYR,J60 Damour,2023,04 Sep to 10 Sep 2023,Clay,Quarter-final,L,2-6 2-6
@@ -16531,7 +16455,22 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800663496,800687143.0,Yutaro Hibino,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,Quarter-final,W,6-0 6-1
 800663496,800655637.0,Ryohei Nishino,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,2nd Round,W,6-3 6-1
 800663496,800598735.0,Shinosuke Kono,JPN,J30 Yamanashi,2023,12 Jul to 16 Jul 2023,Clay,1st Round,W,6-4 6-3
-800621779,800720590.0,Achintya Anurag Verma,IND,J60 Colombo,2023,02 Oct to 08 Oct 2023,Clay,2nd Round,L,3-6 1-6
+800670271,800648603.0,Nikolas Simonovic,AUT,J30 Maria Lanzendorf,2023,02 Oct to 07 Oct 2023,Clay,2nd Round,L,2-6 1-6
+800670271,800545683.0,Dominik Mojzis,CZE,J30 Maria Lanzendorf,2023,02 Oct to 07 Oct 2023,Clay,1st Round,W,1-6 6-2 10-6
+800665537,800648438.0,OCTAVIAN ANDREI PUSCAS,ROU,J30 Brasov,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,5-7 6-3 7-10
+800685295,800664721.0,Laurence Teunissen,NED,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,1-6 0-6
+800685295,800682315.0,BROOKLYN NYASHA JUMBE,ZIM,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,W,6-3 6-0
+800685295,800672254.0,Daiya Hino,JPN,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-2 6-2
+800685295,800677693.0,Tshepang Maisela,RSA,J30 Gaborone,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,0-6 0-6
+800685295,800689616.0,Tafara Blessing Nhokwara,ZIM,J100 Harare,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 2-6
+800685295,800697126.0,Reuben De Klerk,RSA,J30 Bulawayo,2023,22 May to 27 May 2023,Hard,1st Round,L,0-6 1-6
+800685295,800732024.0,Zirui Wang,CHN,J30 Bulawayo,2023,15 May to 20 May 2023,Hard,1st Round,L,4-6 6-7
+800685295,800684402.0,Wali Saissi,USA,J30 Gaborone,2023,10 Apr to 15 Apr 2023,Hard,2nd Round,L,0-6 2-6
+800695155,800650783.0,Javier Mejia,ESA,J30 Santa Tecla,2023,11 Jul to 15 Jul 2023,Hard,1st Round,L,3-6 6-7
+800695155,800696904.0,ALFONSO COSSIO GONZALEZ,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,1-6 2-6
+800695155,800678782.0,Adriel Salem Garcia Medina,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,2nd Round,L,4-6 2-6
+800695155,800679987.0,Carlos Diaz Sanchez,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,W,5-7 7-5 10-5
+800695155,800588133.0,Nelson Alapi,USA,J30 Chihuahua,2023,27 Mar to 01 Apr 2023,Hard,1st Round,L,1-6 2-6
 800704399,800720472.0,Luis Ciani,GUA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,2-6 3-6
 800704399,800683661.0,Jacob Lee,USA,J30 Santa Tecla,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,0-6 0-6
 800704399,800705666.0,Juan Francisco Munoz,MEX,J60 Santa Tecla,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,2-6 2-6
@@ -16544,20 +16483,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800704399,800691236.0,Nicolo Romano,ITA,J30 Tegucigalpa,2023,03 Apr to 08 Apr 2023,Hard,Quarter-final,L,2-6 2-6
 800704399,800674945.0,Nicolas Mchedlishvili,USA,J60 Santa Tecla,2023,13 Mar to 18 Mar 2023,Hard,2nd Round,L,2-6 0-6
 800704399,800728567.0,Jan Martien Roest Gonzalez,GUA,J60 Santa Tecla,2023,13 Mar to 18 Mar 2023,Hard,1st Round,W,6-0 6-4
-800695155,800650783.0,Javier Mejia,ESA,J30 Santa Tecla,2023,11 Jul to 15 Jul 2023,Hard,1st Round,L,3-6 6-7
-800695155,800696904.0,ALFONSO COSSIO GONZALEZ,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,1-6 2-6
-800695155,800678782.0,Adriel Salem Garcia Medina,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,2nd Round,L,4-6 2-6
-800695155,800679987.0,Carlos Diaz Sanchez,MEX,J30 Mexico City,2023,05 Jun to 10 Jun 2023,Hard,1st Round,W,5-7 7-5 10-5
-800695155,800588133.0,Nelson Alapi,USA,J30 Chihuahua,2023,27 Mar to 01 Apr 2023,Hard,1st Round,L,1-6 2-6
-800665537,800648438.0,OCTAVIAN ANDREI PUSCAS,ROU,J30 Brasov,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,5-7 6-3 7-10
-800685295,800664721.0,Laurence Teunissen,NED,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,1-6 0-6
-800685295,800682315.0,BROOKLYN NYASHA JUMBE,ZIM,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,W,6-3 6-0
-800685295,800672254.0,Daiya Hino,JPN,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-2 6-2
-800685295,800677693.0,Tshepang Maisela,RSA,J30 Gaborone,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,0-6 0-6
-800685295,800689616.0,Tafara Blessing Nhokwara,ZIM,J100 Harare,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 2-6
-800685295,800697126.0,Reuben De Klerk,RSA,J30 Bulawayo,2023,22 May to 27 May 2023,Hard,1st Round,L,0-6 1-6
-800685295,800732024.0,Zirui Wang,CHN,J30 Bulawayo,2023,15 May to 20 May 2023,Hard,1st Round,L,4-6 6-7
-800685295,800684402.0,Wali Saissi,USA,J30 Gaborone,2023,10 Apr to 15 Apr 2023,Hard,2nd Round,L,0-6 2-6
+800621779,800720590.0,Achintya Anurag Verma,IND,J60 Colombo,2023,02 Oct to 08 Oct 2023,Clay,2nd Round,L,3-6 1-6
 800581715,800684672.0,Maxime Le Belguet Lemire,FRA,J30 Ponts de Ce,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,2-6 7-5 2-10
 800581715,800761804.0,Mihail Popescu,ROU,J30 Ponts de Ce,2023,09 Oct to 14 Oct 2023,Hard,1st Round,W,6-0 6-0
 800581715,800587342.0,Charles De Saint Laumer,FRA,J30 Honfleur,2023,02 Oct to 07 Oct 2023,Hard,2nd Round,L,1-6 2-6
@@ -16572,10 +16498,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800747626,800646559.0,Mustafa Said,CAN,J60 Edmonton,2023,03 Jul to 08 Jul 2023,Hard,2nd Round,L,2-6 1-6
 800747626,800697877.0,Thabelo Neo Mhlanga,CAN,J60 Edmonton,2023,03 Jul to 08 Jul 2023,Hard,1st Round,W,6-4 5-2
 800586524,800648590.0,Tarik Pepic,SRB,J30 Nis,2023,24 Apr to 30 Apr 2023,Clay,1st Round,L,6-3 2-6 2-10
-800776704,800534735.0,Dimitar Baychev,BUL,J30 Istanbul,2023,15 May to 21 May 2023,Hard,1st Round,L,1-6 1-6
-800776704,800507309.0,Daniil Blinov,ISR,J60 Istanbul,2023,08 May to 13 May 2023,Hard,1st Round,L,1-6 0-6
 800718344,800712761.0,Chris Jovan Gubza,AUT,J30 Fujairah,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,3-6 0-6
 800718344,800595606.0,Ivon Jovanovic,CRO,J30 Sarajevo,2023,03 Jul to 08 Jul 2023,Clay,1st Round,L,0-6 0-6
+800776704,800534735.0,Dimitar Baychev,BUL,J30 Istanbul,2023,15 May to 21 May 2023,Hard,1st Round,L,1-6 1-6
+800776704,800507309.0,Daniil Blinov,ISR,J60 Istanbul,2023,08 May to 13 May 2023,Hard,1st Round,L,1-6 0-6
 800766240,800625534.0,Clement Hemery,FRA,J30 Yaoundé,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,0-6 0-6
 800766240,800711299.0,Om Kumaran Chinnaswamy,AUS,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,1-6 4-6
 800766240,800766232.0,Pharel William Kemgmo Tatanfack,CMR,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,Quarter-final,L,6-1 3-6 12-14
@@ -16588,16 +16514,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800834861,800702191.0,Maximo Garrone,URU,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,W,6-1 6-1
 800749582,800748614.0,Adrian Jacobs,TTO,J30 Villa,2023,14 Aug to 19 Aug 2023,Hard,Quarter-final,L,2-6 1-6
 800749582,800738929.0,Navindra Arjune,GUY,J30 Villa,2023,14 Aug to 19 Aug 2023,Hard,1st Round,W,6-4 2-6 10-5
-800749008,800734088.0,Kejun Deng,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,2nd Round,L,2-6 3-6
-800749008,800631676.0,Vadim Savlev,RUS,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,2nd Round,L,5-7 6-2 4-10
-800752897,800589090.0,Hrisheek Vavilapally,IND,J60 Kigali,2023,21 Aug to 26 Aug 2023,Clay,1st Round,L,0-6 0-6
-800752897,800731445.0,Ikenna Prosper Okonkwo,NGR,J60 Kigali,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,0-6 1-6
-800752897,800661919.0,Anjann Sai Boorela,IND,J60 Nairobi,2023,17 Jul to 22 Jul 2023,Clay,2nd Round,L,2-6 2-6
-800752897,800735358.0,Saeed Ganzel Ganzel,KEN,J60 Nairobi,2023,17 Jul to 22 Jul 2023,Clay,1st Round,W,6-1 6-1
-800752897,800588018.0,Dikshan Chhikara,IND,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,2-6 4-6
-800752897,800711799.0,Munene Muondu,KEN,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,Quarter-final,W,6-3 6-0
-800752897,800580233.0,Dhanush Varma Pericherla,IND,J30 Nairobi,2023,03 Jul to 08 Jul 2023,Clay,2nd Round,L,2-6 1-6
-800752897,800752921.0,Miki nobel Igiraneza,BDI,J30 Nairobi,2023,03 Jul to 08 Jul 2023,Clay,1st Round,W,6-3 6-1
 800730780,800646380.0,Abdelaziz Guennouni,MAR,J30 Casablanca,2023,23 Oct to 28 Oct 2023,Clay,1st Round,L,1-6 0-6
 800730780,800568665.0,Ellison Minnaar,GBR,J60 Casablanca,2023,16 Oct to 21 Oct 2023,Clay,1st Round,L,0-6 0-6
 800736359,800721594.0,Ahmad Sakr Laribi,TUN,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,1st Round,L,0-6 2-6
@@ -16612,6 +16528,21 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800736359,800728067.0,Youssef Kannou,TUN,J30 Sfax,2023,14 Mar to 19 Mar 2023,Hard,1st Round,W,6-4 6-3
 800715316,800624081.0,Alejandro Kayser,ECU,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,2nd Round,L,0-6 1-6
 800760972,800711502.0,VINICIUS AMANN SILVEIRA,BRA,J60 Queretaro,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,4-6 5-7
+800752897,800589090.0,Hrisheek Vavilapally,IND,J60 Kigali,2023,21 Aug to 26 Aug 2023,Clay,1st Round,L,0-6 0-6
+800752897,800731445.0,Ikenna Prosper Okonkwo,NGR,J60 Kigali,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,0-6 1-6
+800752897,800661919.0,Anjann Sai Boorela,IND,J60 Nairobi,2023,17 Jul to 22 Jul 2023,Clay,2nd Round,L,2-6 2-6
+800752897,800735358.0,Saeed Ganzel Ganzel,KEN,J60 Nairobi,2023,17 Jul to 22 Jul 2023,Clay,1st Round,W,6-1 6-1
+800752897,800588018.0,Dikshan Chhikara,IND,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,2-6 4-6
+800752897,800711799.0,Munene Muondu,KEN,J30 Nairobi,2023,10 Jul to 15 Jul 2023,Clay,Quarter-final,W,6-3 6-0
+800752897,800580233.0,Dhanush Varma Pericherla,IND,J30 Nairobi,2023,03 Jul to 08 Jul 2023,Clay,2nd Round,L,2-6 1-6
+800752897,800752921.0,Miki nobel Igiraneza,BDI,J30 Nairobi,2023,03 Jul to 08 Jul 2023,Clay,1st Round,W,6-3 6-1
+800749008,800734088.0,Kejun Deng,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,2nd Round,L,2-6 3-6
+800749008,800631676.0,Vadim Savlev,RUS,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,2nd Round,L,5-7 6-2 4-10
+800709929,800702895.0,Behrad Afshari,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,L,0-6 0-6
+800709929,800712096.0,Shayan Raoof kateb,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,1st Round,W,6-3 6-2
+800709929,800578138.0,Ilia Mehrabani,IRI,J30 Karaj,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 2-6
+800709929,800654599.0,bardia sharifi,IRI,J30 Urmia,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,0-6 0-6
+800709929,800656026.0,Danial Khatibi,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,2-6 1-6
 800690180,800593207.0,Kamyl Chebboub,ALG,J30 Fes,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,4-6 1-6
 800690180,800677177.0,Juan Escabias Perez De Madrid,ESP,J30 Oujda,2023,13 Nov to 18 Nov 2023,Clay,1st Round,L,0-6 0-6
 800690180,800587620.0,Nizar Rhazali,MAR,J30 Kenitra,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,1-6 3-6
@@ -16687,11 +16618,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800667756,800599076.0,Amandus Karlsson,SWE,J60 Vierumaki,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,1-6 4-6
 800667756,800528524.0,Elias Alkio,FIN,J30 Nastola,2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,1-6 3-6
 800708887,800647542.0,Sora Kaneko,JPN,J30 Chigasaki,2023,22 Nov to 26 Nov 2023,Carpet,1st Round,L,3-6 2-6
-800709929,800702895.0,Behrad Afshari,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,L,0-6 0-6
-800709929,800712096.0,Shayan Raoof kateb,IRI,J30 Tehran,2023,11 Sep to 16 Sep 2023,Clay,1st Round,W,6-3 6-2
-800709929,800578138.0,Ilia Mehrabani,IRI,J30 Karaj,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 2-6
-800709929,800654599.0,bardia sharifi,IRI,J30 Urmia,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,0-6 0-6
-800709929,800656026.0,Danial Khatibi,IRI,J30 Isfahan,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,2-6 1-6
 800761053,800804374.0,Luca Hernandez Bayona,MEX,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,2nd Round,L,6-7 3-6
 800782386,800741897.0,Nicolas Lee,ARU,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-0 6-2
 800782386,800742034.0,Sanjay Lake,LCA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-1 6-1
@@ -16772,52 +16698,40 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800815628,800567417.0,Enzo Michel,FRA,J300 Durban,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,0-6 3-6
 800750065,800639841.0,GHALI KOMAT,MAR,WJT Boys Africa Qualifying,2023,09 May to 13 May 2023,,,L,0-6 4-6
 800684065,800654259.0,Nicolas Aguiar,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,3-6 3-6
-800762107,800763938.0,Cesar Reynaud,FRA,J30 Saint-Paul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,1-6 2-6
-800762107,800724391.0,Omar Hesham Mohamed Abdelhassib Mahgoub,EGY,J30 Al Zahra,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,L,0-6 0-6
 800767354,800747014.0,Kwame Obeng Entie,GHA,J60 Lome,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,2-6 0-6
 800767354,800735315.0,Ntcha Precieux Becoude,BEN,J60 Lome,2023,04 Dec to 09 Dec 2023,Hard,Quarter-final,L,1-6 1-6
 800767354,800766338.0,Kilian Devo-Aziza,FRA,J60 Lome,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-0 6-0
 800767354,800721518.0,Rido Jerry Adio Noudogbessi,BEN,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,2-6 2-6
 800667636,800686514.0,Kanta Watanabe,JPN,J60 Yamanashi,2023,15 Nov to 19 Nov 2023,Clay,1st Round,L,0-6 3-6
+800762387,800717461.0,Noah Adamu,NGR,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,0-6 0-6
+800762387,800719856.0,Joseph Sonny Atitsogbei,GHA,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,Quarter-final,L,5-7 1-6
+800762387,800664581.0,Jean-Bruno Samuel Viwassi Kekeli Didjom Devo-Aziza,FRA,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,W,6-1 6-1
+800762387,800731428.0,Basit Ajao,NGR,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,Quarter-final,L,0-6 1-6
+800762387,800704562.0,Giovanni Gaetano La Piana d'Orlandi,ITA,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,1st Round,W,6-3 6-2
 800671815,800646144.0,Boris van Ruiten,NED,J30 Arnhem,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,3-6 4-6
 800671815,800578754.0,Emanuel Jessy Tan,NED,J60 Emmeloord,2023,10 Oct to 14 Oct 2023,Carpet,1st Round,L,0-6 2-6
 800671815,800680274.0,Dominick Mueller,GER,J30 Ingelheim,2023,19 Sep to 24 Sep 2023,Clay,2nd Round,L,1-6 2-6
+800753870,800645720.0,alexander winder,GBR,J30 Tallinn,2023,20 Nov to 24 Nov 2023,Hard,2nd Round,L,6-4 2-6 5-10
+800753870,800648563.0,Kaspar Jaani,EST,J30 Tallinn,2023,20 Nov to 24 Nov 2023,Hard,1st Round,W,6-1 6-3
+800751663,800591725.0,Jose Carlos Andrade,VEN,J30 Noord,2023,10 Jul to 14 Jul 2023,Hard,Quarter-final,L,0-6 0-6
+800751663,800578726.0,Tomas Leguizamon Chaves,COL,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,1st Round,L,3-6 1-6
+800751663,800719183.0,Guy Dalzell,USA,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,Quarter-final,L,0-6 1-6
+800762107,800763938.0,Cesar Reynaud,FRA,J30 Saint-Paul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,1-6 2-6
+800762107,800724391.0,Omar Hesham Mohamed Abdelhassib Mahgoub,EGY,J30 Al Zahra,2023,09 Oct to 15 Oct 2023,Hard,2nd Round,L,0-6 0-6
+800751308,800745715.0,Jieyi Wang,CHN,J60 Santa Tecla,2023,17 Jul to 22 Jul 2023,Hard,1st Round,L,0-6 1-6
+800751308,800653221.0,Rodrigo Machado Moreira Filho,BRA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,L,0-6 2-6
+800751308,800732880.0,Rhys Spano,USA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,2-6 1-6
+800742884,800626465.0,Bernardo Hikari Arias Suga,MEX,J100 Veracruz,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,1-6 1-6
+800742884,800597495.0,Santiago Muhala,USA,J30 Veracruz,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,0-6 0-6
 800772382,800643315.0,Orhan Alp Akyol,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,2nd Round,L,4-6 1-6
 800772382,800692771.0,Deniz Efe Unal,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,W,6-1 6-2
 800772382,800705087.0,Farukcan Senkal,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,2nd Round,W,7-6 6-3
 800772382,800567132.0,Demir Halisdemir,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,W,6-4 6-2
 800772382,800506896.0,Mateja Gojkovic,SRB,J30 Banja Luka,2023,19 Jun to 24 Jun 2023,Clay,1st Round,L,0-6 1-6
 800761676,800738755.0,Kabir Chothani,IND,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,0-6 0-6
-800751663,800591725.0,Jose Carlos Andrade,VEN,J30 Noord,2023,10 Jul to 14 Jul 2023,Hard,Quarter-final,L,0-6 0-6
-800751663,800578726.0,Tomas Leguizamon Chaves,COL,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,1st Round,L,3-6 1-6
-800751663,800719183.0,Guy Dalzell,USA,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,Quarter-final,L,0-6 1-6
-800751308,800745715.0,Jieyi Wang,CHN,J60 Santa Tecla,2023,17 Jul to 22 Jul 2023,Hard,1st Round,L,0-6 1-6
-800751308,800653221.0,Rodrigo Machado Moreira Filho,BRA,J30 Guatemala,2023,12 Jun to 17 Jun 2023,Hard,1st Round,L,0-6 2-6
-800751308,800732880.0,Rhys Spano,USA,J60 Guatemala,2023,05 Jun to 10 Jun 2023,Hard,1st Round,L,2-6 1-6
-800762387,800717461.0,Noah Adamu,NGR,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,0-6 0-6
-800762387,800719856.0,Joseph Sonny Atitsogbei,GHA,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,Quarter-final,L,5-7 1-6
-800762387,800664581.0,Jean-Bruno Samuel Viwassi Kekeli Didjom Devo-Aziza,FRA,J30 Lome,2023,27 Nov to 02 Dec 2023,Hard,1st Round,W,6-1 6-1
-800762387,800731428.0,Basit Ajao,NGR,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,Quarter-final,L,0-6 1-6
-800762387,800704562.0,Giovanni Gaetano La Piana d'Orlandi,ITA,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,1st Round,W,6-3 6-2
-800742884,800626465.0,Bernardo Hikari Arias Suga,MEX,J100 Veracruz,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,1-6 1-6
-800742884,800597495.0,Santiago Muhala,USA,J30 Veracruz,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,0-6 0-6
-800695738,800590883.0,Andrea Tognolini,ITA,J100 Palermo,2023,06 Sep to 10 Sep 2023,Clay,2nd Round,L,3-6 6-3 6-10
-800695738,800760304.0,Mattia Ragonese,ITA,J100 Palermo,2023,06 Sep to 10 Sep 2023,Clay,1st Round,W,6-0 6-2
-800695738,800575768.0,Pablo Sanchez Coria,ESP,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,0-6 1-6
-800695738,800678891.0,Yecheng Mei,CHN,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,2nd Round,L,4-6 1-6
-800695738,800699697.0,Bernardo Serra,POR,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,1st Round,W,6-1 6-1
 800589411,800644730.0,Muhammad Hamza AASIM,PAK,J30 Islamabad,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,1-6 1-6
 800589411,800645309.0,Naqeeb Hussain,SRI,J30 Islamabad,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,6-0 6-0
 800589411,800665874.0,Takuto Fuke,JPN,J30 Islamabad,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,L,6-7 7-5 10-12
-800570384,800787844.0,Jan Psota,CZE,J100 Prague,2023,23 Aug to 27 Aug 2023,Clay,1st Round,L,2-6 1-6
-800570384,800540303.0,Sebastiano Cocola,ITA,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,1-6 0-6
-800570384,800594498.0,Samuel Krnac,SVK,J60 Zilina,2023,01 Aug to 06 Aug 2023,Clay,1st Round,L,6-1 2-6 8-10
-800570384,800566077.0,Mikolaj Migdalski,POL,J60 Veska,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,1-6 3-6
-800570384,800570250.0,Oliver Bures,CZE,J100 Prague,2023,03 Jul to 08 Jul 2023,Clay,1st Round,L,0-6 4-6
-800570384,800535989.0,Daniel Stauch,CZE,J30 Hradec Kralove,2023,20 Jun to 24 Jun 2023,Clay,2nd Round,L,5-7 6-1 7-10
-800570384,800596343.0,Robert Aparin Alaoui,UKR,J30 Hradec Kralove,2023,20 Jun to 24 Jun 2023,Clay,1st Round,W,6-4 6-1
-800570384,800593317.0,Leon Peranovic,GER,J30 Liberec,2023,12 Jun to 17 Jun 2023,Clay,2nd Round,L,4-6 2-6
-800570384,800600497.0,Alessandro Bussano,ITA,J30 Liberec,2023,12 Jun to 17 Jun 2023,Clay,1st Round,W,6-4 6-2
 800630285,800762159.0,YI-SHENG HU,TPE,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,1st Round,L,4-6 4-6
 800630285,800736682.0,Teng-Chung Chang,TPE,J30 Tainan,2023,19 Sep to 24 Sep 2023,Clay,3rd Round,L,2-6 3-6
 800630285,800756107.0,JUI EN SHIH,TPE,J30 Tainan,2023,19 Sep to 24 Sep 2023,Clay,2nd Round,W,6-2 6-1
@@ -16862,6 +16776,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800651918,800560528.0,Luis Andre Oliva Ewel,BOL,J30 Santa Cruz,2023,17 Apr to 22 Apr 2023,Clay,1st Round,W,6-0 6-2
 800651918,800590715.0,Joao Pimenta,BRA,J30 Cochabamba,2023,10 Apr to 15 Apr 2023,Clay,1st Round,L,4-6 3-6
 800651918,800533672.0,Patrick Oscar Crespo Lima,BOL,J30 La Paz,2023,03 Apr to 08 Apr 2023,Clay,2nd Round,L,1-6 6-4 9-11
+800695738,800590883.0,Andrea Tognolini,ITA,J100 Palermo,2023,06 Sep to 10 Sep 2023,Clay,2nd Round,L,3-6 6-3 6-10
+800695738,800760304.0,Mattia Ragonese,ITA,J100 Palermo,2023,06 Sep to 10 Sep 2023,Clay,1st Round,W,6-0 6-2
+800695738,800575768.0,Pablo Sanchez Coria,ESP,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,0-6 1-6
+800695738,800678891.0,Yecheng Mei,CHN,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,2nd Round,L,4-6 1-6
+800695738,800699697.0,Bernardo Serra,POR,J60 Leiria,2023,31 Jul to 06 Aug 2023,Clay,1st Round,W,6-1 6-1
 800661283,800678337.0,Cole Henceroth,USA,J60 Santo Domingo,2023,09 Oct to 14 Oct 2023,Hard,2nd Round,L,2-6 0-6
 800661283,800683881.0,Noa Hoshino,JPN,J60 Santo Domingo,2023,09 Oct to 14 Oct 2023,Hard,1st Round,W,7-6 6-2
 800661283,800581425.0,Nikita Makaed,CAN,J60 Santo Domingo,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,6-4 6-7 1-6
@@ -16902,6 +16821,15 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800660256,800635098.0,Angel Jose Munoz Villamizar,VEN,J30 Barquisimeto (CLOSED),2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,6-4 3-6 2-6
 800660256,800655172.0,Santiago Arturo Flores Moreno,VEN,J30 Barquisimeto (CLOSED),2023,21 Aug to 26 Aug 2023,Hard,2nd Round,L,3-6 1-6
 800660256,800679937.0,Edward Rosales,VEN,J30 Barquisimeto (CLOSED),2023,21 Aug to 26 Aug 2023,Hard,1st Round,W,7-5 6-7 7-6
+800753314,800636037.0,Xiuyuan Ye,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,2-6 1-6
+800753314,800567303.0,Jun Hao Luo,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,1-6 2-6
+800693870,800563514.0,Enzo Crevelaro,BRA,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 2-6
+800693870,800678496.0,Joaquin Humberto Diaz Richard,CHI,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,Quarter-final,W,6-3 6-4
+800693870,800715292.0,Mateo Sebastian Castillo Rodriguez,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,W,6-3 6-3
+800693870,800575192.0,Daniel Camilo Serrato Camacho,COL,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,1st Round,L,1-6 3-6
+800693870,800670764.0,Washington Ariel Suarez Vera,ECU,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,Quarter-final,W,6-3 6-3
+800693870,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,2nd Round,W,6-2 6-3
+800693870,800532950.0,Miguel Larrea Sicco,ECU,J60 Salinas,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,4-6
 800709936,800715303.0,MONCEF CHIBANI,TUN,J60 Algiers,2023,09 Oct to 14 Oct 2023,Clay,2nd Round,L,3-6 6-4 8-10
 800709936,800575245.0,Mohamed Ridha Ghettas,ALG,J30 Algiers,2023,02 Oct to 07 Oct 2023,Clay,2nd Round,L,1-6 0-6
 800709936,800635660.0,AZIZ SAHNOUN,TUN,J30 Boufarik,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,1-6 4-6
@@ -16921,40 +16849,44 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800688029,800592831.0,Doruk Elbirlik,TUR,J30 Islamabad,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,1-6 0-6
 800688029,800645031.0,Nabeel Qayum,PAK,J30 Islamabad,2023,06 Nov to 11 Nov 2023,Hard,Quarter-final,L,5-7 0-6
 800689318,800591606.0,Ivan Makarov,RUS,J60 Baku,2023,15 May to 20 May 2023,Hard,1st Round,L,1-6 3-6
-800693870,800563514.0,Enzo Crevelaro,BRA,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 2-6
-800693870,800678496.0,Joaquin Humberto Diaz Richard,CHI,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,Quarter-final,W,6-3 6-4
-800693870,800715292.0,Mateo Sebastian Castillo Rodriguez,ECU,J30 Salinas,2023,07 Aug to 12 Aug 2023,Hard,1st Round,W,6-3 6-3
-800693870,800575192.0,Daniel Camilo Serrato Camacho,COL,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,1st Round,L,1-6 3-6
-800693870,800670764.0,Washington Ariel Suarez Vera,ECU,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,Quarter-final,W,6-3 6-3
-800693870,800684389.0,JOAO GABRIEL Galhardo de Carvalho,BRA,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,2nd Round,W,6-2 6-3
-800693870,800532950.0,Miguel Larrea Sicco,ECU,J60 Salinas,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,4-6
 800692779,800649447.0,Mats Rygg Hannestad,NOR,J30 Stavanger,2023,21 Nov to 26 Nov 2023,Hard,1st Round,L,6-0 3-6 5-10
 800692779,800654251.0,Djordje Sapic,SRB,J60 Porec,2023,09 Oct to 15 Oct 2023,Clay,3rd Round,L,1-6 3-6
 800692779,800555203.0,Nikolas Car,SLO,J60 Porec,2023,09 Oct to 15 Oct 2023,Clay,2nd Round,W,6-4 7-6
 800692779,800672388.0,Filip Krekovic,CRO,J60 Porec,2023,09 Oct to 15 Oct 2023,Clay,1st Round,W,6-1 4-6 10-5
-800753870,800645720.0,alexander winder,GBR,J30 Tallinn,2023,20 Nov to 24 Nov 2023,Hard,2nd Round,L,6-4 2-6 5-10
-800753870,800648563.0,Kaspar Jaani,EST,J30 Tallinn,2023,20 Nov to 24 Nov 2023,Hard,1st Round,W,6-1 6-3
+800570384,800787844.0,Jan Psota,CZE,J100 Prague,2023,23 Aug to 27 Aug 2023,Clay,1st Round,L,2-6 1-6
+800570384,800540303.0,Sebastiano Cocola,ITA,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,1st Round,L,1-6 0-6
+800570384,800594498.0,Samuel Krnac,SVK,J60 Zilina,2023,01 Aug to 06 Aug 2023,Clay,1st Round,L,6-1 2-6 8-10
+800570384,800566077.0,Mikolaj Migdalski,POL,J60 Veska,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,1-6 3-6
+800570384,800570250.0,Oliver Bures,CZE,J100 Prague,2023,03 Jul to 08 Jul 2023,Clay,1st Round,L,0-6 4-6
+800570384,800535989.0,Daniel Stauch,CZE,J30 Hradec Kralove,2023,20 Jun to 24 Jun 2023,Clay,2nd Round,L,5-7 6-1 7-10
+800570384,800596343.0,Robert Aparin Alaoui,UKR,J30 Hradec Kralove,2023,20 Jun to 24 Jun 2023,Clay,1st Round,W,6-4 6-1
+800570384,800593317.0,Leon Peranovic,GER,J30 Liberec,2023,12 Jun to 17 Jun 2023,Clay,2nd Round,L,4-6 2-6
+800570384,800600497.0,Alessandro Bussano,ITA,J30 Liberec,2023,12 Jun to 17 Jun 2023,Clay,1st Round,W,6-4 6-2
+800732425,800668669.0,Alexander Di Staulo,USA,J60 Plantation,2023,08 May to 13 May 2023,Clay,1st Round,L,0-6 1-6
+800732425,800741822.0,Valentino Canas,USA,J100 Coral Gables,2023,01 May to 06 May 2023,Clay,1st Round,L,1-6 0-6
+800732425,800598261.0,Diego Paternostro,USA,J100 Delray Beach,2023,24 Apr to 29 Apr 2023,Clay,1st Round,L,2-6 0-6
 800798005,800187770.0,Shaun Mahelis,BAH,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-1 6-2
 800798005,800742034.0,Sanjay Lake,LCA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-3 6-3
 800798005,800742040.0,Connor Carrington,TTO,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,5-7 5-7
 800798005,800719518.0,Mario Lopez,GUA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 0-6
 800798005,800742038.0,Rahil Chablani,SUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
 800798005,800742031.0,Alhil Cyril,LCA,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-3 7-5
-800753314,800636037.0,Xiuyuan Ye,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,2-6 1-6
-800753314,800567303.0,Jun Hao Luo,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,1-6 2-6
-800719749,800592831.0,Doruk Elbirlik,TUR,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,1st Round,L,0-6 3-6
-800740573,800699503.0,Elie joe Abou Hachem,LBN,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,2nd Round,L,1-6 0-6
-800740573,800741311.0,Eddy Howeiss,LBN,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,1st Round,W,7-6 7-6
-800740573,800663599.0,David Ismanescu,CAN,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,L,0-6 0-6
+800719769,800655786.0,Jose carlos Portillo,MEX,J100 Zapopan,2023,06 Nov to 11 Nov 2023,Clay,2nd Round,L,1-6 0-6
+800719769,800694930.0,Juan Pablo Gomez,MEX,J100 Zapopan,2023,06 Nov to 11 Nov 2023,Clay,1st Round,W,2-6 6-1 10-2
+800719769,800642980.0,Luis Diego Santillan Flores,MEX,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,3-6 1-6
+800719769,800711502.0,VINICIUS AMANN SILVEIRA,BRA,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,2nd Round,W,6-2 2-6 10-2
+800719769,800712034.0,Ricky Najera,MEX,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,1st Round,W,3-6 6-4 10-5
+800719769,800696106.0,Gerardo Felipe Ramirez-Mainou,MEX,J30 Aguascalientes,2023,25 Sep to 30 Sep 2023,Clay,1st Round,L,1-6 1-6
+800719769,800747880.0,Santiago Michel Alvarez,MEX,J30 Aguascalientes,2023,25 Sep to 30 Sep 2023,Clay,Quarter-final,W,6-7 7-6 12-10
+800734482,800715303.0,MONCEF CHIBANI,TUN,J30 Mahdia,2023,23 May to 28 May 2023,Hard,1st Round,L,0-6 1-6
+800734482,800565185.0,Youssef Garali,TUN,J30 Sfax,2023,14 Mar to 19 Mar 2023,Hard,1st Round,L,1-6 1-6
+800736355,800560269.0,Kais Benyahia,FRA,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,2nd Round,L,2-6 1-6
 800742373,800625816.0,EKANSH SHUKLA,IND,J30 Yaoundé,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,2-6 1-2
 800742373,800665967.0,Moye Lucas Nadal Koffi,CIV,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,1-6 0-6
 800742373,800625816.0,EKANSH SHUKLA,IND,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,1st Round,W,3-6 6-2 6-4
 800742373,800665967.0,Moye Lucas Nadal Koffi,CIV,J30 Douala,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,1-6 0-6
 800742373,800664598.0,Hermann NSAHNO NDONFACK,CMR,J30 Douala,2023,23 Oct to 29 Oct 2023,Hard,1st Round,L,4-6 0-6
 800742373,800699976.0,Cedrick Lanyuy NDINKWA,CMR,J30 Douala,2023,24 Apr to 30 Apr 2023,Hard,1st Round,L,1-6 1-6
-800739933,800582555.0,Vinicius Giolo Magrin,BRA,J30 Christiansted,2023,15 May to 19 May 2023,Hard,1st Round,L,0-6 3-6
-800739933,800640566.0,Chad Valdes,PAN,J30 Christiansted,2023,08 May to 12 May 2023,Hard,1st Round,L,2-6 0-6
-800739933,800700909.0,Kartick Gusain,CAN,J100 Quebec City	,2023,01 May to 06 May 2023,Hard,1st Round,L,0-6 1-6
 800738232,800685094.0,Luka Romano,MEX,J30 Tegucigalpa,2023,26 Jun to 01 Jul 2023,Hard,Quarter-final,L,1-6 2-6
 800738232,800745402.0,Alonso Rivera Rico,MEX,J30 Tegucigalpa,2023,26 Jun to 01 Jul 2023,Hard,1st Round,W,6-0 6-0
 800738232,800653249.0,Sergiy Rafiee,GBR,J30 Tegucigalpa,2023,03 Apr to 08 Apr 2023,Hard,1st Round,L,1-6 1-6
@@ -16963,44 +16895,40 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800738232,800742040.0,Connor Carrington,TTO,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-0 6-2
 800738232,800782386.0,Juan Fernando Fondevila,PAN,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-3 2-0
 800738232,800781859.0,Guillermo Andres Rodriguez,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-2 6-4
-800736355,800560269.0,Kais Benyahia,FRA,J30 Algiers,2023,20 Feb to 25 Feb 2023,Clay,2nd Round,L,2-6 1-6
-800734482,800715303.0,MONCEF CHIBANI,TUN,J30 Mahdia,2023,23 May to 28 May 2023,Hard,1st Round,L,0-6 1-6
-800734482,800565185.0,Youssef Garali,TUN,J30 Sfax,2023,14 Mar to 19 Mar 2023,Hard,1st Round,L,1-6 1-6
+800740573,800699503.0,Elie joe Abou Hachem,LBN,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,2nd Round,L,1-6 0-6
+800740573,800741311.0,Eddy Howeiss,LBN,J30 Jounieh,2023,14 Aug to 20 Aug 2023,Clay,1st Round,W,7-6 7-6
+800740573,800663599.0,David Ismanescu,CAN,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,L,0-6 0-6
+800739933,800582555.0,Vinicius Giolo Magrin,BRA,J30 Christiansted,2023,15 May to 19 May 2023,Hard,1st Round,L,0-6 3-6
+800739933,800640566.0,Chad Valdes,PAN,J30 Christiansted,2023,08 May to 12 May 2023,Hard,1st Round,L,2-6 0-6
+800739933,800700909.0,Kartick Gusain,CAN,J100 Quebec City	,2023,01 May to 06 May 2023,Hard,1st Round,L,0-6 1-6
 800727957,800625534.0,Clement Hemery,FRA,J30 Yaoundé,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,1-6 3-6
 800727957,800665967.0,Moye Lucas Nadal Koffi,CIV,J30 Yaoundé,2023,06 Nov to 11 Nov 2023,Hard,1st Round,L,2-6 0-6
 800727957,800731545.0,Ezekiel Azi,NGR,J30 Douala,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,2-6 6-3 3-6
 800727957,800687396.0,Miguel Ngounou simo,CMR,J30 Douala,2023,24 Apr to 30 Apr 2023,Hard,1st Round,L,5-7 6-7
-800732425,800668669.0,Alexander Di Staulo,USA,J60 Plantation,2023,08 May to 13 May 2023,Clay,1st Round,L,0-6 1-6
-800732425,800741822.0,Valentino Canas,USA,J100 Coral Gables,2023,01 May to 06 May 2023,Clay,1st Round,L,1-6 0-6
-800732425,800598261.0,Diego Paternostro,USA,J100 Delray Beach,2023,24 Apr to 29 Apr 2023,Clay,1st Round,L,2-6 0-6
-800719769,800655786.0,Jose carlos Portillo,MEX,J100 Zapopan,2023,06 Nov to 11 Nov 2023,Clay,2nd Round,L,1-6 0-6
-800719769,800694930.0,Juan Pablo Gomez,MEX,J100 Zapopan,2023,06 Nov to 11 Nov 2023,Clay,1st Round,W,2-6 6-1 10-2
-800719769,800642980.0,Luis Diego Santillan Flores,MEX,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,1st Round,L,3-6 1-6
-800719769,800711502.0,VINICIUS AMANN SILVEIRA,BRA,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,2nd Round,W,6-2 2-6 10-2
-800719769,800712034.0,Ricky Najera,MEX,J30 Guadalajara,2023,30 Oct to 04 Nov 2023,Clay,1st Round,W,3-6 6-4 10-5
-800719769,800696106.0,Gerardo Felipe Ramirez-Mainou,MEX,J30 Aguascalientes,2023,25 Sep to 30 Sep 2023,Clay,1st Round,L,1-6 1-6
-800719769,800747880.0,Santiago Michel Alvarez,MEX,J30 Aguascalientes,2023,25 Sep to 30 Sep 2023,Clay,Quarter-final,W,6-7 7-6 12-10
 800726261,800706816.0,Shannon Anek,AUS,J30 Nonthaburi,2023,14 Aug to 19 Aug 2023,Hard,2nd Round,L,1-6 1-6
 800726261,800754453.0,poobet WORANUTARAKSA,THA,J30 Nonthaburi,2023,14 Aug to 19 Aug 2023,Hard,1st Round,W,6-2 6-0
-800716671,800652303.0,Sterling Davies,USA,J30 McKinney,2023,06 Nov to 10 Nov 2023,Hard,1st Round,L,2-6 0-6
-800716671,800726252.0,Ryan Silva Silva,USA,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,2nd Round,L,3-6 5-7
-800716671,800661283.0,Eduardo Vinas Torres-Magana,MEX,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,1st Round,W,6-2 6-1
-800716671,800636017.0,Evan Burnett,USA,J300 Houston (Pan American Regional Championships),2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,0-6 2-6
+800719749,800592831.0,Doruk Elbirlik,TUR,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,1st Round,L,0-6 3-6
 800718964,800671248.0,ABUBAKAR YUSUF,NGR,J60 Accra,2023,25 Sep to 30 Sep 2023,Hard,1st Round,L,0-6 1-6
 800718964,800716714.0,Samuel Obido Aryettey,GHA,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,2nd Round,L,3-6 2-6
 800718964,800715638.0,Behn Malik AHOUANDJINOU,BEN,J30 Accra,2023,18 Sep to 23 Sep 2023,Hard,1st Round,W,6-2 6-3
 800718964,800588018.0,Dikshan Chhikara,IND,J30 Accra,2023,11 Sep to 16 Sep 2023,Hard,Quarter-final,L,0-6 1-4
 800718964,800733640.0,Precieux David Gandonou,BEN,J30 Accra,2023,11 Sep to 16 Sep 2023,Hard,2nd Round,W,6-1 1-6 11-9
 800718964,800720685.0,MARIE-ANGE ONEL ZINSOU DOHOU,BEN,J30 Accra,2023,11 Sep to 16 Sep 2023,Hard,1st Round,W,7-6 6-3
-800714840,800671307.0,Leander Tauber,AUT,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,3rd Round,L,6-7 5-7
-800714840,800650636.0,David Levy,POR,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,2nd Round,W,3-6 6-1 10-3
+800716671,800652303.0,Sterling Davies,USA,J30 McKinney,2023,06 Nov to 10 Nov 2023,Hard,1st Round,L,2-6 0-6
+800716671,800726252.0,Ryan Silva Silva,USA,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,2nd Round,L,3-6 5-7
+800716671,800661283.0,Eduardo Vinas Torres-Magana,MEX,J60 Corpus Christi,2023,25 Sep to 30 Sep 2023,Hard,1st Round,W,6-2 6-1
+800716671,800636017.0,Evan Burnett,USA,J300 Houston (Pan American Regional Championships),2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,0-6 2-6
 800717193,800704082.0,KEVIN TITUS SURESH,IND,J60 Chennai,2023,21 Aug to 26 Aug 2023,Clay,1st Round,L,0-6 1-6
 800717193,800632275.0,Thirumurugan Viswanathan,IND,J30 Madurai,2023,27 Mar to 01 Apr 2023,Hard,2nd Round,L,0-6 3-6
 800717193,800677672.0,Aman Rao,USA,J30 Madurai,2023,27 Mar to 01 Apr 2023,Hard,1st Round,W,3-6 6-2 10-8
 800717193,800656957.0,Fatehyab Singh,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,2nd Round,L,1-6 1-6
 800717193,800691416.0,Aryaman Gouchwal,IND,J30 Gurugram,2023,06 Mar to 11 Mar 2023,Hard,1st Round,W,6-3 6-3
+800714840,800671307.0,Leander Tauber,AUT,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,3rd Round,L,6-7 5-7
+800714840,800650636.0,David Levy,POR,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,2nd Round,W,3-6 6-1 10-3
 800765217,800693405.0,Rodrigo Maya,MEX,J100 Estado de Mexico,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,0-6 1-6
 800765217,800714643.0,Jorge Fonseca Azpeitia,MEX,J100 Estado de Mexico,2023,16 Oct to 21 Oct 2023,Hard,1st Round,L,0-6 0-6
+800767954,800762201.0,Jon Totorica,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,6-0 4-6 4-10
+800767954,800767685.0,Sean Park,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,
 800672697,800715100.0,Gabriel Kosaka,PER,J100 Arequipa,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,5-7 5-7
 800684432,800684502.0,Jack McGregor,NZL,J100 Christchurch,2023,03 Oct to 08 Oct 2023,Hard,1st Round,L,1-6 1-6
 800684432,800626686.0,Aslan Gemuhluoglu,USA,J100 Christchurch,2023,03 Oct to 08 Oct 2023,Hard,1st Round,W,4-6 6-4 10-6
@@ -17014,8 +16942,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800767091,800711509.0,ZHENGYU SUN,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,2nd Round,L,1-6 1-6
 800767091,800632030.0,Yaqing Wang,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,W,6-1 6-2
 800767091,800549397.0,Rui Yue Wang,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,4-6 6-3 9-11
-800767954,800762201.0,Jon Totorica,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,2nd Round,L,6-0 4-6 4-10
-800767954,800767685.0,Sean Park,USA,J60 Atlanta,2023,23 Oct to 28 Oct 2023,Hard,1st Round,W,
 800768300,800672334.0,Clement Wauters,BEL,J60 Nairobi,2023,13 Nov to 18 Nov 2023,Clay,1st Round,L,0-6 0-6
 800768300,800719538.0,Mahefa Anthony RAKOTOMALALA,MAD,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,2nd Round,L,0-6 0-6
 800768300,800714415.0,Cillian Asante Ndilima,IRL,J60 Nairobi,2023,06 Nov to 11 Nov 2023,Clay,1st Round,W,6-2 6-3
@@ -17049,13 +16975,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800651380,800572099.0,Chang Min Ryu,KOR,J300 Wanju (Asia/Oceania Regional Championships),2023,02 Oct to 08 Oct 2023,Hard,2nd Round,L,6-3 4-6 9-11
 800651380,800683486.0,JI HOON Han,KOR,J300 Wanju (Asia/Oceania Regional Championships),2023,02 Oct to 08 Oct 2023,Hard,1st Round,W,6-1 6-1
 800653002,800584569.0,Diego Aubert,FRA,J60 Heiveld,2023,30 Oct to 05 Nov 2023,Carpet,1st Round,L,1-6 0-6
-800752649,800732148.0,Junyi Xiao,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,1st Round,L,3-6 2-6
-800752649,800732084.0,Hengzhou Wang,CHN,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,2nd Round,L,2-6 0-6
-800752649,800742602.0,Bo Zhen Wu,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,2-6 3-6
-800752649,800751680.0,benxiang liang,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,2nd Round,W,6-2 6-1
-800752649,800765040.0,Haitao Mai,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,W,6-2 6-2
-800752649,800634861.0,Rui Xie,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,2nd Round,L,1-6 6-3 4-10
-800752649,800756641.0,Qiaoshen Guo,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,W,6-4 6-3
+800598437,800643546.0,James Hutchinson,GBR,J60 Glasgow,2023,28 Nov to 02 Dec 2023,Hard,1st Round,L,6-1 6-7 5-10
+800598437,800699057.0,Charlie Woods,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,1st Round,L,4-6 6-3 7-10
+800598437,800596861.0,William Moxon,GBR,J30 Edinburgh,2023,04 Jul to 08 Jul 2023,Clay,2nd Round,L,6-3 5-7 9-11
+800598437,800535976.0,Ilias Hirani Worthington,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,1st Round,L,1-6 1-6
+800598437,800630358.0,Finn Logue,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,Quarter-final,W,6-4 6-4
+800598437,800540742.0,Alexander English,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,2nd Round,W,3-5
+800598437,800564484.0,Harry Spear,GBR,J100 Glasgow,2023,18 Jan to 22 Jan 2023,Hard,1st Round,L,2-6 3-6
 800599885,800646227.0,Seungjun Yu,KOR,J30 Yeongwol,2023,31 Oct to 05 Nov 2023,Hard,2nd Round,L,2-6 1-6
 800599885,800601239.0,Jeong Woo Kim,KOR,J30 Yeongwol,2023,31 Oct to 05 Nov 2023,Hard,1st Round,W,6-3 7-5
 800599885,800581901.0,Jaejun Kim,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,2nd Round,L,3-6 6-3 5-10
@@ -17064,6 +16990,23 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800629463,800563916.0,Kerem Tufekci,TUR,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,1st Round,L,1-6 5-7
 800629463,800568038.0,Arkhip Kozlov,RUS,J100 Istanbul,2023,10 Apr to 16 Apr 2023,Hard,1st Round,L,2-6 1-6
 800629463,800520171.0,Elvin Hashimov,AZE,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,1st Round,L,1-6 2-6
+800570388,800564330.0,Melih Anavatan,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,3rd Round,L,2-6 2-6
+800570388,800663155.0,Cagan Erdogan,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,2nd Round,W,6-1 3-0
+800570388,800664083.0,Deniz Zeki,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,W,6-2 6-1
+800570388,800529812.0,Ege Avci,TUR,J30 Istanbul,2023,09 Oct to 15 Oct 2023,Hard,1st Round,L,6-2 4-6 4-6
+800570388,800534774.0,Rares Teodor Pieleanu,ROU,J200 Istanbul,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,1-6 3-6
+800570388,800568670.0,Adrian Matei Nedelcu,ROU,J30 Izmir,2023,17 Jul to 22 Jul 2023,Hard,1st Round,L,4-6 3-6
+800570388,800659600.0,Daniil Chizhuk,RUS,J60 Baku,2023,22 May to 27 May 2023,Hard,1st Round,L,2-6 2-6
+800570388,800572955.0,Kirill Filaretov,RUS,J60 Baku,2023,15 May to 20 May 2023,Hard,1st Round,L,4-6 4-6
+800570388,800544793.0,Andrei Zhydkou,BLR,J60 Istanbul,2023,01 May to 06 May 2023,Hard,1st Round,L,5-7 2-6
+800570388,800626993.0,Mustafa Ege Sik,TUR,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,L,1-6 3-6
+800570388,800548495.0,Alexander Kuprin,RUS,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,1st Round,W,5-7 7-5 7-5
+800570388,800575248.0,Pietro Aprile,ITA,J100 Istanbul,2023,10 Apr to 16 Apr 2023,Hard,1st Round,L,3-6 4-6
+800570388,800568670.0,Adrian Matei Nedelcu,ROU,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,1st Round,L,7-6 2-6 8-10
+800570388,800667560.0,Lorenzo Leti Messina,ITA,J60 Antalya,2023,20 Mar to 26 Mar 2023,Clay,1st Round,L,2-6 1-6
+800570388,800545548.0,Piet Luis Pinter,AUT,J60 Antalya (CANCELLED),2023,06 Feb to 12 Feb 2023,Clay,1st Round,,
+800570388,800653279.0,Florian Kralik,CZE,J30 Adana,2023,23 Jan to 29 Jan 2023,Clay,1st Round,L,6-7 7-6 7-10
+800570388,800548996.0,Anas Mazdrashki,BUL,J100 Antalya,2023,16 Jan to 22 Jan 2023,Clay,1st Round,L,0-6 2-6
 800586195,800543308.0,Wayne Lohr,GER,J60 Hannover,2023,04 Sep to 09 Sep 2023,Clay,Quarter-final,L,3-6 1-6
 800586195,800578173.0,Noah Zeiger,GER,J60 Hannover,2023,04 Sep to 09 Sep 2023,Clay,2nd Round,W,6-2 6-4
 800586195,800570184.0,Dexter Arnarp,SWE,J60 Aarhus,2023,13 Jun to 18 Jun 2023,Clay,1st Round,L,6-0 1-6 4-10
@@ -17103,45 +17046,24 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800695734,800676056.0,Aaryan Khimasia,KEN,J30 Nairobi,2023,06 Feb to 10 Feb 2023,Clay,1st Round,W,6-1 6-3
 800695734,800712831.0,Hung-Yu Chen,TPE,J60 Nairobi,2023,30 Jan to 03 Feb 2023,Clay,1st Round,L,0-6 3-6
 800695734,800703178.0,YU-SYUAN LAI,TPE,J60 Nairobi,2023,23 Jan to 27 Jan 2023,Clay,2nd Round,L,4-6 0-6
-800570388,800564330.0,Melih Anavatan,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,3rd Round,L,2-6 2-6
-800570388,800663155.0,Cagan Erdogan,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,2nd Round,W,6-1 3-0
-800570388,800664083.0,Deniz Zeki,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,W,6-2 6-1
-800570388,800529812.0,Ege Avci,TUR,J30 Istanbul,2023,09 Oct to 15 Oct 2023,Hard,1st Round,L,6-2 4-6 4-6
-800570388,800534774.0,Rares Teodor Pieleanu,ROU,J200 Istanbul,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,1-6 3-6
-800570388,800568670.0,Adrian Matei Nedelcu,ROU,J30 Izmir,2023,17 Jul to 22 Jul 2023,Hard,1st Round,L,4-6 3-6
-800570388,800659600.0,Daniil Chizhuk,RUS,J60 Baku,2023,22 May to 27 May 2023,Hard,1st Round,L,2-6 2-6
-800570388,800572955.0,Kirill Filaretov,RUS,J60 Baku,2023,15 May to 20 May 2023,Hard,1st Round,L,4-6 4-6
-800570388,800544793.0,Andrei Zhydkou,BLR,J60 Istanbul,2023,01 May to 06 May 2023,Hard,1st Round,L,5-7 2-6
-800570388,800626993.0,Mustafa Ege Sik,TUR,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,L,1-6 3-6
-800570388,800548495.0,Alexander Kuprin,RUS,J30 Istanbul,2023,17 Apr to 23 Apr 2023,Hard,1st Round,W,5-7 7-5 7-5
-800570388,800575248.0,Pietro Aprile,ITA,J100 Istanbul,2023,10 Apr to 16 Apr 2023,Hard,1st Round,L,3-6 4-6
-800570388,800568670.0,Adrian Matei Nedelcu,ROU,J100 Istanbul,2023,03 Apr to 09 Apr 2023,Hard,1st Round,L,7-6 2-6 8-10
-800570388,800667560.0,Lorenzo Leti Messina,ITA,J60 Antalya,2023,20 Mar to 26 Mar 2023,Clay,1st Round,L,2-6 1-6
-800570388,800545548.0,Piet Luis Pinter,AUT,J60 Antalya (CANCELLED),2023,06 Feb to 12 Feb 2023,Clay,1st Round,,
-800570388,800653279.0,Florian Kralik,CZE,J30 Adana,2023,23 Jan to 29 Jan 2023,Clay,1st Round,L,6-7 7-6 7-10
-800570388,800548996.0,Anas Mazdrashki,BUL,J100 Antalya,2023,16 Jan to 22 Jan 2023,Clay,1st Round,L,0-6 2-6
-800598437,800643546.0,James Hutchinson,GBR,J60 Glasgow,2023,28 Nov to 02 Dec 2023,Hard,1st Round,L,6-1 6-7 5-10
-800598437,800699057.0,Charlie Woods,GBR,J30 Liverpool,2023,06 Nov to 10 Nov 2023,Hard,1st Round,L,4-6 6-3 7-10
-800598437,800596861.0,William Moxon,GBR,J30 Edinburgh,2023,04 Jul to 08 Jul 2023,Clay,2nd Round,L,6-3 5-7 9-11
-800598437,800535976.0,Ilias Hirani Worthington,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,1st Round,L,1-6 1-6
-800598437,800630358.0,Finn Logue,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,Quarter-final,W,6-4 6-4
-800598437,800540742.0,Alexander English,GBR,J60 Edinburgh,2023,31 May to 04 Jun 2023,Clay,2nd Round,W,3-5
-800598437,800564484.0,Harry Spear,GBR,J100 Glasgow,2023,18 Jan to 22 Jan 2023,Hard,1st Round,L,2-6 3-6
+800752649,800732148.0,Junyi Xiao,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,1st Round,L,3-6 2-6
+800752649,800732084.0,Hengzhou Wang,CHN,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,2nd Round,L,2-6 0-6
+800752649,800742602.0,Bo Zhen Wu,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,L,2-6 3-6
+800752649,800751680.0,benxiang liang,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,2nd Round,W,6-2 6-1
+800752649,800765040.0,Haitao Mai,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,W,6-2 6-2
+800752649,800634861.0,Rui Xie,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,2nd Round,L,1-6 6-3 4-10
+800752649,800756641.0,Qiaoshen Guo,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,W,6-4 6-3
+800796325,800589059.0,Ivan Matveev,RUS,J30 Valldoreix,2023,01 Aug to 05 Aug 2023,Clay,1st Round,L,0-6 7-6 6-10
+800845163,800717746.0,Raul Sanchez,ESP,J60 Estepona,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,2-6 0-6
 800761238,800590698.0,Minh Phat Nguyen,VIE,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,2nd Round,L,0-6 4-6
 800761238,800742602.0,Bo Zhen Wu,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,1st Round,W,3-6 7-5 7-6
 800761238,800751868.0,Hao Yi Zhang,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,3rd Round,W,6-3 6-2
 800761238,800735031.0,Runqi Yang,HKG,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,2nd Round,W,1-6 6-3 10-6
-800796325,800589059.0,Ivan Matveev,RUS,J30 Valldoreix,2023,01 Aug to 05 Aug 2023,Clay,1st Round,L,0-6 7-6 6-10
-800845163,800717746.0,Raul Sanchez,ESP,J60 Estepona,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,2-6 0-6
 800759975,800716657.0,Xavier Tonioni,ITA,J30 Llanos de Curundu,2023,28 Aug to 02 Sep 2023,Clay,Quarter-final,L,0-6 0-6
 800758227,800671490.0,Alexis Nicolas Amador Flores,MEX,J30 Managua,2023,25 Sep to 30 Sep 2023,Hard,1st Round,L,0-6 0-6
 800758227,800650938.0,Ron Roopesh,GBR,J30 Managua,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 2-6
 800758227,800645635.0,Yong Chao He Wang,CHI,J30 Managua,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,0-6 0-6
-800736305,800679717.0,Shivtej Shirfule,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,6-7 0-6
-800736305,800699282.0,ARJUN KIRRTANE,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-1 6-4
-800736305,800579574.0,Jisung Lee,KOR,J30 Rajshahi,2023,13 Nov to 17 Nov 2023,Hard,1st Round,L,0-6 2-6
-800736305,800558972.0,Ju Hun Choo,KOR,J30 Dhaka,2023,06 Nov to 10 Nov 2023,Hard,2nd Round,L,0-6 1-6
-800736305,800769551.0,Md Saiam,BAN,J30 Dhaka,2023,06 Nov to 10 Nov 2023,Hard,1st Round,W,6-4 7-6
+800730707,800510273.0,Samat Gabdullin,RUS,J60 Tarragona,2023,09 May to 14 May 2023,Clay,1st Round,L,1-6 1-6
 800728571,800724488.0,Felix Abraham,NOR,J30 Llanos de Curundu,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,0-6 1-6
 800728571,800708840.0,Ollie Hopper,GBR,J60 Llanos de Curundu,2023,01 May to 06 May 2023,Clay,1st Round,L,0-6 0-6
 800728571,800674945.0,Nicolas Mchedlishvili,USA,J60 Llanos de Curundu,2023,20 Mar to 25 Mar 2023,Clay,2nd Round,L,0-6 0-6
@@ -17151,20 +17073,24 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800728571,800742026.0,Marco Perez,PUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,4-6 6-7
 800728571,800742035.0,Boaz Koorndiijk,SUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,6-3 6-0
 800728571,800814074.0,Christofer Jair Nunez,HON,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 4-6
-800730707,800510273.0,Samat Gabdullin,RUS,J60 Tarragona,2023,09 May to 14 May 2023,Clay,1st Round,L,1-6 1-6
+800736305,800679717.0,Shivtej Shirfule,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,6-7 0-6
+800736305,800699282.0,ARJUN KIRRTANE,IND,J100 Pune,2023,04 Dec to 09 Dec 2023,Hard,1st Round,W,6-1 6-4
+800736305,800579574.0,Jisung Lee,KOR,J30 Rajshahi,2023,13 Nov to 17 Nov 2023,Hard,1st Round,L,0-6 2-6
+800736305,800558972.0,Ju Hun Choo,KOR,J30 Dhaka,2023,06 Nov to 10 Nov 2023,Hard,2nd Round,L,0-6 1-6
+800736305,800769551.0,Md Saiam,BAN,J30 Dhaka,2023,06 Nov to 10 Nov 2023,Hard,1st Round,W,6-4 7-6
+800733209,800757747.0,Boaz Fong,AUS,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 3-6
+800733491,800753895.0,Krishiv Shukla,IND,J30 Winnipeg,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,6-2 3-6 7-10
 800733305,800757283.0,Andy Zhang,CHN,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,1st Round,L,1-6 1-6
 800733305,800769563.0,cheng HUANG,CHN,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,3rd Round,W,6-2 7-6
 800733305,800590215.0,Chit Lun Ares Leung,HKG,J60 Shenzhen,2023,21 Nov to 26 Nov 2023,Hard,2nd Round,W,6-0 6-0
 800733305,800731966.0,Zhan Hang Ye,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,3-6 4-6
 800733305,800568999.0,Wenbo Bai,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,2nd Round,L,2-6 0-6
 800733305,800731440.0,Zurui Zhang,CHN,J60 Chengdu,2023,17 Oct to 22 Oct 2023,Hard,1st Round,W,6-3 6-2
-800733209,800757747.0,Boaz Fong,AUS,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,L,4-6 3-6
-800733491,800753895.0,Krishiv Shukla,IND,J30 Winnipeg,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,6-2 3-6 7-10
+800748421,800743732.0,Srivaant Reddy Mummadi,IND,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,0-6 0-6
+800748421,800693111.0,Prakaash Sarran,IND,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,1st Round,L,0-6 0-6
 800732285,800699511.0,Leo Royer,CAN,J100 Quebec City	,2023,18 Sep to 23 Sep 2023,Hard,1st Round,L,3-6 0-6
 800732285,800725471.0,ZENIO ARNONE,CAN,J30 Ottawa,2023,04 Sep to 08 Sep 2023,Hard,1st Round,L,2-6 2-6
 800732285,800702087.0,Emile Payment,CAN,J100 Quebec City	,2023,01 May to 06 May 2023,Hard,1st Round,L,1-6 1-6
-800748421,800743732.0,Srivaant Reddy Mummadi,IND,J30 Brazzaville,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,0-6 0-6
-800748421,800693111.0,Prakaash Sarran,IND,J30 Brazzaville,2023,05 Jun to 10 Jun 2023,Clay,1st Round,L,0-6 0-6
 800720439,800736359.0,Bouraoui Fares,TUN,J30 Kairouan,2023,16 May to 21 May 2023,Hard,1st Round,L,6-3 3-6 7-10
 800720439,800628614.0,Cem Christopher Kucukhuseyin,TUR,J30 Sfax,2023,14 Mar to 19 Mar 2023,Hard,1st Round,L,1-6 1-6
 800781505,800790555.0,Noah Claudio Alejandro Martinez Martinez,ARU,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,W,7-5 6-4
@@ -17242,7 +17168,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800625711,800626020.0,Kirill Kalennik,RUS,J30 Isa Town,2023,27 Feb to 04 Mar 2023,Hard,2nd Round,L,0-6 2-6
 800625711,800712761.0,Chris Jovan Gubza,AUT,J30 Isa Town,2023,27 Feb to 04 Mar 2023,Hard,1st Round,W,2-6 6-0 10-8
 800625711,800724391.0,Omar Hesham Mohamed Abdelhassib Mahgoub,EGY,J30 Al Zahra,2023,13 Feb to 19 Feb 2023,Hard,2nd Round,L,6-3 3-6 8-10
-800683865,800578173.0,Noah Zeiger,GER,J60 Hannover,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 2-6
 800712012,800620658.0,Noah Van Vaerenbergh,BEL,J30 Arnhem,2023,17 Oct to 22 Oct 2023,Hard,2nd Round,L,0-6 4-6
 800712012,800653591.0,Oluwajomiloju Aminu,GBR,J30 Arnhem,2023,17 Oct to 22 Oct 2023,Hard,1st Round,W,7-6 3-6 11-9
 800712012,800521211.0,Kristian Kjellberg,DEN,J60 Emmeloord,2023,10 Oct to 14 Oct 2023,Carpet,1st Round,L,4-6 3-6
@@ -17251,7 +17176,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800712012,800580445.0,Jaagup Joonas,EST,J60 The Hague,2023,11 Jul to 16 Jul 2023,Clay,1st Round,W,3-6 6-1 12-10
 800712012,800676078.0,Joshua Neunzig,GER,J200 Castricum,2023,04 Jul to 09 Jul 2023,Clay,1st Round,L,0-6 4-6
 800712012,800587925.0,Oliver Majdandzic,GER,J60 Ickern,2023,14 Mar to 19 Mar 2023,Carpet,1st Round,L,3-6 1-6
+800683865,800578173.0,Noah Zeiger,GER,J60 Hannover,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 2-6
 800664173,800592750.0,Davide Ciaschetti,ITA,J100 Palermo,2023,06 Sep to 10 Sep 2023,Clay,1st Round,L,1-6 0-6
+800663782,800758442.0,Salva Mulet,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 1-6
+800663782,800595368.0,Antoni Kosyrz,POL,J30 Garisart,2023,11 Jul to 16 Jul 2023,Clay,1st Round,L,3-6 3-6
 800698773,800675644.0,James Holt,CAN,J30 Kingston,2023,13 Nov to 19 Nov 2023,Hard,1st Round,L,5-7 0-6
 800690770,800519952.0,Maxime Gruenig,SUI,J30 Christiansted,2023,15 May to 19 May 2023,Hard,1st Round,L,2-6 1-6
 800690770,800688865.0,Ajinkya Karnataki,USA,J30 Christiansted,2023,08 May to 12 May 2023,Hard,1st Round,L,0-6 3-6
@@ -17260,8 +17188,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800688352,800592488.0,Vadim Liashenko,RUS,J30 Aktobe,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,6-4 2-6 12-14
 800688352,800562737.0,Artemiy Safonov,RUS,J60 Karaganda,2023,06 Feb to 11 Feb 2023,Hard,1st Round,L,1-6 1-6
 800703489,800660210.0,Rodolfo Federico De Andreis,VEN,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,0-6 2-6
-800663782,800758442.0,Salva Mulet,ESP,J30 Benidorm,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 1-6
-800663782,800595368.0,Antoni Kosyrz,POL,J30 Garisart,2023,11 Jul to 16 Jul 2023,Clay,1st Round,L,3-6 3-6
 800682315,800685295.0,Mwaitanyasha Nathan Mukudu,ZIM,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,L,3-6 0-6
 800682315,800595378.0,Mark Nawa,BOT,J30 Bulawayo,2023,27 Nov to 02 Dec 2023,Hard,1st Round,L,0-6 0-6
 800682315,800707895.0,Makanaka Whata,ZIM,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,L,0-6 0-6
@@ -17298,6 +17224,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800741910,800741737.0,Ethan Warner,BAR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,3-6 6-7
 800741910,800741912.0,Miguel Baquero,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 1-6
 800741910,800765324.0,Amaury Blondet,PUR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,1-6 1-6
+800736194,800684663.0,Rafael Ferreira,BRA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,3-6 3-6
+800736194,800688394.0,Santiago Vela,GUA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,7-5 7-6
+800736194,800656328.0,Oliver Moises Aguilar Gasperin,MEX,J30 Santa Tecla,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,4-6 4-6
+800736194,800705758.0,Junqi Chang,CHN,J30 Santa Tecla,2023,06 Nov to 11 Nov 2023,Hard,1st Round,W,3-6 6-0 6-3
+800737120,800653790.0,Kai Milburn,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,2nd Round,L,0-6 1-6
+800737120,800761215.0,Naruto Sutherland,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,1st Round,W,2-6 6-2 7-6
+800737120,800770132.0,Jonty Giesen,NZL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,2nd Round,L,1-6 1-6
+800737120,800762077.0,Max Flanagan,NZL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,W,6-3 6-0
+800737120,800728431.0,Kensei Konishi,JPN,J30 Noumea,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,4-6 1-6
+800737120,800692558.0,AYDEN KOUSIS,AUS,J30 Darwin,2023,29 May to 02 Jun 2023,Hard,2nd Round,L,6-7 1-6
 800730012,800700899.0,Adrien Weladji-Chebahi,FRA,J30 Le Diamant,2023,17 Apr to 22 Apr 2023,Hard,2nd Round,L,2-6 2-6
 800730012,800691555.0,Edgar Vilain,CAN,J30 Saint-Francois,2023,10 Apr to 15 Apr 2023,Hard,1st Round,L,6-7 6-3 3-10
 800737579,800727660.0,Arshiya Rasoulinia,IRI,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,3-6 3-6
@@ -17306,36 +17242,25 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800737579,800597356.0,Oliver Page,GBR,J30 Peja,2023,28 Aug to 03 Sep 2023,Hard,1st Round,L,2-6 0-6
 800737579,800566156.0,Kan Musabegovic,BIH,J30 Peja,2023,28 Aug to 03 Sep 2023,Hard,Quarter-final,L,1-6 0-6
 800737579,800566156.0,Kan Musabegovic,BIH,J30 Shkoder,2023,21 Aug to 27 Aug 2023,Hard,2nd Round,L,3-6 2-6
-800737120,800653790.0,Kai Milburn,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,2nd Round,L,0-6 1-6
-800737120,800761215.0,Naruto Sutherland,NZL,J30 Auckland,2023,26 Sep to 01 Oct 2023,Hard,1st Round,W,2-6 6-2 7-6
-800737120,800770132.0,Jonty Giesen,NZL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,2nd Round,L,1-6 1-6
-800737120,800762077.0,Max Flanagan,NZL,J30 Northern,2023,19 Sep to 24 Sep 2023,Hard,1st Round,W,6-3 6-0
-800737120,800728431.0,Kensei Konishi,JPN,J30 Noumea,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,4-6 1-6
-800737120,800692558.0,AYDEN KOUSIS,AUS,J30 Darwin,2023,29 May to 02 Jun 2023,Hard,2nd Round,L,6-7 1-6
-800736194,800684663.0,Rafael Ferreira,BRA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,L,3-6 3-6
-800736194,800688394.0,Santiago Vela,GUA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,7-5 7-6
-800736194,800656328.0,Oliver Moises Aguilar Gasperin,MEX,J30 Santa Tecla,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,L,4-6 4-6
-800736194,800705758.0,Junqi Chang,CHN,J30 Santa Tecla,2023,06 Nov to 11 Nov 2023,Hard,1st Round,W,3-6 6-0 6-3
-800751824,800621186.0,Tiago CUETO BON-BETEMPS,PER,J30 Saint-Denis,2023,23 Oct to 29 Oct 2023,Clay,1st Round,L,1-6 4-6
-800751824,800727000.0,Piotr Dzikolowski,POL,J30 Saint-Paul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,0-6 1-6
 800767109,800566473.0,Ahmed Mohammed,YEM,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,1st Round,L,6-1 2-6 5-10
 800768340,800752433.0,Antonio Carlos Castellanos,GUA,J60 Guatemala,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,2-6 2-6
 800761404,800600518.0,Tatsuki Nakashima,JPN,J30 Kaohsiung,2023,07 Nov to 12 Nov 2023,Hard,2nd Round,L,1-6 2-6
 800752555,800575985.0,Minato Koido,JPN,J30 Noord,2023,03 Jul to 07 Jul 2023,Hard,1st Round,L,1-6 1-6
-800753658,800746819.0,Bryne Edwin Dube,ZIM,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,1st Round,L,1-6 5-7
-800753658,800730682.0,Bradley Gondo,ZIM,J100 Harare,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,4-6 0-6
-800753658,800638351.0,Abbas Mohamed,USA,J100 Harare,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 0-6
-800753658,800708717.0,Tawananyasha Shamuyarira,ZIM,J60 Harare,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,3-6 2-6
-800746961,800655963.0,Jan Kaczorowski,POL,J30 Puszczykowo,2023,22 Aug to 27 Aug 2023,Hard,1st Round,L,3-6 2-6
-800745990,800696204.0,Yassine ALLANI,TUN,J30 Bizerte,2023,13 Jun to 18 Jun 2023,Clay,1st Round,L,1-6 2-6
+800751824,800621186.0,Tiago CUETO BON-BETEMPS,PER,J30 Saint-Denis,2023,23 Oct to 29 Oct 2023,Clay,1st Round,L,1-6 4-6
+800751824,800727000.0,Piotr Dzikolowski,POL,J30 Saint-Paul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,0-6 1-6
 800751868,800761238.0,Pengfei Ye,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,3rd Round,L,3-6 2-6
 800751868,800743540.0,Shunhua He,CHN,J60 Shenzhen,2023,28 Nov to 03 Dec 2023,Hard,2nd Round,W,6-2 4-6 10-7
 800751868,800711509.0,ZHENGYU SUN,CHN,J60 Chengdu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,2-6 2-6
 800751868,800752920.0,Yue Xia,CHN,J100 Shanghai,2023,10 Oct to 14 Oct 2023,Hard,1st Round,L,1-6 0-6
 800751868,800732086.0,Weiwen Pan,CHN,J30 Jiaxing,2023,22 Aug to 27 Aug 2023,Hard,1st Round,L,2-6 0-6
 800751868,800644692.0,Jack Cheng,HKG,J30 Jingshan,2023,04 Jul to 09 Jul 2023,Hard,1st Round,L,0-6 1-6
+800753658,800746819.0,Bryne Edwin Dube,ZIM,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,1st Round,L,1-6 5-7
+800753658,800730682.0,Bradley Gondo,ZIM,J100 Harare,2023,14 Aug to 19 Aug 2023,Hard,1st Round,L,4-6 0-6
+800753658,800638351.0,Abbas Mohamed,USA,J100 Harare,2023,07 Aug to 12 Aug 2023,Hard,1st Round,L,0-6 0-6
+800753658,800708717.0,Tawananyasha Shamuyarira,ZIM,J60 Harare,2023,31 Jul to 05 Aug 2023,Hard,1st Round,L,3-6 2-6
+800746961,800655963.0,Jan Kaczorowski,POL,J30 Puszczykowo,2023,22 Aug to 27 Aug 2023,Hard,1st Round,L,3-6 2-6
+800745990,800696204.0,Yassine ALLANI,TUN,J30 Bizerte,2023,13 Jun to 18 Jun 2023,Clay,1st Round,L,1-6 2-6
 800718134,800593800.0,Ryo Muto Lim,SGP,J60 Singapore,2023,28 Aug to 02 Sep 2023,Hard,1st Round,L,0-6 0-6
-800777533,800601544.0,Pudit Phapatsirikul,THA,J30 Nonthaburi,2023,14 Aug to 19 Aug 2023,Hard,2nd Round,L,1-6 0-6
 800790288,800768609.0,Antonio Bermudez Murillo,CRC,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 2-6
 800790288,800741171.0,Tobiah Goodchild,BER,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 2-6
 800790288,800716469.0,Isaac Guerrero Hernandez,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 0-6
@@ -17344,6 +17269,14 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800790555,800741904.0,Tristan Pettit,BER,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,0-6 1-6
 800790555,800781859.0,Guillermo Andres Rodriguez,DOM,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,2-6 5-7
 800790555,800781505.0,Dimitri Kirton,BAR,WJT North/Central America & The Caribbean Pre-Qualifying,2023,06 Mar to 11 Mar 2023,,,L,5-7 4-6
+800777533,800601544.0,Pudit Phapatsirikul,THA,J30 Nonthaburi,2023,14 Aug to 19 Aug 2023,Hard,2nd Round,L,1-6 0-6
+800682961,800620722.0,Tae Woo Kim,KOR,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,1-6 2-6
+800682961,800590977.0,Ryu Kotikula,THA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,4-6 0-6
+800682961,800659906.0,RUDRA BATHAM,IND,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 1-6
+800682961,800852705.0,Mohammed Shahin,JOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-1
+800682961,800635817.0,Tarek El Chaaby,LBN,2023 WJT AsiaOceania Pre-Qualifying,2023,13 Feb to 18 Feb 2023,,,L,2-6 2-6
+800625288,800583996.0,Timeo Bretin,FRA,J100 Saint Cyprien,2023,30 Oct to 05 Nov 2023,Hard,1st Round,L,0-6 2-6
+800625288,800587097.0,Elliot Rabat,FRA,J30 Ponts de Ce,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,6-1 1-6 4-10
 800630426,800586824.0,Cyprien Chevalier,FRA,J30 Fes,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,3-6 2-6
 800630426,800698601.0,Egor Zakharov,RUS,J30 Meknes,2023,20 Nov to 25 Nov 2023,Clay,1st Round,L,6-3 2-6 6-10
 800630426,800574758.0,Aleksandr Chistiakov,RUS,J30 Oujda,2023,13 Nov to 18 Nov 2023,Clay,1st Round,L,4-6 2-6
@@ -17359,30 +17292,32 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800705828,800537350.0,Freddy Stephan,LBN,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,2nd Round,L,0-6 2-6
 800702191,800834861.0,Tadeo Luis Avalos Reine,PAR,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,1-6 1-6
 800702191,800709178.0,CONSTANTINO PANNUNZIO,ARG,WJT Boys South America Qualifying,2023,15 May to 20 May 2023,,,L,0-6 1-6
-800625288,800583996.0,Timeo Bretin,FRA,J100 Saint Cyprien,2023,30 Oct to 05 Nov 2023,Hard,1st Round,L,0-6 2-6
-800625288,800587097.0,Elliot Rabat,FRA,J30 Ponts de Ce,2023,09 Oct to 14 Oct 2023,Hard,1st Round,L,6-1 1-6 4-10
+800602857,800541464.0,William Kell,IRL,J60 Naas,2023,03 Jul to 07 Jul 2023,Carpet,2nd Round,L,2-6 1-6
+800602857,800711652.0,Patrick Young,IRL,J30 Belfast,2023,26 Jun to 30 Jun 2023,Carpet,Quarter-final,L,3-6 6-3 5-10
+800602857,800597983.0,John Breakthrough,GBR,J30 Belfast,2023,26 Jun to 30 Jun 2023,Carpet,2nd Round,W,6-2 6-1
 800709962,800625518.0,Akshaj Subramanian,IND,J30 Madurai,2023,27 Mar to 01 Apr 2023,Hard,1st Round,L,0-6 2-6
 800709962,800656655.0,Ahan Shetty,IND,J30 Bhilai,2023,20 Mar to 25 Mar 2023,Hard,1st Round,L,1-6 0-6
+800708594,800625518.0,Akshaj Subramanian,IND,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,L,1-6 0-6
+800708245,800760364.0,MIN HSIANG TSAO,TPE,J60 Changhua,2023,12 Sep to 17 Sep 2023,Hard,1st Round,L,6-4 0-6 0-6
+800708245,800707123.0,Kousuke Ko,TPE,J60 Changhua,2023,05 Sep to 10 Sep 2023,Hard,1st Round,L,6-3 2-6 0-6
 800708606,800695734.0,Ruinclife Baraka Ominde,KEN,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,1st Round,L,1-6 0-6
 800708606,800758106.0,Bradley Tafara Nyamunokora,ZIM,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,Quarter-final,W,6-2 2-6 10-5
 800708606,800756386.0,Tinotenda Gotosa,USA,J60 Bulawayo,2023,04 Dec to 09 Dec 2023,Hard,2nd Round,W,6-4 6-4
 800708606,800652211.0,Daniel Knott,RSA,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,L,3-6 6-7
 800708606,800770030.0,Sean  Jonathan Taruberekera,ZIM,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,1st Round,W,6-4 6-4
-800708594,800625518.0,Akshaj Subramanian,IND,J30 Harare,2023,20 Nov to 25 Nov 2023,Hard,2nd Round,L,1-6 0-6
-800708245,800760364.0,MIN HSIANG TSAO,TPE,J60 Changhua,2023,12 Sep to 17 Sep 2023,Hard,1st Round,L,6-4 0-6 0-6
-800708245,800707123.0,Kousuke Ko,TPE,J60 Changhua,2023,05 Sep to 10 Sep 2023,Hard,1st Round,L,6-3 2-6 0-6
-800602857,800541464.0,William Kell,IRL,J60 Naas,2023,03 Jul to 07 Jul 2023,Carpet,2nd Round,L,2-6 1-6
-800602857,800711652.0,Patrick Young,IRL,J30 Belfast,2023,26 Jun to 30 Jun 2023,Carpet,Quarter-final,L,3-6 6-3 5-10
-800602857,800597983.0,John Breakthrough,GBR,J30 Belfast,2023,26 Jun to 30 Jun 2023,Carpet,2nd Round,W,6-2 6-1
+800709321,800552254.0,David Javadov,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,Quarter-final,L,1-6 2-6
+800709321,800592488.0,Vadim Liashenko,RUS,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,W,6-4 2-6 10-7
+800709321,800543484.0,Daniil Kharin,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 1-6
+800709321,800492015.0,Alexey Lomakin,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,Quarter-final,L,0-6 5-7
+800709321,800758907.0,Aleksandr Kamenev,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,1st Round,W,6-0 6-4
+800709321,800672254.0,Daiya Hino,JPN,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,0-6 0-6
+800622380,800566432.0,Nikola Siychanov,BUL,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,2nd Round,L,2-6 4-6
+800622380,800646016.0,Victor Milanov,BUL,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,1st Round,W,7-6 2-6 10-4
 800660240,800592488.0,Vadim Liashenko,RUS,J30 Addis Ababa,2023,04 Dec to 09 Dec 2023,Clay,1st Round,L,4-6 6-3 3-6
 800660240,800653725.0,Jan Hemetzberger,AUT,J30 Addis Ababa,2023,27 Nov to 02 Dec 2023,Clay,1st Round,L,0-6 0-6
 800660240,800585220.0,Abdulmalik Al Shamrani,KSA,J30 Riyadh,2023,23 Oct to 28 Oct 2023,Hard,1st Round,L,2-6 1-6
 800660240,800629837.0,Ali Al Ayesh,KSA,J30 Riyadh,2023,23 Oct to 28 Oct 2023,Hard,Quarter-final,W,6-0 6-3
 800660240,800558734.0,Nawaf Alswaidan,KSA,J30 Riyadh,2023,16 Oct to 21 Oct 2023,Hard,Quarter-final,L,3-6 7-5 10-12
-800622380,800566432.0,Nikola Siychanov,BUL,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,2nd Round,L,2-6 4-6
-800622380,800646016.0,Victor Milanov,BUL,J30 Plovdiv,2023,16 Oct to 21 Oct 2023,Clay,1st Round,W,7-6 2-6 10-4
-800644703,800600564.0,Mikolaj Owramko,POL,J100 Krakow,2023,15 Aug to 20 Aug 2023,Clay,2nd Round,L,1-6 4-6
-800644703,800663809.0,Jakub Szubert,POL,J100 Krakow,2023,15 Aug to 20 Aug 2023,Clay,1st Round,W,6-0 6-1
 800645224,800598778.0,Archie Gray,GBR,J60 Liverpool,2023,13 Nov to 17 Nov 2023,Hard,2nd Round,L,3-6 5-7
 800645224,800653246.0,Harry Abel,GBR,J60 Liverpool,2023,13 Nov to 17 Nov 2023,Hard,1st Round,W,3-6 6-3 10-4
 800645224,800668559.0,Louis Hull,GBR,J30 Wrexham,2023,22 May to 26 May 2023,Hard,1st Round,L,1-6 3-6
@@ -17425,12 +17360,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800543474,800590650.0,Daniel Aleksandar Amarandei,ITA,J60 Yerevan,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,0-6 1-6
 800543474,800653311.0,Andrei Bokarev,RUS,J30 Tsaghadzor,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,0-6 3-6
 800543474,800661358.0,Filippo Alfano,ITA,J30 Tsaghadzor,2023,05 Jun to 10 Jun 2023,Clay,1st Round,L,4-6 1-6
-800709321,800552254.0,David Javadov,KAZ,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,Quarter-final,L,1-6 2-6
-800709321,800592488.0,Vadim Liashenko,RUS,J200 Almaty,2023,11 Sep to 16 Sep 2023,Clay,2nd Round,W,6-4 2-6 10-7
-800709321,800543484.0,Daniil Kharin,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,1st Round,L,2-6 1-6
-800709321,800492015.0,Alexey Lomakin,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,Quarter-final,L,0-6 5-7
-800709321,800758907.0,Aleksandr Kamenev,KAZ,J100 Almaty,2023,04 Sep to 09 Sep 2023,Clay,1st Round,W,6-0 6-4
-800709321,800672254.0,Daiya Hino,JPN,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,0-6 0-6
+800644703,800600564.0,Mikolaj Owramko,POL,J100 Krakow,2023,15 Aug to 20 Aug 2023,Clay,2nd Round,L,1-6 4-6
+800644703,800663809.0,Jakub Szubert,POL,J100 Krakow,2023,15 Aug to 20 Aug 2023,Clay,1st Round,W,6-0 6-1
 800680922,800569522.0,Nartkan Kozok,TUR,J30 Istanbul,2023,16 Oct to 22 Oct 2023,Hard,1st Round,L,3-6 3-6
 800678117,800677498.0,Lucas Daniel Descalzi,ARG,J60 Villa María,2023,28 Aug to 02 Sep 2023,Clay,1st Round,L,6-3 3-6 9-11
 800678117,800686426.0,Joao Mendes,BRA,J30 Luque,2023,10 Apr to 15 Apr 2023,Clay,1st Round,L,3-6 4-6
@@ -17453,18 +17384,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800675368,800681162.0,Adxamov Azizbek,UZB,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,5-7 2-6
 800675368,800670877.0,Mohamed Shawky,EGY,J60 Dakahlia,2023,15 May to 20 May 2023,Clay,2nd Round,L,0-6 0-6
 800675368,800717484.0,Saif Elsherbiny,EGY,J60 Dakahlia,2023,15 May to 20 May 2023,Clay,1st Round,W,2-6 6-4 10-7
-800682961,800620722.0,Tae Woo Kim,KOR,J30 Cholpon-Ata,2023,26 Jun to 01 Jul 2023,Hard,1st Round,L,1-6 2-6
-800682961,800590977.0,Ryu Kotikula,THA,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,4-6 0-6
-800682961,800659906.0,RUDRA BATHAM,IND,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,L,2-6 1-6
-800682961,800852705.0,Mohammed Shahin,JOR,WJT Boys Asia/Oceania Final-Qualifying,2023,27 Mar to 01 Apr 2023,,,W,6-3 6-1
-800682961,800635817.0,Tarek El Chaaby,LBN,2023 WJT AsiaOceania Pre-Qualifying,2023,13 Feb to 18 Feb 2023,,,L,2-6 2-6
 800693869,800678496.0,Joaquin Humberto Diaz Richard,CHI,J30 Guayaquil,2023,31 Jul to 05 Aug 2023,Clay,1st Round,L,5-7 1-6
-800696203,800570206.0,Jan Rastica,CZE,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,1st Round,L,2-6 0-6
-800696203,800598969.0,Moritz Baumgartner,AUT,J30 Humenne,2023,29 Aug to 03 Sep 2023,Clay,1st Round,L,5-7 2-6
-800696203,800636701.0,Przemyslaw Nikolajuk,POL,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,1st Round,L,1-6 4-6
 800698060,800723044.0,Billy Candra Andro Pungus,INA,J30 Selangor,2023,21 Feb to 26 Feb 2023,Hard,1st Round,L,0-6 2-6
 800698716,800725143.0,Ghaith Ben yahia,TUN,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,2nd Round,L,2-6 5-7
 800698716,800694048.0,Mahdi Samet,TUN,J30 Hammam Sousse,2023,07 Nov to 12 Nov 2023,Hard,1st Round,W,2-6 6-3 10-3
+800696203,800570206.0,Jan Rastica,CZE,J30 Trnava,2023,05 Sep to 10 Sep 2023,Clay,1st Round,L,2-6 0-6
+800696203,800598969.0,Moritz Baumgartner,AUT,J30 Humenne,2023,29 Aug to 03 Sep 2023,Clay,1st Round,L,5-7 2-6
+800696203,800636701.0,Przemyslaw Nikolajuk,POL,J30 Presov,2023,20 Mar to 25 Mar 2023,Clay,1st Round,L,1-6 4-6
 800694027,800582371.0,Joshua Khoo,SGP,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,2nd Round,L,2-6 2-6
 800694027,800758164.0,Taichi Akasaki,JPN,J30 Singapore,2023,21 Aug to 26 Aug 2023,Hard,1st Round,W,6-2 3-6 13-11
 800694027,800705312.0,Cooper Kose,AUS,J30 Singapore,2023,20 Feb to 25 Feb 2023,Hard,Quarter-final,L,1-6 0-6
@@ -17473,11 +17399,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800694027,800583630.0,Samay Narale,SGP,J60 Singapore,2023,06 Feb to 11 Feb 2023,Hard,1st Round,L,1-6 3-6
 800694027,800651170.0,Ryan Guang Wen Chen,SGP,J30 Singapore,2023,30 Jan to 04 Feb 2023,Hard,1st Round,L,5-7 6-2 6-10
 800694028,800664516.0,Josh Hinton,GBR,J30 Noumea,2023,19 Jun to 24 Jun 2023,Hard,1st Round,L,0-6 1-6
-800671265,800671461.0,Brandon LEHMAN,INA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,L,2-6 1-6
 800670988,800601544.0,Pudit Phapatsirikul,THA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,L,2-6 2-6
 800670988,800571865.0,Muhammad Annas Farish Annas Shukhairy,MAS,J60 Jakarta,2023,27 Jun to 02 Jul 2023,Hard,1st Round,L,3-6 3-6
 800670988,800535652.0,Sachindhananda Balamurugan,MAS,J30 Yogyakarta,2023,15 May to 21 May 2023,Hard,2nd Round,L,4-6 3-6
 800670988,800705177.0,Muhammad Adis Nararya,INA,J30 Yogyakarta,2023,15 May to 21 May 2023,Hard,1st Round,W,7-5 6-0
+800671265,800671461.0,Brandon LEHMAN,INA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,L,2-6 1-6
 800671352,800654437.0,Alfonso Javier Infante,PHI,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,L,2-6 3-6
 800671352,800736851.0,Ziqi Li,CHN,J30 Surabaya,2023,03 Oct to 08 Oct 2023,Hard,1st Round,L,0-6 1-6
 800662940,800570612.0,Ali Cinar Sahinoglu,TUR,J30 Istanbul,2023,13 Nov to 19 Nov 2023,Hard,1st Round,L,1-6 3-6
