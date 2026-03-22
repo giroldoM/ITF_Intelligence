@@ -112,12 +112,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800600773,800576190.0,Rodrigo Varillas,PER,J3 Lima,2022,09 May to 14 May 2022,Clay,2nd Round,L,1-6 2-6
 800600773,800621186.0,Tiago CUETO BON-BETEMPS,PER,J3 Lima,2022,09 May to 14 May 2022,Clay,1st Round,W,6-4 6-0
 800600773,800555735.0,Felipe Spagnuolo,ARG,J4 Lima,2022,02 May to 07 May 2022,Clay,1st Round,L,3-6 4-6
-800646827,800576236.0,Christof Schaertlin Coffey,SUI,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,2nd Round,L,3-6 1-6
-800646827,800701349.0,Chanula Wickramaratna,GBR,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,1st Round,W,6-2 6-3
-800646827,800576391.0,Kyle McKay,GBR,J5 Edinburgh,2022,10 Aug to 14 Aug 2022,Clay,1st Round,L,6-2 3-6 2-6
-800720203,800629869.0,Francisco Montana,USA,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,3-2
-800720203,800649973.0,Paxton Pritchard,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,4-6 0-6
-800720203,800563711.0,Thomas Aston,GBR,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,5-7 6-3 6-2
+800721316,800563421.0,Ismail ElShafei,EGY,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,5-7 2-6
 800654359,800711664.0,Yuma Tobe,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,2-6 4-6
 800658369,800659758.0,SANTIAGO PESINO,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,1st Round,L,3-6 7-5 5-10
 800658369,800595066.0,Lucas Yunez,ECU,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,7-6 7-5
@@ -127,8 +122,12 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800658369,800579895.0,Ziga Sesko,SLO,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,1-6 4-6
 800658369,800598581.0,Gyeom Do,KOR,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-2 6-2
 800658369,800546803.0,Juan Cruz Blanco Cauterucci,URU,J3 Asuncion,2022,11 Apr to 16 Apr 2022,Clay,1st Round,L,3-6 2-6
-800721316,800563421.0,Ismail ElShafei,EGY,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,5-7 2-6
-800721316,800660012.0,David Duong,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,0-6 1-6
+800720203,800629869.0,Francisco Montana,USA,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,3-2
+800720203,800649973.0,Paxton Pritchard,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,4-6 0-6
+800720203,800563711.0,Thomas Aston,GBR,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,5-7 6-3 6-2
+800646827,800576236.0,Christof Schaertlin Coffey,SUI,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,2nd Round,L,3-6 1-6
+800646827,800701349.0,Chanula Wickramaratna,GBR,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,1st Round,W,6-2 6-3
+800646827,800576391.0,Kyle McKay,GBR,J5 Edinburgh,2022,10 Aug to 14 Aug 2022,Clay,1st Round,L,6-2 3-6 2-6
 800700658,800683157.0,Ryuto Suzuki,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,2nd Round,L,6-1 0-6 3-6
 800700658,800684698.0,Kanari Izumisawa,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,W,6-4 6-1
 800700658,800582583.0,Natsuki Yamamoto,JPN,J2 Nagoya,2022,18 Oct to 23 Oct 2022,Carpet,2nd Round,L,3-6 3-6
@@ -149,8 +148,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800565895,800523508.0,Luca Mindrut,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,3rd Round,W,6-3 4-6 6-2
 800565895,800534774.0,Rares Teodor Pieleanu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,2nd Round,W,6-3 6-4
 800565895,800535721.0,Angel Vladov,BUL,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,1st Round,W,6-2 6-3
-800565895,800507294.0,Stefan Skobelev,SRB,J4 Timisoara,2022,28 Jun to 03 Jul 2022,Clay,2nd Round,L,3-6 0-6
-800565895,800508647.0,Vadym Rogynskyi,UKR,J4 Timisoara,2022,28 Jun to 03 Jul 2022,Clay,1st Round,W,6-2 7-6
 800590813,800541826.0,Makar Krivoshchekov,RUS,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,2nd Round,L,5-7 1-6
 800590813,800492014.0,Zhakas Kozbak,KAZ,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,1st Round,W,4-6 6-3 6-3
 800590813,800565253.0,Ivan Timofeev,RUS,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,Quarter-final,W,6-2 6-4
@@ -187,11 +184,25 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800654119,800544649.0,Oliver Bonding,GBR,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,Quarter-final,L,1-6 2-6
 800654119,800503819.0,Benjamin Scott,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,W,7-6 6-4
 800654119,800628273.0,Hayden Loffler,SWZ,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-4 6-2
+800601948,800594997.0,Nathan Mansfield,USA,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,2nd Round,L,0-6 2-6
 800589799,800537438.0,Rashed Nawaf,QAT,J4 Isa Town,2022,07 Nov to 13 Nov 2022,Hard,1st Round,L,1-6 0-6
 800589799,800570206.0,Jan Rastica,CZE,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-3 6-4
 800589799,800630024.0,Lucas Martin Velasco,COL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,7-5 6-3
-800601948,800594997.0,Nathan Mansfield,USA,J3 Loughborough,2022,05 Dec to 09 Dec 2022,Hard,2nd Round,L,0-6 2-6
-800589275,800573678.0,Nicolai Budkov Kjaer,NOR,J3 Aizkraukle,2022,05 Dec to 10 Dec 2022,Carpet,1st Round,L,3-6 2-6
+800595066,800547535.0,gian carlos Rodriguez,ECU,J5 Guayaquil,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,4-6 3-6
+800595066,800658369.0,Dante Pagani,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-7 5-7
+800595066,800543488.0,Zangar Nurlanuly,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,3-6 3-6
+800595066,800587847.0,Antonio Marigliano,ITA,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,0-6 4-6
+800595066,800648125.0,David Brueckner,CZE,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-4 7-5
+800595066,800680716.0,Mauricio Schtulmann Gasca,MEX,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,4-6 6-3 6-1
+800595066,800690276.0,Ren Matsumura,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,6-3 1-6 6-10
+800597132,800631983.0,Jan Klimas,CZE,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,L,3-6 0-6
+800597132,800673398.0,Jan Rosicky,CZE,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,Quarter-final,L,2-6 1-6
+800597132,800572560.0,Bence Juhasz,HUN,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,2nd Round,W,6-4 6-2
+800597132,800594498.0,Samuel Krnac,SVK,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,W,6-4 6-2
+800626993,800513569.0,Mahmut Bera Binici,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,4-6 6-7
+800626993,800531460.0,Bekzod Nematov,UZB,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-1 7-6
+800626993,800537622.0,Ege Arda Bakar,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,L,2-6 3-6
+800626993,800570184.0,Dexter Arnarp,SWE,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-3 6-1
 800694107,800581684.0,Cristian Care,AUS,J5 Lautoka,2022,31 Oct to 05 Nov 2022,Hard,Final,W,2-6 7-5 3-0
 800694107,800509397.0,Brendan Nicholas Hendrata,INA,J5 Lautoka,2022,31 Oct to 05 Nov 2022,Hard,Semi-final,W,6-1 7-5
 800694107,800674216.0,Billy Williams,AUS,J5 Lautoka,2022,31 Oct to 05 Nov 2022,Hard,Quarter-final,W,7-5 6-1
@@ -213,39 +224,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800694107,800564091.0,Jett Leong,AUS,J5 Darwin,2022,23 May to 27 May 2022,Hard,2nd Round,L,1-6 3-6
 800694107,800664920.0,Jett Grech,AUS,J5 Darwin,2022,23 May to 27 May 2022,Hard,1st Round,W,6-2 6-2
 800694107,800495710.0,Daniel Verbeek,NED,J1 Traralgon,2022,14 Jan to 19 Jan 2022,Hard,1st Round,L,2-6 0-6
-800595066,800547535.0,gian carlos Rodriguez,ECU,J5 Guayaquil,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,4-6 3-6
-800595066,800658369.0,Dante Pagani,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-7 5-7
-800595066,800543488.0,Zangar Nurlanuly,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,3-6 3-6
-800595066,800587847.0,Antonio Marigliano,ITA,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,0-6 4-6
-800595066,800648125.0,David Brueckner,CZE,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-4 7-5
-800595066,800680716.0,Mauricio Schtulmann Gasca,MEX,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,4-6 6-3 6-1
-800595066,800690276.0,Ren Matsumura,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,6-3 1-6 6-10
-800626993,800513569.0,Mahmut Bera Binici,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,4-6 6-7
-800626993,800531460.0,Bekzod Nematov,UZB,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-1 7-6
-800626993,800537622.0,Ege Arda Bakar,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,L,2-6 3-6
-800626993,800570184.0,Dexter Arnarp,SWE,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-3 6-1
 800602236,800591900.0,Dylan Charlap,USA,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,2nd Round,L,6-3 3-6 2-6
 800602236,800538923.0,Amit Shamash,ISR,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,1st Round,W,7-6 7-5
-800597132,800631983.0,Jan Klimas,CZE,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,L,3-6 0-6
-800597132,800673398.0,Jan Rosicky,CZE,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,Quarter-final,L,2-6 1-6
-800597132,800572560.0,Bence Juhasz,HUN,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,2nd Round,W,6-4 6-2
-800597132,800594498.0,Samuel Krnac,SVK,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,W,6-4 6-2
 800626895,800556990.0,Ignacio Parisca,VEN,J4 Les Franqueses del Valles,2022,31 May to 05 Jun 2022,Hard,1st Round,L,2-6 1-6
 800697653,800630363.0,Fabian Rosales Stephen,USA,J4 Plantation,2022,02 May to 07 May 2022,Clay,2nd Round,L,4-6 6-2 7-10
 800697653,800512953.0,Vasco Trocca,ITA,J4 Bayamón,2022,14 Mar to 19 Mar 2022,Hard,2nd Round,L,1-6 0-6
-800635903,800486197.0,Denim Yadav,IND,J2 Hannover,2022,16 May to 21 May 2022,Clay,1st Round,L,1-6 2-6
 800602679,800578598.0,Jangjun Kim,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,6-4 1-6 0-6
-800583661,800688594.0,Evan Simon,FRA,J5 Dakar,2022,31 Oct to 05 Nov 2022,Hard,Quarter-final,L,6-7 2-6
-800583661,800541475.0,Boris Slesarev,RUS,J5 Dakar,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,W,6-3 6-1
-800583661,800662113.0,Finley Dyer,AUS,J5 Dakar,2022,24 Oct to 29 Oct 2022,Hard,Quarter-final,L,5-7 3-6
-800583661,800623310.0,Zoheir Fardoun,SEN,J5 Dakar,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,W,6-1 6-4
-800583661,800629952.0,David Ekpenyong,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,Semi-final,L,6-3 1-6 0-6
-800583661,800526332.0,Matthew Miracle Abamu,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,Quarter-final,W,6-3 2-0
-800583661,800649528.0,MUBARAK AYODEJI GANIYU,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,2nd Round,W,7-5 6-0
-800583661,800578399.0,Bright Nii Nortei Nortey,GHA,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,1st Round,W,6-1 6-2
-800583661,800592155.0,Emmanuel Oppong Antwi,GHA,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,Quarter-final,L,6-1 4-6 4-6
-800583661,800635212.0,Sofyan Elnaqa,EGY,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,2nd Round,W,6-0 6-0
-800583661,800673156.0,Fortune Joseph,NGR,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,1st Round,W,6-2 6-3
+800635903,800486197.0,Denim Yadav,IND,J2 Hannover,2022,16 May to 21 May 2022,Clay,1st Round,L,1-6 2-6
 800597850,800594263.0,Santiago Padilla Cote,MEX,J1 Bradenton,2022,28 Nov to 04 Dec 2022,Clay,2nd Round,L,4-6 2-6
 800597850,800504614.0,Artjoms Afanasjevs,LAT,J1 Bradenton,2022,28 Nov to 04 Dec 2022,Clay,1st Round,W,6-2 6-2
 800597850,800508859.0,David Fix,GER,JA Merida,2022,21 Nov to 27 Nov 2022,Clay,1st Round,L,3-6 2-6
@@ -253,13 +238,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800597850,800663505.0,alejandro flores monteverde,MEX,JA Merida,2022,21 Nov to 27 Nov 2022,Clay,2nd Round,W,6-2 6-2
 800597850,800592155.0,Emmanuel Oppong Antwi,GHA,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,2nd Round,L,6-7 1-6
 800597850,800690942.0,Gbolahan Oladipupo,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,1st Round,W,6-3 6-4
-800651243,800560529.0,Tega Caradima,ROU,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,4-6 1-6
-800651243,800602676.0,Deni Hadzialijagic,GER,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,3rd Round,W,6-2 6-4
-800651243,800587830.0,Anton Kartsev,RUS,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,W,6-3 7-5
-800651243,800568459.0,Sarp Celik,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-4 4-6 13-11
-800651243,800556775.0,Aras Akar,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,L,2-6 4-6
-800651243,800602236.0,Alejandro Mateo Berge Nourescu,ROU,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,L,2-6 1-6
-800651243,800697815.0,syota yamamoto,JPN,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,7-6 6-4
+800704311,800646697.0,Raul de la vega,BRA,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,4-6 3-6
+800704311,800649687.0,Srikar Polisetty,IND,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,5-7 3-6
+800704311,800512948.0,Arenui Luethi,SUI,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,1st Round,L,2-6 3-6
+800704311,800551205.0,Victor Kimpel,GER,J3 Delray Beach,2022,25 Apr to 30 Apr 2022,Clay,2nd Round,L,2-6 1-6
+800704311,800686453.0,Luc Metz,USA,J3 Delray Beach,2022,25 Apr to 30 Apr 2022,Clay,1st Round,W,6-1 6-0
 800695726,800629952.0,David Ekpenyong,NGR,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,Semi-final,L,1-6 4-6
 800695726,800627031.0,Peter Oche John,NGR,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,Quarter-final,W,6-3 6-1
 800695726,800589832.0,Anoop Keshavamurthy,IND,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,2nd Round,W,5-7 7-6 6-1
@@ -283,28 +266,36 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800695726,800718680.0,Hanif Boateng,GHA,J5 Accra,2022,15 Aug to 20 Aug 2022,Hard,Quarter-final,W,6-2 6-1
 800695726,800580233.0,Dhanush Varma Pericherla,IND,J5 Accra,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,W,2-6 6-3 12-10
 800695726,800647779.0,Ivan Wularu,GHA,J5 Accra,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-3 7-6
-800704311,800646697.0,Raul de la vega,BRA,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,4-6 3-6
-800704311,800649687.0,Srikar Polisetty,IND,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,5-7 3-6
-800704311,800512948.0,Arenui Luethi,SUI,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,1st Round,L,2-6 3-6
-800704311,800551205.0,Victor Kimpel,GER,J3 Delray Beach,2022,25 Apr to 30 Apr 2022,Clay,2nd Round,L,2-6 1-6
-800704311,800686453.0,Luc Metz,USA,J3 Delray Beach,2022,25 Apr to 30 Apr 2022,Clay,1st Round,W,6-1 6-0
+800583661,800688594.0,Evan Simon,FRA,J5 Dakar,2022,31 Oct to 05 Nov 2022,Hard,Quarter-final,L,6-7 2-6
+800583661,800541475.0,Boris Slesarev,RUS,J5 Dakar,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,W,6-3 6-1
+800583661,800662113.0,Finley Dyer,AUS,J5 Dakar,2022,24 Oct to 29 Oct 2022,Hard,Quarter-final,L,5-7 3-6
+800583661,800623310.0,Zoheir Fardoun,SEN,J5 Dakar,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,W,6-1 6-4
+800583661,800629952.0,David Ekpenyong,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,Semi-final,L,6-3 1-6 0-6
+800583661,800526332.0,Matthew Miracle Abamu,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,Quarter-final,W,6-3 2-0
+800583661,800649528.0,MUBARAK AYODEJI GANIYU,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,2nd Round,W,7-5 6-0
+800583661,800578399.0,Bright Nii Nortei Nortey,GHA,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,1st Round,W,6-1 6-2
+800583661,800592155.0,Emmanuel Oppong Antwi,GHA,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,Quarter-final,L,6-1 4-6 4-6
+800583661,800635212.0,Sofyan Elnaqa,EGY,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,2nd Round,W,6-0 6-0
+800583661,800673156.0,Fortune Joseph,NGR,J5 Lome,2022,26 Sep to 30 Sep 2022,Hard,1st Round,W,6-2 6-3
+800705312,800587317.0,Nathan Lim,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,5-7 6-3 1-6
+800705312,800653253.0,Rudy Thorogood,AUS,J4 Gold Coast,2022,13 Jul to 17 Jul 2022,Hard,1st Round,L,3-6 1-6
+800651243,800560529.0,Tega Caradima,ROU,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,4-6 1-6
+800651243,800602676.0,Deni Hadzialijagic,GER,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,3rd Round,W,6-2 6-4
+800651243,800587830.0,Anton Kartsev,RUS,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,W,6-3 7-5
+800651243,800568459.0,Sarp Celik,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-4 4-6 13-11
+800651243,800556775.0,Aras Akar,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,L,2-6 4-6
+800651243,800602236.0,Alejandro Mateo Berge Nourescu,ROU,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,L,2-6 1-6
+800651243,800697815.0,syota yamamoto,JPN,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,7-6 6-4
+800595243,800656927.0,Kevin Pabisiak,POL,J4 Leszno,2022,28 Nov to 04 Dec 2022,Hard,1st Round,L,4-6 2-6
+800595243,800678683.0,Mateusz Blaszczyk,POL,J4 Leszno,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,0-6 3-6
 800681412,800572397.0,Tristan BERARD,FRA,J5 Ponts de Ce,2022,10 Oct to 15 Oct 2022,Hard,1st Round,L,4-6 4-6
 800681412,800526478.0,Niels Villard,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,2-6 2-6
 800681412,800542498.0,Thomas Duforets,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,Quarter-final,W,6-2 6-0
 800681412,800561349.0,Enzo Pierrot,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,W,6-2 6-4
 800681412,800558448.0,Noah Boutleux,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,W,6-4 4-6 10-5
 800681412,800541962.0,Ibrahim Benyahia,MAR,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,3-6 1-6
-800595243,800656927.0,Kevin Pabisiak,POL,J4 Leszno,2022,28 Nov to 04 Dec 2022,Hard,1st Round,L,4-6 2-6
-800595243,800678683.0,Mateusz Blaszczyk,POL,J4 Leszno,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,0-6 3-6
 800707189,800692698.0,Oscar Andrews,AUS,J5 Adelaide,2022,14 Sep to 18 Sep 2022,Hard,1st Round,L,1-6 4-6
 800707189,800679989.0,Kye Bennett,AUS,J5 Adelaide,2022,07 Sep to 11 Sep 2022,Hard,1st Round,L,1-6 3-6
-800625580,800576130.0,Juan Esteban Trujillo Hernandez,COL,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,4-6 2-6
-800625580,800546589.0,Bruno Panchana Barandearan,ECU,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,Quarter-final,W,6-0 6-2
-800625580,800574851.0,Felipe Jose Rivadeneira Gallegos,ECU,J4 Salinas,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,4-6 3-6
-800625580,800573019.0,Enzo Puppi,PER,J4 Salinas,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,6-4 6-1
-800711858,800530011.0,Rintaro Shukuda,JPN,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,0-6 1-6
-800711858,800664290.0,Aryan Karnani,AUS,J5 Adelaide,2022,14 Sep to 18 Sep 2022,Hard,1st Round,L,4-6 3-6
-800711858,800653410.0,Zac Hamill,AUS,J5 Adelaide,2022,07 Sep to 11 Sep 2022,Hard,1st Round,L,3-6 4-6
 800692811,800639276.0,Sanjeev Chundu,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,3-6 3-6
 800692811,800679508.0,Sklar Phillips,USA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Semi-final,L,6-2 3-6 5-7
 800692811,800715148.0,Joshua Golden,USA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,W,6-3 6-1
@@ -315,24 +306,30 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800692811,800673416.0,Elijah Kook,CAN,J4 Vancouver,2022,11 Jul to 16 Jul 2022,Hard,2nd Round,W,5-7 6-0 6-2
 800692811,800505252.0,Marvin Kao,CAN,J4 Vancouver,2022,11 Jul to 16 Jul 2022,Hard,1st Round,W,6-1 6-7 6-0
 800692811,800680824.0,Chase Fralick,USA,J4 Las Vegas,2022,14 Mar to 19 Mar 2022,Hard,1st Round,L,3-6 0-6
-800705312,800587317.0,Nathan Lim,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,5-7 6-3 1-6
-800705312,800653253.0,Rudy Thorogood,AUS,J4 Gold Coast,2022,13 Jul to 17 Jul 2022,Hard,1st Round,L,3-6 1-6
+800625580,800576130.0,Juan Esteban Trujillo Hernandez,COL,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,4-6 2-6
+800625580,800546589.0,Bruno Panchana Barandearan,ECU,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,Quarter-final,W,6-0 6-2
+800625580,800574851.0,Felipe Jose Rivadeneira Gallegos,ECU,J4 Salinas,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,4-6 3-6
+800625580,800573019.0,Enzo Puppi,PER,J4 Salinas,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,6-4 6-1
+800711858,800530011.0,Rintaro Shukuda,JPN,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,0-6 1-6
+800711858,800664290.0,Aryan Karnani,AUS,J5 Adelaide,2022,14 Sep to 18 Sep 2022,Hard,1st Round,L,4-6 3-6
+800711858,800653410.0,Zac Hamill,AUS,J5 Adelaide,2022,07 Sep to 11 Sep 2022,Hard,1st Round,L,3-6 4-6
 800603213,800598704.0,Thomas Lefranc,GBR,J5 Castlebar,2022,31 Oct to 04 Nov 2022,Clay,1st Round,L,5-7 0-6
 800603213,800589413.0,Arthur Attrill,GBR,J5 Cork,2022,11 Jul to 16 Jul 2022,Carpet,1st Round,L,1-6 2-6
 800603213,800583812.0,James Ashworth,GBR,J5 Dublin,2022,11 Apr to 16 Apr 2022,Hard,2nd Round,L,1-6 1-6
 800603213,800696986.0,Gavin Wade,IRL,J5 Dublin,2022,11 Apr to 16 Apr 2022,Hard,1st Round,W,6-0 6-0
+800706603,800578882.0,Juan David Robayo Arias,COL,J5 Kingston,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,3-6 6-4 0-6
+800706603,800578609.0,John Patrick Popowich,USA,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,1st Round,L,2-6 3-6
+800706603,800714669.0,Jaden Cephas,JAM,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,Quarter-final,W,6-0 6-1
+800706603,800721744.0,Ignacio Ayuso,ESP,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,2nd Round,W,6-0 6-2
+800706603,800653202.0,Ronit Karki,USA,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,2nd Round,L,6-7 2-6
+800706603,800569169.0,Uvan Patel,CAN,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,1st Round,W,5-7 7-5 10-8
+800706603,800655506.0,Zachary Cohen,USA,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,1-6 2-6
 800620722,800544711.0,Sechan Eum,KOR,J5 Yanggu,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,4-6 3-6
-800587847,800696885.0,Amine Jamji,MAR,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,7-6 4-6 2-6
-800587847,800513800.0,Felipe Virgili Berini,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,Semi-final,L,1-6 2-6
-800587847,800519227.0,Mattia Ricci,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,Quarter-final,W,6-1 7-6
-800587847,800565430.0,Alex Guidi,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,2nd Round,W,6-4 6-4
-800587847,800577077.0,Harold Van Raemdonck,BEL,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,1st Round,W,6-4 6-0
-800587847,800658369.0,Dante Pagani,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,6-3 5-7 6-4
-800587847,800595066.0,Lucas Yunez,ECU,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,6-0 6-4
-800587847,800543488.0,Zangar Nurlanuly,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-4 4-6 3-6
-800587847,800568689.0,Filip Kosarko,CZE,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 3-6 10-7
-800587847,800583844.0,Ryo Tabata,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-2 6-4
-800587847,800601932.0,Alejandro Castellanos,COL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 6-0
+800599182,800553475.0,Juan Ignacio Zamora,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,Quarter-final,L,6-4 5-7 2-6
+800599182,800555735.0,Felipe Spagnuolo,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,2nd Round,W,6-2 6-1
+800599182,800581475.0,Tadeo Gaggiofatto,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,1st Round,W,7-6 3-6 7-5
+800599182,800561231.0,Gonzalo Zeitune,ARG,J4 Cordoba,2022,22 Aug to 27 Aug 2022,Clay,Quarter-final,L,7-5 2-6 5-7
+800599182,800644174.0,Santino Tarantelli,ARG,J4 Cordoba,2022,22 Aug to 27 Aug 2022,Clay,1st Round,W,6-3 6-1
 800562884,800655639.0,Santiago Portugal Aponte,MEX,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,2-6 3-6
 800562884,800653961.0,Ghali Ouajahat Filali,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,1st Round,L,6-3 2-6 4-6
 800562884,800599392.0,Andrei Dumitrescu,ROU,J5 Yerevan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,L,0-6 2-6
@@ -348,19 +345,20 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800727133,800510275.0,Nicholas Miharu Bowles-Rokudo,GBR,J5 Vale do Lobo,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,0-6 2-6
 800727133,800626793.0,Theo Nilsson,SWE,J4 Porto,2022,16 Aug to 21 Aug 2022,Hard,1st Round,L,6-4 4-6 0-3
 800727133,800541111.0,Andrea Cardinale,ITA,J5 Porto,2022,08 Aug to 13 Aug 2022,Clay,1st Round,L,1-6 3-6
-800727133,800586204.0,Alessandro Mondazzi,ITA,J4 Leiria,2022,01 Aug to 07 Aug 2022,Clay,1st Round,L,1-6 2-6
-800706603,800578882.0,Juan David Robayo Arias,COL,J5 Kingston,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,3-6 6-4 0-6
-800706603,800578609.0,John Patrick Popowich,USA,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,1st Round,L,2-6 3-6
-800706603,800714669.0,Jaden Cephas,JAM,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,Quarter-final,W,6-0 6-1
-800706603,800721744.0,Ignacio Ayuso,ESP,J5 Kingston,2022,07 Nov to 11 Nov 2022,Hard,2nd Round,W,6-0 6-2
-800706603,800653202.0,Ronit Karki,USA,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,2nd Round,L,6-7 2-6
-800706603,800569169.0,Uvan Patel,CAN,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,1st Round,W,5-7 7-5 10-8
-800706603,800655506.0,Zachary Cohen,USA,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,1-6 2-6
-800599182,800553475.0,Juan Ignacio Zamora,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,Quarter-final,L,6-4 5-7 2-6
-800599182,800555735.0,Felipe Spagnuolo,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,2nd Round,W,6-2 6-1
-800599182,800581475.0,Tadeo Gaggiofatto,ARG,J5 Buenos Aires,2022,19 Sep to 23 Sep 2022,Clay,1st Round,W,7-6 3-6 7-5
-800599182,800561231.0,Gonzalo Zeitune,ARG,J4 Cordoba,2022,22 Aug to 27 Aug 2022,Clay,Quarter-final,L,7-5 2-6 5-7
-800599182,800644174.0,Santino Tarantelli,ARG,J4 Cordoba,2022,22 Aug to 27 Aug 2022,Clay,1st Round,W,6-3 6-1
+800587847,800696885.0,Amine Jamji,MAR,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,7-6 4-6 2-6
+800587847,800513800.0,Felipe Virgili Berini,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,Semi-final,L,1-6 2-6
+800587847,800519227.0,Mattia Ricci,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,Quarter-final,W,6-1 7-6
+800587847,800565430.0,Alex Guidi,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,2nd Round,W,6-4 6-4
+800587847,800577077.0,Harold Van Raemdonck,BEL,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,1st Round,W,6-4 6-0
+800587847,800658369.0,Dante Pagani,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,6-3 5-7 6-4
+800587847,800595066.0,Lucas Yunez,ECU,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,6-0 6-4
+800587847,800543488.0,Zangar Nurlanuly,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-4 4-6 3-6
+800587847,800568689.0,Filip Kosarko,CZE,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 3-6 10-7
+800587847,800583844.0,Ryo Tabata,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-2 6-4
+800587847,800601932.0,Alejandro Castellanos,COL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 6-0
+800682637,800594263.0,Santiago Padilla Cote,MEX,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,3rd Round,L,1-6 0-6
+800682637,800683756.0,Lev Seidman,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,W,6-4 6-4
+800682637,800631544.0,Aidan Atwood,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-4 6-1
 800592332,800523508.0,Luca Mindrut,ROU,J3 Constanta,2022,13 Sep to 18 Sep 2022,Clay,2nd Round,L,2-6 0-10
 800592332,800553456.0,Armand George Constantin,ROU,J3 Constanta,2022,13 Sep to 18 Sep 2022,Clay,1st Round,W,6-1 6-4
 800583662,800581090.0,Se Hyun Kim,KOR,J3 Andong,2022,08 Nov to 13 Nov 2022,Hard,Semi-final,L,3-6 4-6
@@ -378,9 +376,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800583662,800651606.0,Kouyou Tanihata,JPN,J4 Miki City,2022,31 Aug to 04 Sep 2022,Hard,2nd Round,W,6-1 6-2
 800583662,800584054.0,Ryusei Miyazato,JPN,J4 Miki City,2022,31 Aug to 04 Sep 2022,Hard,1st Round,W,6-3 1-6 6-0
 800634862,800543481.0,Temirlan Karim,KAZ,J3 Ust-Kamenogorsk,2022,07 Nov to 12 Nov 2022,Carpet,2nd Round,L,6-6
-800682637,800594263.0,Santiago Padilla Cote,MEX,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,3rd Round,L,1-6 0-6
-800682637,800683756.0,Lev Seidman,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,W,6-4 6-4
-800682637,800631544.0,Aidan Atwood,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-4 6-1
 800678202,800622039.0,Thomas Gunzinger,SUI,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,4-6 6-3 1-6
 800678202,800599350.0,Juchan Hwang,KOR,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 6-3
 800678202,800590474.0,Tito Chavez,ESP,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,W,6-0 0-6 6-4
@@ -397,7 +392,20 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800629142,800556544.0,Davi Savi,BRA,J4 Itajai,2022,03 Oct to 08 Oct 2022,Clay,Quarter-final,L,7-6 6-7 5-10
 800629142,800639036.0,Mateus Yakasilo,BRA,J4 Itajai,2022,03 Oct to 08 Oct 2022,Clay,2nd Round,W,6-4 6-3
 800629142,800571155.0,Thales Eduardo Andrade Sette,BRA,J4 Itajai,2022,03 Oct to 08 Oct 2022,Clay,1st Round,W,6-4 6-2
+800720441,800682352.0,Nikola Parichkov,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,L,0-6 0-6
 800667741,800624292.0,Omar Farahat,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,1st Round,L,0-6 1-6
+800685006,800653202.0,Ronit Karki,USA,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,L,1-6 4-6
+800685006,800547729.0,Alexander Nordal Clausen,DEN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-1 6-1
+800685006,800651633.0,Fabrizio Fallas,CRC,J5 Managua,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,6-4 1-6 2-6
+800685006,800598269.0,Pablo Paternostro,USA,J5 Managua,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,6-3 7-6
+800685006,800625122.0,Emilio Zavala Salinas,MEX,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,L,5-7 1-6
+800685006,800622266.0,Juan Pablo Garzon Reyes,MEX,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,W,6-2 6-2
+800685006,800583377.0,Jadon Skollar,USA,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,4-6 6-1 6-3
+800685006,800598504.0,Gijs Fidler,ARU,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,W,6-2 6-1
+800685006,800583045.0,Ray Xie,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,2nd Round,L,1-6 2-6
+800685006,800681715.0,Remi St-Laurent,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,W,7-5 7-6
+800685006,800680271.0,Manveer Boparai,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,2nd Round,L,4-6 0-6
+800685006,800701367.0,Haiyi Qin,CHN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,W,6-3 6-2
 800690276,800599900.0,Kohshi Ishibashi,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,2nd Round,L,6-2 1-6 4-6
 800690276,800635898.0,Yuki Okahashi,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,W,6-2 7-6
 800690276,800565686.0,Roshu Fujioka,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,2nd Round,L,6-7 6-3 4-6
@@ -451,18 +459,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800589300,800645574.0,Stanislav Kosev,BUL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-1 6-3
 800708219,800540737.0,Daniil Sarksian,ARM,J2 Cairo,2022,12 Sep to 16 Sep 2022,Clay,1st Round,L,0-6 2-6
 800708219,800629488.0,Ilyas Milad Fahim,USA,J2 Cairo,2022,05 Sep to 09 Sep 2022,Clay,1st Round,L,1-6 0-6
-800685006,800653202.0,Ronit Karki,USA,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,L,1-6 4-6
-800685006,800547729.0,Alexander Nordal Clausen,DEN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-1 6-1
-800685006,800651633.0,Fabrizio Fallas,CRC,J5 Managua,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,6-4 1-6 2-6
-800685006,800598269.0,Pablo Paternostro,USA,J5 Managua,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,6-3 7-6
-800685006,800625122.0,Emilio Zavala Salinas,MEX,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,L,5-7 1-6
-800685006,800622266.0,Juan Pablo Garzon Reyes,MEX,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,W,6-2 6-2
-800685006,800583377.0,Jadon Skollar,USA,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,4-6 6-1 6-3
-800685006,800598504.0,Gijs Fidler,ARU,J5 Managua,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,W,6-2 6-1
-800685006,800583045.0,Ray Xie,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,2nd Round,L,1-6 2-6
-800685006,800681715.0,Remi St-Laurent,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,W,7-5 7-6
-800685006,800680271.0,Manveer Boparai,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,2nd Round,L,4-6 0-6
-800685006,800701367.0,Haiyi Qin,CHN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,W,6-3 6-2
+800664727,800573685.0,Manuel Lassacher,AUT,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,3rd Round,L,6-7 6-7
+800664727,800599678.0,Daniil Sokrutenko,UKR,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,2nd Round,W,6-2 2-6 10-6
 800631785,800636117.0,Yassin Hassan,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,1st Round,L,5-7 1-6
 800631785,800651598.0,Seif El Salawy,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,Quarter-final,W,6-3 1-0
 800631785,800648967.0,Karim Sherif Abdellatif Abdo,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,2nd Round,W,6-2 6-4
@@ -476,10 +474,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800705403,800584954.0,Shu Hirata,JPN,J2 Nagoya,2022,18 Oct to 23 Oct 2022,Carpet,1st Round,L,4-6 1-6
 800705403,800541004.0,Shu Muto,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,0-6 0-6
 800721308,800679437.0,Abhiram Nandury,USA,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,4-6 0-6
-800586830,800691439.0,Ronit Gupta,IND,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Quarter-final,L,6-4 1-5
-800586830,800764478.0,Noa Dupuy-Sacrot,REU,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,W,6-3 4-6 6-2
-800586830,800722842.0,MAEL Gonthier,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,W,6-0 6-1
-800720441,800682352.0,Nikola Parichkov,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,L,0-6 0-6
 800708119,800480269.0,Zachary Murphy,IRL,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,1-6 2-6
 800708119,800684329.0,Adrian Treacy,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,3rd Round,L,1-6 7-5 7-10
 800708119,800712010.0,Nikash Sai Kondamuri,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,W,6-2 6-2
@@ -493,11 +487,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800660184,800596267.0,Se Hun Kim,KOR,J5 Yanggu,2022,30 Aug to 04 Sep 2022,Hard,1st Round,W,6-1 6-0
 800660184,800599681.0,Ho Jun Park,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,2nd Round,L,4-6 0-6
 800660184,800585584.0,Sion Ji,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,W,7-6 7-5
-800590053,800589787.0,Shay Sarfati,FRA,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,1st Round,L,5-7 6-7
-800590053,800562369.0,Andrei Rogatskii,ISR,J2 Kiryat Shmona,2022,21 Nov to 26 Nov 2022,Hard,1st Round,L,6-7 6-7
-800590053,800589054.0,Itamar Verthaimer,FRA,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,2nd Round,L,3-6 5-7
-800590053,800591881.0,Uriya Ofer,ISR,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,1st Round,W,7-5 6-2
-800590053,800591170.0,Ilay Haim,ISR,J5 Tel Aviv,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,5-7 2-6
+800586830,800691439.0,Ronit Gupta,IND,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Quarter-final,L,6-4 1-5
+800586830,800764478.0,Noa Dupuy-Sacrot,REU,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,W,6-3 4-6 6-2
+800586830,800722842.0,MAEL Gonthier,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,W,6-0 6-1
 800601885,800553730.0,Emil Kindhult,SWE,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,4-6 1-6
 800589486,800517388.0,Curzio Manucci,ITA,J5 Vale do Lobo,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,1-6 2-6
 800589486,800572400.0,Jakub Krawczyk,POL,J5 Portimao,2022,03 Oct to 09 Oct 2022,Hard,2nd Round,L,6-7 2-6
@@ -507,8 +499,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800643082,800671855.0,Youssef Sassi,TUN,J5 Bizerte,2022,14 Jun to 19 Jun 2022,Clay,2nd Round,W,6-3 6-2
 800643082,800649614.0,Mahmoud salim Gannouni,TUN,J5 Bizerte,2022,14 Jun to 19 Jun 2022,Clay,1st Round,W,4-6 6-3 10-6
 800667359,800554020.0,Jae Sang Park,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,2-6 6-3 5-10
-800589345,800546455.0,Teva Ardillon,FGU,J5 San Marino,2022,19 Jul to 23 Jul 2022,Clay,1st Round,L,4-6 2-6
-800660593,800625122.0,Emilio Zavala Salinas,MEX,JA Merida,2022,21 Nov to 27 Nov 2022,Clay,2nd Round,L,0-6 4-6
+800590053,800589787.0,Shay Sarfati,FRA,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,1st Round,L,5-7 6-7
+800590053,800562369.0,Andrei Rogatskii,ISR,J2 Kiryat Shmona,2022,21 Nov to 26 Nov 2022,Hard,1st Round,L,6-7 6-7
+800590053,800589054.0,Itamar Verthaimer,FRA,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,2nd Round,L,3-6 5-7
+800590053,800591881.0,Uriya Ofer,ISR,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,1st Round,W,7-5 6-2
+800590053,800591170.0,Ilay Haim,ISR,J5 Tel Aviv,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,5-7 2-6
 800684025,800644429.0,Emirhan Bulut,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,6-4 2-6 1-6
 800684025,800544004.0,Mark Kaufman,RUS,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 6-3
 800712329,800578726.0,Tomas Leguizamon Chaves,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,6-7 2-6
@@ -516,6 +511,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800712329,800602682.0,Jose Romero Martinez,MEX,J5 Managua,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,1-6 3-6
 800712329,800568339.0,Stephan Koelle,BRA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,L,2-6 1-6
 800712329,800603446.0,Joao Maria Soares,POR,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-2 6-4
+800680752,800577231.0,Saahith Jayaraman,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,2nd Round,L,1-6 4-6
+800589345,800546455.0,Teva Ardillon,FGU,J5 San Marino,2022,19 Jul to 23 Jul 2022,Clay,1st Round,L,4-6 2-6
+800586897,800555498.0,Christoph Gayk,GER,J5 Berlin,2022,01 Nov to 06 Nov 2022,Hard,1st Round,L,1-6 0-6
+800586897,800575899.0,Neklas Walter,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,3-6 6-4 11-13
 800594501,800531062.0,Jose Freitas,POR,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,2nd Round,L,4-6 2-6
 800594501,800582830.0,Leon Jednacz,POL,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,W,6-2 6-3
 800594501,800639859.0,Salvatore Tartaglione,ITA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,Quarter-final,W,6-2 6-7 11-9
@@ -524,11 +523,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800594501,800570842.0,Dovas Dersonas,LTU,J5 Aizkraukle,2022,03 Oct to 08 Oct 2022,Carpet,Quarter-final,L,1-6 2-6
 800594501,800589275.0,Rihards Neimanis,LAT,J5 Aizkraukle,2022,03 Oct to 08 Oct 2022,Carpet,2nd Round,W,7-6 7-6
 800594501,800500630.0,David Simeonov,BUL,J5 Sozopol,2022,16 May to 21 May 2022,Hard,1st Round,L,2-6 2-6
-800680752,800577231.0,Saahith Jayaraman,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,2nd Round,L,1-6 4-6
-800664727,800573685.0,Manuel Lassacher,AUT,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,3rd Round,L,6-7 6-7
-800664727,800599678.0,Daniil Sokrutenko,UKR,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,2nd Round,W,6-2 2-6 10-6
-800586897,800555498.0,Christoph Gayk,GER,J5 Berlin,2022,01 Nov to 06 Nov 2022,Hard,1st Round,L,1-6 0-6
-800586897,800575899.0,Neklas Walter,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,3-6 6-4 11-13
+800660593,800625122.0,Emilio Zavala Salinas,MEX,JA Merida,2022,21 Nov to 27 Nov 2022,Clay,2nd Round,L,0-6 4-6
 800714127,800726879.0,Armaan Mawji,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,4-6 2-6
 800714127,800725282.0,Viv Anderson-Francois,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-2 6-3
 800714127,800682900.0,Gelan Su,CAN,J4 Langley,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,2-6 2-6
@@ -579,19 +574,18 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800599350,800645574.0,Stanislav Kosev,BUL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,3-6 6-7
 800599350,800678202.0,Benjamin Chelia,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,5-7 3-6
 800672403,800590685.0,Maxime Baur,SUI,J5 Kreuzlingen,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,2-6 2-6
-800586446,800526478.0,Niels Villard,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Final,L,5-7 1-6
-800586446,800691439.0,Ronit Gupta,IND,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Semi-final,W,7-6 4-1
-800586446,800537602.0,Filip Freitag,AUT,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Quarter-final,W,6-1 6-4
-800586446,800545688.0,Theophile Joly,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,W,4-6 6-3 6-2
-800586446,800522774.0,Mudiwa Munyimani,AUS,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,W,6-1 6-0
-800586446,800526478.0,Niels Villard,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Final,L,3-6 1-6
-800586446,800586830.0,Lenny Couturier,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Semi-final,W,6-2 6-3
-800586446,800652647.0,basile kuhl,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Quarter-final,W,2-6 6-1 6-3
-800586446,800627084.0,Jules Rimbaud,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,W,6-1 6-1
-800586446,800664634.0,Luca Santiago De Sousa Figueiredo,MOZ,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-0 6-0
-800586446,800572397.0,Tristan BERARD,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,3-6 2-6
-800586446,800587093.0,Timothee Andriveau,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,W,6-2 6-2
-800586446,800531954.0,Nicolas Dispas,BEL,J4 Dijon,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,2-6 2-6
+800703955,800516972.0,Fabio Karner,AUT,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,L,4-6 6-1 2-10
+800731445,800731473.0,Odeh Monday,NGR,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,2-6 2-6
+800731445,800711299.0,Om Kumaran Chinnaswamy,AUS,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,Quarter-final,W,6-1 6-3
+800601986,800506189.0,Christopher Garde,DEN,J4 Oslo,2022,21 Feb to 26 Feb 2022,Hard,1st Round,L,2-6 3-6
+800652309,800575192.0,Daniel Camilo Serrato Camacho,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,L,5-7 1-6
+800652309,800577822.0,Martin Robles,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,1st Round,L,6-3 0-6 4-6
+800652309,800601932.0,Alejandro Castellanos,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,L,6-7 3-6
+800652309,800692679.0,Niyanth Puliyala,USA,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,Quarter-final,W,6-3 6-4
+800652309,800689596.0,Jose Fernando Florez Martinez,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,2nd Round,W,6-3 6-2
+800652309,800580649.0,Santiago Jose Congote De Moya,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,W,6-2 6-2
+800652309,800533931.0,Gabriel Eduardo Torres Arevalo,COL,J2 Bogotá,2022,18 Jul to 24 Jul 2022,Clay,1st Round,L,6-4 2-6 5-10
+800652309,800532817.0,Santiago Ordonez Achinte,COL,J5 Pereira,2022,16 May to 21 May 2022,Clay,1st Round,L,1-6 3-6
 800689814,800668577.0,Ko Nagashima,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,L,3-6 1-6
 800689814,800575260.0,Kazuma Kimura,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,5-7 4-6
 800689814,800677231.0,maki takei,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,Quarter-final,W,6-3 6-0
@@ -601,18 +595,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800689814,800590435.0,Ryosuke Inagawa,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,1st Round,W,6-2 6-4
 800689814,800568461.0,Hiiro Sakamoto,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,L,1-6 2-6
 800689814,800679317.0,Eito Komada,JPN,J2 Nagoya,2022,18 Oct to 23 Oct 2022,Carpet,1st Round,L,1-6 0-6
-800652309,800575192.0,Daniel Camilo Serrato Camacho,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,L,5-7 1-6
-800652309,800577822.0,Martin Robles,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,1st Round,L,6-3 0-6 4-6
-800652309,800601932.0,Alejandro Castellanos,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,L,6-7 3-6
-800652309,800692679.0,Niyanth Puliyala,USA,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,Quarter-final,W,6-3 6-4
-800652309,800689596.0,Jose Fernando Florez Martinez,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,2nd Round,W,6-3 6-2
-800652309,800580649.0,Santiago Jose Congote De Moya,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,W,6-2 6-2
-800652309,800533931.0,Gabriel Eduardo Torres Arevalo,COL,J2 Bogotá,2022,18 Jul to 24 Jul 2022,Clay,1st Round,L,6-4 2-6 5-10
-800652309,800532817.0,Santiago Ordonez Achinte,COL,J5 Pereira,2022,16 May to 21 May 2022,Clay,1st Round,L,1-6 3-6
-800731445,800731473.0,Odeh Monday,NGR,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,2-6 2-6
-800731445,800711299.0,Om Kumaran Chinnaswamy,AUS,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,Quarter-final,W,6-1 6-3
-800601986,800506189.0,Christopher Garde,DEN,J4 Oslo,2022,21 Feb to 26 Feb 2022,Hard,1st Round,L,2-6 3-6
-800703955,800516972.0,Fabio Karner,AUT,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,L,4-6 6-1 2-10
 800598049,800673086.0,YU-LUN CHEN,TPE,J4 Hong Kong,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,L,4-6 2-6
 800598049,800725321.0,Wai Cing Sze,HKG,J4 Hong Kong,2022,31 Oct to 05 Nov 2022,Hard,1st Round,W,6-1 6-0
 800598049,800550601.0,Carl Loeffler,HKG,J4 Hong Kong,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,3-6 0-6
@@ -660,6 +642,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800673094,800683321.0,Nathan Andre Halahija,SVK,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,2nd Round,W,2-6 7-6 10-3
 800673094,800598694.0,Nicholas Fisk,GBR,J5 Prostejov,2022,21 Sep to 25 Sep 2022,Clay,1st Round,W,6-3 7-6
 800721431,800773667.0,James Weber,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,0-6 4-6
+800646430,800530432.0,Fredrik Foss,NOR,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,3rd Round,L,2-6 3-6
+800646430,800575389.0,Vedran Karalic,NED,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,2nd Round,W,3-6 7-5 10-5
+800646430,800578451.0,Rick Nieke,JPN,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,1st Round,W,6-4 6-1
+800692775,800688955.0,Krish Arora,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,3rd Round,L,
+800692775,800624997.0,AJ Mercer,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,W,6-2 6-4
+800692775,800570983.0,Carson Cerejo,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,1st Round,W,6-1 6-1
+800692775,800652401.0,Maxwell Exsted,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,Quarter-final,L,0-6 1-6
+800692775,800650644.0,Zane Ensminger Ensminger,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,3rd Round,W,6-2 6-2
+800692775,800598269.0,Pablo Paternostro,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,2nd Round,W,6-4 1-6 6-4
+800692775,800684666.0,Derek Hafiz,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,1st Round,W,7-6 6-1
 800624235,800604219.0,Jiwan Park,KOR,J5 Pokhara,2022,05 Dec to 10 Dec 2022,Clay,2nd Round,L,6-3 6-7 5-7
 800624235,800585058.0,Nihal Jung Bahadur Thapa,NEP,J5 Pokhara,2022,05 Dec to 10 Dec 2022,Clay,1st Round,W,6-1 6-4
 800624235,800564077.0,Rakshak Tarun Vivekananthan,IND,J5 Pokhara,2022,05 Dec to 10 Dec 2022,Clay,Quarter-final,W,6-7 6-4 10-8
@@ -673,19 +665,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800624235,800590684.0,Mayank Sharma,IND,J5 Dehradun,2022,14 Mar to 19 Mar 2022,Hard,1st Round,W,4-6 6-3 10-4
 800624235,800542089.0,Anshul Satav,IND,J5 Indore,2022,24 Jan to 29 Jan 2022,Hard,2nd Round,L,4-6 0-6
 800624235,800657085.0,Emon Bhatt,IND,J5 Indore,2022,24 Jan to 29 Jan 2022,Hard,1st Round,W,6-0 7-5
-800646430,800530432.0,Fredrik Foss,NOR,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,3rd Round,L,2-6 3-6
-800646430,800575389.0,Vedran Karalic,NED,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,2nd Round,W,3-6 7-5 10-5
-800646430,800578451.0,Rick Nieke,JPN,J4 Heiveld,2022,31 Oct to 06 Nov 2022,Carpet,1st Round,W,6-4 6-1
-800692775,800688955.0,Krish Arora,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,3rd Round,L,
-800692775,800624997.0,AJ Mercer,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,W,6-2 6-4
-800692775,800570983.0,Carson Cerejo,USA,J1 College Park,2022,22 Aug to 27 Aug 2022,Hard,1st Round,W,6-1 6-1
-800692775,800652401.0,Maxwell Exsted,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,Quarter-final,L,0-6 1-6
-800692775,800650644.0,Zane Ensminger Ensminger,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,3rd Round,W,6-2 6-2
-800692775,800598269.0,Pablo Paternostro,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,2nd Round,W,6-4 1-6 6-4
-800692775,800684666.0,Derek Hafiz,USA,J4 Daytona Beach,2022,04 Jul to 09 Jul 2022,Clay,1st Round,W,7-6 6-1
 800597356,800568658.0,Ignas Grusnius,LTU,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,2-6 1-6
 800597356,800681099.0,Calum Jessett,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,L,4-6 6-1 4-10
 800597356,800701523.0,Giovanni Berto,AUS,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,1st Round,L,5-7 6-3 5-10
+800588272,800542410.0,Conor Brady,GBR,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,7-6 1-6 4-6
+800588272,800568658.0,Ignas Grusnius,LTU,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,Quarter-final,L,4-6 7-6 3-10
+800588272,800540764.0,Enrico Franchi,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,2nd Round,W,5-7 6-3 10-7
+800588272,800565107.0,Charlie Ruffell,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,W,6-2 6-3
+800588272,800701523.0,Giovanni Berto,AUS,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,Quarter-final,L,7-6 5-7 4-10
+800588272,800565107.0,Charlie Ruffell,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,2nd Round,W,3-1
+800588272,800596861.0,William Moxon,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,1st Round,W,4-6 6-4 10-4
 800647689,800542404.0,Axel Huysmans,BEL,J5 Merzig,2022,13 Sep to 18 Sep 2022,Clay,2nd Round,L,3-6 0-6
 800647689,800572909.0,Anton Oliukha,UKR,J5 Merzig,2022,13 Sep to 18 Sep 2022,Clay,1st Round,W,6-3 3-6 6-1
 800647689,800535636.0,Nikolai Barsukov,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,1-6 1-6
@@ -695,15 +684,28 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800598581,800822738.0,Hyeonseok Seo,KOR,J3 Andong,2022,08 Nov to 13 Nov 2022,Hard,Quarter-final,L,3-6 3-6
 800598581,800584147.0,Gi Hoon Kwon,KOR,J3 Andong,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,W,6-2 6-3
 800598581,800650674.0,Juwan Bae,KOR,J3 Andong,2022,08 Nov to 13 Nov 2022,Hard,1st Round,W,6-4 2-6 10-8
-800659883,800588873.0,Omar Verduzco,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,1st Round,L,2-6 2-6
-800659883,800679781.0,Rodrigo Meza,MEX,J5 Oaxaca,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 5-7
-800659883,800650645.0,Samuel Candelas,MEX,J5 Oaxaca,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,6-2 5-7 12-10
-800659883,800625802.0,Santiago Lazo Becerril,MEX,J4 Queretaro,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,4-6 1-6
 800598778,800578594.0,Maris Ostrowski,AUT,J3 Nicosia,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,2-6 3-6
 800598778,,Desconhecido,,J3 Nicosia,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,
 800598778,800583480.0,Antreas Stavrou,CYP,J3 Nicosia,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-2
 800598778,800628328.0,Conor Flynn,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,2nd Round,L,0-6 3-6
 800598778,800712572.0,Marcus Weekes,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,W,6-4 6-2
+800659883,800588873.0,Omar Verduzco,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,1st Round,L,2-6 2-6
+800659883,800679781.0,Rodrigo Meza,MEX,J5 Oaxaca,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 5-7
+800659883,800650645.0,Samuel Candelas,MEX,J5 Oaxaca,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,6-2 5-7 12-10
+800659883,800625802.0,Santiago Lazo Becerril,MEX,J4 Queretaro,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,4-6 1-6
+800586446,800526478.0,Niels Villard,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Final,L,5-7 1-6
+800586446,800691439.0,Ronit Gupta,IND,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Semi-final,W,7-6 4-1
+800586446,800537602.0,Filip Freitag,AUT,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Quarter-final,W,6-1 6-4
+800586446,800545688.0,Theophile Joly,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,W,4-6 6-3 6-2
+800586446,800522774.0,Mudiwa Munyimani,AUS,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,W,6-1 6-0
+800586446,800526478.0,Niels Villard,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Final,L,3-6 1-6
+800586446,800586830.0,Lenny Couturier,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Semi-final,W,6-2 6-3
+800586446,800652647.0,basile kuhl,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,Quarter-final,W,2-6 6-1 6-3
+800586446,800627084.0,Jules Rimbaud,FRA,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,W,6-1 6-1
+800586446,800664634.0,Luca Santiago De Sousa Figueiredo,MOZ,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-0 6-0
+800586446,800572397.0,Tristan BERARD,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,3-6 2-6
+800586446,800587093.0,Timothee Andriveau,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,W,6-2 6-2
+800586446,800531954.0,Nicolas Dispas,BEL,J4 Dijon,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,2-6 2-6
 800692700,800651150.0,Tyler Nguyen,USA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,0-6 6-7
 800692700,800584135.0,Abhinav Chunduru,USA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,L,2-6 1-6
 800692700,800713643.0,Diego Morales,ESA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-1 6-2
@@ -735,13 +737,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800590604,800589213.0,Yoav Leibushor,ISR,J4 Baku,2022,28 Nov to 04 Dec 2022,Hard,1st Round,W,6-2 6-3
 800590604,800538754.0,Sevastian Tasenkov,RUS,J5 Baku,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,L,3-6 3-6
 800590604,800588965.0,Itay Ezra,ISR,J5 Baku,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-4 7-6
-800588272,800542410.0,Conor Brady,GBR,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,7-6 1-6 4-6
-800588272,800568658.0,Ignas Grusnius,LTU,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,Quarter-final,L,4-6 7-6 3-10
-800588272,800540764.0,Enrico Franchi,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,2nd Round,W,5-7 6-3 10-7
-800588272,800565107.0,Charlie Ruffell,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,W,6-2 6-3
-800588272,800701523.0,Giovanni Berto,AUS,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,Quarter-final,L,7-6 5-7 4-10
-800588272,800565107.0,Charlie Ruffell,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,2nd Round,W,3-1
-800588272,800596861.0,William Moxon,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,1st Round,W,4-6 6-4 10-4
+800688517,800672470.0,Miko Lapalme,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,L,1-6 4-6
+800688517,800700881.0,Maxime Labbe,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-4 6-4
+800688517,800688513.0,Xavier Massotte,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,L,4-6 0-6
+800688517,800601255.0,Maxence Hamon,CAN,J3 Quebec City	,2022,18 Apr to 23 Apr 2022,Hard,1st Round,L,2-6 0-6
 800627137,800648080.0,Yuhei Ohga,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,1st Round,L,5-7 2-6
 800627137,800684698.0,Kanari Izumisawa,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,L,2-6 4-6
 800627137,800553777.0,Harsh Fogaat,IND,J5 Colombo,2022,10 Oct to 16 Oct 2022,Clay,2nd Round,L,1-6 2-6
@@ -749,10 +748,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800700749,800586400.0,Adhithya Ganesan,USA,J1 Guadalajara,2022,14 Nov to 19 Nov 2022,Clay,1st Round,L,2-6 0-6
 800700749,800492496.0,Patrick Schoen,SUI,J3 Zapopan,2022,07 Nov to 12 Nov 2022,Clay,2nd Round,L,0-6 0-6
 800700749,800589679.0,Rodrigo Ochoa Ibarguengoitia,MEX,J3 Zapopan,2022,07 Nov to 12 Nov 2022,Clay,1st Round,W,7-5 6-3
-800688517,800672470.0,Miko Lapalme,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,L,1-6 4-6
-800688517,800700881.0,Maxime Labbe,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-4 6-4
-800688517,800688513.0,Xavier Massotte,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,L,4-6 0-6
-800688517,800601255.0,Maxence Hamon,CAN,J3 Quebec City	,2022,18 Apr to 23 Apr 2022,Hard,1st Round,L,2-6 0-6
+800597838,800628328.0,Conor Flynn,GBR,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,6-4 3-6 5-7
+800597838,800569422.0,Charlie Robertson,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,5-7 2-6
+800597838,800590033.0,Alfie King,GBR,J5 Liverpool,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,3-6 6-3 1-6
+800597838,800535976.0,Ilias Hirani Worthington,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,1st Round,L,1-6 3-6
+800597838,800491151.0,Aaron Dawson,GBR,J5 Wrexham,2022,24 May to 28 May 2022,Hard,1st Round,L,6-4 3-6 0-6
 800722358,800546455.0,Teva Ardillon,FGU,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,Quarter-final,L,3-6 2-6
 800722358,800626793.0,Theo Nilsson,SWE,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,2nd Round,W,4-6 7-6 10-8
 800722358,800626300.0,Tommy Guichard,USA,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-2 5-7 10-2
@@ -764,9 +764,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800716682,800678621.0,John Bothma,RSA,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,1st Round,L,3-6 7-5 4-6
 800716682,800639802.0,Tavis Wright,GBR,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,Quarter-final,W,6-2 6-2
 800716682,800654758.0,Maqhawe Qame,BOT,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,2nd Round,W,6-3 6-1
-800716682,800572820.0,Joseph Townes,RSA,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,2nd Round,L,3-6 6-4 2-6
-800716682,800639396.0,Caleb Robb,ZIM,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,W,6-0 6-2
-800716682,800719576.0,Katlego Masa Regoeng,BOT,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,Quarter-final,W,6-0 6-3
 800587826,800541960.0,Tobia Costanzo Baragiola Mordini,ITA,J4 Bari,2022,10 Oct to 15 Oct 2022,Hard,Quarter-final,L,4-6 2-6
 800587826,800570947.0,Noah Canonico,ITA,J4 Bari,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,W,2-6 6-4 10-7
 800587826,800656911.0,Davide Brunetti,ITA,J4 Bari,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,7-6 6-7 11-9
@@ -788,9 +785,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800701263,800655485.0,Mawuko Francois-Xavier Gakpo,TOG,J5 Accra,2022,11 Apr to 16 Apr 2022,Hard,1st Round,W,6-1 6-1
 800701263,800571534.0,Kenneth Adjokatse,GHA,J5 Accra,2022,04 Apr to 09 Apr 2022,Hard,2nd Round,L,2-6 1-6
 800701263,800560228.0,Ethan Milgan,IND,J5 Accra,2022,04 Apr to 09 Apr 2022,Hard,1st Round,W,6-3 6-4
-800649634,800584784.0,Se Hyun Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,0-6 1-6
-800649634,800598113.0,Ye Chan Choi,KOR,J4 Sunchang,2022,12 Apr to 17 Apr 2022,Hard,1st Round,L,4-6 6-2 4-10
-800649634,800526380.0,Taewan Joo,KOR,J4 Jeju,2022,05 Apr to 10 Apr 2022,Hard,1st Round,L,0-6 3-6
 800724361,800664111.0,Jesus Mario Garcia Salgado,MEX,JA Merida,2022,21 Nov to 27 Nov 2022,Clay,1st Round,L,3-6 2-6
 800710308,800665751.0,Soheil Hemmati,IRI,J5 Isfahan,2022,18 Jul to 23 Jul 2022,Clay,1st Round,L,4-6 6-3 3-10
 800710308,800547430.0,Ahmet Atabay,TUR,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,2nd Round,L,4-6 2-6
@@ -813,19 +807,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800626479,800563321.0,Hussen Alshati,KUW,J5 Amman,2022,27 Jun to 02 Jul 2022,Hard,1st Round,W,7-6 6-1
 800626479,800552167.0,Debasis Sahoo,IND,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,3-6 7-5 1-6
 800626479,800563321.0,Hussen Alshati,KUW,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,1st Round,W,6-3 7-6
-800597838,800628328.0,Conor Flynn,GBR,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,6-4 3-6 5-7
-800597838,800569422.0,Charlie Robertson,GBR,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,5-7 2-6
-800597838,800590033.0,Alfie King,GBR,J5 Liverpool,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,3-6 6-3 1-6
-800597838,800535976.0,Ilias Hirani Worthington,GBR,J5 Bradfield,2022,01 Aug to 06 Aug 2022,Clay,1st Round,L,1-6 3-6
-800597838,800491151.0,Aaron Dawson,GBR,J5 Wrexham,2022,24 May to 28 May 2022,Hard,1st Round,L,6-4 3-6 0-6
+800710227,800668253.0,Brendan Jayaprakash,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,4-6 1-6
+800710227,800530011.0,Rintaro Shukuda,JPN,J4 Lautoka,2022,19 Jul to 23 Jul 2022,Hard,1st Round,L,1-6 1-6
 800604236,800542058.0,Dorian Juszczak,POL,J5 Szczawno Zdroj,2022,30 Aug to 04 Sep 2022,Clay,2nd Round,L,0-6 1-6
 800604236,800599360.0,Daniel Krige,RSA,J5 Szczawno Zdroj,2022,30 Aug to 04 Sep 2022,Clay,1st Round,W,6-2 6-2
 800604236,800578159.0,Adam Majchrzak,POL,J3 Krakow,2022,17 Aug to 21 Aug 2022,Clay,1st Round,L,2-6 3-6
 800604236,800513330.0,Marcel Dzielo,POL,J1 Bytom,2022,09 Aug to 14 Aug 2022,Clay,Quarter-final,L,1-6 4-6
 800604236,800601212.0,Mykhailo Shevtsov,UKR,J1 Bytom,2022,09 Aug to 14 Aug 2022,Clay,2nd Round,W,6-1 6-0
-800599509,800714172.0,Fredrik Lundquist,USA,J5 Bergen,2022,29 Nov to 04 Dec 2022,Hard,2nd Round,L,7-5 5-7 7-10
-800599509,800622905.0,Felix Pihl Nyborg,NOR,J5 Bergen,2022,29 Nov to 04 Dec 2022,Hard,1st Round,W,6-2 6-0
-800599509,800544246.0,Mats Cappelen Mazzocchi,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,L,3-6 2-6
+800649634,800584784.0,Se Hyun Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,0-6 1-6
+800649634,800598113.0,Ye Chan Choi,KOR,J4 Sunchang,2022,12 Apr to 17 Apr 2022,Hard,1st Round,L,4-6 6-2 4-10
+800649634,800526380.0,Taewan Joo,KOR,J4 Jeju,2022,05 Apr to 10 Apr 2022,Hard,1st Round,L,0-6 3-6
 800576306,800577760.0,Nikita Safonov,RUS,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 2-6
 800576306,800681162.0,Adxamov Azizbek,UZB,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,6-3 6-2
 800576306,800503736.0,Darkhan Zhakanger,KAZ,J5 Dushanbe,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,0-6 0-6
@@ -834,13 +825,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800576306,800591914.0,Erkin Raimov,UZB,J5 Dushanbe,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-0 6-0
 800576306,800492006.0,Oleg Gussakov,KAZ,J5 Dushanbe,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,2-6 0-6
 800576306,800673848.0,Muhammad Durraid Durrani,PAK,J5 Dushanbe,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,6-0 6-0
-800576306,800503735.0,Dastan Zhakanger,KAZ,J4 Dushanbe,2022,09 May to 14 May 2022,Hard,2nd Round,L,3-6 1-6
-800576306,800676491.0,furuzonfar zikrieev,RUS,J4 Dushanbe,2022,09 May to 14 May 2022,Hard,1st Round,W,6-1 6-1
 800706705,800725638.0,Andre Ziskind,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,4-6 1-6
 800706705,800696153.0,Sebastien Cudny,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,2-6 6-0 8-10
 800706705,800723513.0,Anthony Dry,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,6-4 6-1
-800710227,800668253.0,Brendan Jayaprakash,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,4-6 1-6
-800710227,800530011.0,Rintaro Shukuda,JPN,J4 Lautoka,2022,19 Jul to 23 Jul 2022,Hard,1st Round,L,1-6 1-6
+800656099,800690668.0,Jonatan Santiago Hidalgo,COL,J5 Cundinamarca,2022,02 May to 07 May 2022,Clay,1st Round,L,1-6 3-6
 800668342,800638736.0,Mohamed Sanad Bouhlel,TUN,J5 Hammam Sousse,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,1-6 3-6
 800668342,800594088.0,Abderrahmen Baccouche,TUN,J5 Hammam Sousse,2022,08 Nov to 13 Nov 2022,Hard,Quarter-final,W,7-6 6-3
 800668342,800695169.0,Mehdi Abdennabi,TUN,J5 Hammam Sousse,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,W,6-4 6-1
@@ -872,6 +860,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800590977,800547026.0,Lucas Mock,CAN,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,3-6 3-6
 800590977,800635536.0,Sehaj Singh Pawar,IND,J5 Nonthaburi,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,0-6 4-6
 800590977,800707169.0,Veerawit Kamput,THA,J4 Nonthaburi,2022,27 Jun to 02 Jul 2022,Hard,1st Round,L,3-5
+800599509,800714172.0,Fredrik Lundquist,USA,J5 Bergen,2022,29 Nov to 04 Dec 2022,Hard,2nd Round,L,7-5 5-7 7-10
+800599509,800622905.0,Felix Pihl Nyborg,NOR,J5 Bergen,2022,29 Nov to 04 Dec 2022,Hard,1st Round,W,6-2 6-0
+800599509,800544246.0,Mats Cappelen Mazzocchi,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,L,3-6 2-6
 800589054,800509382.0,Gabriele Vulpitta,ITA,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,1st Round,L,1-6 4-6
 800589054,800591354.0,Eldad Atzmon,ISR,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,Quarter-final,W,7-6 6-0
 800589054,800568054.0,Zohar Yaniv,ISR,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,2nd Round,W,7-6 3-6 10-6
@@ -908,27 +899,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800653725,800668652.0,Cuan Western,RSA,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,W,6-3 6-4
 800637149,800565449.0,Sep De Visser,NED,J4 The Hague,2022,05 Jul to 10 Jul 2022,Clay,2nd Round,L,4-6 6-4 9-11
 800637149,800683456.0,Timur Waanders,UKR,J4 The Hague,2022,05 Jul to 10 Jul 2022,Clay,1st Round,W,6-1 6-1
-800598375,800562544.0,Tudor Batin,ROU,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,2nd Round,L,1-6 0-6
-800598375,800585925.0,Lars Oestboe Frafjord,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,W,1-6 6-3 6-4
-800598375,800563444.0,Ludwig Hermann,NOR,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,7-5 1-6 6-10
-800598375,800513244.0,Yakup Uzunel,DEN,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,1st Round,L,7-6 0-6 1-6
-800598375,800621791.0,Kristian Brondmo,NOR,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,Quarter-final,W,6-2 6-2
-800598375,800573690.0,Felix Oscarsson,NOR,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,2nd Round,W,6-2 6-4
-800598375,800486477.0,Frederik William Nissen Horsten,DEN,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,1st Round,W,6-4 5-7 10-8
-800598375,800563304.0,Cowen Lau,INA,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,L,7-6 4-6 4-6
 800703537,800568010.0,Darrshan Suresh Kumar,MAS,J2 Woodbridge 		,2022,12 Apr to 16 Apr 2022,Hard,1st Round,L,1-6 3-6
 800625227,800551910.0,Eusebio Andres Diaz Garcia,VEN,J4 Salinas,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,3-6 2-6
 800625227,800581353.0,Bautista Leguizamon,ARG,J5 Quito,2022,18 Jul to 24 Jul 2022,Clay,Quarter-final,L,1-6 3-6
 800625227,800586393.0,PABLO RINCON LEURO,COL,J5 Quito,2022,18 Jul to 24 Jul 2022,Clay,1st Round,W,6-4 4-6 10-7
-800568131,800560742.0,Cesar Mahecha,COL,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,7-6 2-6 3-6
-800568131,800659739.0,Santiago Daniel Ovalle Santizo,GUA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 7-5
-800568131,800604239.0,Prathinav Chunduru,USA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,6-4 6-7 5-7
-800568131,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-4 6-1
-800568131,800693413.0,Matias Schaeuffler,ESA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-2 6-1
-800568131,800588037.0,Alexander Frantzis,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,4-6 1-6
-800568131,800649692.0,Yubel Ubri,USA,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,6-4 4-6 2-6
-800568131,800584135.0,Abhinav Chunduru,USA,J5 Tegucigalpa,2022,05 Sep to 10 Sep 2022,Hard,1st Round,L,5-7 0-6
-800568131,800652147.0,Kyle Piqueras,USA,J3 Coral Gables,2022,09 May to 14 May 2022,Clay,1st Round,L,1-6 4-6
 800695898,800555487.0,Samuel Heredia,COL,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,2-6 1-6
 800695898,800654354.0,Santiago Perez Barajas,COL,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,Quarter-final,W,6-1 6-0
 800695898,800681137.0,Jose Lopez,GUA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-0 6-0
@@ -940,7 +914,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800638730,800681715.0,Remi St-Laurent,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,4-6 0-6
 800638730,800542865.0,Emmanuel Cottle,CAN,J3 Quebec City	,2022,18 Apr to 23 Apr 2022,Hard,1st Round,L,4-6 4-6
 800591208,800510265.0,Boris Barjaktarevic,SLO,J4 Veli Losinj,2022,26 Sep to 02 Oct 2022,Clay,1st Round,L,4-6 7-5 2-6
-800656099,800690668.0,Jonatan Santiago Hidalgo,COL,J5 Cundinamarca,2022,02 May to 07 May 2022,Clay,1st Round,L,1-6 3-6
 800660623,800574797.0,Nikita Nikolenko,KAZ,J3 Cholpon-Ata,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,3-6 2-6
 800660623,800492007.0,Danir Kaldybekov,KAZ,J4 Cholpon-Ata,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,1-6 0-6
 800660623,800530928.0,Aziz Madatov,UZB,J5 Cholpon-Ata,2022,04 Jul to 09 Jul 2022,Hard,1st Round,L,2-6 2-6
@@ -975,6 +948,14 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800621925,800689284.0,Aleksander Kozakiewicz,POL,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,W,6-0 6-1
 800621925,800591223.0,Idhant Kastwar,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-1 6-3
 800621925,800655207.0,Danny Al Barbour,USA,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-1
+800598375,800562544.0,Tudor Batin,ROU,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,2nd Round,L,1-6 0-6
+800598375,800585925.0,Lars Oestboe Frafjord,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,W,1-6 6-3 6-4
+800598375,800563444.0,Ludwig Hermann,NOR,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,7-5 1-6 6-10
+800598375,800513244.0,Yakup Uzunel,DEN,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,1st Round,L,7-6 0-6 1-6
+800598375,800621791.0,Kristian Brondmo,NOR,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,Quarter-final,W,6-2 6-2
+800598375,800573690.0,Felix Oscarsson,NOR,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,2nd Round,W,6-2 6-4
+800598375,800486477.0,Frederik William Nissen Horsten,DEN,J5 Frederiksberg,2022,12 Sep to 17 Sep 2022,Clay,1st Round,W,6-4 5-7 10-8
+800598375,800563304.0,Cowen Lau,INA,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,L,7-6 4-6 4-6
 800566743,800593296.0,Arsen Tabaldyev,KGZ,J3 Ust-Kamenogorsk,2022,07 Nov to 12 Nov 2022,Carpet,Quarter-final,L,3-6 4-6
 800566743,800535092.0,Temirlan Aslan,KAZ,J3 Ust-Kamenogorsk,2022,07 Nov to 12 Nov 2022,Carpet,2nd Round,W,6-4 6-0
 800598844,800504623.0,Daniel Prickett,MAS,J5 Selangor,2022,09 Mar to 13 Mar 2022,Hard,1st Round,L,0-6 2-6
@@ -983,11 +964,24 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800725608,800636360.0,Nathan Germino,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,4-6 2-6
 800723513,800706705.0,Judah McEachern-Brown,CAN,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,4-6 1-6
 800645720,800535869.0,Nathan Slattery,IRL,J5 Wrexham,2022,24 May to 28 May 2022,Hard,1st Round,L,2-6 5-7
+800591127,800541608.0,Jay Johnson-Hauldren,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,L,4-6 0-6
+800591127,800588594.0,Luke Hoyland,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,Quarter-final,W,6-3 6-3
+800591127,800653254.0,Matthew Upton,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,2nd Round,W,6-0 3-1
+800591127,800573170.0,Harry Lumb,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,W,6-4 7-6
 800701531,800682465.0,Trevor Svajda,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,1-6 0-6
 800701531,800657263.0,Robert Freedman,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,2nd Round,L,2-6 1-4
 800701531,800701620.0,Nav Dayal,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,1st Round,W,6-2 6-0
 800575078,800622992.0,Kotaro Matsumura,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,2nd Round,L,0-6 0-6
 800575078,800667709.0,TAKUMI SAITO,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,W,6-1 6-0
+800568131,800560742.0,Cesar Mahecha,COL,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,7-6 2-6 3-6
+800568131,800659739.0,Santiago Daniel Ovalle Santizo,GUA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 7-5
+800568131,800604239.0,Prathinav Chunduru,USA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,6-4 6-7 5-7
+800568131,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-4 6-1
+800568131,800693413.0,Matias Schaeuffler,ESA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-2 6-1
+800568131,800588037.0,Alexander Frantzis,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,4-6 1-6
+800568131,800649692.0,Yubel Ubri,USA,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,6-4 4-6 2-6
+800568131,800584135.0,Abhinav Chunduru,USA,J5 Tegucigalpa,2022,05 Sep to 10 Sep 2022,Hard,1st Round,L,5-7 0-6
+800568131,800652147.0,Kyle Piqueras,USA,J3 Coral Gables,2022,09 May to 14 May 2022,Clay,1st Round,L,1-6 4-6
 800713095,800594501.0,Ferdinand Livet Novkirichka,FRA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,4-6 4-6
 800713095,800602334.0,Fernando Garcia Seeber,IRL,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,2-6 4-6
 800713095,800682247.0,Lucas Ibanez Martinez,ESP,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,1st Round,L,2-6 1-6
@@ -998,13 +992,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800713095,800654163.0,Adam Moumar,MAR,J4 Casablanca,2022,10 Oct to 15 Oct 2022,Clay,1st Round,L,0-6 0-6
 800713095,800678621.0,John Bothma,RSA,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 2,L,6-3 3-6 3-6
 800713095,800630024.0,Lucas Martin Velasco,COL,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,L,0-6 2-6
-800600513,800595178.0,Henry Bernet,SUI,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,0-6 1-6
-800600513,800673398.0,Jan Rosicky,CZE,J5 Berlin,2022,01 Nov to 06 Nov 2022,Hard,1st Round,L,3-6 5-7
-800600513,800573171.0,Fredrik Krogh Solheim,NOR,J4 Vierumaki,2022,25 Oct to 30 Oct 2022,Hard,2nd Round,L,0-6 4-6
-800600513,800535007.0,Max Alopaeus,FIN,J4 Vierumaki,2022,25 Oct to 30 Oct 2022,Hard,1st Round,W,6-2 7-5
-800600513,800486204.0,Juho Eric Biggs,FIN,J5 Nastola,2022,18 Oct to 23 Oct 2022,Hard,1st Round,L,1-6 0-6
-800600513,800497780.0,Noah Mueller,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,5-7 2-6
-800600513,800584104.0,Gautam S Venkatraman,IND,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,W,6-2 6-0
 800672359,800600744.0,Kiran Krish,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,2-6 2-6
 800672359,800635382.0,Finn Burridge,NZL,J3 Christchurch,2022,11 Oct to 15 Oct 2022,Hard,1st Round,L,1-6 2-6
 800672359,800653294.0,Alex Morris,AUS,J3 Auckland,2022,03 Oct to 07 Oct 2022,Hard,1st Round,L,3-6 2-6
@@ -1015,10 +1002,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800567042,800560716.0,Jaime Galligo Subirana,ESP,J5 La Nucia,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,3-6 3-6
 800567042,800512669.0,Yanik Maarsen,NED,J4 Hillegom,2022,12 Jul to 17 Jul 2022,Clay,1st Round,L,4-6 2-6
 800567042,800573622.0,Thomas Schouten,NED,J4 The Hague,2022,05 Jul to 10 Jul 2022,Clay,1st Round,L,4-6 2-6
-800591127,800541608.0,Jay Johnson-Hauldren,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,L,4-6 0-6
-800591127,800588594.0,Luke Hoyland,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,Quarter-final,W,6-3 6-3
-800591127,800653254.0,Matthew Upton,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,2nd Round,W,6-0 3-1
-800591127,800573170.0,Harry Lumb,GBR,J5 Loughborough,2022,12 Sep to 16 Sep 2022,Hard,1st Round,W,6-4 7-6
+800716657,800710462.0,David Madero,USA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,1-6 3-6
+800716657,800578726.0,Tomas Leguizamon Chaves,COL,J5 Llanos de Curundu,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,1-6 1-6
 800589341,800591354.0,Eldad Atzmon,ISR,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,2nd Round,L,1-6 0-6
 800589341,800591170.0,Ilay Haim,ISR,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,1st Round,W,7-5 5-7 10-6
 800589341,800589787.0,Shay Sarfati,FRA,J5 Tel Aviv,2022,30 Aug to 04 Sep 2022,Hard,2nd Round,L,1-6 3-6
@@ -1033,8 +1018,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800699576,800640499.0,amirparsa molaeipour,IRI,J3 Tehran,2022,16 May to 21 May 2022,Clay,2nd Round,L,4-6 4-6
 800699576,800674668.0,Kourosh Sodavi,IRI,J3 Tehran,2022,16 May to 21 May 2022,Clay,1st Round,W,6-0 6-0
 800699576,800555576.0,Amirali Bahaedin,IRI,J3 Tehran,2022,09 May to 14 May 2022,Clay,1st Round,L,4-6 7-6 1-10
-800716657,800710462.0,David Madero,USA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,1-6 3-6
-800716657,800578726.0,Tomas Leguizamon Chaves,COL,J5 Llanos de Curundu,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,1-6 1-6
 800746221,800728018.0,Alioum Salaoudine,CMR,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,4-6 1-6
 800746221,800664615.0,Cabrel Jordan KENFACK AZANKIA,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,3-6 1-6
 800746221,800727957.0,Steve Mbog,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,7-5 6-2
@@ -1072,6 +1055,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800648125,800586807.0,Camil Guessous,MAR,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,2-6 6-4 6-3
 800648125,800589300.0,Svit Suljic,SLO,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 3,L,5-7 3-6
 800648125,800657117.0,Keaton Hance,USA,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 3,L,6-4 1-6 1-6
+800600513,800595178.0,Henry Bernet,SUI,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,0-6 1-6
+800600513,800673398.0,Jan Rosicky,CZE,J5 Berlin,2022,01 Nov to 06 Nov 2022,Hard,1st Round,L,3-6 5-7
+800600513,800573171.0,Fredrik Krogh Solheim,NOR,J4 Vierumaki,2022,25 Oct to 30 Oct 2022,Hard,2nd Round,L,0-6 4-6
+800600513,800535007.0,Max Alopaeus,FIN,J4 Vierumaki,2022,25 Oct to 30 Oct 2022,Hard,1st Round,W,6-2 7-5
+800600513,800486204.0,Juho Eric Biggs,FIN,J5 Nastola,2022,18 Oct to 23 Oct 2022,Hard,1st Round,L,1-6 0-6
+800600513,800497780.0,Noah Mueller,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,5-7 2-6
+800600513,800584104.0,Gautam S Venkatraman,IND,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,W,6-2 6-0
 800578174,800526478.0,Niels Villard,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Semi-final,L,1-6 1-6
 800578174,800563793.0,Rurik Rajini,IND,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,Quarter-final,W,6-3 6-0
 800578174,800725334.0,Evann Dupuy,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,W,4-6 6-3 6-4
@@ -1090,10 +1080,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800578174,800652560.0,Nicolas Iantosca,USA,J5 Saint-Francois,2022,12 Apr to 17 Apr 2022,Hard,2nd Round,W,6-3 6-3
 800578174,800561512.0,Nils Guyot,GLP,J5 Saint-Francois,2022,12 Apr to 17 Apr 2022,Hard,1st Round,W,2-6 6-0 7-5
 800592848,800547881.0,Alexandru Stefan Gall,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,1st Round,L,4-6 5-7
-800589794,800565504.0,Alvar Lange,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,2nd Round,L,2-6 1-6
-800589794,800639003.0,Ilias Vantolas,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,W,6-2 6-0
-800573636,800570299.0,Oskar Szymczak,POL,J3 Leszno,2022,05 Dec to 11 Dec 2022,Hard,1st Round,L,1-6 3-6
-800573636,800672169.0,Piotr Voigt,POL,J4 Leszno,2022,28 Nov to 04 Dec 2022,Hard,1st Round,L,4-6 3-6
 800712817,800576318.0,Alex Matthew Fernandez,ESP,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,0-6 6-7
 800712817,800589066.0,Ilyes Filali Tarass,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,Quarter-final,L,3-6 2-6
 800712817,800728471.0,Maximilian Maria Pacetti Smith,ITA,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,W,7-6 6-1
@@ -1128,28 +1114,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800598185,800566155.0,Sandro Witschi,SUI,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,L,4-6 4-6
 800598185,800590495.0,Andreas Ursin Nygaard,NOR,J5 Nastola,2022,18 Oct to 23 Oct 2022,Hard,1st Round,L,3-6 0-6
 800598185,800568658.0,Ignas Grusnius,LTU,J4 Kaarina,2022,01 Aug to 06 Aug 2022,Clay,1st Round,L,4-6 7-6 1-10
-800570885,800513569.0,Mahmut Bera Binici,TUR,J5 Isfahan,2022,18 Jul to 23 Jul 2022,Clay,1st Round,L,2-6 0-6
-800570885,800555576.0,Amirali Bahaedin,IRI,J4 Tehran,2022,11 Jul to 16 Jul 2022,Clay,2nd Round,L,2-6 3-6
-800570885,800552888.0,Mohammad parsa Afsari,IRI,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,2nd Round,L,3-6 6-3 2-6
-800570885,800631830.0,DREEK SAHA,IND,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,1st Round,W,3-6 6-2 6-1
-800570885,800527103.0,Amirreza Armioun,IRI,J5 Karaj,2022,13 Jun to 18 Jun 2022,Clay,2nd Round,L,3-6 3-6
-800570885,800693225.0,Parham Siavash,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,1st Round,W,6-0 6-1
-800570885,800553386.0,Parsa Ashjari,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,Quarter-final,L,0-6 4-6
-800570885,800692102.0,Younes Malekpoor,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,2nd Round,W,6-3 6-1
-800638992,800688533.0,Lucca Benoit,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,L,1-6 4-6
-800638992,800686438.0,Jacob Rouleau-Mailly,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,L,7-5 1-6 8-10
-800638992,800682292.0,Zackary Kimelman,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,1-6 6-0 0-10
-800574864,800572613.0,Markus Valtson,EST,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,Quarter-final,L,3-6 2-6
-800574864,800593281.0,Aleksandrs Curkins,LAT,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,2nd Round,W,6-7 7-6 10-5
-800574864,800597357.0,Tymofii Karpaliuk,UKR,J3 Liepaja,2022,29 Aug to 02 Sep 2022,Clay,1st Round,L,7-6 4-6 7-10
-800670194,800588659.0,Minghui Zhang,CHN,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,2nd Round,L,0-6 1-6
-800670194,800707068.0,Muhammad Faiz Habibi Rizqi Mahendra Mahendra,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,W,5-7 6-4 10-7
-800670194,800563793.0,Rurik Rajini,IND,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,1st Round,L,0-6 2-6
-800706325,800688513.0,Xavier Massotte,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,Quarter-final,L,1-6 0-6
-800706325,800688533.0,Lucca Benoit,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,W,6-3 6-1
-800706325,800705223.0,Filip Popadich,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-2 6-0
-800706325,800688513.0,Xavier Massotte,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,L,3-6 5-7
-800666190,800597663.0,Jeong Won Kwon,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,3-6 3-6
 800693872,800602235.0,Andres Rendon,ESA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,2-6 2-6
 800693872,800575862.0,Diego Duran,ESA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,2-6 5-7
 800693872,800709808.0,Bernardo Lopez,GUA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,W,6-0 6-0
@@ -1160,22 +1124,38 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800693872,800590750.0,Cristian Pemueller,GUA,J5 Tegucigalpa,2022,28 Mar to 02 Apr 2022,Hard,Quarter-final,L,3-6 4-6
 800693872,800675410.0,Jorge Mayorga,COL,J5 Tegucigalpa,2022,28 Mar to 02 Apr 2022,Hard,2nd Round,W,6-0 6-1
 800693872,800581592.0,Hans Frederick Niehorster,HON,J5 Tegucigalpa,2022,28 Mar to 02 Apr 2022,Hard,1st Round,W,6-3 4-6 10-2
+800570885,800513569.0,Mahmut Bera Binici,TUR,J5 Isfahan,2022,18 Jul to 23 Jul 2022,Clay,1st Round,L,2-6 0-6
+800570885,800555576.0,Amirali Bahaedin,IRI,J4 Tehran,2022,11 Jul to 16 Jul 2022,Clay,2nd Round,L,2-6 3-6
+800570885,800552888.0,Mohammad parsa Afsari,IRI,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,2nd Round,L,3-6 6-3 2-6
+800570885,800631830.0,DREEK SAHA,IND,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,1st Round,W,3-6 6-2 6-1
+800570885,800527103.0,Amirreza Armioun,IRI,J5 Karaj,2022,13 Jun to 18 Jun 2022,Clay,2nd Round,L,3-6 3-6
+800570885,800693225.0,Parham Siavash,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,1st Round,W,6-0 6-1
+800570885,800553386.0,Parsa Ashjari,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,Quarter-final,L,0-6 4-6
+800570885,800692102.0,Younes Malekpoor,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,2nd Round,W,6-3 6-1
+800573636,800570299.0,Oskar Szymczak,POL,J3 Leszno,2022,05 Dec to 11 Dec 2022,Hard,1st Round,L,1-6 3-6
+800573636,800672169.0,Piotr Voigt,POL,J4 Leszno,2022,28 Nov to 04 Dec 2022,Hard,1st Round,L,4-6 3-6
+800670194,800588659.0,Minghui Zhang,CHN,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,2nd Round,L,0-6 1-6
+800670194,800707068.0,Muhammad Faiz Habibi Rizqi Mahendra Mahendra,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,W,5-7 6-4 10-7
+800670194,800563793.0,Rurik Rajini,IND,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,1st Round,L,0-6 2-6
+800706325,800688513.0,Xavier Massotte,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,Quarter-final,L,1-6 0-6
+800706325,800688533.0,Lucca Benoit,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,W,6-3 6-1
+800706325,800705223.0,Filip Popadich,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-2 6-0
+800706325,800688513.0,Xavier Massotte,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,L,3-6 5-7
+800666190,800597663.0,Jeong Won Kwon,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,3-6 3-6
 800724522,800708478.0,Kensuke Kobayashi,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,L,3-6 2-6
 800724522,800652221.0,Naoki Watanabe,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,4-6 2-6
 800724522,800677231.0,maki takei,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,1st Round,L,2-6 3-6
 800724522,800652221.0,Naoki Watanabe,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,2nd Round,L,4-6 1-6
 800724522,800683881.0,Noa Hoshino,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,W,6-2 6-1
+800574864,800572613.0,Markus Valtson,EST,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,Quarter-final,L,3-6 2-6
+800574864,800593281.0,Aleksandrs Curkins,LAT,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,2nd Round,W,6-7 7-6 10-5
+800574864,800597357.0,Tymofii Karpaliuk,UKR,J3 Liepaja,2022,29 Aug to 02 Sep 2022,Clay,1st Round,L,7-6 4-6 7-10
 800654081,800521296.0,Demid Gorbachev,KAZ,J3 Ust-Kamenogorsk,2022,07 Nov to 12 Nov 2022,Carpet,2nd Round,L,2-6 4-6
 800652275,800596437.0,Patrik Petera,CZE,J5 Managua,2022,26 Sep to 01 Oct 2022,Hard,1st Round,L,5-7 1-6
 800652636,800654432.0,Jose David Tobar Sanchez,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,L,1-6 2-6
 800652636,800621819.0,Juan Jose Vallejo Nieto,COL,J2 Bogotá,2022,18 Jul to 24 Jul 2022,Clay,1st Round,L,3-6 6-0 7-10
 800652636,800645496.0,Ian Miller,USA,J3 Medellin,2022,11 Jul to 16 Jul 2022,Clay,2nd Round,L,3-6 1-6
 800652636,800602823.0,Manue Londono,COL,J3 Medellin,2022,11 Jul to 16 Jul 2022,Clay,1st Round,W,6-2 3-6 15-13
-800635443,800588957.0,Ahmed Elkarmoty,EGY,J5 Antananarivo,2022,03 Oct to 09 Oct 2022,Clay,2nd Round,L,1-6 0-6
-800635443,800664540.0,Pietro Arci,ITA,J5 Antananarivo,2022,03 Oct to 09 Oct 2022,Clay,1st Round,W,6-4 1-6 7-5
-800635443,800603229.0,Aly Ahmed Noureldine,EGY,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,Quarter-final,L,3-6 5-7
-800635443,800552742.0,Jake Lam Hau Ching,MRI,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,2nd Round,W,6-4 6-3
-800635443,800651588.0,Jayanth Tammineedi,IND,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,1st Round,W,6-0 6-1
 800682953,800540833.0,Ege Topkoc,TUR,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,2nd Round,L,0-6 1-6
 800682953,800726157.0,Abdulaziz Alandijani,KSA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,1st Round,W,6-1 6-0
 800682953,800584263.0,Sattam Moafa,KSA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,Quarter-final,W,5-7 6-3 10-4
@@ -1188,6 +1168,14 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800625690,800716939.0,YASWANTH GUNDLAPALLE,IND,J5 Colombo,2022,10 Oct to 16 Oct 2022,Clay,1st Round,L,1-6 2-6
 800625690,800571069.0,NAVYA VERMA,IND,J5 Colombo,2022,03 Oct to 09 Oct 2022,Clay,1st Round,L,1-6 1-6
 800625690,800561454.0,Chun Tang,TPE,J5 Colombo,2022,24 Jan to 30 Jan 2022,Clay,2nd Round,L,1-6 1-6
+800638992,800688533.0,Lucca Benoit,CAN,J3 Quebec City	,2022,19 Sep to 24 Sep 2022,Hard,1st Round,L,1-6 4-6
+800638992,800686438.0,Jacob Rouleau-Mailly,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,L,7-5 1-6 8-10
+800638992,800682292.0,Zackary Kimelman,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,1-6 6-0 0-10
+800635443,800588957.0,Ahmed Elkarmoty,EGY,J5 Antananarivo,2022,03 Oct to 09 Oct 2022,Clay,2nd Round,L,1-6 0-6
+800635443,800664540.0,Pietro Arci,ITA,J5 Antananarivo,2022,03 Oct to 09 Oct 2022,Clay,1st Round,W,6-4 1-6 7-5
+800635443,800603229.0,Aly Ahmed Noureldine,EGY,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,Quarter-final,L,3-6 5-7
+800635443,800552742.0,Jake Lam Hau Ching,MRI,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,2nd Round,W,6-4 6-3
+800635443,800651588.0,Jayanth Tammineedi,IND,J5 Antananarivo,2022,26 Sep to 02 Oct 2022,Clay,1st Round,W,6-0 6-1
 800690376,800717417.0,Mohanad Elhelaly,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,1st Round,L,3-6 0-6
 800690376,800648967.0,Karim Sherif Abdellatif Abdo,EGY,J2 Cairo,2022,05 Sep to 09 Sep 2022,Clay,1st Round,L,2-6 3-6
 800690376,800644482.0,Adham Ghobashy,EGY,J3 Dakahlia,2022,15 Aug to 19 Aug 2022,Clay,2nd Round,L,3-6 4-6
@@ -1199,16 +1187,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800672334,800684042.0,Samuel Damas,LUX,J4 Schifflange,2022,08 Aug to 13 Aug 2022,Clay,2nd Round,W,6-1 6-0
 800672334,800636791.0,Elis Fjaellberg,FIN,J5 Nastola,2022,28 Mar to 02 Apr 2022,Hard,1st Round,L,0-6 1-6
 800713635,800632367.0,Zhangsiqi Zhou,CHN,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,1-6 4-6
-800602934,800588321.0,Julian Theler,SUI,J5 Esch-Alzette,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,L,0-6 1-6
-800602934,800566326.0,Lucah Dahlmann,BEL,J5 Garisart,2022,13 Jul to 17 Jul 2022,Clay,1st Round,L,1-6 1-6
-800692418,800581069.0,Alexander Mirkov,NZL,J4 Auckland,2022,04 Jan to 08 Jan 2022,Hard,1st Round,L,0-6 1-6
-800699872,800622985.0,Matthew Cizmarik,CAN,J5 Halifax,2022,16 May to 20 May 2022,Hard,1st Round,L,1-6 0-6
-800699872,800678775.0,Alec Barin,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,2nd Round,L,2-6 3-6
-800699872,800631570.0,William Levasseur,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,W,6-4 4-6 10-2
-800699872,800630528.0,Alec Anghel,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,3-6 0-6
-800699872,800631570.0,William Levasseur,CAN,J3 Quebec City	,2022,18 Apr to 23 Apr 2022,Hard,1st Round,L,4-6 4-6
-800601480,800586050.0,Hyung Tak Oh,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,2nd Round,L,3-6 2-6
-800601480,800554068.0,Junseo Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,W,6-3 7-5
+800710462,800651573.0,Nicolas Garnier,CRC,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,1-6 2-6
+800710462,800689788.0,Aoi Umezawa,JPN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,Quarter-final,W,6-4 6-3
+800710462,800716657.0,Xavier Tonioni,ITA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-1 6-3
 800694776,800678734.0,Kevin Kotze,RSA,J3 Pretoria,2022,24 Oct to 29 Oct 2022,Hard,Quarter-final,L,4-6 2-6
 800694776,800690115.0,Brandon Rieseberg,RSA,J3 Pretoria,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,W,6-2 3-0
 800694776,800706473.0,Reuben Bakker,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,Quarter-final,L,1-6 4-6
@@ -1225,16 +1206,25 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800694776,800695721.0,Hasina Mathieu Ranaivo,MAD,J4 Pretoria,2022,06 Jun to 10 Jun 2022,Hard,1st Round,W,6-2 6-0
 800694776,800572589.0,James Hart,RSA,J4 Potchefstroom,2022,07 Mar to 11 Mar 2022,Hard,2nd Round,L,4-6 4-6
 800694776,800694603.0,Michael Bell,RSA,J4 Potchefstroom,2022,07 Mar to 11 Mar 2022,Hard,1st Round,W,6-2 4-6 10-8
+800699872,800622985.0,Matthew Cizmarik,CAN,J5 Halifax,2022,16 May to 20 May 2022,Hard,1st Round,L,1-6 0-6
+800699872,800678775.0,Alec Barin,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,2nd Round,L,2-6 3-6
+800699872,800631570.0,William Levasseur,CAN,J5 Montreal,2022,09 May to 13 May 2022,Hard,1st Round,W,6-4 4-6 10-2
+800699872,800630528.0,Alec Anghel,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,3-6 0-6
+800699872,800631570.0,William Levasseur,CAN,J3 Quebec City	,2022,18 Apr to 23 Apr 2022,Hard,1st Round,L,4-6 4-6
 800713576,800696106.0,Gerardo Felipe Ramirez-Mainou,MEX,J3 Zapopan,2022,07 Nov to 12 Nov 2022,Clay,1st Round,L,2-6 1-6
 800713576,800678463.0,Fernando Carrillo Jimenez,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,L,2-6 1-6
 800713576,800671490.0,Alexis Nicolas Amador Flores,MEX,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,1st Round,L,1-6 3-6
 800713576,800573575.0,Zhen Yan,CHN,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,1st Round,L,2-6 1-6
+800602934,800588321.0,Julian Theler,SUI,J5 Esch-Alzette,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,L,0-6 1-6
+800602934,800566326.0,Lucah Dahlmann,BEL,J5 Garisart,2022,13 Jul to 17 Jul 2022,Clay,1st Round,L,1-6 1-6
 800602125,800634871.0,Viktor Stojovic,SRB,J4 Porec,2022,10 Oct to 16 Oct 2022,Clay,2nd Round,L,3-6 4-6
 800602125,800623069.0,Nal Rot,SLO,J4 Porec,2022,10 Oct to 16 Oct 2022,Clay,1st Round,W,6-2 6-1
 800602125,800450085.0,Mal Agushi,KOS,J5 Peja,2022,05 Sep to 10 Sep 2022,Hard,1st Round,L,7-5 3-6 4-6
 800602125,800514436.0,Vuk Vukicevic,MNE,J5 Peja,2022,05 Sep to 10 Sep 2022,Hard,Quarter-final,W,6-4 6-7 10-2
 800602125,800648992.0,Filip Pavic,KOS,J5 Peja,2022,05 Sep to 10 Sep 2022,Hard,1st Round,W,6-4 6-4
-800690419,800694107.0,Cruz Hewitt,AUS,J3 Christchurch,2022,11 Oct to 15 Oct 2022,Hard,1st Round,L,0-6 2-6
+800692418,800581069.0,Alexander Mirkov,NZL,J4 Auckland,2022,04 Jan to 08 Jan 2022,Hard,1st Round,L,0-6 1-6
+800601480,800586050.0,Hyung Tak Oh,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,2nd Round,L,3-6 2-6
+800601480,800554068.0,Junseo Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,W,6-3 7-5
 800652386,800562938.0,German Vallejo,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,2nd Round,L,0-6 1-6
 800652386,800672215.0,Hugo Fidler,ARU,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,W,6-4 4-6 10-3
 800580910,800668247.0,Koshiro Nakamae,JPN,J4 Hong Kong,2022,31 Oct to 05 Nov 2022,Hard,Quarter-final,L,6-4 3-6 8-10
@@ -1244,6 +1234,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800580910,800675797.0,Aidan Lam Meng Bart,USA,J5 Hong Kong,2022,15 Aug to 20 Aug 2022,Hard,Quarter-final,L,2-6 0-6
 800580910,800584764.0,WAN HIM DONOVAN YIM,HKG,J5 Hong Kong,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,W,6-2 3-6 10-5
 800580910,800548077.0,Jacob Kailiang Shen,HKG,J5 Hong Kong,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,0-6 3-6
+800589794,800565504.0,Alvar Lange,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,2nd Round,L,2-6 1-6
+800589794,800639003.0,Ilias Vantolas,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,W,6-2 6-0
 800584885,800692786.0,Jack Kennedy,USA,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 3,L,2-6 2-6
 800569558,800541391.0,Amar Silajdzic,BIH,J5 Ulcinj,2022,03 Oct to 09 Oct 2022,Clay,Quarter-final,L,6-2 3-6 7-10
 800569558,800573025.0,Mihailo Nikic,SRB,J5 Ulcinj,2022,03 Oct to 09 Oct 2022,Clay,2nd Round,W,4-2 5-4
@@ -1257,18 +1249,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800653221,800579970.0,Martin Rivera,CHI,J5 Luque,2022,05 Dec to 10 Dec 2022,Clay,1st Round,L,3-6 2-6
 800653221,800578721.0,Breno Braga,BRA,J5 Luque,2022,28 Nov to 03 Dec 2022,Clay,2nd Round,L,3-6 5-7
 800653221,800579970.0,Martin Rivera,CHI,J5 Luque,2022,28 Nov to 03 Dec 2022,Clay,1st Round,W,6-4 6-3
-800639859,800594501.0,Ferdinand Livet Novkirichka,FRA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,Quarter-final,L,2-6 7-6 9-11
-800639859,800650042.0,Elijah Max Calaquian,USA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,2nd Round,W,7-5 7-5
-800639859,800530996.0,Jad Rhissassi,MAR,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,W,6-0 6-3
-800639859,800667560.0,Lorenzo Leti Messina,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,2nd Round,L,4-6 0-6
-800639859,800565894.0,Moritz Kolbe,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,1st Round,W,6-3 6-1
-800639859,800678202.0,Benjamin Chelia,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,2-6 6-7
-800639859,800590474.0,Tito Chavez,ESP,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-2 4-6 6-7
-800639859,800543492.0,Daniel Tazabekov,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,0-6 3-6
-800639859,800711664.0,Yuma Tobe,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 6-1
-800710462,800651573.0,Nicolas Garnier,CRC,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,1-6 2-6
-800710462,800689788.0,Aoi Umezawa,JPN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,Quarter-final,W,6-4 6-3
-800710462,800716657.0,Xavier Tonioni,ITA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-1 6-3
 800592682,800547535.0,gian carlos Rodriguez,ECU,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 4-6
 800592682,800547419.0,Ignacio Davalos,ECU,J5 Salinas,2022,22 Aug to 27 Aug 2022,Hard,Quarter-final,W,6-0 6-0
 800592682,800627301.0,Jacob Golden,USA,J5 Guayaquil,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,4-6 1-6
@@ -1286,9 +1266,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800635817,800679544.0,Philippe Khoury,LBN,J4 Damour,2022,05 Sep to 10 Sep 2022,Clay,Quarter-final,W,6-0 6-4
 800635817,800645473.0,Khaled Frikha,TUN,J4 Damour,2022,29 Aug to 03 Sep 2022,Clay,2nd Round,L,0-6 3-6
 800635817,800652395.0,Safwan alzeyadi,LBA,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,L,1-6 4-6
-800728320,800587317.0,Nathan Lim,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,Quarter-final,L,3-6 1-6
-800728320,800704436.0,Liam McDowell,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,2nd Round,W,7-5 2-6 10-2
-800728320,800713874.0,Suyash Makesar,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,W,6-2 6-4
+800715821,800523356.0,Pavlos Tsitsipas,GRE,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,3-6 4-6
+800715821,800631660.0,Sacha Fontanges,FRA,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,W,6-3 7-6
+800715821,800660782.0,Ishan Praveen,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-1 6-0
+800715821,800726826.0,Marwan ALMarzooqi,UAE,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-0
+800690419,800694107.0,Cruz Hewitt,AUS,J3 Christchurch,2022,11 Oct to 15 Oct 2022,Hard,1st Round,L,0-6 2-6
 800602124,800635721.0,Philippe St-Pierre,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,3-6 4-6
 800601815,800544693.0,Sverre Bakker,NED,J4 Emmeloord,2022,11 Oct to 15 Oct 2022,Carpet,1st Round,L,4-6 3-6
 800601815,800503498.0,Sebastian Ondas,GER,J5 Ingelheim,2022,20 Sep to 25 Sep 2022,Clay,1st Round,L,0-6 0-6
@@ -1304,6 +1286,15 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800588084,800719827.0,Arsen Niyetkaliyev,KAZ,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,1st Round,W,6-1 6-1
 800588084,800565887.0,Dmitriy Titov,RUS,J5 Aktobe,2022,28 Nov to 03 Dec 2022,Hard,2nd Round,L,2-6 3-6
 800588084,800654834.0,Marat Bekmukhanau,BLR,J5 Aktobe,2022,28 Nov to 03 Dec 2022,Hard,1st Round,W,6-3 2-6 10-7
+800639859,800594501.0,Ferdinand Livet Novkirichka,FRA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,Quarter-final,L,2-6 7-6 9-11
+800639859,800650042.0,Elijah Max Calaquian,USA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,2nd Round,W,7-5 7-5
+800639859,800530996.0,Jad Rhissassi,MAR,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,W,6-0 6-3
+800639859,800667560.0,Lorenzo Leti Messina,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,2nd Round,L,4-6 0-6
+800639859,800565894.0,Moritz Kolbe,ITA,J4 Pescara,2022,03 Oct to 08 Oct 2022,Clay,1st Round,W,6-3 6-1
+800639859,800678202.0,Benjamin Chelia,ARG,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,2-6 6-7
+800639859,800590474.0,Tito Chavez,ESP,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,6-2 4-6 6-7
+800639859,800543492.0,Daniel Tazabekov,KAZ,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,Round Robin Group 1,L,0-6 3-6
+800639859,800711664.0,Yuma Tobe,JPN,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,7-5 6-1
 800679464,800653420.0,Thabani Christian Nhokwara,ZIM,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,6-2 6-7 3-6
 800679464,800717243.0,Mufudzi Mazorodze,ZIM,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,Quarter-final,W,6-1 6-1
 800585666,800521296.0,Demid Gorbachev,KAZ,J3 Ust-Kamenogorsk,2022,07 Nov to 12 Nov 2022,Carpet,Quarter-final,L,4-6 3-6
@@ -1329,47 +1320,34 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800639841,800699020.0,Aymen Jouhari,MAR,J5 Casablanca,2022,24 Oct to 29 Oct 2022,Clay,1st Round,W,6-4 6-0
 800639841,800724919.0,Ilyass Lotfi,MAR,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,1st Round,L,4-6 4-6
 800680791,800571890.0,Stepan Sklenicka,CZE,J4 Veska,2022,11 Jul to 16 Jul 2022,Clay,1st Round,L,1-6 0-6
-800670331,800590103.0,Dibbyaro Hinomaru,INA,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,2nd Round,L,2-6 2-6
-800670331,800591299.0,Leo HSU,TPE,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,1st Round,W,2-6 6-4 10-6
-800670331,800671440.0,M ragil putra Yudha,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,L,2-6 3-6
-800715821,800523356.0,Pavlos Tsitsipas,GRE,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,3-6 4-6
-800715821,800631660.0,Sacha Fontanges,FRA,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,W,6-3 7-6
-800715821,800660782.0,Ishan Praveen,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-1 6-0
-800715821,800726826.0,Marwan ALMarzooqi,UAE,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-0
 800714933,800718940.0,Julian Lee,RSA,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,1-6 6-4 7-10
 800714933,800678734.0,Kevin Kotze,RSA,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 0-6
 800701180,800538179.0,Amir Asylkozhaev,RUS,J4 Damour,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,1-6 0-6
 800701180,800540740.0,Haydar Cem Gokpinar,TUR,J4 Damour,2022,29 Aug to 03 Sep 2022,Clay,2nd Round,L,0-6 0-6
 800701180,800651598.0,Seif El Salawy,EGY,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,L,1-6 3-6
-800696902,800600965.0,Paris Pouatcha,USA,J1 Guadalajara,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,L,1-6 1-6
-800696902,800716667.0,Yitzak Alejandro Higuera Avilez,MEX,J3 Zapopan,2022,07 Nov to 12 Nov 2022,Clay,1st Round,L,2-6 6-7
-800696902,800650645.0,Samuel Candelas,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,3rd Round,L,2-6 3-6
-800696902,800727692.0,Alejandro Munoz Castillo Kanahuati,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,W,6-3 6-3
-800715148,800721400.0,Dylan Long,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,0-6 1-6
-800715148,800694663.0,Jose Pablo Coello,MEX,J5 Managua,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,7-6 6-7 6-10
-800715148,800692811.0,Ford McCollum,USA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,L,3-6 1-6
-800715148,800602045.0,Antonio Ayerbe Streubel,COL,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,W,1-6 7-6 6-0
-800715148,800688015.0,Gabriel Avendano Ramirez,CRC,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-1 6-0
-800715148,800582555.0,Vinicius Giolo Magrin,BRA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,W,7-5 3-6 10-7
-800715148,800686562.0,Joshua Kruger,NZL,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,7-5 7-5
 800714749,800651427.0,Nicholas Reeves,USA,J5  Barbados,2022,07 Nov to 11 Nov 2022,Hard,2nd Round,L,2-6 0-6
 800714749,800568566.0,Philippe-Elliott Spencer Bigonesse,CAN,J5  Barbados,2022,07 Nov to 11 Nov 2022,Hard,1st Round,W,6-3 6-0
 800714749,800644754.0,Neil J B King,BAR,J5  Barbados,2022,07 Nov to 11 Nov 2022,Hard,Quarter-final,W,6-4 5-7 10-3
 800714749,800684810.0,Jagger Leach,USA,J4 Barbados,2022,31 Oct to 04 Nov 2022,Hard,2nd Round,L,2-6 0-6
 800714749,800725192.0,Cristian Blunte,BAR,J4 Barbados,2022,31 Oct to 04 Nov 2022,Hard,1st Round,W,6-2 7-5
 800714749,800652263.0,Juan Beltran,COL,J4 Tacarigua,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 1-6
+800589609,800626298.0,Julius Aussat,SUI,J5 Horgen,2022,12 Sep to 17 Sep 2022,Clay,1st Round,L,4-6 4-6
+800589609,800569764.0,Edoardo Catalfo,ITA,J4 Luzern,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,3-6 2-6
+800589609,800639401.0,Andrin Baechi,SUI,J4 Luzern,2022,05 Sep to 10 Sep 2022,Clay,1st Round,W,6-0 5-1
+800728320,800587317.0,Nathan Lim,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,Quarter-final,L,3-6 1-6
+800728320,800704436.0,Liam McDowell,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,2nd Round,W,7-5 2-6 10-2
+800728320,800713874.0,Suyash Makesar,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,W,6-2 6-4
 800600625,800581192.0,Riki Utsuyama,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,3-6 3-6
 800600625,800668247.0,Koshiro Nakamae,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,1st Round,L,1-6 0-6
 800600625,800775542.0,Shotaro Kashiwagi,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,L,3-6 6-2 7-10
 800600625,800589109.0,Aoi Ooka,JPN,J3 Kawaguchi,2022,05 Oct to 09 Oct 2022,Hard,2nd Round,L,4-6 0-6
 800600625,800668084.0,Rui Hanyuda,JPN,J3 Kawaguchi,2022,05 Oct to 09 Oct 2022,Hard,1st Round,W,6-4 6-4
 800595310,800570766.0,Radu Paisvant,ROU,J5 Sofia,2022,28 Jun to 03 Jul 2022,Clay,1st Round,L,0-6 1-6
-800589609,800626298.0,Julius Aussat,SUI,J5 Horgen,2022,12 Sep to 17 Sep 2022,Clay,1st Round,L,4-6 4-6
-800589609,800569764.0,Edoardo Catalfo,ITA,J4 Luzern,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,3-6 2-6
-800589609,800639401.0,Andrin Baechi,SUI,J4 Luzern,2022,05 Sep to 10 Sep 2022,Clay,1st Round,W,6-0 5-1
-800590191,800653877.0,Itay Katzman,ISR,J5 Limassol,2022,23 May to 28 May 2022,Clay,1st Round,L,3-6 2-6
+800690483,800635536.0,Sehaj Singh Pawar,IND,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,3rd Round,L,0-6 1-6
+800690483,800575719.0,Sei Koga,JPN,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-2 6-0
+800690483,800635536.0,Sehaj Singh Pawar,IND,J5 Nonthaburi,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,2-6 2-6
+800690483,800535652.0,Sachindhananda Balamurugan,MAS,J5 Nonthaburi,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,4-6 6-4 10-3
 800692338,800649409.0,Kristofer Brkic,USA,J4 Plantation,2022,02 May to 07 May 2022,Clay,1st Round,L,0-6 3-6
-800647720,800683604.0,A David Filer Filer,USA,J5 Eau Claire,2022,10 Jan to 14 Jan 2022,Hard,1st Round,L,0-6 1-6
 800726268,800695471.0,Luka Cowles,AUS,J5 Lautoka,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,0-6 1-6
 800726268,800581684.0,Cristian Care,AUS,J5 Lautoka,2022,26 Oct to 30 Oct 2022,Hard,2nd Round,L,0-6 0-6
 800726268,800651037.0,Samay Pasad,IND,J5 Lautoka,2022,26 Oct to 30 Oct 2022,Hard,1st Round,W,6-0 6-0
@@ -1391,12 +1369,24 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800688848,800689675.0,Rithvik Katpelly,USA,J4 Las Vegas,2022,14 Mar to 19 Mar 2022,Hard,1st Round,L,3-6 1-6
 800688848,800653767.0,Aditya Vyas,USA,J4 Las Vegas,2022,14 Mar to 19 Mar 2022,Hard,2nd Round,W,6-3 2-6 10-6
 800688848,800692846.0,Mavrix Yacavino,USA,J4 Las Vegas,2022,14 Mar to 19 Mar 2022,Hard,1st Round,W,6-1 6-1
+800696902,800600965.0,Paris Pouatcha,USA,J1 Guadalajara,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,L,1-6 1-6
+800696902,800716667.0,Yitzak Alejandro Higuera Avilez,MEX,J3 Zapopan,2022,07 Nov to 12 Nov 2022,Clay,1st Round,L,2-6 6-7
+800696902,800650645.0,Samuel Candelas,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,3rd Round,L,2-6 3-6
+800696902,800727692.0,Alejandro Munoz Castillo Kanahuati,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,W,6-3 6-3
 800656930,800661995.0,Ni Che Sun,TPE,J4 Nonthaburi,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,4-6 4-6
 800656930,800535533.0,Poonthong Komolpisut,THA,J2 Nonthaburi,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,0-6 0-6
 800627606,800568899.0,Smaran Rangarajan,AUS,J5 Amman,2022,27 Jun to 02 Jul 2022,Hard,2nd Round,L,3-6 3-6
 800627606,800560737.0,Dhananjay Athreya,IND,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,1st Round,L,1-6 1-6
 800627606,800582904.0,Parv Patel,IND,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,Quarter-final,L,0-6 0-6
 800627606,800581930.0,Razaq Abdal,KUW,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,W,7-5 6-4
+800715148,800721400.0,Dylan Long,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,0-6 1-6
+800715148,800694663.0,Jose Pablo Coello,MEX,J5 Managua,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,7-6 6-7 6-10
+800715148,800692811.0,Ford McCollum,USA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,L,3-6 1-6
+800715148,800602045.0,Antonio Ayerbe Streubel,COL,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,2nd Round,W,1-6 7-6 6-0
+800715148,800688015.0,Gabriel Avendano Ramirez,CRC,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,6-1 6-0
+800715148,800582555.0,Vinicius Giolo Magrin,BRA,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,Quarter-final,W,7-5 3-6 10-7
+800715148,800686562.0,Joshua Kruger,NZL,J5 Managua,2022,19 Sep to 24 Sep 2022,Hard,1st Round,W,7-5 7-5
+800590191,800653877.0,Itay Katzman,ISR,J5 Limassol,2022,23 May to 28 May 2022,Clay,1st Round,L,3-6 2-6
 800651897,800620935.0,Samuel Hernandez Herrera,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,L,2-6 6-3 7-10
 800651897,800586402.0,badlwim jared Escobar cifuentes,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,Quarter-final,L,6-3 1-6 14-16
 800651897,800651918.0,Juan Felipe Arias Jaramillo,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,2nd Round,W,7-5 7-6
@@ -1419,6 +1409,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800663194,800713777.0,Kevin Chan,HKG,J4 Hong Kong,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,1-6 6-3 6-10
 800724937,800712976.0,Zachery Byng,TTO,J5  Barbados,2022,07 Nov to 11 Nov 2022,Hard,1st Round,L,5-7 6-2 3-6
 800724937,800726811.0,Aidan Clarke,BAR,J4 Barbados,2022,31 Oct to 04 Nov 2022,Hard,1st Round,L,7-6 5-7 5-7
+800670331,800590103.0,Dibbyaro Hinomaru,INA,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,2nd Round,L,2-6 2-6
+800670331,800591299.0,Leo HSU,TPE,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,1st Round,W,2-6 6-4 10-6
+800670331,800671440.0,M ragil putra Yudha,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,L,2-6 3-6
 800625838,800601406.0,Simon Escobar,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,0-1
 800625838,800692679.0,Niyanth Puliyala,USA,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,2nd Round,L,4-6 2-6
 800625838,800652323.0,Juan Alejandro Rozo Chalarca,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,W,5-5
@@ -1448,6 +1441,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800631660,800592032.0,Elham Abdul Salam Edavalath,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-3 6-1
 800631660,800715821.0,Aarush Kote,USA,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,3-6 6-7
 800631660,800593839.0,Abhinav Monikuttan,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-0 6-0
+800655637,800691169.0,Masanao Nakamura,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,3-6 2-6
 800663854,800569040.0,Ruslan Kastsiukevich,BLR,J3 Tashkent,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,2-6 3-6
 800663854,800620673.0,Dmitriy Lyapin,UZB,J3 Tashkent,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,6-3 6-3
 800680865,800654364.0,Adel ELmahy,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,2nd Round,L,5-7 6-4 3-10
@@ -1457,17 +1451,16 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800680865,800534511.0,Gawad El Feky,EGY,J5 Cairo,2022,23 May to 29 May 2022,Clay,Quarter-final,L,2-6 0-6
 800680865,800689593.0,Omar Mohsen,EGY,J5 Cairo,2022,23 May to 29 May 2022,Clay,2nd Round,W,4-6 6-3 10-6
 800680865,800694849.0,Hassan Mahmoud Amer,EGY,J5 Cairo,2022,23 May to 29 May 2022,Clay,1st Round,W,6-3 3-0
-800655637,800691169.0,Masanao Nakamura,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,3-6 2-6
+800599158,800562960.0,Oskar Edberg,SWE,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,Quarter-final,L,3-6 4-6
+800599158,800589687.0,Rafaels Bacis,LAT,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,2nd Round,W,6-1 6-0
+800599158,800650686.0,Denis Struk,LTU,J4 Ventspils,2022,09 May to 14 May 2022,Hard,1st Round,L,4-6 0-6
+800599158,800544465.0,Edmunds Adamsons,LAT,J3 Aizkraukle,2022,18 Apr to 23 Apr 2022,Carpet,1st Round,L,1-6 6-3 6-10
 800693191,800572958.0,Patrick Tracy,CRC,J3 San Jose,2022,02 May to 07 May 2022,Hard,1st Round,L,4-6 4-6
 800693191,800547630.0,Felipe De La Hormaza,CRC,J3 San Jose,2022,25 Apr to 30 Apr 2022,Hard,1st Round,L,0-6 2-6
 800693191,800572958.0,Patrick Tracy,CRC,J4 San Jose,2022,24 Jan to 29 Jan 2022,Hard,1st Round,L,3-6 4-6
 800693191,800693453.0,Malcom Chaves Solis,CRC,J4 San Jose,2022,17 Jan to 22 Jan 2022,Hard,1st Round,L,5-7 4-6
 800697805,800572314.0,jed Mcmillan,GBR,J5 Castlebar,2022,31 Oct to 04 Nov 2022,Clay,2nd Round,L,0-6 1-6
 800697805,800580459.0,Eoin Quinn,IRL,J5 Belfast,2022,27 Jun to 01 Jul 2022,Carpet,1st Round,L,3-6 2-6
-800599158,800562960.0,Oskar Edberg,SWE,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,Quarter-final,L,3-6 4-6
-800599158,800589687.0,Rafaels Bacis,LAT,J5 Aizkraukle,2022,26 Sep to 01 Oct 2022,Carpet,2nd Round,W,6-1 6-0
-800599158,800650686.0,Denis Struk,LTU,J4 Ventspils,2022,09 May to 14 May 2022,Hard,1st Round,L,4-6 0-6
-800599158,800544465.0,Edmunds Adamsons,LAT,J3 Aizkraukle,2022,18 Apr to 23 Apr 2022,Carpet,1st Round,L,1-6 6-3 6-10
 800588964,800588524.0,Ori Shamir,ISR,J3 Haifa,2022,29 Nov to 03 Dec 2022,Hard,1st Round,L,0-6 3-6
 800688968,800595817.0,Christian Anthony Salmeron,AUS,J4 Singapore,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,0-6 1-6
 800590837,800595374.0,Otto Jandera,AUS,J5 Bielsko-Biala,2022,07 Sep to 11 Sep 2022,Clay,1st Round,L,3-6 4-6
@@ -1501,6 +1494,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800597284,800568658.0,Ignas Grusnius,LTU,J5 Nastola,2022,18 Oct to 23 Oct 2022,Hard,1st Round,L,0-6 2-6
 800597284,800568574.0,Alan Wazny,POL,J5 Nastola,2022,28 Mar to 02 Apr 2022,Hard,2nd Round,L,2-6 2-6
 800597284,800578451.0,Rick Nieke,JPN,J5 Nastola,2022,28 Mar to 02 Apr 2022,Hard,1st Round,W,7-5 6-2
+800647720,800683604.0,A David Filer Filer,USA,J5 Eau Claire,2022,10 Jan to 14 Jan 2022,Hard,1st Round,L,0-6 1-6
 800694754,800678734.0,Kevin Kotze,RSA,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,Quarter-final,L,6-3 1-6 11-13
 800694754,800719576.0,Katlego Masa Regoeng,BOT,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,W,6-2 6-1
 800694754,800643947.0,Calum Jestin,RSA,JA Pretoria,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,1-6 1-6
@@ -1513,8 +1507,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800644240,800538179.0,Amir Asylkozhaev,RUS,J5 Islamabad,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,0-6 0-6
 800643373,800496288.0,Maxim Cazac,MDA,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,L,2-6 2-6
 800643373,800545842.0,Kivanc Bedir,TUR,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,7-6 2-6 4-10
-800695357,800684666.0,Derek Hafiz,USA,J5 Christiansted,2022,16 May to 21 May 2022,Hard,1st Round,L,0-6 3-6
-800695357,800706879.0,Graham Bourne,USA,J5 Christiansted,2022,09 May to 14 May 2022,Hard,Semi-final,L,2-6 0-6
 800656506,800657270.0,Aryan Jit Singh,GBR,J4 Nonthaburi,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,2-6 2-6
 800656506,800656233.0,Pajara Thaweekul,THA,J4 Nonthaburi,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,6-2 6-1
 800656506,800575335.0,Joewyn Rey Pascua,PHI,J2 Nonthaburi,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,1-6 0-6
@@ -1530,11 +1522,17 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800575567,800689784.0,Tegh Singh,THA,J4 Nonthaburi,2022,27 Jun to 02 Jul 2022,Hard,1st Round,W,6-4 6-3
 800575567,800583850.0,Shiv Hariharan,IND,J4 Seremban	 	,2022,24 May to 29 May 2022,Hard,1st Round,L,5-7 6-4 4-10
 800575567,800534897.0,Jayden Ye Li Wong,MAS,J5 Selangor,2022,09 Mar to 13 Mar 2022,Hard,1st Round,L,5-7 7-5 6-10
+800578288,800544824.0,Viktor Fainstein,EST,J5 Aizkraukle,2022,03 Oct to 08 Oct 2022,Carpet,2nd Round,L,3-6 1-6
+800578288,800565842.0,Julius Leino,FIN,J4 Riga,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,L,1-4
+800578288,800597357.0,Tymofii Karpaliuk,UKR,J4 Riga,2022,22 Aug to 27 Aug 2022,Clay,1st Round,W,7-6 6-0
 800695400,800654119.0,Connor Doig,RSA,J3 Pretoria,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,1-6 0-6
 800695400,800572589.0,James Hart,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,2-6 0-6
 800695400,800705054.0,Wikus Boshoff,RSA,J5 Pretoria,2022,13 Jun to 17 Jun 2022,Hard,1st Round,L,7-5 0-6 8-10
 800695400,800696422.0,Christian Smith,RSA,J4 Pretoria,2022,06 Jun to 10 Jun 2022,Hard,1st Round,L,3-6 1-6
+800591607,800573677.0,Sten Hiiesalu,EST,J5 Siauliai,2022,11 Jul to 16 Jul 2022,Clay,1st Round,L,0-6 5-7
 800598621,800724763.0,Tom van Valkenburg,NED,J4 Emmeloord,2022,11 Oct to 15 Oct 2022,Carpet,1st Round,L,2-6 6-4 8-10
+800695357,800684666.0,Derek Hafiz,USA,J5 Christiansted,2022,16 May to 21 May 2022,Hard,1st Round,L,0-6 3-6
+800695357,800706879.0,Graham Bourne,USA,J5 Christiansted,2022,09 May to 14 May 2022,Hard,Semi-final,L,2-6 0-6
 800681873,800514144.0,Leon Borcic,GER,J3 Dubrovnik,2022,17 Oct to 23 Oct 2022,Clay,1st Round,L,2-6 2-6
 800700763,800657086.0,Anhad Singh Oberoi,IND,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,1-6 1-6
 800700763,800702562.0,Oumarou TAMIMOU,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,5-7 1-6
@@ -1544,14 +1542,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800675463,800668476.0,Alejandro Osorio Naranjo,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,1st Round,W,6-4 6-1
 800601379,800598113.0,Ye Chan Choi,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,0-6 3-6
 800601379,800603068.0,Woong Chan Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,5-7 2-6
-800578288,800544824.0,Viktor Fainstein,EST,J5 Aizkraukle,2022,03 Oct to 08 Oct 2022,Carpet,2nd Round,L,3-6 1-6
-800578288,800565842.0,Julius Leino,FIN,J4 Riga,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,L,1-4
-800578288,800597357.0,Tymofii Karpaliuk,UKR,J4 Riga,2022,22 Aug to 27 Aug 2022,Clay,1st Round,W,7-6 6-0
 800675354,800666220.0,Amir hossein Nabilou,IRI,J4 Tehran,2022,11 Jul to 16 Jul 2022,Clay,2nd Round,L,1-6 1-6
 800675354,800667630.0,Nima Nourani,IRI,J4 Tehran,2022,11 Jul to 16 Jul 2022,Clay,1st Round,W,6-2 7-6
 800675354,800549403.0,Kian Karimi Reykandeh,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,1st Round,L,6-3 1-6 2-6
 800675354,800636125.0,Amir Fakhri,IRI,J4 Kish Island,2022,24 Jan to 29 Jan 2022,Clay,1st Round,L,5-7 0-6
-800591607,800573677.0,Sten Hiiesalu,EST,J5 Siauliai,2022,11 Jul to 16 Jul 2022,Clay,1st Round,L,0-6 5-7
 800620935,800690668.0,Jonatan Santiago Hidalgo,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,Quarter-final,L,2-6 3-6
 800620935,800654432.0,Jose David Tobar Sanchez,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,2nd Round,W,7-6 2-6 10-8
 800620935,800704034.0,Martin Macias,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,W,6-4 6-2
@@ -1564,12 +1558,8 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800620935,800675410.0,Jorge Mayorga,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-2 6-3
 800620935,800532945.0,Alejandro Gil Montoya,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,2nd Round,L,6-7 3-6
 800620935,800603690.0,Pablo Suarez,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,W,4-6 7-6 10-4
-800585054,800632393.0,Dhiraj Reddy Vennapusa,IND,J5 Pokhara,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,1-6 0-1
 800674704,800654968.0,Vardan Manukyan,RUS,J4 Sofia,2022,08 Aug to 13 Aug 2022,Clay,1st Round,L,1-6 4-6
 800674704,800589490.0,Alin Butnaru,ROU,J5 Sofia,2022,28 Jun to 03 Jul 2022,Clay,1st Round,L,1-6 2-6
-800600577,800526380.0,Taewan Joo,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,2nd Round,L,1-6 1-6
-800600577,800598708.0,Seung Bae Lee,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,W,6-1 6-2
-800600577,800557441.0,Seon Jun Ji,KOR,J5 Gimcheon,2022,19 Apr to 24 Apr 2022,Hard,1st Round,L,1-6 1-6
 800632009,800693461.0,Pavlos Christoforakis,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,3-6 1-6
 800632009,800691007.0,Mpho Leshoele,LES,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,1-6 2-6
 800632009,800654758.0,Maqhawe Qame,BOT,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,1st Round,W,6-0 6-0
@@ -1588,10 +1578,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800630826,800590513.0,Stiven Uretsky,ISR,J5 Ashkelon,2022,06 Sep to 11 Sep 2022,Hard,1st Round,L,2-6 0-6
 800594137,800578174.0,Antonin Witz,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,L,0-1
 800594137,800546455.0,Teva Ardillon,FGU,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,L,6-7 6-3 5-7
-800690483,800635536.0,Sehaj Singh Pawar,IND,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,3rd Round,L,0-6 1-6
-800690483,800575719.0,Sei Koga,JPN,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-2 6-0
-800690483,800635536.0,Sehaj Singh Pawar,IND,J5 Nonthaburi,2022,08 Aug to 13 Aug 2022,Hard,2nd Round,L,2-6 2-6
-800690483,800535652.0,Sachindhananda Balamurugan,MAS,J5 Nonthaburi,2022,08 Aug to 13 Aug 2022,Hard,1st Round,W,4-6 6-4 10-3
 800718680,800645069.0,Morgane Segodo,BEN,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,1st Round,L,0-6 1-6
 800718680,800695726.0,OLUWASEUN PETER OGUNSAKIN,NGR,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,Quarter-final,L,0-6 4-6
 800718680,800720684.0,Rodriguez Beni GANDONOU,BEN,J4 Lome,2022,03 Oct to 07 Oct 2022,Hard,2nd Round,W,6-4 6-2
@@ -1647,6 +1633,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800675121,800567136.0,Yosri Abdelmoula,TUN,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,1st Round,L,3-6 2-6
 800675121,800512940.0,Niels Ratiu,BEL,J3 Rabat,2022,21 Mar to 26 Mar 2022,Clay,1st Round,L,0-6 0-6
 800710393,800711502.0,VINICIUS AMANN SILVEIRA,BRA,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,3-6 3-6
+800585054,800632393.0,Dhiraj Reddy Vennapusa,IND,J5 Pokhara,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,1-6 0-1
 800714428,800717749.0,Andrew Andea,USA,J4 Tacarigua,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,0-6 0-6
 800714428,800582270.0,Guillermo Alfonso Bennaton,HON,J5 Tacarigua,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 1-6
 800714428,800653852.0,Zach Friedland,USA,J5 Tacarigua,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,0-6 0-6
@@ -1655,6 +1642,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800714428,800561509.0,Giancarlo Rosario,DOM,J5 Kingston,2022,18 Jul to 23 Jul 2022,Hard,2nd Round,L,0-6 1-6
 800711622,800627311.0,Rodrigo Marron,MEX,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,2nd Round,L,3-6 4-6
 800711622,800589388.0,Derek Winsnes,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,2-6 3-6
+800719518,800652742.0,NIhaal Dhaliwal,CAN,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,4-6 2-6
 800670352,800598721.0,Louis Maha Viro Deo Tarigan,INA,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,1st Round,L,1-6 0-6
 800670352,800575335.0,Joewyn Rey Pascua,PHI,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,1st Round,L,2-6 3-6
 800670352,800597372.0,Christopher Bennett Wirahadipoernomo,INA,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,3rd Round,W,7-5 4-6 10-7
@@ -1681,20 +1669,17 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800657264,800597539.0,Keenan Desmarais,CAN,J3 Calgary,2022,20 Jun to 25 Jun 2022,Hard,1st Round,L,6-7 5-7
 800657264,800682900.0,Gelan Su,CAN,J5 Kamloops,2022,06 Jun to 11 Jun 2022,Hard,1st Round,L,0-6 0-6
 800657264,800682900.0,Gelan Su,CAN,J5 Victoria,2022,30 May to 04 Jun 2022,Hard,1st Round,L,1-6 0-6
-800582359,800561394.0,Pierre Antoine Faut,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,1st Round,L,2-6 6-4 5-7
-800582359,800562284.0,Lenny Haddad,FRA,J4 Menton,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,1-6 5-7
-800582359,800558448.0,Noah Boutleux,FRA,J4 Dijon,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,6-4 1-6 2-10
 800711299,800731445.0,Ikenna Prosper Okonkwo,NGR,J5 Abuja,2022,30 Nov to 04 Dec 2022,Hard,Quarter-final,L,1-6 3-6
 800711299,800671812.0,Joseph franklin Jimoh,NGR,J5 Abuja,2022,23 Nov to 27 Nov 2022,Hard,1st Round,L,2-6 0-6
 800711299,800672808.0,ABUBAKAR ALIYU,NGR,J5 Abuja,2022,23 Nov to 27 Nov 2022,Hard,Quarter-final,L,6-7 3-6
 800711299,800553568.0,Fateh Singh,IND,J4 Guwahati,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,1-6 0-6
 800711299,800530097.0,Aryanth reddy Chintharlapalli,IND,J4 Guwahati,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,4-6 6-3 10-5
+800692529,800594918.0,Emanuel Grau Kristensen,DEN,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,2-6 0-6
 800592457,800513156.0,Cem Atlamis,TUR,J5 Peja,2022,05 Sep to 10 Sep 2022,Hard,1st Round,L,1-6 2-6
 800684589,800725309.0,Pete Tran,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,4-6 2-6
 800684589,800728348.0,Aaron Yang,CHN,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,W,6-1 6-0
 800684589,800684329.0,Adrian Treacy,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,4-6 6-7
 800684589,800725647.0,Murray Ellington,USA,J4 Atlanta,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-0 6-0
-800719518,800652742.0,NIhaal Dhaliwal,CAN,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,4-6 2-6
 800643207,800603908.0,Shanker Heisnam,IND,J3 Pune,2022,28 Nov to 03 Dec 2022,Hard,2nd Round,L,0-6 5-7
 800643207,800699282.0,ARJUN KIRRTANE,IND,J3 Pune,2022,28 Nov to 03 Dec 2022,Hard,1st Round,W,7-5 6-3
 800689702,800588545.0,Negad Ezzat,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,1st Round,L,4-6 1-6
@@ -1713,6 +1698,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800693405,800660174.0,Javier Lugo,MEX,J4 Queretaro,2022,07 Feb to 12 Feb 2022,Clay,1st Round,L,6-1 3-6 8-10
 800693405,800625122.0,Emilio Zavala Salinas,MEX,J5 Morelos,2022,31 Jan to 05 Feb 2022,Hard,2nd Round,L,0-6 0-6
 800693405,800646558.0,Birk Arwedahl,SWE,J5 Morelos,2022,31 Jan to 05 Feb 2022,Hard,1st Round,W,6-2 6-0
+800600577,800526380.0,Taewan Joo,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,2nd Round,L,1-6 1-6
+800600577,800598708.0,Seung Bae Lee,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,W,6-1 6-2
+800600577,800557441.0,Seon Jun Ji,KOR,J5 Gimcheon,2022,19 Apr to 24 Apr 2022,Hard,1st Round,L,1-6 1-6
 800720824,800568128.0,Riccardo Surano,ITA,J5 Sidi Kacem,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,0-6 0-6
 800720824,800531062.0,Jose Freitas,POR,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 1-6
 800720824,800628642.0,JASSIM SBAI,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,Quarter-final,L,4-6 3-6
@@ -1744,7 +1732,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800625716,800662937.0,Yusufbek Malikov,UZB,J3 Tashkent,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,L,2-6 3-6
 800625716,800534373.0,Saidakbar Kamalov,UZB,J3 Tashkent,2022,25 Jul to 30 Jul 2022,Hard,2nd Round,L,4-6 1-6
 800625716,800660577.0,SAIDAMIRKHON SAIDAZIMOV,UZB,J3 Tashkent,2022,25 Jul to 30 Jul 2022,Hard,1st Round,W,6-1 6-0
-800692529,800594918.0,Emanuel Grau Kristensen,DEN,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,2-6 0-6
 800694598,800551251.0,Lorant Gyori,HUN,J5 Colombo,2022,10 Oct to 16 Oct 2022,Clay,1st Round,L,1-6 1-6
 800694598,800582775.0,Methvan Wijemanne,SRI,J5 Colombo,2022,03 Oct to 09 Oct 2022,Clay,1st Round,L,1-6 3-6
 800694598,800564052.0,Arjun Premkumar,IND,J4 Chennai,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,5-7 3-6
@@ -1767,6 +1754,11 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800675275,800705303.0,FABER CALLE VELEZ,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,W,6-1 7-6
 800675275,800620935.0,Samuel Hernandez Herrera,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,2nd Round,L,2-6 2-6
 800675275,800654167.0,Lucas Quinonez,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,1st Round,W,7-5 1-6 10-4
+800675273,800590323.0,Jigme Balseiro,GUA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,1-6 0-6
+800675273,800547275.0,Alfonso Calderon,CHI,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,2-6 0-6
+800675273,800656452.0,Rodolfo Hernandez Gil,GUA,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,2nd Round,L,1-6 5-7
+800675273,800696281.0,Dilan Ariel Alvarez Fu,HON,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,W,6-4 7-5
+800675273,800590323.0,Jigme Balseiro,GUA,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 3-6
 800663504,800690003.0,Shota Shima,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,L,1-6 0-6
 800663504,800643759.0,Sota Miyazaki,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,6-4 6-3
 800698375,800656588.0,Luis Antonio Avila Blanco,MEX,J3 Tampico,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,3-6 0-6
@@ -1779,16 +1771,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800713282,800694930.0,Juan Pablo Gomez,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,W,6-4 6-3
 800693880,800506449.0,Ahmed Ashour,EGY,J5 Cairo,2022,23 May to 29 May 2022,Clay,1st Round,L,0-6 0-6
 800693880,800653943.0,Youssef Mostafa Elragabi,EGY,J5 Cairo,2022,16 May to 22 May 2022,Clay,1st Round,L,2-6 3-6
-800670505,800670528.0,M Mouressi Muqorib,INA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,2nd Round,L,3-6 0-2
-800670505,800589804.0,Faris Muhammad Yusuf Al Faris,INA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,1st Round,W,6-4 6-4
-800670505,800547716.0,Justin Kuo,INA,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,1st Round,L,1-6 2-6
-800670505,800652590.0,Ahmad Fauzan,INA,J4 Jakarta,2022,04 Jul to 09 Jul 2022,Hard,1st Round,L,2-6 1-6
-800670505,800557637.0,Namgi Song,KOR,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,L,5-7 6-3 6-7
-800670505,800670766.0,Rais Kusuma Dewantara,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,3rd Round,W,6-2 6-4
-800670505,800600519.0,Tahajud Kanjeng Bagus Setyo,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,2nd Round,W,7-5 3-6 10-4
-800670505,800671312.0,Dwi Ade Rahmantoro,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,W,6-3 6-4
-800670505,800649127.0,Axel Raber,SWE,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,1st Round,L,2-6 3-6
-800670505,800649127.0,Axel Raber,SWE,J5 Yogyakarta,2022,16 May to 21 May 2022,Hard,1st Round,L,2-6 3-6
 800667599,800643546.0,James Hutchinson,GBR,J5 Castlebar,2022,31 Oct to 04 Nov 2022,Clay,Quarter-final,L,2-6 2-6
 800667599,800667601.0,Isaac King,GBR,J5 Castlebar,2022,31 Oct to 04 Nov 2022,Clay,2nd Round,W,6-2 6-4
 800695471,800600744.0,Kiran Krish,AUS,J5 Perth,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,3-6 2-6
@@ -1854,9 +1836,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800639546,800545842.0,Kivanc Bedir,TUR,J5 Urmia,2022,20 Jun to 25 Jun 2022,Clay,Quarter-final,L,0-6 0-6
 800639546,800678193.0,Artin Zarandi,IRI,J5 Karaj,2022,13 Jun to 18 Jun 2022,Clay,1st Round,L,6-4 4-6 4-6
 800639546,800707705.0,Rastin Mohammadi,IRI,J5 Karaj,2022,13 Jun to 18 Jun 2022,Clay,Quarter-final,W,6-3 5-7 10-3
-800601039,800509305.0,Rafael Grosu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,3rd Round,L,4-6 3-6
-800601039,800572664.0,Vlad Ion Tugulescu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,2nd Round,W,2-6 6-2 10-7
-800601039,800552644.0,Mihai David Haita,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,1st Round,W,6-4 6-2
 800622541,800535636.0,Nikolai Barsukov,GER,J5 Fleesensee,2022,29 Nov to 04 Dec 2022,Carpet,2nd Round,L,4-6 1-6
 800622541,800535989.0,Daniel Stauch,CZE,J5 Fleesensee,2022,29 Nov to 04 Dec 2022,Carpet,1st Round,W,6-3 6-4
 800622541,800535636.0,Nikolai Barsukov,GER,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,L,2-6 2-6
@@ -1864,6 +1843,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800622541,800521857.0,Lukas Kuenze,GER,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,Quarter-final,W,6-3 6-1
 800622541,800587194.0,Sebastian Gampert,GER,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,W,4-6 7-6 10-6
 800622541,800503498.0,Sebastian Ondas,GER,J5 Leimen,2022,08 Nov to 13 Nov 2022,Hard,1st Round,W,6-4 7-6
+800601039,800509305.0,Rafael Grosu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,3rd Round,L,4-6 3-6
+800601039,800572664.0,Vlad Ion Tugulescu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,2nd Round,W,2-6 6-2 10-7
+800601039,800552644.0,Mihai David Haita,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,1st Round,W,6-4 6-2
 800599800,800532545.0,Max Fellinger,SWE,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,7-5 2-6 8-10
 800661377,800718001.0,Robert Gabriel Ionescu,ROU,J5 Bucharest,2022,23 Aug to 28 Aug 2022,Clay,1st Round,L,2-6 4-6
 800680367,800509397.0,Brendan Nicholas Hendrata,INA,J5 Lautoka,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,1-6 0-6
@@ -1872,27 +1854,22 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800680367,800716942.0,Sugar-Ray Hakena,PNG,J5 Lautoka,2022,26 Oct to 30 Oct 2022,Hard,1st Round,W,6-4 6-3
 800559154,800567160.0,Alexander Klichnikov,RUS,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,1st Round,L,3-6 6-3 5-10
 800559154,800569000.0,Pavel Savelov,RUS,J5 Aktobe,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,6-4 1-6 3-6
-800591369,800533250.0,Miguel Angel Sarria Mondragon,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,L,4-6 3-6
-800591369,800583292.0,Michael Fernandez,USA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 2-6
-800591369,800715668.0,Gaobo Zhang,CHN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,Quarter-final,W,6-4 6-4
-800591369,800728571.0,Eric Quintero,PAN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-0 6-2
-800591369,800679508.0,Sklar Phillips,USA,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,1-6 4-6
-800591369,800601406.0,Simon Escobar,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,Quarter-final,W,6-3 6-4
-800591369,800532945.0,Alejandro Gil Montoya,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,W,6-4 7-5
-800591369,800651918.0,Juan Felipe Arias Jaramillo,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-2 6-0
-800591369,800586402.0,badlwim jared Escobar cifuentes,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,L,3-6 6-7
 800777437,800568259.0,ALAN GONZALEZ,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,1-6 0-6
 800777437,800718696.0,Ulises Penna,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,W,6-0 6-1
 800777437,800656486.0,Jorge Batarse,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,0-6 3-6
 800777437,800695155.0,Lucas Bernardo Lopez del Alto,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,W,6-2 6-2
 800777437,800639853.0,Roberto Gonzalez Salinas,MEX,J5 Monterrey,2022,21 Feb to 26 Feb 2022,Hard,2nd Round,L,1-6 4-6
 800777437,800695540.0,Andres Ramirez,MEX,J5 Monterrey,2022,21 Feb to 26 Feb 2022,Hard,1st Round,W,1-6 6-4 10-1
+800695991,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,2-6 2-6
+800695991,800578726.0,Tomas Leguizamon Chaves,COL,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,2nd Round,L,2-6 0-6
+800695991,800625122.0,Emilio Zavala Salinas,MEX,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,0-6 3-6
+800695991,800651829.0,Juan Diego Chacon Quesada,CRC,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-4 6-2
+800695991,800587203.0,Marcos Castellanos,GUA,J5 Santa Tecla,2022,11 Jul to 16 Jul 2022,Hard,1st Round,L,0-6 1-6
+800695991,800654434.0,Rodrigo Lopez,GUA,J4 Santa Tecla,2022,30 May to 04 Jun 2022,Hard,1st Round,L,1-6 1-6
+800695991,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Mar to 12 Mar 2022,Hard,1st Round,L,0-6 0-6
+800695991,800651427.0,Nicholas Reeves,USA,J4 La Libertad,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,2-6 2-6
 800714209,800582904.0,Parv Patel,IND,J5 Mauritius,2022,12 Sep to 16 Sep 2022,Hard,1st Round,L,2-6 3-6
 800714209,800542550.0,Blaz Steblaj,SLO,J4 Mauritius,2022,05 Sep to 09 Sep 2022,Hard,1st Round,L,4-6 1-6
-800594735,800621184.0,Mostafa Mohamed,EGY,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,2nd Round,L,4-6 4-6
-800594735,800629959.0,Faisal Enany,KSA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,1st Round,W,6-0 6-0
-800594735,800506921.0,Seth Sadikov,USA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,Quarter-final,L,1-6 0-6
-800594735,800626385.0,Hassan Hashish,EGY,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,1st Round,W,6-1 6-0
 800640077,800566367.0,Cinar Ozkahraman,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,2-6 1-6
 800704428,800589824.0,Gerald Bill Kruger,RSA,J5 Pretoria,2022,20 Jun to 24 Jun 2022,Hard,1st Round,L,1-6 1-6
 800704428,800693461.0,Pavlos Christoforakis,RSA,J5 Pretoria,2022,13 Jun to 17 Jun 2022,Hard,1st Round,L,1-6 2-6
@@ -1900,6 +1877,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800636004,800668247.0,Koshiro Nakamae,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,2nd Round,L,2-6 1-6
 800636004,800682744.0,Kyan Ryota Takahashi,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,W,6-4 7-5
 800636004,800585388.0,Haruto Kusunoki,JPN,J2 Nagoya,2022,18 Oct to 23 Oct 2022,Carpet,1st Round,L,2-6 0-6
+800582359,800561394.0,Pierre Antoine Faut,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,1st Round,L,2-6 6-4 5-7
+800582359,800562284.0,Lenny Haddad,FRA,J4 Menton,2022,05 Sep to 10 Sep 2022,Clay,2nd Round,L,1-6 5-7
+800582359,800558448.0,Noah Boutleux,FRA,J4 Dijon,2022,29 Aug to 03 Sep 2022,Clay,1st Round,L,6-4 1-6 2-10
+800649807,800602164.0,Jerome Yang,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,1-6 1-6
+800649807,800710557.0,Bennett Carlson,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-4 6-1
+800649807,800602163.0,Jasper Yang,CAN,J4 Langley,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 4-6
+800649807,800683976.0,Jagatpartap Sanghera,CAN,J4 Langley,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,7-6 4-6 10-7
 800579554,800560716.0,Jaime Galligo Subirana,ESP,J5 Stobrec,2022,25 Jul to 29 Jul 2022,Clay,1st Round,L,4-6 1-6
 800690314,800656454.0,Adham Aly,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,2nd Round,L,4-6 3-6
 800690314,800635669.0,Hassan Ammar,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,1st Round,W,6-1 6-2
@@ -1913,49 +1897,46 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800690314,800532071.0,Ahmed Sherif Abdelmegid,EGY,J5 Giza,2022,11 Jul to 17 Jul 2022,Clay,2nd Round,W,6-2 7-5
 800690314,800529392.0,Mohamed Nabil,EGY,J5 Giza,2022,11 Jul to 17 Jul 2022,Clay,1st Round,W,6-3 7-6
 800692628,800530094.0,Jacob Borch-Nielsen,NOR,J4 Bromma,2022,28 Sep to 02 Oct 2022,Hard,1st Round,L,0-6 1-6
+800696904,800680843.0,Guillermo Narcio,MEX,J4 Queretaro,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,3-6 6-3 5-10
+800696904,800656486.0,Jorge Batarse,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,4-6 6-7
+800696904,800589388.0,Derek Winsnes,MEX,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,3rd Round,L,2-6 2-6
+800696904,800590712.0,Luis Gustavo Barrachi,BRA,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,2nd Round,W,6-2 6-1
+800696904,800664111.0,Jesus Mario Garcia Salgado,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,0-6 1-6
+800696904,800625869.0,Laureano Poblete,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,1st Round,W,7-6 6-0
+800696904,800709750.0,Javier Emilio Sanchez,GUA,J5 Guatemala,2022,13 Jun to 18 Jun 2022,Hard,1st Round,L,6-4 4-6 8-10
 800699976,800575770.0,Yannis Batsabaken,FRA,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,3-6 3-6
 800699976,800528233.0,Bryan Hernandez Cortes,ESP,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,0-6 0-6
 800699976,800700764.0,Ali Nabil Amed,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,3-0
 800699976,800678300.0,Aryan Mehta,IND,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-0
 800699976,800653132.0,Aleksandar Daskalovic,SRB,J5 Douala,2022,12 Apr to 17 Apr 2022,Hard,1st Round,L,0-6 1-6
 800699976,800597850.0,Carel Aubriel Ngounoue,USA,J5 Douala,2022,05 Apr to 10 Apr 2022,Hard,1st Round,L,2-6 0-6
-800587093,800531193.0,Ismael Soussi,FRA,J3 Saint Gregoire,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,6-1 4-6 5-10
-800587093,800534927.0,Thomas Buchard,FRA,J5 Ponts de Ce,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,6-1 3-6 4-10
-800587093,800586446.0,Timeo Trufelli,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,2-6 2-6
-800587093,800534623.0,Martin Jovenin,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,Quarter-final,W,6-1 6-4
-800587093,800684672.0,Maxime Le Belguet Lemire,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,W,6-7 6-1 10-5
-800587093,800587097.0,Elliot Rabat,FRA,J5 Honfleur,2022,03 Oct to 08 Oct 2022,Hard,1st Round,W,6-4 6-3
-800587093,800566929.0,Filippo Pecorini,ITA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,2nd Round,L,2-6 3-6
-800587093,800529529.0,Maxime Gouge,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,1st Round,W,7-5 6-3
-800587093,800515110.0,Gregoire Valente,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,Quarter-final,L,2-6 0-6
-800587093,800577018.0,Oscar Houille,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,2nd Round,W,6-1 6-4
-800587093,800561773.0,Gauthier Sitbon,FRA,J5 Lyon,2022,26 Sep to 01 Oct 2022,Clay,1st Round,W,6-3 6-3
+800594735,800621184.0,Mostafa Mohamed,EGY,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,2nd Round,L,4-6 4-6
+800594735,800629959.0,Faisal Enany,KSA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,1st Round,W,6-0 6-0
+800594735,800506921.0,Seth Sadikov,USA,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,Quarter-final,L,1-6 0-6
+800594735,800626385.0,Hassan Hashish,EGY,J5 Jeddah,2022,21 Nov to 26 Nov 2022,Hard,1st Round,W,6-1 6-0
+800719489,800656507.0,Kether Naresh Gonzalez Gonzalez,MEX,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,2-6 0-6
+800719489,800642998.0,Juan Carlos Fuentes Vasquez,ESA,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800672080,800643249.0,Jim Alexander De Leon Aquino,DOM,J3 Santo Domingo,2022,09 May to 14 May 2022,Hard,1st Round,L,4-6 0-6
 800597663,800557637.0,Namgi Song,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,2nd Round,L,7-6 4-6 7-10
 800597663,800666190.0,Lyul Kim,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,W,6-3 6-3
 800597663,800591624.0,Hae Seok Jang,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,2-6 1-6
-800682566,800600775.0,Noah Muyale,ARU,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,L,7-5 4-6 7-10
-800682566,800670650.0,Terry Lau,HKG,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,W,7-5 6-4
 800726811,800651427.0,Nicholas Reeves,USA,J5  Barbados,2022,07 Nov to 11 Nov 2022,Hard,1st Round,L,3-6 0-6
 800726811,800714465.0,Dillon Beckles,USA,J4 Barbados,2022,31 Oct to 04 Nov 2022,Hard,2nd Round,L,0-6 1-6
 800726811,800724937.0,Xzavier Hastick,CAN,J4 Barbados,2022,31 Oct to 04 Nov 2022,Hard,1st Round,W,6-7 7-5 7-5
 800688993,800675209.0,Sasha Colleu,FRA,J5 Managua,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 3-6
 800688993,800699870.0,Julio Eduardo Gom Rivera,HON,J5 Managua,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,6-2 6-4
 800575646,800507309.0,Daniil Blinov,ISR,J4 Sofia,2022,08 Aug to 13 Aug 2022,Clay,1st Round,L,1-6 6-3 6-10
-800675273,800590323.0,Jigme Balseiro,GUA,J4 Guatemala,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,1-6 0-6
-800675273,800547275.0,Alfonso Calderon,CHI,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,2-6 0-6
-800675273,800656452.0,Rodolfo Hernandez Gil,GUA,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,2nd Round,L,1-6 5-7
-800675273,800696281.0,Dilan Ariel Alvarez Fu,HON,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,W,6-4 7-5
-800675273,800590323.0,Jigme Balseiro,GUA,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 3-6
-800695991,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,2-6 2-6
-800695991,800578726.0,Tomas Leguizamon Chaves,COL,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,2nd Round,L,2-6 0-6
-800695991,800625122.0,Emilio Zavala Salinas,MEX,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,0-6 3-6
-800695991,800651829.0,Juan Diego Chacon Quesada,CRC,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-4 6-2
-800695991,800587203.0,Marcos Castellanos,GUA,J5 Santa Tecla,2022,11 Jul to 16 Jul 2022,Hard,1st Round,L,0-6 1-6
-800695991,800654434.0,Rodrigo Lopez,GUA,J4 Santa Tecla,2022,30 May to 04 Jun 2022,Hard,1st Round,L,1-6 1-6
-800695991,800590323.0,Jigme Balseiro,GUA,J4 Santa Tecla,2022,07 Mar to 12 Mar 2022,Hard,1st Round,L,0-6 0-6
-800695991,800651427.0,Nicholas Reeves,USA,J4 La Libertad,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,2-6 2-6
 800663778,800648684.0,Yassin Mohamed Ali,EGY,J5 Cairo,2022,04 Jul to 10 Jul 2022,Clay,1st Round,L,2-6 3-6
+800670505,800670528.0,M Mouressi Muqorib,INA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,2nd Round,L,3-6 0-2
+800670505,800589804.0,Faris Muhammad Yusuf Al Faris,INA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,1st Round,W,6-4 6-4
+800670505,800547716.0,Justin Kuo,INA,J5 Surabaya		,2022,04 Oct to 09 Oct 2022,Hard,1st Round,L,1-6 2-6
+800670505,800652590.0,Ahmad Fauzan,INA,J4 Jakarta,2022,04 Jul to 09 Jul 2022,Hard,1st Round,L,2-6 1-6
+800670505,800557637.0,Namgi Song,KOR,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,L,5-7 6-3 6-7
+800670505,800670766.0,Rais Kusuma Dewantara,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,3rd Round,W,6-2 6-4
+800670505,800600519.0,Tahajud Kanjeng Bagus Setyo,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,2nd Round,W,7-5 3-6 10-4
+800670505,800671312.0,Dwi Ade Rahmantoro,INA,J4 Jakarta,2022,28 Jun to 03 Jul 2022,Hard,1st Round,W,6-3 6-4
+800670505,800649127.0,Axel Raber,SWE,J5 Yogyakarta,2022,23 May to 28 May 2022,Hard,1st Round,L,2-6 3-6
+800670505,800649127.0,Axel Raber,SWE,J5 Yogyakarta,2022,16 May to 21 May 2022,Hard,1st Round,L,2-6 3-6
 800596267,800601222.0,Seongwoo Joo,KOR,J3 Andong,2022,08 Nov to 13 Nov 2022,Hard,1st Round,L,4-6 2-6
 800596267,800660184.0,Young Hoon Kim,KOR,J5 Yanggu,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,1-6 0-6
 800596267,800586050.0,Hyung Tak Oh,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,L,2-6 0-6
@@ -1964,10 +1945,10 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800684967,800568128.0,Riccardo Surano,ITA,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,2nd Round,L,2-6 0-6
 800684967,800653408.0,Ethan Gottschalk,AUS,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-4 1-6 10-8
 800684967,800720824.0,Amine Jabrani,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,L,2-6 4-6
+800715292,800595739.0,Giacomo Valerga Carrillo,PER,J5 Guayaquil,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,1-6 1-6
 800711502,800653602.0,Ricardo Guzman Moreno,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,3rd Round,L,2-6 3-6
 800711502,800710393.0,Mauricio Novella Alamos,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,W,6-3 6-3
 800711502,800694407.0,Patricio Orozco,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,1st Round,W,4-6 6-3 10-8
-800715292,800595739.0,Giacomo Valerga Carrillo,PER,J5 Guayaquil,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,1-6 1-6
 800645747,800659600.0,Daniil Chizhuk,RUS,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,1-6 0-6
 800695597,800678960.0,Luis Guillermo Sauza De La Pena,MEX,J5 San Jose,2022,05 Dec to 10 Dec 2022,Hard,1st Round,L,0-6 3-6
 800695597,800643406.0,Sebastian Bermudez,CRC,J5 San Jose,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,0-6 1-6
@@ -1978,15 +1959,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800635765,800537731.0,Bugra Ozkoc,TUR,J4 Tbilisi,2022,11 Jul to 16 Jul 2022,Hard,1st Round,L,2-6 2-6
 800635765,800640330.0,Luca Prino,ITA,J4 Tbilisi,2022,16 May to 21 May 2022,Hard,1st Round,L,1-6 2-6
 800635765,800544170.0,David Prasievi,GEO,J5 Tbilisi,2022,09 May to 14 May 2022,Hard,1st Round,L,2-6 0-6
-800696904,800680843.0,Guillermo Narcio,MEX,J4 Queretaro,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,3-6 6-3 5-10
-800696904,800656486.0,Jorge Batarse,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,4-6 6-7
-800696904,800589388.0,Derek Winsnes,MEX,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,3rd Round,L,2-6 2-6
-800696904,800590712.0,Luis Gustavo Barrachi,BRA,J4 Leon,2022,27 Jun to 02 Jul 2022,Hard,2nd Round,W,6-2 6-1
-800696904,800664111.0,Jesus Mario Garcia Salgado,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,0-6 1-6
-800696904,800625869.0,Laureano Poblete,MEX,J4 Leon,2022,20 Jun to 25 Jun 2022,Hard,1st Round,W,7-6 6-0
-800696904,800709750.0,Javier Emilio Sanchez,GUA,J5 Guatemala,2022,13 Jun to 18 Jun 2022,Hard,1st Round,L,6-4 4-6 8-10
-800719489,800656507.0,Kether Naresh Gonzalez Gonzalez,MEX,J5 Tegucigalpa,2022,12 Sep to 17 Sep 2022,Hard,1st Round,L,2-6 0-6
-800719489,800642998.0,Juan Carlos Fuentes Vasquez,ESA,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800714019,800564700.0,Dylan Rene Du Toit,RSA,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,1-6 0-6
 800714019,800678734.0,Kevin Kotze,RSA,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,2nd Round,L,0-6 0-6
 800695169,800668342.0,YASSINE KHELIF,TUN,J5 Hammam Sousse,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,L,4-6 1-6
@@ -1999,6 +1971,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800588322,800577606.0,Javier Gonzalez,ESP,J4 Majadahonda,2022,26 Sep to 01 Oct 2022,Clay,1st Round,L,5-7 5-7
 800588322,800560716.0,Jaime Galligo Subirana,ESP,J3 Vic,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,2-6 1-6
 800588322,800540938.0,Leonardo Iemmi,ITA,J5 Valldoreix,2022,02 Aug to 06 Aug 2022,Clay,1st Round,L,1-6 1-6
+800682566,800600775.0,Noah Muyale,ARU,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,L,7-5 4-6 7-10
+800682566,800670650.0,Terry Lau,HKG,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,1st Round,W,7-5 6-4
+800715964,800644642.0,Clandestine Kudakwashe Ndiringepi,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,L,0-6 1-6
+800715964,800601020.0,Blessed Kutyauripo,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,6-2 6-3
+800700999,800680271.0,Manveer Boparai,CAN,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,1st Round,L,0-6 4-6
+800700999,800680904.0,Loic Petrecca,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,2-6 4-6
+800700999,800583982.0,Jenson Bicanic,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,4-6 0-6
 800712761,800631660.0,Sacha Fontanges,FRA,J4 Dubai,2022,14 Nov to 19 Nov 2022,Hard,Quarter-final,L,2-3
 800712761,800592356.0,Zein Ionescu,CAN,J4 Dubai,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,W,6-3 6-3
 800712761,800591223.0,Idhant Kastwar,IND,J4 Dubai,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 6-1
@@ -2006,11 +1985,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800712761,800595314.0,Satveer Saikumar Sendilkumar,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,W,6-4 6-3
 800712761,800688600.0,Krishav Gulati,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-3 6-3
 800712761,800720375.0,Paarth Joshi,IND,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-0 6-0
-800715964,800644642.0,Clandestine Kudakwashe Ndiringepi,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,L,0-6 1-6
-800715964,800601020.0,Blessed Kutyauripo,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,6-2 6-3
-800700999,800680271.0,Manveer Boparai,CAN,J3 Burlington,2022,31 Oct to 04 Nov 2022,Hard,1st Round,L,0-6 4-6
-800700999,800680904.0,Loic Petrecca,CAN,J5 Woodbridge 		,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,2-6 4-6
-800700999,800583982.0,Jenson Bicanic,CAN,J4 Burlington,2022,02 May to 07 May 2022,Hard,1st Round,L,4-6 0-6
 800727358,800530996.0,Jad Rhissassi,MAR,J5 Casablanca,2022,24 Oct to 29 Oct 2022,Clay,2nd Round,L,7-5 1-6 6-10
 800727358,800622243.0,Lucas Meier,SUI,J5 Casablanca,2022,24 Oct to 29 Oct 2022,Clay,1st Round,W,7-6 7-6
 800694930,800713282.0,Francisco Moreno Rico,MEX,J5 Zapopan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,L,4-6 3-6
@@ -2023,9 +1997,9 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800723390,800723518.0,Fernando Nicolas Sanchez Lujan,MEX,J5 Oaxaca,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,6-2 6-1
 800703453,800572820.0,Joseph Townes,RSA,J4 Windhoek,2022,16 May to 21 May 2022,Hard,1st Round,L,0-6 2-6
 800703453,800652337.0,John Coetzee,RSA,J5 Windhoek,2022,09 May to 14 May 2022,Hard,1st Round,L,0-6 0-6
-800644926,800532074.0,Temirlan Mekhtiev,RUS,J4 Tashkent,2022,25 Apr to 30 Apr 2022,Hard,1st Round,L,1-6 0-6
 800597950,800568776.0,Sviatoslav Koliadynskyi,UKR,J3 Liepaja,2022,29 Aug to 02 Sep 2022,Clay,2nd Round,L,1-6 1-6
 800597950,800546015.0,Maxime Dalard,SWE,J4 Riga,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,0-6 3-6
+800644926,800532074.0,Temirlan Mekhtiev,RUS,J4 Tashkent,2022,25 Apr to 30 Apr 2022,Hard,1st Round,L,1-6 0-6
 800707169,800695648.0,Narathip Rueangsri,THA,J4 Nonthaburi,2022,24 Oct to 29 Oct 2022,Hard,2nd Round,L,3-6 1-6
 800707169,800591136.0,Wongwarun Wongcharoen,THA,J4 Nonthaburi,2022,27 Jun to 02 Jul 2022,Hard,1st Round,L,1-6 0-6
 800707169,800680231.0,Miles Phijidvijan,AUS,J4 Nonthaburi,2022,27 Jun to 02 Jul 2022,Hard,3rd Round,W,6-3 6-4
@@ -2035,17 +2009,6 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800600620,800525841.0,Tymofii Milovanov,UKR,J4 Porec,2022,10 Oct to 16 Oct 2022,Clay,1st Round,L,2-6 2-6
 800654807,800540345.0,Mehmet Onur Turgut,TUR,J5 Islamabad,2022,14 Feb to 19 Feb 2022,Hard,Quarter-final,L,1-6 2-6
 800654807,800575859.0,Ahmad Nael Qureshi,PAK,J5 Islamabad,2022,07 Feb to 12 Feb 2022,Hard,1st Round,L,4-6 1-6
-800594330,800628614.0,Cem Christopher Kucukhuseyin,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,0-6 2-6
-800594330,800598231.0,Leo Ozan Sheehan,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-4 6-4
-800594330,800562722.0,Mirat Aminev,RUS,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,3rd Round,L,0-6 3-6
-800594330,800570612.0,Ali Cinar Sahinoglu,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,W,7-5 3-6 10-7
-800594330,800591669.0,Aleksandar Malinov,BUL,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,2-6 6-2 10-7
-800594330,800534735.0,Dimitar Baychev,BUL,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,L,2-6 4-6
-800594330,800547881.0,Alexandru Stefan Gall,ROU,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,7-5 7-6
-800594330,800661489.0,Gorjan Vukikjevikj,MKD,J4 Skopje,2022,15 Aug to 21 Aug 2022,Clay,1st Round,L,6-7 6-2 6-10
-800594330,800587666.0,Huzaima Abdul Rehman,PAK,J5 Izmir,2022,18 Jul to 23 Jul 2022,Hard,1st Round,L,5-7 6-7
-800594330,800662957.0,Angel Ivanov,BUL,J4 Istanbul,2022,09 May to 14 May 2022,Hard,2nd Round,L,5-7 4-6
-800594330,800663754.0,Bora Kiliccioglu,TUR,J4 Istanbul,2022,09 May to 14 May 2022,Hard,1st Round,W,6-1 6-1
 800665751,800636819.0,Mehrad Mansouri,IRI,J5 Shiraz,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,3-6 2-6
 800665751,800699576.0,Sam Attaran,IRI,J5 Isfahan,2022,18 Jul to 23 Jul 2022,Clay,Quarter-final,L,4-6 4-6
 800665751,800712084.0,sam khodakarami,IRI,J5 Isfahan,2022,18 Jul to 23 Jul 2022,Clay,2nd Round,W,6-0 6-0
@@ -2060,6 +2023,17 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800665751,800537724.0,Pedram Hosseini Makarem,IRI,J4 Kish Island,2022,31 Jan to 05 Feb 2022,Clay,1st Round,W,7-5 3-6 6-3
 800665751,800603200.0,Mohammadali Atyabi,IRI,J4 Kish Island,2022,24 Jan to 29 Jan 2022,Clay,2nd Round,L,6-1 5-7 5-10
 800665751,800668218.0,Sharmin Alimohamadi,IRI,J4 Kish Island,2022,24 Jan to 29 Jan 2022,Clay,1st Round,W,6-0 6-0
+800594330,800628614.0,Cem Christopher Kucukhuseyin,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,0-6 2-6
+800594330,800598231.0,Leo Ozan Sheehan,TUR,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-4 6-4
+800594330,800562722.0,Mirat Aminev,RUS,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,3rd Round,L,0-6 3-6
+800594330,800570612.0,Ali Cinar Sahinoglu,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,W,7-5 3-6 10-7
+800594330,800591669.0,Aleksandar Malinov,BUL,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,2-6 6-2 10-7
+800594330,800534735.0,Dimitar Baychev,BUL,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,L,2-6 4-6
+800594330,800547881.0,Alexandru Stefan Gall,ROU,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,7-5 7-6
+800594330,800661489.0,Gorjan Vukikjevikj,MKD,J4 Skopje,2022,15 Aug to 21 Aug 2022,Clay,1st Round,L,6-7 6-2 6-10
+800594330,800587666.0,Huzaima Abdul Rehman,PAK,J5 Izmir,2022,18 Jul to 23 Jul 2022,Hard,1st Round,L,5-7 6-7
+800594330,800662957.0,Angel Ivanov,BUL,J4 Istanbul,2022,09 May to 14 May 2022,Hard,2nd Round,L,5-7 4-6
+800594330,800663754.0,Bora Kiliccioglu,TUR,J4 Istanbul,2022,09 May to 14 May 2022,Hard,1st Round,W,6-1 6-1
 800654739,800589300.0,Svit Suljic,SLO,2022 ITF World Junior Tennis Finals (Boys),2022,01 Aug to 06 Aug 2022,Clay,,W,6-1 1-6 10-7
 800654739,800677590.0,Benjamin Maffini,ARG,J5 Salta,2022,27 Jun to 02 Jul 2022,Clay,1st Round,L,5-7 1-6
 800587999,800650677.0,Ibrahim Snoussi,TUN,J5 Hammam Sousse,2022,08 Nov to 13 Nov 2022,Hard,2nd Round,L,1-6 0-6
@@ -2104,6 +2078,7 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800602599,800652024.0,RODRIGO HERNANDEZ,COL,J4 Pereira,2022,21 Nov to 25 Nov 2022,Clay,1st Round,W,6-2 6-2
 800602599,800532945.0,Alejandro Gil Montoya,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,2-6 6-3 5-10
 800722457,800714116.0,Leo Li,NZL,J5 Auckland,2022,26 Sep to 30 Sep 2022,Hard,1st Round,L,0-6 2-6
+800635770,800676143.0,Xavier Ferrer Mateo,ESP,J4 Estepona,2022,20 Sep to 25 Sep 2022,Hard,1st Round,L,4-6 1-6
 800594796,800531216.0,Said Ait Ali,FRA,J3 Saint Gregoire,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,1-6 0-6
 800594796,800587344.0,Marc Aurele Desmoulins Ricot,FRA,J3 Clermont-Ferrand,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,0-6 1-6
 800627797,800486289.0,Lukas Rais,CZE,J4 Al Zahra,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,1-6 3-6
@@ -2116,19 +2091,18 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800627797,800512948.0,Arenui Luethi,SUI,J4 Dubai,2022,17 Jan to 22 Jan 2022,Hard,2nd Round,L,0-6 1-6
 800627797,800693436.0,Majid Alamri,OMA,J4 Dubai,2022,17 Jan to 22 Jan 2022,Hard,1st Round,W,6-1 6-1
 800627797,800560324.0,Dev Kanbargimath,ROU,J4 Fujairah,2022,10 Jan to 15 Jan 2022,Hard,1st Round,L,1-6 2-6
-800635770,800676143.0,Xavier Ferrer Mateo,ESP,J4 Estepona,2022,20 Sep to 25 Sep 2022,Hard,1st Round,L,4-6 1-6
 800662186,800541714.0,Mohamed Hedi BRAHAM,TUN,J4 Kelibia,2022,21 Jun to 26 Jun 2022,Hard,1st Round,L,4-6
 800662186,800631041.0,Anas Ben youssef,TUN,J5 Bizerte,2022,14 Jun to 19 Jun 2022,Clay,2nd Round,L,7-6 3-6 9-11
 800662186,800638736.0,Mohamed Sanad Bouhlel,TUN,J5 Sousse,2022,17 May to 22 May 2022,Hard,Quarter-final,L,2-6 2-6
 800662186,800672419.0,Yessine Mnif,TUN,J5 Sousse,2022,17 May to 22 May 2022,Hard,2nd Round,W,6-3 6-4
 800662186,800598256.0,Mehdi Ben Arab,TUN,J5 Gazelec,2022,10 May to 15 May 2022,Hard,2nd Round,L,1-6 0-6
-800717417,800648690.0,Yassien Mohamed Fawzy,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,2nd Round,L,7-6 2-6 3-10
-800717417,800690376.0,Mostafa Harb,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,1st Round,W,6-3 6-0
 800852705,800504960.0,Mohammad ALKOTOP,JOR,J5 Amman (Closed),2022,05 Dec to 09 Dec 2022,Hard,2nd Round,L,0-6 0-6
 800852705,800730235.0,Tayseer Abdeljaber,JOR,J5 Amman (Closed),2022,05 Dec to 09 Dec 2022,Hard,1st Round,W,6-0 6-1
 800852705,800568760.0,Zaid Shelbaya,JOR,J5 Amman (Closed),2022,28 Nov to 02 Dec 2022,Hard,2nd Round,L,0-6 0-6
 800852705,800582904.0,Parv Patel,IND,J5 Amman,2022,27 Jun to 02 Jul 2022,Hard,2nd Round,L,0-6 1-6
 800852705,800592032.0,Elham Abdul Salam Edavalath,IND,J5 Amman,2022,20 Jun to 25 Jun 2022,Hard,2nd Round,L,0-6 1-6
+800717417,800648690.0,Yassien Mohamed Fawzy,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,2nd Round,L,7-6 2-6 3-10
+800717417,800690376.0,Mostafa Harb,EGY,J4 Giza,2022,31 Oct to 06 Nov 2022,Clay,1st Round,W,6-3 6-0
 800675000,800640046.0,Niklas Maislinger,AUT,J3 Trnava,2022,15 Nov to 20 Nov 2022,Hard,1st Round,L,1-6 3-6
 800689616,800589798.0,Thilo Behrmann,AUT,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,2nd Round,L,2-6 2-6
 800689616,800648396.0,Marko Milosavljevic,SRB,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,2-6 2-6
@@ -2156,13 +2130,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800632004,800654514.0,Keerthivassan Suresh,IND,J5 Tay Ninh City,2022,20 Jun to 26 Jun 2022,Hard,1st Round,L,1-6 0-6
 800600462,800592243.0,Alp Kemal Aksoy,TUR,J4 Rhodes,2022,26 Sep to 01 Oct 2022,Hard,Quarter-final,L,2-6 2-6
 800600462,800676672.0,Michalis Hapipis,GRE,J4 Rhodes,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,W,6-0 6-0
-800697883,800579320.0,Alejandro Gonzalez,MEX,J3 Tampico,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800670852,800668247.0,Koshiro Nakamae,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,2nd Round,L,4-6 2-6
 800670852,800581192.0,Riki Utsuyama,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,1st Round,W,6-1 6-3
 800670852,800622992.0,Kotaro Matsumura,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,L,3-6 0-6
 800670852,800651606.0,Kouyou Tanihata,JPN,JA Osaka,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,1-6 1-6
 800670852,800589109.0,Aoi Ooka,JPN,J3 Kawaguchi,2022,05 Oct to 09 Oct 2022,Hard,1st Round,L,3-6 1-6
 800670852,800678588.0,KENTO NUKATA,JPN,J4 Miki City,2022,07 Sep to 11 Sep 2022,Hard,1st Round,L,2-6 4-6
+800697883,800579320.0,Alejandro Gonzalez,MEX,J3 Tampico,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800688309,800632101.0,Pangya Pholphirul,THA,J4 Nonthaburi,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,1-6 1-6
 800688309,800540070.0,Marc Andrei Jarata,PHI,J5 Nonthaburi,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,1-6 0-6
 800593839,800631660.0,Sacha Fontanges,FRA,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,L,0-6 0-6
@@ -2172,34 +2146,27 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800592426,800510329.0,Achilefs Rafail Kousaridis,GRE,J5 Valldoreix,2022,02 Aug to 06 Aug 2022,Clay,1st Round,L,0-6 1-6
 800592426,800603422.0,Dani Constans Picart,ESP,J4 Les Franqueses del Valles,2022,31 May to 05 Jun 2022,Hard,1st Round,L,2-6 3-6
 800592426,800543658.0,Vishal Prakash,IND,J4 Les Franqueses del Valles,2022,24 May to 29 May 2022,Hard,1st Round,L,3-6 2-6
-800600511,800648471.0,Bjorn Cristiano Asbjornrod valdivieso,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,L,4-6 7-6 2-6
-800600511,800679624.0,Oskar Loef,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,2nd Round,L,2-6 3-6
-800600511,800551613.0,August Brostroem Poulsen,DEN,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,W,6-3 7-6
 800686686,800653479.0,Minhoon Lee,AUS,J2 Chuncheon,2022,25 Oct to 30 Oct 2022,Hard,1st Round,L,1-6 1-6
 800722099,800687204.0,Douglas Hwang,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,1st Round,L,1-6 2-6
-800700659,800621894.0,Eita Suzuki,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,L,6-2 4-6 7-10
-800700659,800621894.0,Eita Suzuki,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,6-2 3-6 9-11
-800700659,800652221.0,Naoki Watanabe,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,Quarter-final,L,4-6 4-6
-800700659,800581192.0,Riki Utsuyama,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,2nd Round,W,6-1 6-2
-800700659,800555370.0,Nagamitsu Kuroda,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,W,6-2 6-1
 800663496,800621560.0,Dai Khanh Nguyen,VIE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,1st Round,L,3-6 2-6
 800663496,800575142.0,Chen-Yu Lu,TPE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,Quarter-final,W,7-6 6-4
 800663496,800594323.0,Tran Quoc Thai Dang,VIE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,2nd Round,W,6-3 2-6 10-5
 800663496,800708248.0,KHANG QUOC THANG HUYNH,VIE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,1st Round,W,6-4 6-1
 800663496,800597886.0,Kiet Doan ngo ba,VIE,J5 Tay Ninh City,2022,20 Jun to 26 Jun 2022,Hard,1st Round,L,4-6 1-6
+800700659,800621894.0,Eita Suzuki,JPN,J5 Matsuyama,2022,07 Dec to 11 Dec 2022,Hard,1st Round,L,6-2 4-6 7-10
+800700659,800621894.0,Eita Suzuki,JPN,J5 Gifu,2022,30 Nov to 04 Dec 2022,Hard,1st Round,L,6-2 3-6 9-11
+800700659,800652221.0,Naoki Watanabe,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,Quarter-final,L,4-6 4-6
+800700659,800581192.0,Riki Utsuyama,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,2nd Round,W,6-1 6-2
+800700659,800555370.0,Nagamitsu Kuroda,JPN,J5 Yamanashi,2022,16 Nov to 20 Nov 2022,Clay,1st Round,W,6-2 6-1
 800704399,800696941.0,Tomas Satizabal Botero,COL,J4 Santa Tecla,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,2-6 1-6
 800704399,800579120.0,Miguel Tobon,COL,J5 Santa Tecla,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800704399,800696941.0,Tomas Satizabal Botero,COL,J5 Santa Tecla,2022,11 Jul to 16 Jul 2022,Hard,1st Round,L,1-6 1-6
 800704399,800575985.0,Minato Koido,JPN,J4 Santa Tecla,2022,30 May to 04 Jun 2022,Hard,1st Round,L,0-6 0-6
 800695155,800777437.0,Alejandro Calles,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,2-6 2-6
 800581715,800534676.0,Alan Abdullin,RUS,J3 Saint Cyprien,2022,17 Oct to 23 Oct 2022,Hard,1st Round,L,4-6 1-6
-800690180,800626793.0,Theo Nilsson,SWE,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 1-6
-800690180,800698451.0,Aymane Tahiri,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,L,4-6 2-6
-800690180,800532540.0,Adam Adyel,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,1st Round,W,6-3 0-6 10-2
-800690180,800675121.0,mehdi tahiri alaoui,MAR,J5 Casablanca,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,6-7 4-6
-800690180,800529641.0,Ilias Lahlou,MAR,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,L,0-6 0-6
-800690180,800700365.0,Mohammed Ghali Boukili,MAR,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,1st Round,W,6-1 6-3
-800690180,800530750.0,Ali Zizi,MAR,J4 Casablanca,2022,10 Oct to 15 Oct 2022,Clay,2nd Round,L,0-6 0-6
+800600511,800648471.0,Bjorn Cristiano Asbjornrod valdivieso,NOR,J5 Stavanger,2022,22 Nov to 27 Nov 2022,Hard,1st Round,L,4-6 7-6 2-6
+800600511,800679624.0,Oskar Loef,SWE,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,2nd Round,L,2-6 3-6
+800600511,800551613.0,August Brostroem Poulsen,DEN,J5 Kramfors,2022,17 Aug to 21 Aug 2022,Clay,1st Round,W,6-3 7-6
 800635133,800652647.0,basile kuhl,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,2nd Round,L,0-6 0-6
 800635133,800713144.0,Mathis SAILLON,FRA,J5 Saint Denis,2022,24 Oct to 30 Oct 2022,Clay,1st Round,W,6-3 6-1
 800635133,800626416.0,Noah Riccitelli,SUI,J5 Saint Paul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,L,0-6 1-6
@@ -2209,6 +2176,13 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800635133,800545861.0,Skandha Prasanna Rao,IND,J5 Colombo,2022,04 Jul to 10 Jul 2022,Clay,1st Round,L,1-6 2-6
 800635133,800590684.0,Mayank Sharma,IND,J5 Colombo,2022,27 Jun to 03 Jul 2022,Clay,1st Round,L,5-7 1-6
 800659826,800690789.0,TRISHANT REDDY DANDU,IND,J4 Kathmandu,2022,31 Jan to 05 Feb 2022,Hard,2nd Round,L,1-6 1-6
+800690180,800626793.0,Theo Nilsson,SWE,J5 Meknes,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 1-6
+800690180,800698451.0,Aymane Tahiri,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,2nd Round,L,4-6 2-6
+800690180,800532540.0,Adam Adyel,MAR,J5 Oujda,2022,14 Nov to 19 Nov 2022,Clay,1st Round,W,6-3 0-6 10-2
+800690180,800675121.0,mehdi tahiri alaoui,MAR,J5 Casablanca,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,6-7 4-6
+800690180,800529641.0,Ilias Lahlou,MAR,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,L,0-6 0-6
+800690180,800700365.0,Mohammed Ghali Boukili,MAR,J4 Rabat,2022,17 Oct to 22 Oct 2022,Clay,1st Round,W,6-1 6-3
+800690180,800530750.0,Ali Zizi,MAR,J4 Casablanca,2022,10 Oct to 15 Oct 2022,Clay,2nd Round,L,0-6 0-6
 800702946,800692700.0,Harold Ronaldo Andre Cotom Hidalgo,GUA,J5 Tegucigalpa,2022,28 Mar to 02 Apr 2022,Hard,2nd Round,L,2-6 1-6
 800708887,800690276.0,Ren Matsumura,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,Quarter-final,L,0-6 0-6
 800708887,800721475.0,Shoki Hiwatashi,JPN,J5 Chigasaki,2022,23 Nov to 27 Nov 2022,Carpet,2nd Round,W,2-6 6-3 10-2
@@ -2217,9 +2191,37 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800661274,800854428.0,Minseok Maeng,KOR,J4 Jeju,2022,05 Apr to 10 Apr 2022,Hard,1st Round,L,0-6 0-6
 800593532,800681935.0,Ivan Lopez Martos,ESP,J4 Schifflange,2022,08 Aug to 13 Aug 2022,Clay,2nd Round,L,0-6 2-6
 800692539,800644383.0,Divyank Kavitke,IND,J5 Indore,2022,24 Jan to 29 Jan 2022,Hard,1st Round,L,7-6 2-6 6-10
+800719749,800648405.0,oscar rashed,SUI,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,0-6 0-6
+800719749,800651598.0,Seif El Salawy,EGY,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,Quarter-final,L,2-6 3-6
+800719749,800702363.0,Marc Mohanna,FRA,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,W,6-0 7-5
+800718964,800653961.0,Ghali Ouajahat Filali,MAR,J4 Accra,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,0-6 2-6
+800716671,800592299.0,Mateo Delossantos,USA,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,3-6 6-4 8-10
+800727957,800528233.0,Bryan Hernandez Cortes,ESP,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,0-6 1-6
+800727957,800684064.0,Nathan Deffo Nkuissseu,CMR,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 6-3
+800727957,800746221.0,Daniel Ekango,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,L,5-7 2-6
+800727957,800728015.0,William Tatanfack,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-2 6-0
 800667636,800575142.0,Chen-Yu Lu,TPE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,2nd Round,L,1-6 0-6
 800667636,800624023.0,Khanh Tuong Duy Khanh,VIE,J5 Tay Ninh City,2022,27 Jun to 03 Jul 2022,Hard,1st Round,W,6-2 6-3
 800667636,800697538.0,Kiet Le,VIE,J5 Tay Ninh City,2022,20 Jun to 26 Jun 2022,Hard,1st Round,L,0-6 0-1
+800702763,800674742.0,Allan Gatoto,BDI,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,1st Round,L,0-6 0-6
+800702763,800652318.0,Rudiger Dusselberg,RSA,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,2-6 0-6
+800702763,800676359.0,ALEXANDER HRISTOV,RSA,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,2-6 2-6
+800702763,800709465.0,Bryan Wiggill,RSA,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 4-6
+800702763,800546919.0,Ori Baron,ISR,J3 Harare,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 2-6
+800702763,800538934.0,Yarden Cauly,ISR,J4 Harare,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,0-6 0-6
+800702763,800567954.0,Strive Bosha,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,L,2-6 1-6
+800702763,800653420.0,Thabani Christian Nhokwara,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,6-4 7-5
+800702763,800451532.0,Hanu Patel,USA,J5 Bulawayo,2022,30 May to 04 Jun 2022,Hard,1st Round,L,0-6 0-6
+800702763,800599360.0,Daniel Krige,RSA,J5 Bulawayo,2022,23 May to 28 May 2022,Hard,1st Round,L,0-6 3-6
+800591369,800533250.0,Miguel Angel Sarria Mondragon,COL,J4 Armenia,2022,28 Nov to 02 Dec 2022,Clay,1st Round,L,4-6 3-6
+800591369,800583292.0,Michael Fernandez,USA,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 2-6
+800591369,800715668.0,Gaobo Zhang,CHN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,Quarter-final,W,6-4 6-4
+800591369,800728571.0,Eric Quintero,PAN,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,W,6-0 6-2
+800591369,800679508.0,Sklar Phillips,USA,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,L,1-6 4-6
+800591369,800601406.0,Simon Escobar,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,Quarter-final,W,6-3 6-4
+800591369,800532945.0,Alejandro Gil Montoya,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,2nd Round,W,6-4 7-5
+800591369,800651918.0,Juan Felipe Arias Jaramillo,COL,J5 Valledupar,2022,24 Oct to 28 Oct 2022,Hard,1st Round,W,6-2 6-0
+800591369,800586402.0,badlwim jared Escobar cifuentes,COL,J5 Cartagena,2022,17 Oct to 21 Oct 2022,Hard,1st Round,L,3-6 6-7
 800628871,800595178.0,Henry Bernet,SUI,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,2nd Round,L,0-6 1-6
 800628871,800497724.0,Brooklyn Bamburac,GBR,J4 Stirling,2022,30 Nov to 04 Dec 2022,Hard,1st Round,W,6-2 6-2
 800628871,800534617.0,Milan Markovits,HUN,J4 Liverpool,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,2-6 1-6
@@ -2247,33 +2249,29 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800659806,800589824.0,Gerald Bill Kruger,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,2-6 5-7
 800659806,800719484.0,Michael Harding,RSA,J3 Johannesburg,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-2 6-2
 800659806,800553568.0,Fateh Singh,IND,J2 Kolkata,2022,17 Jan to 22 Jan 2022,Hard,1st Round,L,4-6 1-6
-800657212,800532758.0,Aldo Randazzo,VEN,J5 Puerto Cabello (CLOSED),2022,22 Aug to 27 Aug 2022,Hard,2nd Round,L,0-6 2-6
-800657212,800694103.0,Carlos Guevara,VEN,J5 Puerto Cabello (CLOSED),2022,22 Aug to 27 Aug 2022,Hard,1st Round,W,6-3 6-1
-800702763,800674742.0,Allan Gatoto,BDI,J5 Bulawayo,2022,05 Dec to 10 Dec 2022,Hard,1st Round,L,0-6 0-6
-800702763,800652318.0,Rudiger Dusselberg,RSA,J5 Bulawayo,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,2-6 0-6
-800702763,800676359.0,ALEXANDER HRISTOV,RSA,J5 Gaborone,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,L,2-6 2-6
-800702763,800709465.0,Bryan Wiggill,RSA,J5 Gaborone,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 4-6
-800702763,800546919.0,Ori Baron,ISR,J3 Harare,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 2-6
-800702763,800538934.0,Yarden Cauly,ISR,J4 Harare,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,0-6 0-6
-800702763,800567954.0,Strive Bosha,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,L,2-6 1-6
-800702763,800653420.0,Thabani Christian Nhokwara,ZIM,J4 Harare,2022,01 Aug to 06 Aug 2022,Hard,1st Round,W,6-4 7-5
-800702763,800451532.0,Hanu Patel,USA,J5 Bulawayo,2022,30 May to 04 Jun 2022,Hard,1st Round,L,0-6 0-6
-800702763,800599360.0,Daniel Krige,RSA,J5 Bulawayo,2022,23 May to 28 May 2022,Hard,1st Round,L,0-6 3-6
 800701028,800728018.0,Alioum Salaoudine,CMR,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,1-6 0-6
 800701028,800728015.0,William Tatanfack,CMR,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-0 6-2
 800701028,800601973.0,Natan Albertini,BRA,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,L,0-6 2-6
 800701028,800592853.0,Cristian Felipe Sanchez Rojas,COL,J5 Douala,2022,12 Apr to 17 Apr 2022,Hard,1st Round,L,0-6 0-6
 800701028,800603229.0,Aly Ahmed Noureldine,EGY,J5 Douala,2022,05 Apr to 10 Apr 2022,Hard,1st Round,L,0-6 2-6
+800657212,800532758.0,Aldo Randazzo,VEN,J5 Puerto Cabello (CLOSED),2022,22 Aug to 27 Aug 2022,Hard,2nd Round,L,0-6 2-6
+800657212,800694103.0,Carlos Guevara,VEN,J5 Puerto Cabello (CLOSED),2022,22 Aug to 27 Aug 2022,Hard,1st Round,W,6-3 6-1
 800688029,800601544.0,Pudit Phapatsirikul,THA,J5 Islamabad,2022,07 Nov to 12 Nov 2022,Hard,1st Round,L,1-6 1-6
-800719749,800648405.0,oscar rashed,SUI,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,0-6 0-6
-800719749,800651598.0,Seif El Salawy,EGY,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,Quarter-final,L,2-6 3-6
-800719749,800702363.0,Marc Mohanna,FRA,J5 Kaslik,2022,22 Aug to 27 Aug 2022,Clay,2nd Round,W,6-0 7-5
-800727957,800528233.0,Bryan Hernandez Cortes,ESP,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,2nd Round,L,0-6 1-6
-800727957,800684064.0,Nathan Deffo Nkuissseu,CMR,J5 Yaoundé,2022,14 Nov to 19 Nov 2022,Hard,1st Round,W,6-2 6-3
-800727957,800746221.0,Daniel Ekango,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,L,5-7 2-6
-800727957,800728015.0,William Tatanfack,CMR,J5 Yaoundé,2022,07 Nov to 12 Nov 2022,Hard,1st Round,W,6-2 6-0
-800716671,800592299.0,Mateo Delossantos,USA,J4 Corpus Christi,2022,26 Sep to 01 Oct 2022,Hard,2nd Round,L,3-6 6-4 8-10
-800718964,800653961.0,Ghali Ouajahat Filali,MAR,J4 Accra,2022,29 Aug to 03 Sep 2022,Hard,1st Round,L,0-6 2-6
+800728571,800591369.0,Jhon Fredy Ramirez,COL,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 2-6
+800629463,800560529.0,Tega Caradima,ROU,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,0-6 1-6
+800570388,800680274.0,Dominick Mueller,GER,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,2-6 4-6
+800570388,800529526.0,Batuhan Saban,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,L,2-6 4-6
+800570388,800727660.0,Arshiya Rasoulinia,IRI,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-0 6-0
+800570388,800628614.0,Cem Christopher Kucukhuseyin,TUR,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,3-6 3-6
+800570388,800651592.0,Darko Kolevski,MKD,J4 Antalya,2022,21 Mar to 27 Mar 2022,Clay,1st Round,L,3-6 3-6
+800570388,800540999.0,Gabriel Moroder,ITA,J4 Antalya,2022,07 Feb to 13 Feb 2022,Clay,1st Round,L,0-6 3-6
+800586195,800580230.0,Eric Drathen,GER,J5 Ingelheim,2022,20 Sep to 25 Sep 2022,Clay,2nd Round,L,7-6 3-6 7-10
+800586195,800519114.0,Leonard David Wagner,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,6-7 3-6
+800695734,800531663.0,Todor Vukomanovic,SRB,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,2nd Round,L,0-6 1-6
+800695734,800676056.0,Aaryan Khimasia,KEN,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,1st Round,W,6-2 6-2
+800695734,800534822.0,Artem Lyapshin,GER,J4 Nairobi,2022,04 Jul to 09 Jul 2022,Clay,1st Round,L,1-6 1-6
+800695734,800590435.0,Ryosuke Inagawa,JPN,J5 Nairobi,2022,07 Feb to 12 Feb 2022,Clay,1st Round,L,0-6 0-6
+800695734,800540297.0,Rhys Giacomo Watters,GBR,J4 Nairobi,2022,31 Jan to 05 Feb 2022,Clay,1st Round,L,1-6 1-6
 800694849,800635732.0,Omar Kotb,EGY,J4 Cairo,2022,07 Nov to 13 Nov 2022,Clay,1st Round,L,1-6 0-6
 800694849,800632416.0,Youssef Elshatbi,EGY,J3 Dakahlia,2022,15 Aug to 19 Aug 2022,Clay,Quarter-final,L,2-6 0-6
 800694849,800715864.0,Yassin Nessim,EGY,J3 Dakahlia,2022,15 Aug to 19 Aug 2022,Clay,2nd Round,W,6-3 6-2
@@ -2281,43 +2279,25 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800694849,800650869.0,Ali Moheb,EGY,J5 Giza,2022,11 Jul to 17 Jul 2022,Clay,2nd Round,L,2-6 2-6
 800694849,800654274.0,Mohamed Hesham Mohamed Ibrahim Shafei,EGY,J5 Giza,2022,11 Jul to 17 Jul 2022,Clay,1st Round,W,7-6 3-1
 800694849,800680865.0,Mohamed Tarek,EGY,J5 Cairo,2022,23 May to 29 May 2022,Clay,1st Round,L,3-6 0-3
-800649807,800602164.0,Jerome Yang,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,2nd Round,L,1-6 1-6
-800649807,800710557.0,Bennett Carlson,CAN,J4 Victoria,2022,17 Oct to 22 Oct 2022,Hard,1st Round,W,6-4 6-1
-800649807,800602163.0,Jasper Yang,CAN,J4 Langley,2022,10 Oct to 15 Oct 2022,Hard,2nd Round,L,1-6 4-6
-800649807,800683976.0,Jagatpartap Sanghera,CAN,J4 Langley,2022,10 Oct to 15 Oct 2022,Hard,1st Round,W,7-6 4-6 10-7
-800629463,800560529.0,Tega Caradima,ROU,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,0-6 1-6
-800586195,800580230.0,Eric Drathen,GER,J5 Ingelheim,2022,20 Sep to 25 Sep 2022,Clay,2nd Round,L,7-6 3-6 7-10
-800586195,800519114.0,Leonard David Wagner,GER,J4 Hannover,2022,05 Sep to 10 Sep 2022,Clay,1st Round,L,6-7 3-6
 800709908,800575116.0,Anirudh Nallaparaju,AUS,J3 Christchurch,2022,11 Oct to 15 Oct 2022,Hard,1st Round,L,1-6 4-6
 800709908,800718918.0,Nehal Naidoo,RSA,J3 Auckland,2022,03 Oct to 07 Oct 2022,Hard,1st Round,L,3-6 4-6
 800709908,800588559.0,Stanley Long,NZL,J5 Auckland,2022,26 Sep to 30 Sep 2022,Hard,1st Round,L,0-6 4-6
-800695734,800531663.0,Todor Vukomanovic,SRB,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,2nd Round,L,0-6 1-6
-800695734,800676056.0,Aaryan Khimasia,KEN,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,1st Round,W,6-2 6-2
-800695734,800534822.0,Artem Lyapshin,GER,J4 Nairobi,2022,04 Jul to 09 Jul 2022,Clay,1st Round,L,1-6 1-6
-800695734,800590435.0,Ryosuke Inagawa,JPN,J5 Nairobi,2022,07 Feb to 12 Feb 2022,Clay,1st Round,L,0-6 0-6
-800695734,800540297.0,Rhys Giacomo Watters,GBR,J4 Nairobi,2022,31 Jan to 05 Feb 2022,Clay,1st Round,L,1-6 1-6
-800570388,800680274.0,Dominick Mueller,GER,J5 Istanbul,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,2-6 4-6
-800570388,800529526.0,Batuhan Saban,TUR,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,2nd Round,L,2-6 4-6
-800570388,800727660.0,Arshiya Rasoulinia,IRI,J5 Istanbul,2022,17 Oct to 23 Oct 2022,Hard,1st Round,W,6-0 6-0
-800570388,800628614.0,Cem Christopher Kucukhuseyin,TUR,J5 Istanbul,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,3-6 3-6
-800570388,800651592.0,Darko Kolevski,MKD,J4 Antalya,2022,21 Mar to 27 Mar 2022,Clay,1st Round,L,3-6 3-6
-800570388,800540999.0,Gabriel Moroder,ITA,J4 Antalya,2022,07 Feb to 13 Feb 2022,Clay,1st Round,L,0-6 3-6
-800728571,800591369.0,Jhon Fredy Ramirez,COL,J5 Llanos de Curundu,2022,21 Nov to 26 Nov 2022,Clay,1st Round,L,0-6 2-6
-800621248,800635795.0,Egor Polskii,RUS,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,1st Round,L,0-6 1-6
-800621248,800540448.0,Akhmaddzhon Kosimi,TJK,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,Quarter-final,W,6-1 6-7 10-4
-800621248,800567932.0,Dmitrii Burtsev,RUS,J5 Dushanbe,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,0-6 1-6
-800621248,800572340.0,Sarvar Azamatov,UZB,J3 Tashkent,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,L,4-6 1-6
-800621248,800708457.0,Dilshod Kodirov,UZB,J3 Tashkent,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,W,6-1 6-2
+800698773,800657265.0,Andres Bocache,VEN,J5 Puerto Cabello (CLOSED),2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,1-6 3-6
+800698773,800674574.0,Jossting Cruz,DOM,J5 Santo Domingo,2022,01 Aug to 06 Aug 2022,Hard,1st Round,L,2-6 0-6
+800690770,800571506.0,Daniel Azar,JAM,J5 Christiansted,2022,16 May to 21 May 2022,Hard,1st Round,L,1-6 0-6
+800690770,800687181.0,Pedro Vives,ESP,J5 Christiansted,2022,09 May to 14 May 2022,Hard,Semi-final,L,0-6 1-6
 800584764,800601590.0,Philip Chun Yan Leung,HKG,J4 Hong Kong,2022,31 Oct to 05 Nov 2022,Hard,1st Round,L,4-6 1-6
 800584764,800570850.0,Clayton Dik Sum WONG,HKG,J4 Hong Kong,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,1-6 2-6
 800584764,800580910.0,Kwok Ting Makson Chan,HKG,J5 Hong Kong,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,2-6 6-3 5-10
 800584764,800601874.0,Chuen Hei Carison Fung,HKG,J5 Hong Kong,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-1 7-5
 800584764,800574779.0,Wang Chun Athan Yuen,HKG,J5 Hong Kong,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,2-6 2-6
+800621248,800635795.0,Egor Polskii,RUS,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,1st Round,L,0-6 1-6
+800621248,800540448.0,Akhmaddzhon Kosimi,TJK,J5 Dushanbe,2022,10 Oct to 15 Oct 2022,Hard,Quarter-final,W,6-1 6-7 10-4
+800621248,800567932.0,Dmitrii Burtsev,RUS,J5 Dushanbe,2022,03 Oct to 08 Oct 2022,Hard,1st Round,L,0-6 1-6
+800621248,800572340.0,Sarvar Azamatov,UZB,J3 Tashkent,2022,01 Aug to 06 Aug 2022,Hard,Quarter-final,L,4-6 1-6
+800621248,800708457.0,Dilshod Kodirov,UZB,J3 Tashkent,2022,01 Aug to 06 Aug 2022,Hard,2nd Round,W,6-1 6-2
 800712012,800573567.0,Arcen Dag,NED,J4 Emmeloord,2022,11 Oct to 15 Oct 2022,Carpet,1st Round,L,2-6 1-6
-800698773,800657265.0,Andres Bocache,VEN,J5 Puerto Cabello (CLOSED),2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,1-6 3-6
-800698773,800674574.0,Jossting Cruz,DOM,J5 Santo Domingo,2022,01 Aug to 06 Aug 2022,Hard,1st Round,L,2-6 0-6
-800690770,800571506.0,Daniel Azar,JAM,J5 Christiansted,2022,16 May to 21 May 2022,Hard,1st Round,L,1-6 0-6
-800690770,800687181.0,Pedro Vives,ESP,J5 Christiansted,2022,09 May to 14 May 2022,Hard,Semi-final,L,0-6 1-6
+800726231,800724554.0,Ronald Nasawali,UGA,J4 Nairobi,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,2-6 0-6
 800690428,800523356.0,Pavlos Tsitsipas,GRE,J4 Dubai,2022,14 Nov to 19 Nov 2022,Hard,1st Round,L,4-6 1-6
 800690428,800565642.0,Alexandru Vladut Lupu,ROU,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,Quarter-final,L,6-7 4-6
 800690428,800632344.0,Uri Gilon,ISR,J5 Fujairah,2022,07 Nov to 12 Nov 2022,Hard,2nd Round,W,6-1 6-0
@@ -2338,33 +2318,32 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800690428,800537359.0,Alexey Efremov,FRA,J5 Accra,2022,11 Apr to 16 Apr 2022,Hard,Quarter-final,L,0-6 3-6
 800690428,800652902.0,Chandan Shivaraj,IND,J5 Accra,2022,04 Apr to 09 Apr 2022,Hard,1st Round,L,0-6 1-6
 800690428,800600535.0,Malik Trail,USA,J5 Accra,2022,04 Apr to 09 Apr 2022,Hard,Quarter-final,L,0-6 0-6
-800726231,800724554.0,Ronald Nasawali,UGA,J4 Nairobi,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,2-6 0-6
-800726026,800684544.0,Alex Lozano,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,2-6 3-6
-800726026,800653610.0,Dominick Mosejczuk,USA,JB1 Nicholasville,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,1-6 2-6
-800724909,800697547.0,AYUSH SHARMA,IND,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,1st Round,L,0-6 0-6
-800724909,800703385.0,Hamza Abouelenein,EGY,J4 Nairobi,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,0-6 0-6
-800625288,800563132.0,Arno Guillet,FRA,J3 Clermont-Ferrand,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,1-6 1-6
 800708606,800510296.0,Philip Jarrah Blom,POL,J3 Harare,2022,15 Aug to 20 Aug 2022,Hard,1st Round,L,0-6 0-6
 800708606,800639802.0,Tavis Wright,GBR,J4 Harare,2022,08 Aug to 13 Aug 2022,Hard,1st Round,L,6-7 2-6
+800670432,800662212.0,Varun Verma,IND,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,1st Round,L,0-6 0-6
+800671352,800720495.0,Joaquin Heredia,USA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,1st Round,L,4-6 5-7
+800709321,800567160.0,Alexander Klichnikov,RUS,J2 Shymkent,2022,10 Oct to 15 Oct 2022,Clay,1st Round,L,
+800709321,800544793.0,Andrei Zhydkou,BLR,J3 Cholpon-Ata,2022,29 Aug to 03 Sep 2022,Hard,Quarter-final,L,1-6 0-6
+800694027,800653408.0,Ethan Gottschalk,AUS,J5 Singapore,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 0-6
+800694027,800693305.0,Anand Suresh,SGP,J4 Singapore,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,5-7 0-6
+800694027,800583824.0,ARNAV KAPOOR,IND,J5 Singapore,2022,21 Feb to 26 Feb 2022,Hard,1st Round,L,0-6 0-6
+800650846,800590883.0,Andrea Tognolini,ITA,J5 Limassol,2022,24 Oct to 29 Oct 2022,Clay,2nd Round,L,3-6 2-6
+800650846,800523508.0,Luca Mindrut,ROU,J5 Limassol,2022,23 May to 28 May 2022,Clay,1st Round,L,0-6 2-6
 800644703,800672169.0,Piotr Voigt,POL,J4 Pszczyna,2022,16 Nov to 20 Nov 2022,Hard,1st Round,L,2-6 2-6
 800645224,800573174.0,Ferran Redza,GBR,J5 Wrexham,2022,24 May to 28 May 2022,Hard,1st Round,L,1-6 2-6
 800645224,800482794.0,Mason Dace,GBR,J2 Aldershot,2022,25 Apr to 29 Apr 2022,Hard,1st Round,L,0-6 1-6
-800650846,800590883.0,Andrea Tognolini,ITA,J5 Limassol,2022,24 Oct to 29 Oct 2022,Clay,2nd Round,L,3-6 2-6
-800650846,800523508.0,Luca Mindrut,ROU,J5 Limassol,2022,23 May to 28 May 2022,Clay,1st Round,L,0-6 2-6
 800642843,800636361.0,TZU-CHENG LIU,TPE,J5 Colombo,2022,27 Jun to 03 Jul 2022,Clay,1st Round,L,3-6 2-6
 800582910,800586888.0,Shabad Singh,IND,J5 Pokhara,2022,05 Dec to 10 Dec 2022,Clay,1st Round,L,5-7
 800582910,800568341.0,Vansh Nandal,IND,J5 Pokhara,2022,28 Nov to 03 Dec 2022,Clay,1st Round,L,1-6 2-6
+800625288,800563132.0,Arno Guillet,FRA,J3 Clermont-Ferrand,2022,22 Aug to 27 Aug 2022,Clay,1st Round,L,1-6 1-6
 800585052,800656241.0,Aryan Arora,IND,J5 Pokhara,2022,05 Dec to 10 Dec 2022,Clay,1st Round,L,2-6 3-6
 800585052,800590684.0,Mayank Sharma,IND,J5 Pokhara,2022,28 Nov to 03 Dec 2022,Clay,2nd Round,L,7-6 5-7 1-6
 800585052,800570799.0,Vibhu Challagundla,IND,J5 Pokhara,2022,28 Nov to 03 Dec 2022,Clay,1st Round,W,7-5 6-1
 800585052,800557284.0,Pratyaksh XXX,IND,J4 Kathmandu,2022,07 Feb to 12 Feb 2022,Hard,1st Round,L,3-6 2-6
 800585052,800580321.0,Wyatt OBrien,IND,J4 Kathmandu,2022,31 Jan to 05 Feb 2022,Hard,1st Round,L,1-6 6-7
-800709321,800567160.0,Alexander Klichnikov,RUS,J2 Shymkent,2022,10 Oct to 15 Oct 2022,Clay,1st Round,L,
-800709321,800544793.0,Andrei Zhydkou,BLR,J3 Cholpon-Ata,2022,29 Aug to 03 Sep 2022,Hard,Quarter-final,L,1-6 0-6
 800674087,800692536.0,JUAN FELIPE SALINAS BAJONERO,COL,J5 Cundinamarca,2022,02 May to 07 May 2022,Clay,2nd Round,L,1-6 2-6
 800674087,800705298.0,Alejandro Pena,COL,J5 Cundinamarca,2022,02 May to 07 May 2022,Clay,1st Round,W,6-2 2-6 10-5
-800694027,800653408.0,Ethan Gottschalk,AUS,J5 Singapore,2022,22 Aug to 27 Aug 2022,Hard,1st Round,L,2-6 0-6
-800694027,800693305.0,Anand Suresh,SGP,J4 Singapore,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,5-7 0-6
-800694027,800583824.0,ARNAV KAPOOR,IND,J5 Singapore,2022,21 Feb to 26 Feb 2022,Hard,1st Round,L,0-6 0-6
-800670432,800662212.0,Varun Verma,IND,J5 Seefeld-Tirol,2022,10 Oct to 15 Oct 2022,Carpet,1st Round,L,0-6 0-6
-800671352,800720495.0,Joaquin Heredia,USA,J5 Jakarta,2022,11 Oct to 16 Oct 2022,Hard,1st Round,L,4-6 5-7
+800726026,800684544.0,Alex Lozano,USA,J4 Lexington,2022,24 Oct to 29 Oct 2022,Hard,1st Round,L,2-6 3-6
+800726026,800653610.0,Dominick Mosejczuk,USA,JB1 Nicholasville,2022,03 Oct to 08 Oct 2022,Hard,2nd Round,L,1-6 2-6
+800724909,800697547.0,AYUSH SHARMA,IND,J4 Nairobi,2022,07 Nov to 12 Nov 2022,Clay,1st Round,L,0-6 0-6
+800724909,800703385.0,Hamza Abouelenein,EGY,J4 Nairobi,2022,24 Oct to 29 Oct 2022,Clay,1st Round,L,0-6 0-6
