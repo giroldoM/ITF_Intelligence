@@ -18,6 +18,10 @@ LISTA_JOGADORES = [
     ("800695060","W"), #Nauhany Silva
     ("800642706","M"), #Pedro DIETRICH
     ("800655734", "W"), # Pietra Rivoli
+    ("800676504","M"), #Leonardo Storck
+    ("800696001","M"), #CADU Lino
+    ("800732018","M"), #GENERICO MASCULINO
+    ("800662814","W"), #GENERICO FEMININO
     
 ]
 # ==========================================

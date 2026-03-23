@@ -17,6 +17,11 @@ LISTA_MATRIZ = [
     ("800695060","W"), #Nauhany Silva
     ("800642706","M"), #Pedro DIETRICH
     ("800655734", "W"), # Pietra Rivoli 
+    ("800695229", "M"), # Lucas Moscatto 
+    ("800676504","M"), #Leonardo Storck
+    ("800696001","M"), #Cadu Lino
+    ("800678202","M"), #GENERICO MASCULINO
+    ("800662814","W"), #GENERICO FEMININO
 ]
 # ==========================================
 
