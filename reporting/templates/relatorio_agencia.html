@@ -145,10 +145,11 @@
         .data-table tr:last-child td { border-bottom: none; }
         
         /* Ênfases semânticas parsimoniosas */
-        .highlight-primary { color: var(--primary-blue); }
-        .highlight-secondary { color: var(--teal-signal); }
+        .highlight-primary { color: var(--primary-blue); font-weight: 700;}
+        .highlight-secondary { color: var(--teal-signal); font-weight: 700;}
         .text-positive { color: var(--positive); }
-        .text-negative { color: var(--negative); }
+        .text-warning { color: var(--warning); font-weight: 700;}
+        .text-negative { color: var(--negative); font-weight: 700;}
     </style>
 </head>
 <body>
@@ -158,11 +159,16 @@
         <p>Benchmark Competitivo Global - ITF Intelligence | {{ data_geracao }}</p>
     </div>
 
-    <div class="section-title title-m">Divisão Masculina (ATP / ITF)</div>
+    <div class="section-title title-m">Divisão Masculina (ITF)</div>
     
     <div class="card">
         <h3>Mapa de Talentos: Idade vs. Rating ELO Global</h3>
         <img src="{{ grafico_dispersao_m }}" class="chart-img" alt="Mapa de Talentos Masculino">
+    </div>
+
+    <div class="card">
+        <h3>Benchmark de Performance: Portfólio vs. Circuito Global (Últimos 12 Meses)</h3>
+        <img src="{{ grafico_macro_m }}" class="chart-img" alt="Comparativo Macro Agência vs Circuito">
     </div>
     
     <div class="card">
@@ -184,7 +190,25 @@
     </div>
 
     <div class="card">
-        <h3>Domínio por Superfície: Média da Agência vs. Circuito (ATP/ITF)</h3>
+        <h3>Inteligência Tática e Risco (Últimos 12 Meses)</h3>
+        <table class="data-table">
+            <tr>
+                <th>Atleta</th>
+                <th>Carga de Jogos</th>
+                <th>Índice "Giant Killer" (Upsets)</th>
+            </tr>
+            {% for atleta in insights_m %}
+            <tr>
+                <td>{{ atleta.nome }}</td>
+                <td class="tabular-num {{ atleta.alerta_carga }}">{{ atleta.carga }} partidas</td>
+                <td class="tabular-num highlight-primary">{{ atleta.upsets }} vitórias</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="card" style="page-break-inside: avoid;">
+        <h3>Domínio por Superfície: Média da Agência vs. Circuito (ITF)</h3>
         <img src="{{ grafico_superficies_m }}" class="chart-img" alt="Comparativo de Superfícies Masculino">
     </div>
 
@@ -197,11 +221,16 @@
         <p>Benchmark Competitivo Global - ITF Intelligence | {{ data_geracao }}</p>
     </div>
 
-    <div class="section-title title-w">Divisão Feminina (WTA / ITF)</div>
+    <div class="section-title title-w">Divisão Feminina (ITF)</div>
     
     <div class="card">
         <h3>Mapa de Talentos: Idade vs. Rating ELO Global</h3>
         <img src="{{ grafico_dispersao_w }}" class="chart-img" alt="Mapa de Talentos Feminino">
+    </div>
+
+    <div class="card">
+        <h3>Benchmark de Performance: Portfólio vs. Circuito Global (Últimos 12 Meses)</h3>
+        <img src="{{ grafico_macro_w }}" class="chart-img" alt="Comparativo Macro Agência vs Circuito">
     </div>
     
     <div class="card">
@@ -223,7 +252,25 @@
     </div>
 
     <div class="card">
-        <h3>Domínio por Superfície: Média da Agência vs. Circuito (WTA/ITF)</h3>
+        <h3>Inteligência Tática e Risco (Últimos 12 Meses)</h3>
+        <table class="data-table">
+            <tr>
+                <th>Atleta</th>
+                <th>Carga de Jogos</th>
+                <th>Índice "Giant Killer" (Upsets)</th>
+            </tr>
+            {% for atleta in insights_w %}
+            <tr>
+                <td>{{ atleta.nome }}</td>
+                <td class="tabular-num {{ atleta.alerta_carga }}">{{ atleta.carga }} partidas</td>
+                <td class="tabular-num highlight-secondary">{{ atleta.upsets }} vitórias</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="card" style="page-break-inside: avoid;">
+        <h3>Domínio por Superfície: Média da Agência vs. Circuito (ITF)</h3>
         <img src="{{ grafico_superficies_w }}" class="chart-img" alt="Comparativo de Superfícies Feminino">
     </div>
 
