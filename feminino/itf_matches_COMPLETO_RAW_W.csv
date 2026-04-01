@@ -167725,3 +167725,835 @@ Player_ID,Opponent_ID,Opponent_Name,Opponent_Nation,Tournament,Year,Date,Surface
 800791675,800851456.0,Xinchen Wei,CHN,J30 Wuning,2026,09 Mar to 15 Mar 2026,Hard,2nd Round,W,6-0 6-1
 800791675,800818905.0,Yumeng Hu,CHN,J30 Wuning,2026,09 Mar to 15 Mar 2026,Hard,1st Round,W,6-1 6-1
 800791675,800791591.0,Zhenxi Dong,CHN,J30 Shanghai,2026,12 Jan to 18 Jan 2026,Hard,2nd Round,L,6-7 4-6
+800595169,800704178.0,Barbora Slavikova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,Final,W,6-4 6-2
+800595169,800808101.0,Veronika Benackova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,Semi-final,W,6-2 6-1
+800595169,800649054.0,Laura Chanova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,Quarter-final,W,6-0 6-0
+800595169,800706534.0,Katerina Halamova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,2nd Round,W,6-0 6-1
+800595169,800642838.0,Klara Stepankova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,W,6-3 6-3
+800595169,800571822.0,Tereza Valentova,CZE,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,Quarter-final,L,4-6 0-6
+800595169,800544555.0,Yoana Konstantinova,BUL,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,3rd Round,W,7-5 6-0
+800595169,800542473.0,Magdalena Smekalova,CZE,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,2nd Round,W,6-4 6-1
+800595169,800571706.0,Melinda Biro,HUN,J300 Prague,2023,14 Aug to 19 Aug 2023,Clay,1st Round,W,6-4 6-1
+800595169,800565221.0,Tamara Sramkova,SVK,J100 Prague,2023,03 Jul to 08 Jul 2023,Clay,2nd Round,L,2-6 1-6
+800595169,800570783.0,Antonina Czajka,SWE,J100 Prague,2023,03 Jul to 08 Jul 2023,Clay,1st Round,W,6-3 6-2
+800595169,800564338.0,Lucie Urbanova,CZE,J200 Pilsen,2023,28 Jun to 02 Jul 2023,Clay,2nd Round,L,2-6 5-7
+800595169,800577833.0,Martina Marica,USA,J200 Pilsen,2023,28 Jun to 02 Jul 2023,Clay,1st Round,W,6-2 6-0
+800595169,800638775.0,Greta Nemcsek,HUN,J60 Budapest,2023,17 May to 21 May 2023,Clay,2nd Round,L,5-3 2-4 2-4
+800595169,800571430.0,Maria Teodorescu,ROU,J60 Budapest,2023,17 May to 21 May 2023,Clay,1st Round,W,6-1 6-3
+800595169,800638346.0,Denisa Zoldakova,CZE,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,Final,W,7-5 6-2
+800595169,800569373.0,Daria Raimondo,ITA,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,Semi-final,W,6-1 6-3
+800595169,800575336.0,Galatea Ferro,ITA,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,Quarter-final,W,6-3 6-1
+800595169,800591744.0,Alexandra Irina Anghel,ROU,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,3rd Round,W,6-0 6-0
+800595169,800575151.0,Maria Tsironi,GRE,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,2nd Round,W,6-3 6-1
+800595169,800564350.0,Ava Schueller,AUT,J30 Vienna,2023,17 Apr to 22 Apr 2023,Clay,1st Round,W,6-4 6-3
+800595169,800566832.0,Antonia Vergara Rivera,CHI,JA Plantation,2022,05 Dec to 11 Dec 2022,Clay,3rd Round,L,4-6
+800595169,800528176.0,Maelie Monfils,FRA,JA Plantation,2022,05 Dec to 11 Dec 2022,Clay,2nd Round,W,1-6 6-3 14-12
+800595169,800646687.0,Avery Jennings,USA,JA Plantation,2022,05 Dec to 11 Dec 2022,Clay,1st Round,W,6-4 1-6 10-8
+800595169,800602883.0,Taly Licht,URU,J1 Bradenton,2022,28 Nov to 04 Dec 2022,Clay,3rd Round,L,6-7 0-1
+800595169,800668234.0,Adla Lopez,USA,J1 Bradenton,2022,28 Nov to 04 Dec 2022,Clay,2nd Round,W,6-1 6-1
+800595169,800538742.0,Arina Oreshchenkova,USA,J1 Bradenton,2022,28 Nov to 04 Dec 2022,Clay,1st Round,W,2-6 6-4 10-4
+800595169,800679224.0,Maria Aytoyan,USA,J4 Boca Raton,2022,31 Oct to 05 Nov 2022,Hard,2nd Round,L,1-6 0-6
+800595169,800571707.0,Kiara Zabkova,SVK,J2 Rakovnik,2022,06 Sep to 11 Sep 2022,Clay,1st Round,L,3-6
+800595169,800535662.0,Nela Jandova,CZE,J3 Prague,2022,24 Aug to 28 Aug 2022,Clay,2nd Round,L,3-6 0-1
+800595169,800527221.0,Anna Vashchenko,UKR,J3 Prague,2022,24 Aug to 28 Aug 2022,Clay,1st Round,W,6-1 7-5
+800595169,800548293.0,Alexandra Zimmer,AUT,J4 Gunskirchen,2022,12 Jul to 16 Jul 2022,Clay,Quarter-final,L,3-5
+800595169,800526745.0,Ekaterina Perelygina,AUT,J4 Gunskirchen,2022,12 Jul to 16 Jul 2022,Clay,2nd Round,W,6-1 2-6 6-3
+800595169,800568998.0,Leonie Rabl,AUT,J4 Gunskirchen,2022,12 Jul to 16 Jul 2022,Clay,1st Round,W,6-0 6-2
+800595169,800593679.0,Alisa Oktiabreva,RUS,J3 Prague,2022,06 Jul to 10 Jul 2022,Clay,1st Round,L,2-6 4-6
+800595169,800526046.0,Lika Peresypkina,UKR,J5 Hilversum,2022,21 Jun to 25 Jun 2022,Clay,Quarter-final,L,4-6 0-6
+800595169,800670076.0,Senne Janssen,NED,J5 Hilversum,2022,21 Jun to 25 Jun 2022,Clay,2nd Round,W,6-3 6-1
+800595169,800571026.0,Sveva Zerpelloni,ITA,J5 Hilversum,2022,21 Jun to 25 Jun 2022,Clay,1st Round,W,6-2 6-2
+800595169,800576126.0,Karla Bartel,GER,J3 Hamburg,2022,14 Mar to 18 Mar 2022,Hard,1st Round,L,2-6 6-7
+800595169,800516218.0,Kayla Cross,CAN,JA Plantation,2021,06 Dec to 12 Dec 2021,Clay,1st Round,L,2-6 1-6
+800595169,800544710.0,Mayu Crossley,JPN,JA Plantation,2021,06 Dec to 12 Dec 2021,Clay,3rd Round,L,3-6 1-6
+800595169,800533385.0,Masha Alexandra Vrsalovic Gimenez,BOL,JA Plantation,2021,06 Dec to 12 Dec 2021,Clay,2nd Round,W,6-2 7-5
+800595169,800558422.0,Morgan McCarthy,USA,JA Plantation,2021,06 Dec to 12 Dec 2021,Clay,1st Round,W,4-6 6-2 10-6
+800595169,800635498.0,Naomi Xu,CAN,JA Merida,2021,22 Nov to 27 Nov 2021,Clay,3rd Round,L,4-6 3-6
+800595169,800556558.0,Magdalena Nunez Pureco,MEX,JA Merida,2021,22 Nov to 27 Nov 2021,Clay,2nd Round,W,6-0 6-0
+800595169,800604491.0,Nicole Sifuentes,MEX,JA Merida,2021,22 Nov to 27 Nov 2021,Clay,1st Round,W,6-2 7-6
+800595169,800533853.0,Lucciana Perez Alarcon,PER,J1 Guadalajara,2021,15 Nov to 20 Nov 2021,Clay,2nd Round,L,3-6 1-6
+800595169,800674692.0,Valentina Uribe Arriaga,MEX,J1 Guadalajara,2021,15 Nov to 20 Nov 2021,Clay,1st Round,W,6-4 6-1
+800595169,800515339.0,Greta Fenyves,HUN,J2 Szekesfehervar,2021,27 Oct to 31 Oct 2021,Clay,1st Round,L,3-6 1-6
+800595169,800578274.0,Laura Samson,CZE,J5 Prostejov,2021,29 Sep to 03 Oct 2021,Clay,Final,L,2-6 2-6
+800595169,800620650.0,Adela Latalova,CZE,J5 Prostejov,2021,29 Sep to 03 Oct 2021,Clay,Semi-final,W,6-3 7-5
+800595169,800672848.0,Gabriela Skrabalova,CZE,J5 Prostejov,2021,29 Sep to 03 Oct 2021,Clay,Quarter-final,W,2-6 6-3 6-2
+800595169,800529944.0,Tereza Polakova,CZE,J5 Prostejov,2021,29 Sep to 03 Oct 2021,Clay,2nd Round,W,6-4 6-1
+800595169,800514847.0,Viktoria Lackova,SVK,J5 Prostejov,2021,29 Sep to 03 Oct 2021,Clay,1st Round,W,6-1 6-4
+800595169,800509357.0,Kristyna Tomajkova,CZE,J2 Rakovnik,2021,07 Sep to 12 Sep 2021,Clay,2nd Round,L,0-6 2-6
+800595169,800548293.0,Alexandra Zimmer,AUT,J2 Rakovnik,2021,07 Sep to 12 Sep 2021,Clay,1st Round,W,3-6 6-3 6-3
+800595169,800548042.0,Natalie Syrova,CZE,J2 Rakovnik,2021,07 Sep to 12 Sep 2021,Clay,2nd Round,W,6-1 6-2
+800595169,800580365.0,Elen Jantacova,CZE,J2 Rakovnik,2021,07 Sep to 12 Sep 2021,Clay,1st Round,W,7-5 6-4
+800595169,800535717.0,Kristyna Damaskova,CZE,J4 Veska,2021,12 Jul to 17 Jul 2021,Clay,Quarter-final,L,6-7 0-6
+800595169,800631735.0,Klaudie Hutkova,CZE,J4 Veska,2021,12 Jul to 17 Jul 2021,Clay,2nd Round,W,6-4 6-1
+800595169,800672848.0,Gabriela Skrabalova,CZE,J4 Veska,2021,12 Jul to 17 Jul 2021,Clay,1st Round,W,2-6 6-4 12-10
+800856306,800743171.0,Clemence SCHNEIDER,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Final,W,6-3 4-6 6-3
+800856306,800806114.0,Quinn Sommer,USA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Semi-final,W,3-6 7-5 6-1
+800856306,800832104.0,Victoria Narti,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,7-5 7-5
+800856306,800738849.0,Thelya Ledain-Terrine,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-2 6-4
+800699991,800832664.0,Angie Fleming,FRA,J30 Cayenne (French Guiana),2026,16 Mar to 21 Mar 2026,Hard,Final,W,7-5 3-6 7-6
+800699991,800860305.0,Cybelle Ferrier,NED,J30 Cayenne (French Guiana),2026,16 Mar to 21 Mar 2026,Hard,Semi-final,W,6-1 6-0
+800699991,800685102.0,Nadia Benyahia,FRA,J100 Saint Gregoire,2025,24 Nov to 29 Nov 2025,Hard,1st Round,L,1-6 3-6
+800699991,800802066.0,Evelyn Zhang,CAN,J60 Victoria,2025,13 Oct to 17 Oct 2025,Hard,Quarter-final,L,0-6 3-6
+800699991,800675513.0,Lilly Frawley,IRL,J60 Victoria,2025,13 Oct to 17 Oct 2025,Hard,2nd Round,W,6-2 6-1
+800699991,800819238.0,Alexandra Walker,CAN,J60 Victoria,2025,13 Oct to 17 Oct 2025,Hard,1st Round,W,6-4 7-5
+800699991,800694619.0,Ailish Garcia Fernandez,ESP,J60 Colomiers,2025,10 Mar to 15 Mar 2025,Clay,1st Round,L,0-6 1-6
+800699991,800684706.0,Marie Fairier,FRA,J30 Ponts de Ce,2024,07 Oct to 12 Oct 2024,Hard,2nd Round,L,3-6 4-6
+800730380,800706118.0,Ariana Ikwueme,USA,J300 San Diego (North American Regional Championships),2026,16 Mar to 22 Mar 2026,Hard,1st Round,L,4-6 4-6
+800730380,800737888.0,Camille Allegre,USA,J60 San Diego,2025,27 Jan to 31 Jan 2025,Hard,1st Round,L,1-6 1-4
+800730380,800792835.0,Abigail Haile,USA,J30 San Diego,2025,20 Jan to 24 Jan 2025,Hard,2nd Round,L,2-6 2-6
+800730380,800734065.0,Andrea Cano Gomez,MEX,J30 San Diego,2025,20 Jan to 24 Jan 2025,Hard,1st Round,W,6-1 6-0
+800730380,800772506.0,Mingyue Deng,USA,J60 San Diego,2024,18 Nov to 22 Nov 2024,Hard,1st Round,L,6-1 3-6 3-6
+800730380,800653393.0,Kayla Chung,USA,J60 San Diego,2024,11 Nov to 15 Nov 2024,Hard,1st Round,L,2-6 5-7
+800730380,800583041.0,Gianna Oboniye,USA,J30 San Diego,2024,29 Jan to 02 Feb 2024,Hard,Quarter-final,L,2-6 2-6
+800730380,800678900.0,Mariya Dobreva,CAN,J30 San Diego,2024,29 Jan to 02 Feb 2024,Hard,2nd Round,W,6-3 6-3
+800730380,800725103.0,Ellery Mendell,USA,J30 San Diego,2024,29 Jan to 02 Feb 2024,Hard,1st Round,W,7-6 7-5
+800730380,800656411.0,Elena Zhao,USA,J30 San Diego,2024,22 Jan to 26 Jan 2024,Hard,2nd Round,L,3-6 6-3 4-6
+800730380,800737888.0,Camille Allegre,USA,J30 San Diego,2024,22 Jan to 26 Jan 2024,Hard,1st Round,W,7-5 6-2
+800730380,800749860.0,Alexandra Wolf,USA,J30 San Diego,2023,13 Nov to 18 Nov 2023,Hard,Quarter-final,L,7-6 4-6 0-6
+800730380,800764887.0,Yilin Chen,USA,J30 San Diego,2023,13 Nov to 18 Nov 2023,Hard,3rd Round,W,6-2 6-0
+800730380,800725103.0,Ellery Mendell,USA,J30 San Diego,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,W,6-2 7-6
+800730380,800701907.0,Anqi Mei,USA,J30 San Diego,2023,13 Nov to 18 Nov 2023,Hard,1st Round,W,7-6 6-4
+800730380,800737961.0,Agnes Guggenheim,USA,J30 San Diego,2023,13 Nov to 18 Nov 2023,Hard,2nd Round,W,7-5 6-2
+800730380,800679925.0,Kenzie Nguyen,USA,J5 San Diego,2022,14 Nov to 18 Nov 2022,Hard,1st Round,L,4-6 2-6
+800743171,800747738.0,Filippa Eckersten,SWE,J30 Saint-François,2026,30 Mar to 04 Apr 2026,Hard,2nd Round,,
+800743171,800856795.0,Joni Colburne,CAN,J30 Saint-François,2026,30 Mar to 04 Apr 2026,Hard,1st Round,W,6-0 6-4
+800743171,800856306.0,Elodie Agnamba,USA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Final,L,3-6 6-4 3-6
+800743171,800738114.0,Juliette Lafont,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Semi-final,W,7-6 6-2
+800743171,800742574.0,Melissa MOUEZA,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,7-6 6-1
+800743171,800675734.0,Elsa Goy,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,7-5 7-5
+800743171,800856795.0,Joni Colburne,CAN,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,1st Round,W,6-1 6-3
+800758169,800655784.0,Daniela Zegarra,PER,J100 Mendoza,2026,23 Mar to 28 Mar 2026,Clay,2nd Round,L,
+800758169,800630863.0,Victoria Lopez Ocampos,PAR,J100 Mendoza,2026,23 Mar to 28 Mar 2026,Clay,1st Round,W,7-5 6-4
+800758169,800718983.0,Ambra Marsiletti,ARG,J100 Mendoza,2026,23 Mar to 28 Mar 2026,Clay,Quarter-final,W,2-6 6-3 10-4
+800758169,800740230.0,Maria Eugenia Galan,ARG,J100 Mendoza,2026,23 Mar to 28 Mar 2026,Clay,2nd Round,W,6-3 6-3
+800758169,800835519.0,Constanza Patriarca,ARG,J100 Mendoza,2026,23 Mar to 28 Mar 2026,Clay,1st Round,W,6-1 6-1
+800758169,800730588.0,Delfina Pereira Conde,PAR,WJT Girls South America Qualifying,2025,12 May to 17 May 2025,,Round Robin Group 2,L,6-7 4-6
+800758169,800716189.0,Gabriela Baena,COL,WJT Girls South America Qualifying,2025,12 May to 17 May 2025,,Round Robin Group 2,L,0-6 2-6
+800774759,800762825.0,Aaradhya Meena,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,Semi-final,L,2-6 1-6
+800774759,800708634.0,niesha enja,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,7-5 3-0
+800774759,800702924.0,Honey Gaurav Jumani,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,7-6 6-4
+800774759,800805100.0,Jahnavi Shaw,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,1st Round,W,6-2 6-3
+800774759,800705816.0,Avyaktha Rayavarapu,USA,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,6-4 1-6 11-9
+800774759,800779527.0,Aashi Shamshery,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-4 7-5
+800682973,800812208.0,Micheala Lilian Sibanda,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,W,6-2 6-1
+800682973,800826970.0,Tanyaradzwa Zoe Chinyemba,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,W,6-0 6-0
+800682973,800766610.0,Tatum Venter,RSA,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,,
+800682973,800829077.0,Rutendo Tom,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Semi-final,L,4-6 3-6
+800682973,800748167.0,Akeelah Robin Zinzile Khanye,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,3-6 7-6 6-0
+800682973,,Desconhecido,,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group C,,
+800682973,800820954.0,Noleen Nadia Mavondo,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group C,W,6-0 6-0
+800682973,800768943.0,Rutendo Mellisa Mavhenyengwa,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group C,W,6-1 4-6 10-7
+800682973,800680921.0,Marta CRESPO DE OLANO,ESP,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,3rd Round,L,4-6 5-7
+800682973,800802659.0,Paula Gonzalez Merlo,ESP,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,2nd Round,W,6-2 6-3
+800682973,800859545.0,Matilde Lucas Freire Simoes Da Silva,POR,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,1st Round,W,6-0 6-1
+800682973,800649484.0,Maya Nalbandyan,POR,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,2nd Round,L,6-3 2-6 9-11
+800682973,800858076.0,Lara Silva,POR,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,1st Round,W,6-1 6-1
+800682973,800712947.0,Elizabeth Prangley,GBR,J30 Benidorm,2025,04 Aug to 09 Aug 2025,Hard,1st Round,L,4-6 5-7
+800682973,800747746.0,Melany Esteban Gonzalez,ESP,J30 Bejar,2025,27 May to 01 Jun 2025,Hard,Quarter-final,L,3-6 1-6
+800682973,800567448.0,Laura Rahnel,EST,J300 Villena,2024,19 Mar to 24 Mar 2024,Clay,1st Round,L,0-6 1-6
+800682973,800602860.0,Erica Brennan,IRL,J30 La Nucia,2023,24 Oct to 29 Oct 2023,Clay,1st Round,L,0-6 1-6
+800709106,800832664.0,Angie Fleming,FRA,J30 Cayenne (French Guiana),2026,16 Mar to 21 Mar 2026,Hard,Semi-final,L,2-6 1-6
+800709106,800861967.0,Marine Mercurio,FRA,J30 Cayenne (French Guiana),2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,W,6-2 6-3
+800709106,800595696.0,So I Kim,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,1st Round,L,1-6 0-6
+800709106,800778335.0,Hyoju Lee,KOR,J30 Jeju,2025,18 Mar to 23 Mar 2025,Hard,1st Round,L,6-4 3-6 9-11
+800735380,800672773.0,Lilien Kubalova,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,Semi-final,L,1-6 0-6
+800735380,800735013.0,Julia Berke,POL,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,Quarter-final,W,6-2 6-3
+800735380,800684119.0,Kara Fronek,AUT,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,3rd Round,W,3-6 7-5 6-3
+800735380,800711826.0,Barbora Vokrojova,CZE,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,2nd Round,W,6-3 6-2
+800735380,800709933.0,Giulia Luchetti,ITA,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,1st Round,W,3-6 6-1 6-3
+800707724,800672279.0,Riana Rusnackova,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,Semi-final,L,3-6 2-6
+800707724,800723308.0,Romana Dekanova,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,Quarter-final,W,7-5 7-5
+800707724,800707156.0,Hana Georgievska,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,3rd Round,W,4-6 6-4 6-0
+800707724,800743957.0,Nadia Stawowiak,POL,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,2nd Round,W,6-3 6-0
+800707724,800681928.0,Bara Sulakova,CZE,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,1st Round,W,6-2 3-6 6-4
+800707724,800667639.0,NIKOL NEHRIA,UKR,J30 Trnava,2026,19 Jan to 25 Jan 2026,Hard,1st Round,L,2-6 0-6
+800707724,800667757.0,Flora Rablanska,SVK,J100 Trnava,2025,10 Nov to 16 Nov 2025,Hard,2nd Round,L,4-6 2-6
+800707724,800784566.0,Aneta Cermakova,CZE,J100 Trnava,2025,10 Nov to 16 Nov 2025,Hard,1st Round,W,2-6 7-6 13-11
+800715143,800808101.0,Veronika Benackova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,2nd Round,L,6-7 1-6
+800715143,800790635.0,Naira Carolina Novotna,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,W,7-5 6-2
+800715143,800706973.0,Khadija Adeniran,USA,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,Quarter-final,W,0-6 6-3 10-6
+800715143,800644749.0,Karolina Hubackova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,2nd Round,W,2-6 6-4 10-5
+800715143,800667925.0,Kristina Demidenko,RUS,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,W,6-1 6-2
+800832104,800856306.0,Elodie Agnamba,USA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,L,5-7 5-7
+800832104,800678077.0,Anna Frederikke Forland,DEN,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-2 6-3
+800832104,800856304.0,Sonya Agnamba,USA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,1st Round,W,0-6 7-5 7-6
+800678740,800678435.0,heewoo choi,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,1st Round,L,2-6 0-6
+800678740,800725714.0,HAHYUN DO,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,Quarter-final,L,1-6 0-6
+800678740,800714678.0,YunHa Kim,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,2nd Round,W,6-3 7-6
+800678740,800684764.0,EUNSEOL CHOI,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,1st Round,W,5-7 6-3 10-8
+800678740,800708129.0,Yui Komada,JPN,J300 Wanju (Closed Asia Regional Championship),2025,06 Oct to 12 Oct 2025,Hard,1st Round,L,1-6 4-6
+800678740,800722482.0,ji yeong Jung,KOR,J200 Chuncheon,2025,30 Sep to 05 Oct 2025,Hard,1st Round,L,3-6 5-7
+800678740,800718209.0,Daania Daniella Hazli,MAS,J60 Singapore,2025,20 Jan to 25 Jan 2025,Hard,1st Round,L,2-6 5-7
+800678740,800671568.0,Shinar Zahra Shukayna Heriyadi Sunggoro,INA,J30 Singapore,2025,13 Jan to 18 Jan 2025,Hard,2nd Round,L,0-4 0-4
+800678740,800736206.0,Niyati Hiranandani Bhandari,IND,J30 Singapore,2025,13 Jan to 18 Jan 2025,Hard,1st Round,W,5-3 4-2
+800678740,800624608.0,Dinara De Silva,SRI,J30 Islamabad,2024,18 Nov to 23 Nov 2024,Hard,Quarter-final,L,4-6 6-1 4-6
+800678740,800653489.0,Palina Huretskaya,BLR,J30 Islamabad,2024,18 Nov to 23 Nov 2024,Hard,2nd Round,W,6-0 6-1
+800678740,800731153.0,Jingke Yan,CHN,J30 Islamabad,2024,18 Nov to 23 Nov 2024,Hard,1st Round,W,6-2 6-2
+800678740,800624608.0,Dinara De Silva,SRI,J30 Islamabad,2024,11 Nov to 16 Nov 2024,Hard,Semi-final,L,3-6 4-6
+800678740,800684751.0,hayoon kim,KOR,J30 Islamabad,2024,11 Nov to 16 Nov 2024,Hard,Quarter-final,W,6-2 6-1
+800678740,800659390.0,Phitchayaphak Srimuk,THA,J30 Islamabad,2024,11 Nov to 16 Nov 2024,Hard,2nd Round,W,6-1 6-2
+800678740,800805216.0,Haruhi Katsube,JPN,J30 Islamabad,2024,11 Nov to 16 Nov 2024,Hard,1st Round,W,6-1 6-1
+800678740,800553112.0,Rioko Umekuni,JPN,J300 Wanju (Closed Regional Championships),2024,21 Oct to 27 Oct 2024,Hard,1st Round,L,6-1 2-6 4-6
+800678740,800683663.0,si a youm,KOR,J100 Seoul,2024,01 Oct to 06 Oct 2024,Hard,1st Round,L,6-3 2-6 5-10
+800678740,800701381.0,Acalia Shamim,AUS,J100 Andong,2024,24 Sep to 29 Sep 2024,Hard,2nd Round,L,2-6 3-6
+800678740,800601152.0,Seeun Baeg,KOR,J100 Andong,2024,24 Sep to 29 Sep 2024,Hard,1st Round,W,6-1 6-1
+800678740,800681654.0,REI MIYAMOTO,JPN,J60 Gimcheon,2024,07 May to 12 May 2024,Hard,1st Round,L,0-6 6-4 5-10
+800678740,800602764.0,Yesung Choo,KOR,J30 Sunchang,2024,30 Apr to 05 May 2024,Hard,1st Round,L,0-6 1-6
+800678740,800701381.0,Acalia Shamim,AUS,J30 Yeongwol,2024,26 Mar to 31 Mar 2024,Hard,2nd Round,L,6-7 6-4 9-11
+800678740,800593326.0,Jay Lee,KOR,J30 Yeongwol,2024,26 Mar to 31 Mar 2024,Hard,1st Round,W,6-0 6-1
+800678740,800570386.0,Yeo Kyung Kim,KOR,J30 Yanggu,2023,24 Oct to 29 Oct 2023,Hard,1st Round,L,2-6 4-6
+800678740,800671568.0,Shinar Zahra Shukayna Heriyadi Sunggoro,INA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,2nd Round,L,4-6 2-6
+800678740,800773672.0,Assyifa khansa putri Raga,INA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,W,6-2 6-3
+800678740,800712137.0,Yuki Nishikawa,JPN,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,Quarter-final,W,6-2 6-3
+800678740,800671137.0,Quirina Trea,INA,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,2nd Round,W,6-3 6-0
+800678740,800596919.0,Alyssa Wong,MAS,J30 Jakarta,2023,10 Oct to 15 Oct 2023,Hard,1st Round,W,6-1 6-1
+800678740,800625232.0,Seo Yun Choi,KOR,J300 Wanju (Asia/Oceania Regional Championships),2023,02 Oct to 08 Oct 2023,Hard,2nd Round,L,2-6 3-6
+800678740,800644366.0,hanbi lee,KOR,J300 Wanju (Asia/Oceania Regional Championships),2023,02 Oct to 08 Oct 2023,Hard,1st Round,W,6-0 7-5
+800678740,800667968.0,Suha Lee,KOR,J60 Sunchang,2023,18 Apr to 23 Apr 2023,Hard,1st Round,L,1-6 2-6
+800678740,800683302.0,Martaa Chogsomjav,MGL,J60 Andong,2023,11 Apr to 16 Apr 2023,Hard,1st Round,L,2-6 0-6
+800678740,800601236.0,Yebin Kang,KOR,J30 Andong,2023,04 Apr to 09 Apr 2023,Hard,1st Round,L,6-3 0-6 0-6
+800678740,800602444.0,AhKyung Kim,KOR,J30 Gimcheon,2023,28 Mar to 02 Apr 2023,Hard,1st Round,L,1-6 5-7
+800678740,800557848.0,Ching Laam Lai,HKG,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,L,7-6 4-6 2-6
+800678740,800550879.0,Hui On Choi,KOR,J2 Chuncheon,2022,25 Oct to 30 Oct 2022,Hard,1st Round,L,2-6 1-6
+800678740,800540450.0,Eun Seo Kim,KOR,J5 Yanggu,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,2-6 0-6
+800678740,800519340.0,Ji Hyun Kang,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,Quarter-final,L,4-6 4-6
+800678740,800584289.0,Leehanbyeol Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,2nd Round,W,7-6 6-3
+800678740,800599005.0,Eunsoo Lee,KOR,J5 Andong,2022,23 Aug to 28 Aug 2022,Hard,1st Round,W,6-2 4-6 6-2
+800678740,800622121.0,Jiyeon Lee,KOR,J4 Sunchang,2022,12 Apr to 17 Apr 2022,Hard,Quarter-final,L,3-6 3-6
+800678740,800843716.0,Seyeong Jang,KOR,J4 Sunchang,2022,12 Apr to 17 Apr 2022,Hard,2nd Round,W,6-2 6-2
+800678740,800579587.0,Sooin Lee,KOR,J4 Sunchang,2022,12 Apr to 17 Apr 2022,Hard,1st Round,W,7-5 4-6 10-8
+800800728,800718706.0,LEANA NANNAPANENI,AUS,J100 Canberra,2026,17 Mar to 22 Mar 2026,Clay,2nd Round,L,3-6 5-7
+800800728,800684271.0,YUUMI SUEYOSHI,JPN,J100 Canberra,2026,17 Mar to 22 Mar 2026,Clay,1st Round,W,6-3 6-2
+800800728,800684271.0,YUUMI SUEYOSHI,JPN,J100 Canberra,2026,17 Mar to 22 Mar 2026,Clay,2nd Round,W,6-1 7-5
+800800728,800837283.0,Tia Barrimore,AUS,J100 Canberra,2026,17 Mar to 22 Mar 2026,Clay,1st Round,W,7-5 6-3
+800800728,800714125.0,Josephine Debalevu,FIJ,J200 Sydney,2025,26 Aug to 31 Aug 2025,Hard,1st Round,L,7-6 2-6 7-10
+800800728,800756409.0,Ava Itaoui,AUS,J200 Sydney (Regional Championships),2025,19 Aug to 24 Aug 2025,Hard,1st Round,L,1-4 0-4
+800800728,800783087.0,Tia Mcintosh,AUS,J200 Sydney (Regional Championships),2025,19 Aug to 24 Aug 2025,Hard,2nd Round,W,6-1 2-6 10-6
+800786074,800725217.0,Karthika Padmakumar,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,L,2-6 4-6
+800786074,800663514.0,Tanishca Bhatnagar Tanishca,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,6-2 6-0
+800786074,800713161.0,Tamanna Nair,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,W,2-6 6-4 10-8
+800786074,800854620.0,Ritu Mandar Gyan,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,6-4 6-1
+800786074,800819453.0,Rabiah Dullet,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,7-5 3-6 10-4
+800709500,800718018.0,Elena Tsekoura,GRE,J60 Rhodes,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,L,3-6 2-6
+800709500,800654706.0,Irem Ozbayram,TUR,J60 Rhodes,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,6-4 6-4
+800709500,800676836.0,Antonia Anastasia Papagapitou,GRE,J30 Athens,2025,04 Nov to 09 Nov 2025,Hard,1st Round,L,7-6 1-6 7-10
+800819869,800777307.0,Bi-Neh Awantang,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,L,1-6 1-6
+800819869,800775726.0,Camila ivanova maxmara Toscano castro,MEX,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group D,W,2-6 6-2 10-7
+800819869,800845748.0,Lillie Knight,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group D,W,6-0 6-1
+800819869,800724946.0,HARU ISHIDA,JPN,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group D,W,6-0 6-1
+800819869,800786344.0,Emmi Steckhan,GER,J60 Bayamón,2026,09 Mar to 14 Mar 2026,Hard,Group B,L,4-6 4-6
+800819869,800765970.0,Carolina Castro,PUR,J60 Bayamón,2026,09 Mar to 14 Mar 2026,Hard,Group B,L,2-6 1-6
+800819869,800699757.0,Sera Park,KOR,J30 Bayamón,2025,17 Mar to 23 Mar 2025,Hard,2nd Round,L,1-6 0-6
+800819869,800768612.0,Caroline van der Riet,USA,J30 Bayamón,2025,17 Mar to 23 Mar 2025,Hard,1st Round,W,6-3 6-2
+800819869,800683942.0,Ella Olofson,USA,J60 Bayamón,2025,10 Mar to 16 Mar 2025,Hard,1st Round,L,3-6 0-6
+800725714,800739041.0,Yerin Lee,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,Quarter-final,L,2-6 4-6
+800725714,800677794.0,Boram Lee,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,2nd Round,W,6-4 6-3
+800725714,800684751.0,hayoon kim,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,1st Round,W,4-6 6-3 6-2
+800725714,800678740.0,So Yuna,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,Quarter-final,W,6-1 6-0
+800725714,800773360.0,Jimin Shim,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,2nd Round,W,6-2 6-4
+800725714,800789833.0,Hyeon Seo Cho,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,1st Round,W,6-2 6-2
+800725714,800684746.0,Soeun Choi,KOR,J100 Andong,2025,28 Oct to 02 Nov 2025,Hard,1st Round,L,3-6 4-6
+800725714,800707120.0,Ji Yeon Park,KOR,J100 Andong,2025,28 Oct to 02 Nov 2025,Hard,Quarter-final,W,6-3 6-7 10-7
+800725714,800586388.0,Sa Rang Lim,KOR,J100 Andong,2025,28 Oct to 02 Nov 2025,Hard,2nd Round,W,6-4 7-6
+800725714,800764241.0,Seongju Kim,KOR,J100 Andong,2025,28 Oct to 02 Nov 2025,Hard,1st Round,W,6-2 6-4
+800725714,800666154.0,JI WON JANG,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,1st Round,L,2-6 4-6
+800708634,800774759.0,Sidhhi Pandey,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,L,5-7 0-3
+800708634,800817219.0,Armani Nalavade,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-1 6-1
+800708634,800731115.0,Disha Kumar,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,1st Round,W,7-6 6-1
+800708634,800728865.0,Aashi Kashyap,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,Quarter-final,W,6-2 6-2
+800708634,800795892.0,Tanya Karthik,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-1 6-2
+800708634,800787664.0,Surmayee Sathe,IND,J30 Raipur,2026,23 Mar to 28 Mar 2026,Hard,1st Round,W,6-0 6-1
+800708634,800693953.0,mandagalla princy,IND,J60 Bhuvanagiri,2025,25 Aug to 30 Aug 2025,Hard,1st Round,L,3-6 3-6
+800806781,800780046.0,Vasilisa Marchenko,RUS,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,L,6-4 3-6 3-6
+800806781,800747741.0,Nana Shevardnadze,GEO,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,7-6 6-2
+800806781,800755694.0,Polina Kashitsyna,RUS,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,6-4 6-3
+800806781,800809142.0,Olga Kurnikova,RUS,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,W,4-6 7-5 10-8
+800806781,800835565.0,Anna Simkina,RUS,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,6-0 6-0
+800806781,800735453.0,Darja Zamecnik,CZE,J30 Tsaghkadzor,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,1-6 7-5 10-7
+800806781,800654995.0,Chiu Kwan Nina Wang,HKG,J30 Colombo,2026,16 Feb to 22 Feb 2026,Clay,1st Round,L,0-6 1-6
+800806781,800852740.0,Yuri Wang,JPN,J30 Colombo,2026,16 Feb to 22 Feb 2026,Clay,Quarter-final,W,6-0 6-4
+800806781,800786395.0,Eliza Kahagalla,SRI,J30 Colombo,2026,16 Feb to 22 Feb 2026,Clay,1st Round,W,6-1 6-1
+800806781,800587248.0,Ying Chi Chloe Wong,HKG,J30 Colombo,2026,09 Feb to 15 Feb 2026,Clay,1st Round,L,1-6 3-6
+800806781,800543446.0,Biatris Shakratova,KAZ,J30 Colombo,2026,09 Feb to 15 Feb 2026,Clay,Quarter-final,W,6-3 6-2
+800806781,800661353.0,Meha Patil,IND,J30 Colombo,2026,09 Feb to 15 Feb 2026,Clay,2nd Round,W,6-1 6-2
+800806781,800752212.0,Leina GAO,CHN,J30 Colombo,2026,09 Feb to 15 Feb 2026,Clay,1st Round,W,7-5 6-0
+800700069,800781385.0,Saranya Agarwal,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Quarter-final,L,4-6 2-6
+800700069,800718698.0,Arianna Deb-Baruah,CAN,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,7-6 6-2
+800700069,800847914.0,Divya Murthy,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,6-2 6-3
+800700069,800777396.0,Mia Trgovcevic,CAN,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,6-3 6-0
+800700069,800677514.0,Sophia Filip,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,6-4
+800700069,800776691.0,Luciana Plasencia Robles,MEX,J60 Boca Raton,2025,27 Oct to 01 Nov 2025,Hard,2nd Round,L,4-6 7-5 9-11
+800700069,800695523.0,Zoe Yesufu,USA,J60 Boca Raton,2025,27 Oct to 01 Nov 2025,Hard,1st Round,W,6-2 6-2
+800700069,800729608.0,Abi Anderson,CAY,J30 Bayamón,2025,17 Mar to 23 Mar 2025,Hard,2nd Round,L,6-7 6-4 3-6
+800700069,800683304.0,Nicole Okhtenberg,USA,J60 Bayamon,2024,18 Mar to 23 Mar 2024,Hard,2nd Round,L,1-6 1-6
+800809063,800786724.0,Brenda Montalvo,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,1st Round,W,6-7 6-1 10-6
+800809063,800818051.0,Marella Cruz Rava,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group H,W,6-2 6-0
+800809063,800672404.0,Natalie Tsatsalashvili,CAN,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group H,L,5-7 2-6
+800809063,800762446.0,Valentina Serrano Garibay,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group H,W,6-4 7-6
+800809063,800740399.0,Natalia Tena,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,6-3 6-3
+800809063,800817534.0,Amina Valdes,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group G,L,0-6 0-6
+800809063,800672404.0,Natalie Tsatsalashvili,CAN,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,2-6 6-1 12-10
+800809063,800805058.0,Ana Paula Vega Alvarez,DOM,WJT girls NAMCAM Final-Qualifying,2025,16 Apr to 18 Apr 2025,,Round Robin Group 1,W,6-4 6-2
+800834504,800824353.0,Daisy Okechukwu,CAN,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group G,,
+800834504,800790976.0,Emmly Lebogang George,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group G,L,0-6 4-6
+800834504,800650447.0,A Hyun Jo,KOR,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group G,L,3-6 0-6
+800834504,800738462.0,Tamara Todorovic,SRB,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,W,6-3 6-2
+800834504,800796881.0,Rudo Keisha Mahachi,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,W,6-2 6-2
+800834504,800737870.0,Botshelo Diseko,RSA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,2-6 4-6
+800834504,800662490.0,Caroline Hermanns,DEN,J60 Harare,2025,21 Jul to 26 Jul 2025,Hard,2nd Round,L,1-6 0-6
+800677238,800784103.0,Nikita Kovarova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,L,6-7 2-6
+800677238,800694926.0,Varvara Karanchuk,BLR,J30 Frydek Mistek,2026,09 Mar to 15 Mar 2026,Hard,1st Round,L,2-6 4-6
+800677238,800784415.0,Armine Yesaian,UKR,J30 Marianske Lazne,2025,03 Jun to 07 Jun 2025,Clay,1st Round,L,2-6 4-6
+800677238,800743146.0,Natalie Irahola,CZE,J30 Marianske Lazne,2025,03 Jun to 07 Jun 2025,Clay,Quarter-final,W,6-3 2-6 10-7
+800677238,800672872.0,Adriana Bukalova,CZE,J30 Marianske Lazne,2025,03 Jun to 07 Jun 2025,Clay,2nd Round,W,6-1 6-7 11-9
+800677238,800687091.0,Klara Pirkova,CZE,J30 Hradec Kralove,2025,27 May to 31 May 2025,Clay,2nd Round,L,1-6 2-6
+800677238,800784103.0,Nikita Kovarova,CZE,J30 Hradec Kralove,2025,27 May to 31 May 2025,Clay,1st Round,W,7-5 6-0
+800835876,800655103.0,Alina Alibekova,RUS,J60 Wuning,2026,16 Mar to 22 Mar 2026,Hard,2nd Round,L,3-6 6-4 3-6
+800835876,800731153.0,Jingke Yan,CHN,J60 Wuning,2026,16 Mar to 22 Mar 2026,Hard,1st Round,W,6-3 6-2
+800656493,800695681.0,Montserrat Vega Andrade,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group B,W,6-0 2-6 11-9
+800656493,800696937.0,Marianna Martinez,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group B,W,6-1 6-0
+800656493,800733624.0,Fernanda Gutierrez Perez,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group B,L,2-6 1-6
+800656493,800706799.0,Amy Shen,CAN,J60 San Luis Potosi,2026,23 Feb to 28 Feb 2026,Hard,1st Round,L,1-6 0-6
+800656493,800733015.0,Sara Lillian Chavez,MEX,J60 San Luis Potosi,2026,23 Feb to 28 Feb 2026,Hard,Quarter-final,W,6-4 6-0
+800656493,800762962.0,Paulina Guerrero,MEX,J60 San Luis Potosi,2026,23 Feb to 28 Feb 2026,Hard,2nd Round,W,6-2 6-2
+800656493,800805553.0,Paulina Aceves,MEX,J60 San Luis Potosi,2026,23 Feb to 28 Feb 2026,Hard,1st Round,W,6-2 6-3
+800656493,800803685.0,Fernanda Valle,MEX,J60 Queretaro,2026,02 Feb to 07 Feb 2026,Clay,1st Round,L,6-7 6-4 2-6
+800656493,800660429.0,Maria Alexandra Mateas,ROU,J60 Monterrey,2025,25 Aug to 30 Aug 2025,Hard,2nd Round,L,7-5 0-6 2-6
+800656493,800802827.0,Valeria Cabral Zamora,MEX,J60 Monterrey,2025,25 Aug to 30 Aug 2025,Hard,1st Round,W,6-2 6-4
+800656493,800776626.0,Paulina Monserrat Velasco Martinez,MEX,J60 Monterrey,2025,25 Aug to 30 Aug 2025,Hard,Quarter-final,W,6-3 6-1
+800656493,800762965.0,Lauren Nolan,USA,J30 Monterrey,2025,18 Aug to 23 Aug 2025,Hard,2nd Round,L,3-6 0-6
+800656493,800740087.0,Maria Jose Cajiga,MEX,J30 Monterrey,2025,18 Aug to 23 Aug 2025,Hard,1st Round,W,6-0 6-0
+800656493,800762962.0,Paulina Guerrero,MEX,J100 Monterrey,2025,07 Jul to 12 Jul 2025,Hard,1st Round,L,4-6 1-6
+800656493,800732202.0,Carrie-Anne Hoo,USA,J200 Monterrey,2025,30 Jun to 05 Jul 2025,Hard,1st Round,L,0-6 1-6
+800656493,800833970.0,Mariana Garza,MEX,J200 Monterrey,2025,30 Jun to 05 Jul 2025,Hard,Quarter-final,W,6-0 6-0
+800656493,800779721.0,Valentina Perera Ayala,MEX,J200 Monterrey,2025,30 Jun to 05 Jul 2025,Hard,1st Round,W,6-2 6-2
+800656493,800679172.0,Victoria Correa Guedea,MEX,J100 Tampico (Central America and Caribbean Regional Championships),2024,01 Jul to 06 Jul 2024,Hard,2nd Round,L,2-6 2-6
+800656493,800684079.0,Natalie Oliver,USA,J30 Monterrey,2024,11 Mar to 16 Mar 2024,Hard,2nd Round,L,4-6 2-6
+800656493,800677744.0,Isabella Varela Herrera,MEX,J30 Monterrey,2024,11 Mar to 16 Mar 2024,Hard,1st Round,W,6-2 6-3
+800656493,800636403.0,Carolina Alonso,MEX,J100 Queretaro,2024,05 Feb to 10 Feb 2024,Clay,2nd Round,L,7-6 0-6 0-6
+800656493,800773613.0,Luciana Ramirez Rosales,MEX,J100 Queretaro,2024,05 Feb to 10 Feb 2024,Clay,1st Round,W,6-4 7-5
+800656493,800683759.0,Fernanda Martinez Yepez,MEX,J100 Tampico,2023,21 Aug to 26 Aug 2023,Hard,1st Round,L,0-6 1-6
+800656493,800636639.0,MARIA DOMINIQUE FUENZALIDA HIGAREDA,MEX,J100 Tampico,2023,14 Aug to 19 Aug 2023,Hard,2nd Round,L,3-6 0-6
+800656493,800746064.0,Vanessa Rozo,USA,J100 Tampico,2023,14 Aug to 19 Aug 2023,Hard,1st Round,W,6-0 6-0
+800656493,800567952.0,Mariana Reding,MEX,J30 Chihuahua,2023,27 Mar to 01 Apr 2023,Hard,Quarter-final,L,1-6 0-6
+800656493,800740087.0,Maria Jose Cajiga,MEX,J30 Chihuahua,2023,27 Mar to 01 Apr 2023,Hard,2nd Round,W,6-1 6-0
+800656493,800656620.0,Marely Alvarado Rodriguez,MEX,J30 Chihuahua,2023,27 Mar to 01 Apr 2023,Hard,1st Round,W,7-6 6-4
+800656493,800691510.0,Kara Garcia,USA,J30 Monterrey,2023,13 Mar to 18 Mar 2023,Hard,2nd Round,L,0-6 1-6
+800656493,800599185.0,Asia Sundas,ITA,J30 San Luis Potosi,2023,27 Feb to 04 Mar 2023,Hard,1st Round,L,0-6 2-6
+800656493,800655687.0,Marianne Angel,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,3rd Round,L,2-6 2-6
+800656493,800589595.0,Ana Gutierrez,MEX,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,2nd Round,W,6-1 7-5
+800656493,800597494.0,Morgan Tuffs,CAN,J4 Monterrey,2022,29 Aug to 03 Sep 2022,Hard,1st Round,W,6-3 6-4
+800656493,800604491.0,Nicole Sifuentes,MEX,J3 Tampico,2022,15 Aug to 20 Aug 2022,Hard,2nd Round,L,3-6 3-6
+800656493,800600908.0,Julieta Gonzalez Castelazo Raya,MEX,J3 Tampico,2022,15 Aug to 20 Aug 2022,Hard,1st Round,W,6-3 6-0
+800656493,800715099.0,Reya Coe,USA,J3 Tampico,2022,28 Feb to 05 Mar 2022,Hard,1st Round,L,1-6 0-6
+800656493,800686495.0,Melisa Mekic,CAN,J5 Monterrey,2022,21 Feb to 26 Feb 2022,Hard,1st Round,L,1-6 0-6
+800707389,800795609.0,Kayla Rufaro Mba,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,W,6-1 6-1
+800707389,800738462.0,Tamara Todorovic,SRB,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,W,7-6 6-1
+800707389,800768943.0,Rutendo Mellisa Mavhenyengwa,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,,
+800707389,800833828.0,Diana Kitain,USA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-0 6-1
+800707389,800826970.0,Tanyaradzwa Zoe Chinyemba,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-1 6-1
+800707389,800748167.0,Akeelah Robin Zinzile Khanye,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,3-6 1-6
+800707389,800701723.0,Melanie Stoichkova,BUL,J30 Esch-sur-Alzette,2026,16 Feb to 21 Feb 2026,Hard,2nd Round,L,1-6 4-6
+800707389,800743766.0,AUGUSTINE MALHERBE,FRA,J30 Esch-sur-Alzette,2026,16 Feb to 21 Feb 2026,Hard,1st Round,W,7-5 2-6 10-5
+800707389,800854409.0,Eliz Ovacilli,TUR,J30 Adana,2026,19 Jan to 25 Jan 2026,Clay,1st Round,L,1-6 6-2 3-10
+800707389,800664480.0,Dariia Iorsh,UKR,J60 Arlon,2026,30 Dec to 04 Jan 2026,Carpet,2nd Round,L,2-6 1-6
+800707389,800680803.0,Kate Sordi,NED,J60 Arlon,2026,30 Dec to 04 Jan 2026,Carpet,1st Round,W,6-2 7-5
+800707389,800675020.0,Luise Luczak,GER,J30 Abidjan,2025,01 Dec to 06 Dec 2025,Hard,Quarter-final,L,4-6 0-6
+800818822,800691357.0,VALENTINA GALVAN SOLORZANO,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group F,W,4-6 6-4 10-5
+800818822,800695681.0,Montserrat Vega Andrade,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group F,L,1-6 5-7
+800818822,800734494.0,Ivana Peralta Zapata,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group F,L,4-6 2-6
+800695042,800791276.0,Kristina Kamolova,RUS,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group C,L,2-6 1-6
+800695042,800722535.0,Dasha Yuffa,ESP,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group C,W,6-0 6-1
+800695042,800760287.0,Siyun Xiao,CHN,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group C,L,0-6 0-6
+800695042,800757873.0,Linh Nhi Nguyen,VIE,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,6-4 6-2
+800695042,800775519.0,Mariam Kamareddine,LBN,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,4-6 6-1 6-3
+800695042,800859918.0,JOELLA IOANE,POC,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,6-7 6-1 6-2
+800695042,800859910.0,SONOMLEGZUM ENKHJARGAL,MGL,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,Group B,W,6-0 6-3
+800695042,800859906.0,MAKARA MORN,CAM,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,Group B,W,6-0 6-0
+800718949,800681395.0,Muslimakhon Turdimurodova,UZB,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group A,W,6-4 6-2
+800718949,800671905.0,Polina Korelova,RUS,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group A,L,4-6 4-6
+800718949,800645387.0,Radmila Rakhmatullina,RUS,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group A,L,2-6 0-6
+800718949,800800280.0,Khuslen Munkhbayar,AUS,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,Group B,W,6-1 6-1
+800718949,800859905.0,ESTHER CHOMNITH SRUN,CAM,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,Group B,W,6-1 6-0
+800718949,800755944.0,Binh Nhien To,VIE,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,6-1 6-3
+800718949,800764174.0,Maria El hachache,LBN,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,6-2 6-2
+800718949,800835515.0,Alexandria Chand,FIJ,WJT Girls Asia/Oceania Pre-Qualifying,2026,02 Mar to 07 Mar 2026,Hard,,W,6-0 6-0
+800718949,800777629.0,ELIZAVETA PANTIUSHINA,RUS,J60 Andijan,2025,28 Jul to 02 Aug 2025,Hard,1st Round,L,1-6 1-6
+800718949,800575081.0,Aleksandra Kachushkina,RUS,J30 Namangan,2025,21 Jul to 26 Jul 2025,Hard,1st Round,L,0-6 2-6
+800718949,800661089.0,Ekaterina Kiryushenko,KAZ,J30 Cholpon-Ata,2025,30 Jun to 05 Jul 2025,Hard,1st Round,L,3-6 3-6
+800718949,800706756.0,Yasmin Dyussembayeva,KAZ,WJT Girls Asia/Oceania Final-Qualifying,2025,02 Apr to 07 Apr 2025,Hard,Round Robin Group 1,L,1-6 0-6
+800718949,800706756.0,Yasmin Dyussembayeva,KAZ,WJT Girls Asia/Oceania Final-Qualifying,2025,02 Apr to 07 Apr 2025,Hard,Round Robin Group 4,L,1-6 0-6
+800718949,800722835.0,SRISHTI KIRAN,IND,WJT Girls Asia/Oceania Final-Qualifying,2025,02 Apr to 07 Apr 2025,Hard,,L,3-6 2-6
+800718949,800769541.0,Ratu Athena Putri,INA,WJT Girls Asia/Oceania Final-Qualifying,2025,02 Apr to 07 Apr 2025,Hard,,L,4-6 0-6
+800710139,800790392.0,Cyrine Triki,TUN,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group B,W,4-6 7-6 10-7
+800710139,800742856.0,Amira Bartaguiz,TUN,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group B,W,6-2 6-1
+800710139,800740007.0,Sukriye Ezgi Akyol,TUR,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group B,L,1-6 1-6
+800710139,800680500.0,Zahra berrando,FRA,J60 Algiers,2025,20 Oct to 25 Oct 2025,Clay,1st Round,L,5-7 3-6
+800710139,800674468.0,Hanin Rebai,TUN,J30 Algiers,2025,13 Oct to 18 Oct 2025,Clay,1st Round,L,1-6 5-7
+800710139,800736242.0,Houda Benamar,ALG,J30 Boufarik,2025,06 Oct to 11 Oct 2025,Clay,2nd Round,L,3-6 6-7
+800710139,800725421.0,MELISSA RYM BENAMAR KERFAH,ALG,J60 Algiers,2025,05 May to 10 May 2025,Clay,1st Round,L,7-6 2-6 3-6
+800710139,800701906.0,Xenia Jezequel Riera,ESP,J30 Algiers,2025,24 Feb to 01 Mar 2025,Clay,1st Round,L,4-6 0-6
+800710139,800736955.0,Justine Fuchs,FRA,J30 Algiers,2025,17 Feb to 22 Feb 2025,Clay,1st Round,L,2-6 3-6
+800710139,800688403.0,Emna Gharbi,TUN,J60 Algiers,2024,07 Oct to 12 Oct 2024,Clay,1st Round,L,2-6 6-2 3-6
+800710139,800626636.0,Nehira Sanon,FRA,J60 Boufarik,2024,30 Sep to 05 Oct 2024,Clay,2nd Round,L,0-6 1-6
+800710139,800733260.0,Lina Lamis Benzaoui,ALG,J60 Boufarik,2024,30 Sep to 05 Oct 2024,Clay,1st Round,W,6-0 6-0
+800710139,800631153.0,Hima Fernando,GBR,J30 Boufarik,2024,08 Jul to 13 Jul 2024,Clay,1st Round,L,7-6 1-6 2-6
+800710139,800687454.0,Farah Rebai,TUN,J30 Algiers,2024,01 Jul to 06 Jul 2024,Clay,2nd Round,L,2-6 3-6
+800710139,800710423.0,Yessmine Zghal,TUN,J30 Algiers,2024,01 Jul to 06 Jul 2024,Clay,1st Round,W,7-5 6-1
+800710139,800683649.0,YASMINE DOUYEB,MAR,J100 Tlemcen,2024,22 Apr to 27 Apr 2024,Clay,1st Round,L,2-6 0-6
+800710139,800674065.0,Galia Mezouar,TUN,J30 Oran,2024,04 Mar to 09 Mar 2024,Clay,1st Round,L,1-6 4-6
+800710139,800553139.0,Camelia Hadab,MAR,J30 Oran,2024,26 Feb to 02 Mar 2024,Clay,1st Round,L,2-6 4-6
+800710139,800644151.0,Zeinab Ayadi,TUN,J30 Algiers,2024,19 Feb to 24 Feb 2024,Clay,1st Round,L,1-6 0-6
+800820831,800801067.0,Leilani Judith Ruiz Noriega,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,1st Round,L,2-6 1-6
+800820831,800810659.0,Ivanna Sofia Lozano Banguero,COL,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group E,W,6-3 6-2
+800820831,800772900.0,Valentina Rodriguez Garcia,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group E,W,6-1 6-4
+800820831,800694423.0,Juliette Sanchez Perez,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group E,L,2-6 2-6
+800820831,800786724.0,Brenda Montalvo,MEX,J30 Huamantla,2026,19 Jan to 25 Jan 2026,Hard,Group H,L,4-6 6-2 6-10
+800820831,800846944.0,Christina Li,USA,J30 Huamantla,2026,19 Jan to 25 Jan 2026,Hard,Group H,L,0-6 0-6
+800820831,800694423.0,Juliette Sanchez Perez,MEX,J30 Huamantla,2026,19 Jan to 25 Jan 2026,Hard,Group H,L,4-6 0-6
+800820831,800790169.0,Anneliese Lezama Roesch,MEX,J30 Huamantla,2026,12 Jan to 18 Jan 2026,Hard,Group A,L,0-6 2-6
+800820831,800722835.0,SRISHTI KIRAN,IND,J30 Huamantla,2026,12 Jan to 18 Jan 2026,Hard,Group A,L,0-6 0-6
+800820831,800848919.0,Danna Esparza,MEX,J60 Leon,2025,13 Oct to 18 Oct 2025,Hard,1st Round,L,4-6 1-6
+800820831,800733003.0,Natalia Garcia,MEX,J60 Leon,2025,06 Oct to 11 Oct 2025,Hard,1st Round,L,2-6 1-6
+800820831,800624883.0,Valeria Gamboa Melendez,COL,J30 Tlaxcala,2025,31 Mar to 05 Apr 2025,Hard,Quarter-final,L,1-6 2-6
+800820831,800742906.0,Giannina Zoe Guerrero Arias,MEX,J30 Tlaxcala,2025,24 Mar to 29 Mar 2025,Hard,1st Round,L,3-6 2-6
+800820831,800777374.0,Camila Chenhalls,MEX,J30 Tlaxcala,2025,17 Mar to 22 Mar 2025,Hard,1st Round,L,1-6 3-6
+800820831,800793967.0,Isabella Fajardo,COL,J60 Puebla,2025,10 Mar to 16 Mar 2025,Hard,Quarter-final,L,2-6 0-6
+800820831,800819546.0,Renata Eguibar Lezama,MEX,J60 Puebla,2025,10 Mar to 16 Mar 2025,Hard,2nd Round,W,6-2 6-1
+800820831,800722232.0,Africa Guzman Garcia,MEX,J30 Puebla,2025,03 Mar to 09 Mar 2025,Hard,2nd Round,L,2-6 1-6
+800820831,800776626.0,Paulina Monserrat Velasco Martinez,MEX,J30 Puebla,2025,03 Mar to 09 Mar 2025,Hard,1st Round,W,6-2 7-5
+800859572,800810659.0,Ivanna Sofia Lozano Banguero,COL,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,1st Round,W,6-0 6-4
+800859572,800807239.0,Varvara Karmalito,GBR,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group D,W,2-6 6-3 10-3
+800859572,800801067.0,Leilani Judith Ruiz Noriega,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group D,W,3-2
+800859572,800802827.0,Valeria Cabral Zamora,MEX,J30 Huamantla,2026,23 Mar to 29 Mar 2026,Hard,Group D,L,1-6 1-6
+800684496,,Desconhecido,,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,,
+800684496,800758714.0,Kayla Mufaro Ruwanza,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,W,6-2 6-2
+800684496,800716681.0,Simphiwe Emma Malunguza,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,,
+800684496,800812208.0,Micheala Lilian Sibanda,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,W,6-0 6-2
+800684496,800851032.0,Tadiwa Nhokwara,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,W,6-0 6-1
+800684496,800766610.0,Tatum Venter,RSA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,L,4-6 1-6
+800684496,800728522.0,Vitoria De Mello Schneider,POR,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,1st Round,L,4-6 2-6
+800684496,800769155.0,Leonor Loureiro,POR,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,1st Round,L,3-6 6-4 7-10
+800684496,800628953.0,Raquelle Medeleanu,GBR,J30 Bradfield,2024,07 Aug to 11 Aug 2024,Clay,1st Round,L,4-6 0-6
+800684496,800653931.0,Alexandra Nedyalkova,EST,J30 Bradfield,2024,31 Jul to 04 Aug 2024,Clay,1st Round,L,0-6 1-6
+800684496,800565704.0,Isabella Moss,GBR,J30 Edinburgh,2024,24 Jun to 28 Jun 2024,Clay,1st Round,L,1-6 2-6
+800684496,800698534.0,Isabella Swanborough,GBR,J30 Edinburgh,2024,24 Jun to 28 Jun 2024,Clay,Quarter-final,W,2-6 7-6 10-7
+800684496,800601793.0,Lucy Beeston,GBR,J30 Edinburgh,2024,24 Jun to 28 Jun 2024,Clay,2nd Round,W,6-4 2-6 10-8
+800710910,800671119.0,Eleonora Tranchero,ITA,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,L,4-6 3-6
+800710910,800799623.0,Lucia Hickey Ayuso,ESP,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,Quarter-final,W,6-1 2-6 10-7
+800710910,800734303.0,Una Moloney,IRL,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,W,6-2 7-6
+800710910,800675756.0,Niamh Sutherland,IRL,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,2nd Round,L,3-6 6-3 6-7
+800710910,800681398.0,ana Desplanques,FRA,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,1st Round,W,6-3 6-0
+800710910,800810633.0,Diana Kadlecikova,SVK,J30 Paralimni,2025,17 Nov to 23 Nov 2025,Carpet,1st Round,L,6-4 2-6 5-7
+800710910,800734109.0,Eva Diaconu Ciobanu,IRL,J30 Dublin,2025,07 Jul to 11 Jul 2025,Carpet,1st Round,L,6-7 2-6
+800777595,800739340.0,Maria Fernanda Lopez Canto,MEX,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,6-4 6-3
+800777595,800808694.0,Isabell Lopez Parrilla,PUR,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group H,W,7-6 6-2
+800777595,800853984.0,Yuika Sekinada,JPN,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group H,W,6-3 6-4
+800777595,800777307.0,Bi-Neh Awantang,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group H,L,6-2 6-7 6-10
+800777595,800599185.0,Asia Sundas,ITA,J300 Bradenton,2025,01 Dec to 07 Dec 2025,Clay,1st Round,L,2-6 2-6
+800742925,800750365.0,Amy Leigh Stuart,RSA,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,L,2-6 3-6
+800742925,800796881.0,Rudo Keisha Mahachi,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,W,6-1 6-0
+800742925,800829077.0,Rutendo Tom,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,,
+800742925,800799525.0,Lucia Tariroyashe Sitemere,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,W,6-0 6-2
+800742925,800758714.0,Kayla Mufaro Ruwanza,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,W,6-3 2-6 10-1
+800742925,800650447.0,A Hyun Jo,KOR,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,L,3-6 2-6
+800742925,800775092.0,Leonor Passos,POR,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,1st Round,L,0-6 4-6
+800742925,800709161.0,Maria Clara Santos Crusius,ESP,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,2nd Round,L,7-6 6-7 5-10
+800742925,800817446.0,Selma Mullins,POR,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,1st Round,W,6-1 6-0
+800742925,800748980.0,Janie Ho,SGP,J30 Singapore,2026,12 Jan to 17 Jan 2026,Hard,1st Round,L,3-6 4-6
+800742925,800725837.0,Oyku Sahbaz,TUR,J30 Adana,2025,13 Oct to 19 Oct 2025,Hard,2nd Round,L,0-6 4-6
+800742925,800695198.0,DEFNE OZEL,TUR,J30 Adana,2025,13 Oct to 19 Oct 2025,Hard,1st Round,W,6-3 6-3
+800742925,800679835.0,Jone Bakyte,LTU,J30 Aizkraukle,2025,29 Sep to 04 Oct 2025,Carpet,1st Round,L,6-7 5-7
+800698265,800712926.0,Sofia Kuzmina,IRL,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,L,5-7 6-7
+800698265,800653535.0,Hanna Augustynska,GBR,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,2nd Round,L,4-6 4-6
+800698265,800675513.0,Lilly Frawley,IRL,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,1st Round,W,7-6 6-0
+800710010,800595764.0,Marie Johanna Lapimaa,EST,J100 Hanko,2026,30 Mar to 04 Apr 2026,Hard,1st Round,L,1-6 3-6
+800710010,800744993.0,Helmi Ollikainen,FIN,J100 Hanko,2026,30 Mar to 04 Apr 2026,Hard,1st Round,W,7-5 6-3
+800710010,800647975.0,Linda Rimpi,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-4 6-2
+800710010,800656359.0,Romina Hincu,MDA,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,L,1-6 4-6
+800710010,800735004.0,Zofia Ostrowka,POL,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,W,6-0 6-2
+800710010,800599906.0,Hanna Vanni,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,L,2-6 6-4 5-10
+800710010,800664147.0,Alise Aleksejeva,LAT,J60 Tampere,2025,27 Oct to 31 Oct 2025,Hard,2nd Round,L,2-6 2-6
+800710010,800770667.0,Raffaela Lorenti Ribeiro,BRA,J60 Tampere,2025,27 Oct to 31 Oct 2025,Hard,1st Round,W,5-7 6-4 13-11
+800710010,800730354.0,Jasmine Morici,ITA,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,2nd Round,L,3-6 0-6
+800710010,800696485.0,Eve Odonovan,IRL,J30 Vierumaki,2025,06 May to 10 May 2025,Hard,2nd Round,L,3-6 3-6
+800710010,800721549.0,Vega Bontin,SWE,J30 Vierumaki,2025,30 Apr to 04 May 2025,Hard,1st Round,L,0-6 4-6
+800710010,800648109.0,Stefanija Variksoo,EST,J30 Tartu,2025,24 Feb to 28 Feb 2025,Carpet,2nd Round,L,3-6 3-6
+800710010,800707961.0,Mette Maria Jurvetson,EST,J30 Tartu,2025,24 Feb to 28 Feb 2025,Carpet,1st Round,W,6-3 6-2
+800710010,800682965.0,Astrid Sandwall Tornqvist,SWE,J60 Tampere,2024,28 Oct to 01 Nov 2024,Hard,2nd Round,L,2-6 3-6
+800710010,800710428.0,Emma Curcher,GBR,J60 Tampere,2024,28 Oct to 01 Nov 2024,Hard,1st Round,W,6-1 6-3
+800710010,800649898.0,Liza Simak,SWE,J30 Hanko,2024,06 Aug to 10 Aug 2024,Clay,1st Round,L,2-6 4-6
+800710010,800544095.0,Paulina Aleksandrowicz,POL,J30 Vierumaki,2024,07 May to 12 May 2024,Hard,1st Round,L,2-6 3-6
+800726696,800744993.0,Helmi Ollikainen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-0 7-5
+800726696,800813026.0,Tuva Skarback,SWE,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-2 6-0
+800726696,800689196.0,Annina Kanerva,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,1-6 0-6
+800726696,800807434.0,Lily Hagelberg,FIN,J60 Tampere,2025,27 Oct to 31 Oct 2025,Hard,1st Round,L,5-7 0-6
+800726696,800646997.0,Eleanora Roos,EST,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,1st Round,L,3-6 1-6
+800726696,800649488.0,Karoliina Kuhi,EST,J30 Hanko,2025,29 Jul to 02 Aug 2025,Clay,Quarter-final,L,2-6 0-6
+800726696,800681784.0,Mia Elise Pink,EST,J30 Vierumaki,2025,08 Apr to 12 Apr 2025,Hard,2nd Round,L,6-1 6-7 2-10
+800726696,800693838.0,Elin Kalmus,EST,J30 Hanko,2024,22 Oct to 27 Oct 2024,Hard,1st Round,L,4-6 1-6
+800726696,800635784.0,Katsiaryna Dubik,BLR,J30 Vierumaki,2024,07 May to 12 May 2024,Hard,1st Round,L,3-6 0-6
+800726696,800595307.0,Irina Rissanen,FIN,J60 Vierumaki,2023,24 Oct to 29 Oct 2023,Hard,2nd Round,L,2-6 2-6
+800649484,800661758.0,Karolina Kostova,BUL,J60 Algiers,2026,30 Mar to 04 Apr 2026,Clay,1st Round,,
+800649484,800801638.0,Stella Figasso,FRA,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group G,W,7-5 7-5
+800649484,800662911.0,Miruna Rita Neculaes,ROU,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group G,W,6-3 6-3
+800649484,800798000.0,Melek Gamaoun,TUN,J30 Algiers,2026,23 Mar to 28 Mar 2026,Clay,Group G,L,5-7 4-6
+800649484,800723153.0,Matilda Casarini,ARG,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,2nd Round,L,0-6 4-6
+800649484,800709161.0,Maria Clara Santos Crusius,ESP,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,3rd Round,L,5-7 6-7
+800649484,800682973.0,Shruti Navneet Vasant,IND,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,2nd Round,W,3-6 6-2 11-9
+800649484,800780328.0,Sarah Norberg,SWE,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,1st Round,W,6-0 6-0
+800649484,800765166.0,Sonia Oltean,ROU,J30 Vilamoura,2025,06 Oct to 12 Oct 2025,Hard,1st Round,L,3-6 1-6
+800649484,800630596.0,Carolina Correia,POR,J60 Porto,2025,11 Aug to 17 Aug 2025,Hard,1st Round,L,2-6 5-7
+800649484,800725623.0,Maria Devesa,ESP,J60 Porto,2025,04 Aug to 09 Aug 2025,Clay,1st Round,L,3-6 4-6
+800649484,800698303.0,Sofia Skrypnichenko,POR,J60 Porto,2025,04 Aug to 09 Aug 2025,Clay,2nd Round,W,7-6 6-2
+800649484,800728468.0,Paola Giner Ruiz,ESP,J60 Porto,2025,04 Aug to 09 Aug 2025,Clay,1st Round,W,6-4 0-6 10-1
+800649484,800698370.0,MARIA GAJETE DIAZ,ESP,J100 Lousada,2025,19 May to 25 May 2025,Clay,2nd Round,L,2-6 3-6
+800649484,800683053.0,KIKA LIMA,POR,J100 Lousada,2025,12 May to 18 May 2025,Clay,2nd Round,L,5-7 6-3 8-10
+800649484,800624234.0,Kristin Lucas Caceres,ESP,J30 Vilamoura,2024,07 Oct to 13 Oct 2024,Hard,1st Round,L,4-6 3-6
+800649484,800681518.0,carlota blanco,ESP,J30 Portimao,2024,30 Sep to 06 Oct 2024,Hard,1st Round,L,0-6 0-6
+800649484,800546347.0,Ella Blomfield,GBR,J60 Porto,2024,13 Aug to 18 Aug 2024,Hard,1st Round,L,1-6 0-6
+800649484,800632351.0,Elena Camacho,ESP,J60 Porto,2024,13 Aug to 18 Aug 2024,Hard,2nd Round,L,3-6 2-6
+800649484,800693236.0,Hadassa Alicia Pereira Silva,BRA,J60 Porto,2024,13 Aug to 18 Aug 2024,Hard,1st Round,W,6-1 6-3
+800649484,800594336.0,Blanca Trillo Pita da Veiga,ESP,J30 Porto,2024,05 Aug to 10 Aug 2024,Clay,1st Round,L,1-6 0-6
+800649484,800649972.0,Madalena Santos,POR,J30 Porto,2024,26 Feb to 03 Mar 2024,Hard,1st Round,L,1-6 2-6
+800649484,800649972.0,Madalena Santos,POR,J30 Setubal,2024,19 Feb to 25 Feb 2024,Hard,1st Round,L,0-6 0-6
+800649484,800651750.0,Vega Aguilar Ferrandez,ESP,J30 Vilamoura,2023,09 Oct to 15 Oct 2023,Hard,1st Round,L,0-6 0-6
+800649484,800760200.0,Sevi Clancy,AUS,J30 Portimao,2023,02 Oct to 08 Oct 2023,Hard,1st Round,L,2-6 2-6
+800649484,800624364.0,Carlota Magan Cascallar,ESP,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,1st Round,L,6-7 4-6
+800649484,800712652.0,Matilde Cinci,ITA,J30 Porto,2023,07 Aug to 12 Aug 2023,Clay,1st Round,L,2-6 2-6
+800649484,800667929.0,Carla Tomai,POR,J5 Vale do Lobo,2022,10 Oct to 16 Oct 2022,Hard,1st Round,L,3-6 6-4 3-6
+800649484,800568134.0,Nicole Wigoda,ISR,J5 Vale do Lobo,2022,10 Oct to 16 Oct 2022,Hard,2nd Round,W,6-2 6-3
+800649484,800587899.0,Paula Jucan,POR,J5 Vale do Lobo,2022,10 Oct to 16 Oct 2022,Hard,1st Round,W,7-6 6-2
+800649484,800567420.0,Mafalda Almeida,POR,J5 Portimao,2022,03 Oct to 09 Oct 2022,Hard,1st Round,L,0-6 1-6
+800649484,800700349.0,Frederica Nunes,POR,J5 Portimao,2022,03 Oct to 09 Oct 2022,Hard,1st Round,L,4-6 5-7
+800649484,800634889.0,Diana Fernandes,POR,J5 Porto,2022,08 Aug to 13 Aug 2022,Clay,1st Round,L,2-6 1-6
+800649484,800596382.0,Erica Pintado,POR,J4 Leiria,2022,01 Aug to 07 Aug 2022,Clay,2nd Round,L,2-6 6-4 13-15
+800738737,800659786.0,Lara Ioana Dima,GER,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,L,3-6 0-6
+800738737,800743021.0,Alexandra Bigiu,SWE,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,Quarter-final,W,6-2 6-4
+800738737,800848403.0,Margherita Braggion,ITA,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,W,6-0 6-1
+800738737,800695698.0,Alex Daisy Halley,IRL,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,2nd Round,L,5-7 6-1 4-6
+800738737,800738082.0,Vinus Killian Raineri,ITA,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,1st Round,W,7-6 6-4
+800738737,800645010.0,Roneta Kacinskaite,LTU,J30 Dublin,2026,09 Feb to 14 Feb 2026,Hard,1st Round,L,2-6 1-6
+800738737,800735232.0,Emma Blessington,IRL,J30 Dublin,2025,27 Oct to 31 Oct 2025,Hard,Quarter-final,L,3-6 7-5 7-10
+800738737,800712846.0,Jessica Carley,IRL,J30 Dublin,2025,27 Oct to 31 Oct 2025,Hard,2nd Round,W,6-4 6-1
+800738737,800848403.0,Margherita Braggion,ITA,J30 Dublin,2025,27 Oct to 31 Oct 2025,Hard,1st Round,W,6-3 6-4
+800738737,800675513.0,Lilly Frawley,IRL,J30 Dublin,2025,07 Jul to 11 Jul 2025,Carpet,1st Round,L,1-6 2-6
+800738737,800695525.0,Isolde Brennan,IRL,J60 Naas,2025,30 Jun to 04 Jul 2025,Carpet,1st Round,L,4-6 3-6
+800738737,800673518.0,Olivia Rotteglia,ITA,J30 Dublin,2025,07 Apr to 11 Apr 2025,Hard,1st Round,L,0-6 0-6
+800738737,800693109.0,Sienna MacCarthy,IRL,J30 Dublin,2025,17 Feb to 21 Feb 2025,Carpet,1st Round,L,3-6 6-4 8-10
+800852760,,Desconhecido,,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group B,,
+800852760,800729288.0,Regina Nandipha Zibowa,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group B,W,6-2 6-2
+800852760,800829077.0,Rutendo Tom,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group B,L,2-6 2-6
+800852760,800686554.0,HERMIONE Korpanec Davies,GBR,J100 Gaborone,2025,24 Nov to 29 Nov 2025,Hard,1st Round,L,0-6 0-6
+800738462,800795609.0,Kayla Rufaro Mba,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,,
+800738462,800707389.0,Yasmin Wilson,LTU,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,L,6-7 1-6
+800738462,800768943.0,Rutendo Mellisa Mavhenyengwa,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group D,L,6-7 5-7
+800738462,800796881.0,Rudo Keisha Mahachi,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,W,6-2 6-3
+800738462,800834504.0,Chelsea Abigael Fryer,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,3-6 2-6
+800738462,800737870.0,Botshelo Diseko,RSA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,0-6 0-6
+800738462,800649224.0,Iva Sverko,CRO,J60 Siroki Brijeg,2026,16 Feb to 21 Feb 2026,Hard,2nd Round,L,3-6 3-6
+800738462,800680454.0,Tia Markl,SLO,J30 Murska Sobota,2026,26 Jan to 01 Feb 2026,Hard,1st Round,L,3-6 4-6
+800738462,800697109.0,Arina Merkureva,RUS,J60 Belgrade,2026,12 Jan to 18 Jan 2026,Clay,1st Round,L,5-7 1-6
+800738462,800665968.0,Katarina Martinkova,SVK,J30 Szabolcsveresmart,2025,11 Nov to 16 Nov 2025,Hard,Quarter-final,L,2-6 0-6
+800738462,800734307.0,Maria Muscan,ROU,J30 Szabolcsveresmart,2025,11 Nov to 16 Nov 2025,Hard,2nd Round,W,6-2 6-3
+800738462,800662701.0,IASMINA FILIP,ROU,J60 Skopje,2025,11 Aug to 17 Aug 2025,Clay,2nd Round,L,2-6 2-6
+800738462,800679747.0,Viktoriia Zaichenko,UKR,J60 Skopje,2025,04 Aug to 10 Aug 2025,Clay,1st Round,L,0-6 0-6
+800738462,800732745.0,Isidora Jelicic,USA,J30 Sarajevo,2025,07 Jul to 12 Jul 2025,Clay,1st Round,L,4-6 1-6
+800738462,800697740.0,Pippa Fennis,NED,J30 Tirana,2025,19 May to 24 May 2025,Hard,Quarter-final,L,2-6 1-6
+800738462,800676126.0,Anjel Hoxha,ALB,J30 Tirana,2025,19 May to 24 May 2025,Hard,1st Round,W,6-3 6-4
+800738462,800595814.0,Anastasia Sbitneva,RUS,J60 Ulcinj,2025,12 May to 18 May 2025,Clay,1st Round,L,2-6 5-7
+800738462,800718249.0,Stamatia Tsoutsi,GRE,J30 Nis,2025,21 Apr to 27 Apr 2025,Clay,1st Round,L,3-6 0-6
+800738462,800706365.0,Gabriela Sulcova,CZE,J30 Subotica,2025,14 Apr to 20 Apr 2025,Clay,2nd Round,L,0-6 1-6
+800738462,800735378.0,Melissa Maria Mingea,ROU,J30 Subotica,2025,14 Apr to 20 Apr 2025,Clay,1st Round,W,6-2 4-6 10-8
+800738462,800759505.0,Belyakova Esenia,RUS,J60 Siroki Brijeg,2025,20 Jan to 25 Jan 2025,Hard,1st Round,L,1-6 2-6
+800738462,800645493.0,ISABELLA RELTON,GBR,J60 Belgrade,2025,13 Jan to 19 Jan 2025,Clay,1st Round,L,2-6 0-6
+800738462,800668000.0,Lena Katalinic,SRB,J30 Subotica,2024,15 Apr to 21 Apr 2024,Clay,3rd Round,L,6-7 1-6
+800738462,800668696.0,Amy Danielle Harari,HUN,J30 Subotica,2024,15 Apr to 21 Apr 2024,Clay,2nd Round,W,6-4 6-1
+800738462,800625481.0,Mia Petrovic,NOR,J60 Belgrade,2024,16 Jan to 21 Jan 2024,Clay,1st Round,L,3-6 2-6
+800742932,800783450.0,Aurelie Kostova,AUS,J100 Canberra,2026,17 Mar to 22 Mar 2026,Clay,2nd Round,L,4-6 5-7
+800742932,800752294.0,Ariel Gunawan,AUS,J200 Sydney (Regional Championships),2025,19 Aug to 24 Aug 2025,Hard,1st Round,L,4-6 4-6
+800710931,800741342.0,Reet Jhawar,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,L,1-6 7-6 9-11
+800710931,800674084.0,Raania Thakur,IND,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,1st Round,W,7-5 7-5
+800710931,800854806.0,Shravee Deore,IND,J60 Gurugram,2026,09 Mar to 14 Mar 2026,Hard,1st Round,L,3-6 3-6
+800724346,800774135.0,Chloe Tchea,FRA,J60 Blagnac,2026,16 Mar to 21 Mar 2026,Clay,1st Round,L,2-6 1-6
+800724346,800597517.0,Blanche Alix-Vidal,FRA,J60 Colomiers,2026,09 Mar to 14 Mar 2026,Clay,1st Round,L,2-6 2-6
+800724346,800766361.0,Maha Daoudi,FRA,J30 Le Pontet,2026,02 Mar to 08 Mar 2026,Clay,1st Round,L,5-7 3-6
+800724346,800661058.0,Abhinaya Balaji,IND,J30 Girona,2025,29 Apr to 03 May 2025,Clay,1st Round,L,0-6 1-6
+800861002,800708320.0,Adelina Andreea Iftime,USA,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,L,0-6 1-6
+800777805,800738251.0,Anshu Matham,USA,J60 Dehradun,2026,16 Mar to 21 Mar 2026,Hard,1st Round,L,1-6 0-6
+800777805,800738251.0,Anshu Matham,USA,J60 Gurugram,2026,09 Mar to 14 Mar 2026,Hard,2nd Round,L,1-6 1-6
+800777805,800659974.0,Samaira Kohli,IND,J100 New Delhi,2025,24 Nov to 29 Nov 2025,Hard,2nd Round,L,6-7 3-6
+800777805,800738959.0,Aarnavi Tomar Aura,IND,J100 New Delhi,2025,24 Nov to 29 Nov 2025,Hard,1st Round,W,6-0 6-1
+800777805,800659662.0,Dakshanasree SR,IND,J100 New Delhi,2024,25 Nov to 30 Nov 2024,Hard,1st Round,L,2-6 2-6
+800777805,800634781.0,Pratishtha Saini,IND,J60 Gurugram,2024,11 Mar to 16 Mar 2024,Hard,2nd Round,L,3-6 2-6
+800743448,800741404.0,Karolina Svecova,CZE,J60 Prague,2026,16 Mar to 22 Mar 2026,Carpet,1st Round,L,1-6 6-2 12-14
+800575636,800748575.0,Sofiya Malysheva,KAZ,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group G,L,5-7 7-6 3-10
+800575636,800590273.0,Keira Kim,UZB,J60 Andijan,2026,16 Mar to 21 Mar 2026,Hard,Group G,L,4-6 1-6
+800575636,800719638.0,Jana YOUSSEF,EGY,J100 Cairo,2025,04 Aug to 09 Aug 2025,Clay,1st Round,L,4-6 6-0 6-7
+800575636,800599911.0,Zoe Ulrich,FRA,J60 Colomiers,2025,10 Mar to 15 Mar 2025,Clay,1st Round,L,0-6 6-4 4-6
+800575636,800583808.0,Tamara Ermakova,KAZ,J100 Bloemfontein,2025,10 Feb to 15 Feb 2025,Hard,2nd Round,L,1-6 2-6
+800575636,800682976.0,Milla Kotze,RSA,J100 Bloemfontein,2025,10 Feb to 15 Feb 2025,Hard,1st Round,W,6-7 6-3 6-2
+800575636,800647963.0,Ninon Carpentier,FRA,J60 Bloemfontein,2025,03 Feb to 07 Feb 2025,Hard,2nd Round,L,2-6 6-7
+800575636,800601156.0,Onalee Wagner,LUX,J60 Bloemfontein,2025,03 Feb to 07 Feb 2025,Hard,1st Round,W,6-2 6-0
+800575636,800638368.0,Gloria Pop,ROU,J60 Isa Town,2024,02 Dec to 08 Dec 2024,Hard,Quarter-final,L,6-4 2-6 5-7
+800575636,800672227.0,Yasemin Pehlivan,TUR,J60 Isa Town,2024,02 Dec to 08 Dec 2024,Hard,2nd Round,W,6-3 6-3
+800575636,800675989.0,Aaraa Aasaal Azim,MDV,J60 Isa Town,2024,02 Dec to 08 Dec 2024,Hard,1st Round,W,6-2 6-1
+800575636,800587914.0,Masa Jankovic,SRB,J60 Dubai,2024,25 Nov to 30 Nov 2024,Hard,2nd Round,L,0-6 2-6
+800575636,800653997.0,Ruslana Ruslanova,KAZ,J60 Dubai,2024,25 Nov to 30 Nov 2024,Hard,1st Round,W,7-5 6-2
+800575636,800632085.0,Adiya Omarbek,KAZ,J100 Astana,2024,18 Nov to 23 Nov 2024,Hard,1st Round,L,0-6 3-6
+800575636,800594274.0,Alina Botasheva,RUS,J60 Andijan,2024,07 Oct to 12 Oct 2024,Hard,Quarter-final,L,1-6 2-6
+800575636,800659796.0,Mariia Masliakova,RUS,J60 Andijan,2024,07 Oct to 12 Oct 2024,Hard,2nd Round,W,5-7 6-0 6-3
+800575636,800706899.0,yasaman yazdani,IRI,J60 Isfahan,2024,02 Sep to 07 Sep 2024,Clay,Quarter-final,L,3-6 4-6
+800575636,800575903.0,Arghavan Sepehr,IRI,J60 Isfahan,2024,02 Sep to 07 Sep 2024,Clay,2nd Round,W,7-5 6-0
+800575636,800676979.0,Armita Aghazadeh,IRI,J60 Isfahan,2024,02 Sep to 07 Sep 2024,Clay,1st Round,W,6-0 6-1
+800575636,800706899.0,yasaman yazdani,IRI,J60 Isfahan,2024,26 Aug to 31 Aug 2024,Clay,Final,L,2-6 2-6
+800575636,800626938.0,Melis Yildirim,TUR,J60 Isfahan,2024,26 Aug to 31 Aug 2024,Clay,Semi-final,W,6-4 1-6 6-3
+800575636,800655178.0,kimia sagheb tehrani,IRI,J60 Isfahan,2024,26 Aug to 31 Aug 2024,Clay,Quarter-final,W,6-2 3-6 6-2
+800575636,800640314.0,Anita Mohrekesh,IRI,J60 Isfahan,2024,26 Aug to 31 Aug 2024,Clay,2nd Round,W,6-2 6-4
+800575636,800660663.0,Elay Hallaji zahmatkesh,IRI,J60 Isfahan,2024,26 Aug to 31 Aug 2024,Clay,1st Round,W,6-3 6-3
+800575636,800665359.0,Lujza Beviz,HUN,J60 Tsakhadzor,2024,15 Jul to 20 Jul 2024,Clay,2nd Round,L,1-6 1-6
+800575636,800629427.0,Mariia Asaulova,RUS,J60 Tsakhadzor,2024,15 Jul to 20 Jul 2024,Clay,1st Round,W,6-4 6-1
+800575636,800639339.0,Sofia Nasonova,RUS,J60 Tsakhadzor,2024,08 Jul to 13 Jul 2024,Clay,1st Round,L,4-6 2-6
+800575636,800629427.0,Mariia Asaulova,RUS,J30 Tsakhadzor,2024,24 Jun to 29 Jun 2024,Clay,1st Round,L,4-6 4-6
+800575636,800663260.0,Diya Chaudhary,IND,J60 Dehradun,2024,18 Mar to 23 Mar 2024,Hard,1st Round,L,1-6 2-6
+800575636,800588251.0,Harshini N Nagaraj,IND,J60 Gurugram,2024,11 Mar to 16 Mar 2024,Hard,2nd Round,L,7-6 4-6 6-7
+800575636,800733055.0,Ava Khalil,USA,J30 Isa Town,2024,26 Feb to 02 Mar 2024,Hard,2nd Round,L,5-7 3-6
+800575636,800749957.0,Marlin Abdalla,EGY,J30 Isa Town,2024,26 Feb to 02 Mar 2024,Hard,1st Round,W,6-0 6-0
+800575636,800566256.0,Irina Khayndrava,RUS,J30 Isa Town,2024,19 Feb to 24 Feb 2024,Hard,Quarter-final,L,5-7 0-6
+800575636,800708435.0,Sara Dessouky,EGY,J30 Isa Town,2024,19 Feb to 24 Feb 2024,Hard,2nd Round,W,6-4 7-6
+800575636,800623369.0,Milena Novikova,RUS,J30 Isa Town,2024,19 Feb to 24 Feb 2024,Hard,1st Round,W,7-6 6-4
+800575636,800591123.0,Alexia Ioana Tatu,ROU,J30 Fujairah,2023,13 Nov to 18 Nov 2023,Hard,1st Round,L,2-6 7-6 5-7
+800575636,800630696.0,Ariana Gogulina,KAZ,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,Final,W,6-3 6-4
+800575636,800590696.0,Arina Malygina,RUS,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,Semi-final,W,6-4 6-3
+800575636,800573219.0,Simona Cucu,ROU,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,Quarter-final,W,6-4 6-4
+800575636,800691838.0,Saiyette Varadkar,IND,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,2nd Round,W,4-6 6-1 6-3
+800575636,800592322.0,Hajar Zaidan,BRN,J30 Isa Town,2023,06 Nov to 11 Nov 2023,Hard,1st Round,W,6-0 6-3
+800575636,800648760.0,Sosanne Malak,EGY,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,Quarter-final,L,1-6 3-6
+800575636,800573219.0,Simona Cucu,ROU,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,2nd Round,W,6-3 6-3
+800575636,800510793.0,Asli Oktay,TUR,J30 Isa Town,2023,30 Oct to 04 Nov 2023,Hard,1st Round,W,6-2 6-4
+800575636,800552832.0,Maryia Nikitsenka,BLR,J60 Dushanbe,2023,02 Oct to 07 Oct 2023,Hard,1st Round,L,4-6 2-6
+800575636,800543439.0,Aruzhan Nuranbay,KAZ,J100 Fergana,2023,28 Aug to 02 Sep 2023,Hard,2nd Round,L,4-6 4-6
+800575636,800719453.0,Victoria Marshall,GBR,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,2nd Round,L,4-6 6-4 1-6
+800575636,800589772.0,Maria Leonor Figueiredo,POR,J60 Porto,2023,15 Aug to 20 Aug 2023,Hard,1st Round,W,6-2 6-1
+800575636,800586902.0,Kira Bataikina,RUS,J60 Yerevan,2023,10 Jul to 15 Jul 2023,Clay,2nd Round,L,0-6 3-6
+800575636,800593060.0,Emmaa Vardanyan,ARM,J60 Yerevan,2023,10 Jul to 15 Jul 2023,Clay,1st Round,W,6-0 6-1
+800575636,800566369.0,Deniz Dilek,TUR,J100 Tehran,2023,03 Jul to 08 Jul 2023,Clay,1st Round,L,6-3 4-6 1-6
+800575636,800639456.0,Stefaniya Neporent,BLR,J30 Tsaghadzor,2023,12 Jun to 17 Jun 2023,Clay,1st Round,L,4-6 6-2 2-6
+800575636,800576271.0,Sophia Ksandinov,GER,J30 Tsaghadzor,2023,05 Jun to 10 Jun 2023,Clay,Quarter-final,L,2-6 1-6
+800575636,800655320.0,Anna Levashova,RUS,J30 Tsaghadzor,2023,05 Jun to 10 Jun 2023,Clay,2nd Round,W,6-3 6-2
+800575636,800568553.0,Alexandra Magia,GRE,J60 Zouk,2023,17 Apr to 23 Apr 2023,Hard,1st Round,L,4-6 1-6
+800575636,800593262.0,Leah Baroudi,SYR,J60 Zouk,2023,10 Apr to 16 Apr 2023,Hard,1st Round,L,6-3 5-7 1-6
+800575636,800627080.0,Viktoria Egorova,RUS,J30 Namangan,2023,27 Mar to 01 Apr 2023,Hard,2nd Round,L,2-6 4-6
+800575636,800660976.0,Minxu Zhou,CHN,J30 Isa Town,2023,27 Feb to 04 Mar 2023,Hard,1st Round,L,4-6 5-7
+800575636,800541214.0,Emma Fantusis,CYP,J30 Isa Town,2023,20 Feb to 25 Feb 2023,Hard,2nd Round,L,6-7 1-6
+800575636,800590478.0,Roni Fishel,ISR,J30 Isa Town,2023,20 Feb to 25 Feb 2023,Hard,1st Round,W,6-3 3-6 6-3
+800575636,800552232.0,Aliaksandra Slahayeva,BLR,J5 Astana,2022,05 Dec to 10 Dec 2022,Hard,2nd Round,L,6-1 2-6 2-10
+800575636,800503765.0,Dariga Rustemova,KAZ,J5 Aktobe,2022,28 Nov to 03 Dec 2022,Hard,1st Round,L,3-6 5-7
+800575636,800575876.0,Viktoriia Sedova,RUS,J5 Yerevan,2022,17 Oct to 22 Oct 2022,Clay,Semi-final,L,6-7 5-7
+800575636,800570419.0,Ketevan Jeladze,GEO,J5 Yerevan,2022,17 Oct to 22 Oct 2022,Clay,Quarter-final,W,7-6 6-2
+800575636,800595672.0,Zara Stipcevic,CRO,J5 Yerevan,2022,17 Oct to 22 Oct 2022,Clay,2nd Round,W,7-6 6-4
+800575636,800653489.0,Palina Huretskaya,BLR,J5 Yerevan,2022,17 Oct to 22 Oct 2022,Clay,1st Round,W,6-3 6-1
+800575636,800572279.0,Ofeliya Derboyan,RUS,J5 Yerevan,2022,10 Oct to 15 Oct 2022,Clay,1st Round,L,5-7 6-3 5-7
+800575636,800554065.0,Eryka Kruk,BLR,J5 Yerevan,2021,11 Oct to 16 Oct 2021,Clay,1st Round,L,3-6 0-6
+800856304,800832104.0,Victoria Narti,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,1st Round,L,6-0 5-7 6-7
+800676566,800656994.0,Pavla Sviglerova,CZE,J500 Gaspar,2026,16 Mar to 22 Mar 2026,Clay,2nd Round,L,0-6 2-6
+800676566,800656039.0,Anabela Arias Lezcano,PAR,J30 Rio de Janeiro,2025,03 Nov to 09 Nov 2025,Clay,1st Round,L,4-6 6-0 4-6
+800676566,800678210.0,Livia Santo,BRA,J60 Itajaí,2025,27 Oct to 01 Nov 2025,Clay,1st Round,L,6-4 3-6 2-10
+800676566,800766245.0,Lauren Yuna Shibata,BRA,J60 São Paulo,2025,25 Aug to 30 Aug 2025,Clay,1st Round,L,1-6 6-1 8-10
+800676566,800715254.0,Giulia Gomes Ferreira,BRA,J30 Serra Negra,2025,18 Aug to 23 Aug 2025,Clay,1st Round,L,0-6 3-6
+800676566,800808386.0,Tais Guimaraes,BRA,J30 Serra Negra,2025,18 Aug to 23 Aug 2025,Clay,Quarter-final,W,6-1 6-4
+800676566,800717854.0,Luisa Cerveira de Carvalho,BRA,J30 Serra Negra,2025,18 Aug to 23 Aug 2025,Clay,2nd Round,W,6-2 6-2
+800676566,800798374.0,Leticia Monteiro Grimaldi,BRA,J30 Serra Negra,2025,18 Aug to 23 Aug 2025,Clay,1st Round,W,6-0 6-0
+800676566,800751866.0,Isadora Maimone Benali,BRA,J60 Curitiba,2025,07 Jul to 13 Jul 2025,Clay,1st Round,L,5-7 6-4 4-6
+800676566,800756938.0,Julia Tolentino Santos,BRA,J60 Curitiba,2025,07 Jul to 13 Jul 2025,Clay,Quarter-final,W,6-2 2-6 10-4
+800676566,800656174.0,Manoela Borges,BRA,J60 Curitiba,2025,07 Jul to 13 Jul 2025,Clay,2nd Round,W,6-4 3-1
+800676566,800769004.0,Maria Flor Toledo Pinto,BRA,J60 Curitiba,2025,07 Jul to 13 Jul 2025,Clay,1st Round,W,6-1 6-1
+800676566,800712968.0,Eva Kaleda de Noronha,BRA,J30 Foz Do Iguacu,2024,21 Oct to 27 Oct 2024,Clay,1st Round,L,6-2 4-6 3-10
+800676566,800767630.0,Lavynia Sa,BRA,J60 Sao Paulo,2024,26 Aug to 31 Aug 2024,Clay,1st Round,L,2-6 2-6
+800676566,800718590.0,Laura Goncalves Portela Borges,BRA,J30 Serra Negra,2024,19 Aug to 25 Aug 2024,Clay,1st Round,L,3-6 4-6
+800676566,800739652.0,Maria Eduarda Dias Da Fonseca,BRA,J60 Lambare,2024,29 Jul to 03 Aug 2024,Clay,2nd Round,L,2-6 2-6
+800676566,800679109.0,Ana Luisa Galindo Rodrigues,BRA,J30 Lambare,2024,22 Jul to 27 Jul 2024,Clay,1st Round,L,2-6 1-6
+800675724,800681518.0,carlota blanco,ESP,J30 Porto,2026,02 Mar to 08 Mar 2026,Hard,1st Round,L,1-6 1-6
+800675724,800656599.0,Solomia Maria Hryniv,USA,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,2nd Round,L,0-6 1-6
+800675724,800736288.0,Veronika Troitckaia,RUS,J30 Setubal,2026,23 Feb to 01 Mar 2026,Hard,1st Round,W,5-7 7-6 6-4
+800675724,800671114.0,Marta Bieniecka Zawerthal Duarte,POR,J60 Porto,2025,11 Aug to 17 Aug 2025,Hard,2nd Round,L,2-6 3-6
+800675724,800681892.0,Elena Utkina,RUS,J60 Porto,2025,11 Aug to 17 Aug 2025,Hard,1st Round,W,6-2 6-0
+800675724,800682695.0,Adriana Calvo Lopez,ESP,J60 Porto,2025,04 Aug to 09 Aug 2025,Clay,1st Round,L,1-6 3-6
+800675724,800741109.0,Heidi Felicia Schmal,SUI,J100 Lousada,2025,19 May to 25 May 2025,Clay,1st Round,L,2-6 3-6
+800675724,800741703.0,Beatriz Assuncao,POR,J100 Lousada,2025,19 May to 25 May 2025,Clay,1st Round,W,6-1 6-2
+800675724,800774019.0,Angelica Cavasin,ITA,J30 Porto,2025,24 Feb to 02 Mar 2025,Hard,2nd Round,L,0-6 3-6
+800675724,800647978.0,Marie Vetrovsky,GER,J30 Porto,2025,24 Feb to 02 Mar 2025,Hard,1st Round,W,6-4 7-6
+800675724,800672999.0,Sophie Munks,GBR,J30 Vilamoura,2024,07 Oct to 13 Oct 2024,Hard,1st Round,L,2-6 6-7
+800675724,800682943.0,Emilia Koletic,SWE,J60 Porto,2024,13 Aug to 18 Aug 2024,Hard,2nd Round,L,1-6 1-6
+800675724,800594336.0,Blanca Trillo Pita da Veiga,ESP,J30 Porto,2024,05 Aug to 10 Aug 2024,Clay,2nd Round,L,2-6 6-0 6-10
+800684703,800655674.0,Mariana Sacco Costa,BRA,J30 Rio de Janeiro,2025,03 Nov to 09 Nov 2025,Clay,1st Round,L,4-6 3-6
+800684703,800659478.0,Mia Valentina Mora Da Silva,PAR,J30 Luque,2024,02 Dec to 07 Dec 2024,Clay,1st Round,L,6-2 5-7 2-6
+800684703,800677161.0,CLARA BORRASCA,BRA,J30 Rio de Janeiro,2024,04 Nov to 10 Nov 2024,Clay,2nd Round,L,6-4 5-7 6-7
+800684703,800644928.0,Ariela Porras Buezo,GUA,J30 Rio de Janeiro,2024,04 Nov to 10 Nov 2024,Clay,1st Round,W,6-0 6-1
+800684703,800734264.0,Ana Clara Silva Campigotto,BRA,J60 Curitiba,2024,08 Jul to 14 Jul 2024,Clay,1st Round,L,2-6 4-6
+800684703,800601979.0,Luiza Esteves,BRA,J30 Rio de Janeiro,2023,13 Nov to 19 Nov 2023,Hard,1st Round,L,4-6 6-3 4-6
+800684703,800625688.0,Daniela Teodoro Souza,BRA,J60 Curitiba,2023,10 Jul to 15 Jul 2023,Clay,1st Round,L,2-6 0-6
+800684703,800638239.0,Vitoria Rabelo Redin,BRA,J5 Criciuma,2022,10 Oct to 15 Oct 2022,Clay,2nd Round,L,2-6 6-2 6-10
+800684703,800655674.0,Mariana Sacco Costa,BRA,J5 Criciuma,2022,10 Oct to 15 Oct 2022,Clay,1st Round,W,7-6 6-0
+800681928,800707724.0,Aaliyah Moussa,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,1st Round,L,2-6 6-3 4-6
+800681928,800763004.0,Polina Chepurna,UKR,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,3rd Round,W,6-3 6-7 10-7
+800681928,800749381.0,Sofia Gasparikova,SVK,J30 Kosice,2026,16 Mar to 22 Mar 2026,Hard,2nd Round,W,6-3 6-4
+800681928,800600589.0,Victoria Taxova,CZE,J30 Frydek Mistek,2026,09 Mar to 15 Mar 2026,Hard,2nd Round,L,4-6 2-6
+800681928,800674604.0,Magdalena Rybkowska,POL,J30 Frydek Mistek,2026,09 Mar to 15 Mar 2026,Hard,1st Round,W,4-6 6-2 10-4
+800681928,800694005.0,Simona Novakova,SVK,J100 Trnava,2026,17 Feb to 22 Feb 2026,Hard,1st Round,L,1-6 1-6
+800681928,800695669.0,Zofia Musiolowska,POL,J30 Leszno,2025,24 Nov to 29 Nov 2025,Hard,2nd Round,L,2-6 1-6
+800681928,800795847.0,Gabriela Stefaniak,POL,J30 Leszno,2025,24 Nov to 29 Nov 2025,Hard,1st Round,W,6-0 7-5
+800681928,800670230.0,Sofia Paukova,SVK,J30 Frydek Mistek,2025,22 Sep to 28 Sep 2025,Clay,1st Round,L,4-6 1-6
+800681928,800686731.0,Iga Mazur,POL,J30 Frydek Mistek,2025,22 Sep to 28 Sep 2025,Clay,2nd Round,L,7-5 3-6 5-7
+800681928,800729691.0,Kristyna Bendova,CZE,J30 Prostejov,2025,15 Sep to 21 Sep 2025,Clay,2nd Round,L,3-6 2-6
+800681928,800780322.0,Sofia Cervenkova,SVK,J30 Humenne,2025,02 Sep to 07 Sep 2025,Clay,1st Round,L,5-7 2-6
+800681928,800718550.0,Eliska Svachova,SVK,J60 Slovenska Lupca,2025,05 Aug to 10 Aug 2025,Clay,1st Round,L,2-6 4-6
+800681928,800695987.0,Katarina Jakubcova,SVK,J60 Zilina,2025,29 Jul to 03 Aug 2025,Clay,2nd Round,L,3-6 3-6
+800681928,800637116.0,Angelica Sara,ITA,J300 Bytom,2025,22 Jul to 27 Jul 2025,Clay,2nd Round,L,0-6 1-6
+800681928,800686731.0,Iga Mazur,POL,J300 Bytom,2025,22 Jul to 27 Jul 2025,Clay,1st Round,W,6-1 2-6 11-9
+800681928,800682713.0,NORA HORVATH,HUN,J30 Kosice,2025,17 Mar to 23 Mar 2025,Hard,2nd Round,L,2-6 2-1
+800681928,800650861.0,Maja Kowalik,POL,J30 Kosice,2025,17 Mar to 23 Mar 2025,Hard,1st Round,W,6-3 4-6 10-5
+800758714,,Desconhecido,,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,,
+800758714,800684496.0,Antonia Bell,GBR,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,L,2-6 2-6
+800758714,800716681.0,Simphiwe Emma Malunguza,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group A,L,5-7 2-6
+800758714,800799525.0,Lucia Tariroyashe Sitemere,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,W,6-0 6-2
+800758714,800742925.0,Amalie Johnston,GBR,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,L,3-6 6-2 1-10
+800758714,800650447.0,A Hyun Jo,KOR,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group F,L,3-6 1-6
+800758714,800768943.0,Rutendo Mellisa Mavhenyengwa,ZIM,J60 Harare,2025,21 Jul to 26 Jul 2025,Hard,2nd Round,L,1-6 2-6
+800758714,800767055.0,Isabella Barratt-Campbell,GBR,J30 Bulawayo,2025,19 May to 25 May 2025,Hard,1st Round,L,1-6 2-6
+800758714,800709044.0,Joanivia Bezuidenhout,NAM,J30 Bulawayo,2025,12 May to 17 May 2025,Hard,1st Round,L,5-7 0-6
+800758714,800654963.0,Ofri Behr,ISR,J30 Bulawayo,2024,25 Nov to 30 Nov 2024,Hard,1st Round,L,2-6 1-6
+800758714,800659466.0,Anushka Bhola,IND,J60 Harare,2024,22 Jul to 27 Jul 2024,Hard,1st Round,L,0-6 0-6
+800758714,800686528.0,Celina Joseph,RSA,J60 Harare,2023,31 Jul to 05 Aug 2023,Hard,2nd Round,L,0-6 0-6
+800735004,800775371.0,Iiris Lehtonen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-2 5-7 10-6
+800735004,800656359.0,Romina Hincu,MDA,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,W,7-6 6-4
+800735004,800710010.0,Fanny Keskinen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,L,0-6 2-6
+800735004,800599906.0,Hanna Vanni,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group A,L,1-6 1-6
+800743224,800713059.0,Mia Neumueller,AUT,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group G,L,0-6 7-5 5-10
+800743224,800710428.0,Emma Curcher,GBR,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group G,W,6-4 6-1
+800743224,800696098.0,Sonia Sirenius,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group G,L,6-4 5-7 7-10
+800744993,800710010.0,Fanny Keskinen,FIN,J100 Hanko,2026,30 Mar to 04 Apr 2026,Hard,1st Round,L,5-7 3-6
+800744993,800813026.0,Tuva Skarback,SWE,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-1 6-1
+800744993,800726696.0,Elna Komulainen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,0-6 5-7
+800744993,800689196.0,Annina Kanerva,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,1-6 2-6
+800744993,800775371.0,Iiris Lehtonen,FIN,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,2nd Round,L,1-6 0-6
+800744993,800665177.0,Anna Posch,AUT,J30 Vierumaki,2025,30 Apr to 04 May 2025,Hard,1st Round,L,2-6 3-6
+800797974,800648473.0,Andrea Eie Worren,NOR,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group F,L,3-6 0-6
+800797974,800664964.0,Elizabeth Averjanov,EST,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group F,W,6-4 7-6
+800797974,800701171.0,Kerttu Korpinen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group F,L,3-6 3-6
+800797974,800718251.0,Vida Danyela Fernandes Esaiassen,NOR,J60 Tampere,2025,27 Oct to 31 Oct 2025,Hard,2nd Round,L,1-6 1-6
+800797974,800730354.0,Jasmine Morici,ITA,J60 Tampere,2025,27 Oct to 31 Oct 2025,Hard,1st Round,W,1-6 6-4 10-6
+800797974,800714586.0,Vera Morozova,EST,J30 Hanko,2025,29 Jul to 02 Aug 2025,Clay,Quarter-final,L,3-6 1-6
+800797974,800708215.0,Lisette Leppik,EST,J60 Kaarina,2025,21 Jul to 26 Jul 2025,Clay,1st Round,L,6-4 1-6 3-6
+800797974,800664975.0,Katharina Reichert,GER,J30 Vierumaki,2025,08 Apr to 12 Apr 2025,Hard,2nd Round,L,3-6 6-1 7-10
+800797974,800647037.0,Nora Olivia Adamson,EST,J60 Kaarina,2024,22 Jul to 27 Jul 2024,Clay,1st Round,L,3-6 0-6
+800846011,800845063.0,Natalia Salinas Almanza,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group C,W,6-4 6-2
+800846011,800785428.0,Amanda Xu,CAN,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group C,L,2-6 1-6
+800846011,800734494.0,Ivana Peralta Zapata,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group C,L,1-6 0-6
+800846011,800763259.0,Marianne Munoz Macias,MEX,J60 Queretaro,2026,02 Feb to 07 Feb 2026,Clay,1st Round,L,3-6 1-6
+800846011,800735392.0,Abril Goded Luna,MEX,J100 Queretaro,2025,27 Oct to 01 Nov 2025,Hard,1st Round,L,1-6 1-6
+800847773,800722232.0,Africa Guzman Garcia,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group H,L,2-6 0-6
+800847773,800742138.0,Isabella Gonzalez,MEX,J30 Huamantla,2026,16 Mar to 21 Mar 2026,Hard,Group H,L,1-6 0-6
+800847773,800856965.0,Macarena Hernandez Rodriguez,MEX,J60 Queretaro,2026,02 Feb to 07 Feb 2026,Clay,1st Round,L,1-6 6-4 5-7
+800847914,800761062.0,Yaisha Arche Cherubin,PUR,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,2nd Round,W,6-0 6-0
+800847914,800700069.0,Andrea Maldonado Figueroa,PUR,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,L,2-6 3-6
+800847914,800777396.0,Mia Trgovcevic,CAN,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,W,6-2 6-1
+800847914,800677514.0,Sophia Filip,USA,J30 Bayamón,2026,16 Mar to 21 Mar 2026,Hard,Group G,L,3-6 3-6
+800826970,800812208.0,Micheala Lilian Sibanda,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,,
+800826970,800682973.0,Shruti Navneet Vasant,IND,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,L,0-6 0-6
+800826970,800766610.0,Tatum Venter,RSA,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,L,0-6 0-6
+800826970,800707389.0,Yasmin Wilson,LTU,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,1-6 1-6
+800826970,800833828.0,Diana Kitain,USA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,W,6-0 6-2
+800826970,800748167.0,Akeelah Robin Zinzile Khanye,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group E,L,1-6 1-6
+800826970,800788386.0,Minenhle Moyo,ZIM,J30 Harare,2025,24 Nov to 29 Nov 2025,Hard,2nd Round,L,0-6 1-6
+800826970,800695194.0,Mila Niv,ISR,J100 Harare,2025,04 Aug to 09 Aug 2025,Hard,1st Round,L,0-6 1-6
+800826970,800599857.0,Miroslava Alekseeva,RUS,J100 Harare,2025,28 Jul to 02 Aug 2025,Hard,1st Round,L,0-6 0-6
+800826970,800825261.0,Beaulah Kaseke,ZIM,J60 Harare,2025,21 Jul to 26 Jul 2025,Hard,1st Round,L,0-6 0-6
+800826970,800716681.0,Simphiwe Emma Malunguza,ZIM,J30 Bulawayo,2025,19 May to 25 May 2025,Hard,1st Round,L,1-6 2-6
+800826970,800808833.0,Hind Hannaoui,MAR,WJT Girls Africa Qualifying,2025,06 May to 10 May 2025,Clay,Round Robin Group 1,L,0-6 1-6
+800812208,800826970.0,Tanyaradzwa Zoe Chinyemba,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,,
+800812208,800682973.0,Shruti Navneet Vasant,IND,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,L,2-6 1-6
+800812208,800766610.0,Tatum Venter,RSA,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group H,L,1-6 0-6
+800812208,800851032.0,Tadiwa Nhokwara,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,W,6-0 0-6 16-14
+800812208,800684496.0,Antonia Bell,GBR,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,L,0-6 2-6
+800812208,800766610.0,Tatum Venter,RSA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group G,L,1-6 2-6
+800812208,800749890.0,Charlotte Bouwer,RSA,J60 Bulawayo,2025,08 Dec to 13 Dec 2025,Hard,1st Round,L,0-6 0-6
+800812208,800825261.0,Beaulah Kaseke,ZIM,J30 Bulawayo,2025,01 Dec to 06 Dec 2025,Hard,Quarter-final,L,2-6 3-6
+800812208,800675769.0,THIANY NAHOMY ALARCON BERNAL,COL,J100 Harare,2025,04 Aug to 09 Aug 2025,Hard,1st Round,L,0-6 0-6
+800812208,800653700.0,Nina Sekonopo,BOT,J100 Harare,2025,28 Jul to 02 Aug 2025,Hard,2nd Round,L,3-6 0-6
+800812208,800795157.0,Paballo Chuene,RSA,J60 Harare,2025,21 Jul to 26 Jul 2025,Hard,2nd Round,L,1-6 1-6
+800812208,800709044.0,Joanivia Bezuidenhout,NAM,J30 Bulawayo,2025,19 May to 25 May 2025,Hard,1st Round,L,6-4 1-6 3-6
+800812208,800769944.0,Lyndsey Philipps,RSA,J30 Bulawayo,2025,12 May to 17 May 2025,Hard,1st Round,L,1-6 0-6
+800812208,800748167.0,Akeelah Robin Zinzile Khanye,ZIM,J60 Bulawayo,2024,02 Dec to 07 Dec 2024,Hard,2nd Round,L,0-6 0-6
+800812208,800729288.0,Regina Nandipha Zibowa,ZIM,J60 Bulawayo,2024,02 Dec to 07 Dec 2024,Hard,1st Round,W,5-7 6-3 2-0
+800812208,800729288.0,Regina Nandipha Zibowa,ZIM,J30 Bulawayo,2024,25 Nov to 30 Nov 2024,Hard,1st Round,L,2-6 6-7
+800680777,800759125.0,Evgenia TERZAKIS,GRE,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-0 6-0
+800680777,800672855.0,Milena Jandera,AUS,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group B,L,4-6 2-6
+800680777,800670377.0,Siiri Metsaeranta,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group B,W,6-2 6-1
+800680777,800802797.0,Jiayi Wang,CHN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group B,L,4-6 2-6
+800705044,800595307.0,Irina Rissanen,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,2nd Round,W,6-3 1-6 10-6
+800705044,800694325.0,Mikaella De Hert,BEL,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group C,W,3-6 7-6 10-6
+800705044,800696091.0,Evelina Ioana Bichir,ROU,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group C,L,0-6 1-6
+800705044,800667711.0,Wilhelmina Vainikka,FIN,J30 Vierumaki,2026,23 Mar to 28 Mar 2026,Hard,Group C,L,0-6 2-6
+800705044,800599906.0,Hanna Vanni,FIN,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,2nd Round,L,0-6 1-6
+800705044,800670509.0,Adelija Danheli,EST,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,1st Round,W,6-3 6-3
+800705044,800696485.0,Eve Odonovan,IRL,J60 Vierumaki,2025,21 Oct to 26 Oct 2025,Hard,2nd Round,W,6-4 7-5
+800705044,800780603.0,Alexina Helenius,SWE,J30 Hanko,2025,29 Jul to 02 Aug 2025,Clay,1st Round,L,1-6 6-3 4-6
+800666154,800716202.0,Jay Shon,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,2nd Round,L,5-7 6-2 6-10
+800666154,800777388.0,Yura Kang,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,1st Round,W,6-3 6-3
+800666154,800667380.0,Sunmin AHN,KOR,J300 Wanju (Closed Asia Regional Championship),2025,06 Oct to 12 Oct 2025,Hard,2nd Round,L,5-7 4-6
+800666154,800667635.0,Seunghyun Cho,KOR,J300 Wanju (Closed Asia Regional Championship),2025,06 Oct to 12 Oct 2025,Hard,1st Round,W,6-2 7-6
+800666154,800586390.0,Eunjin Ryu,KOR,J200 Chuncheon,2025,30 Sep to 05 Oct 2025,Hard,1st Round,L,6-4 4-6 8-10
+800666154,800660859.0,Yewon Lee,KOR,J30 Gimcheon,2025,03 Jun to 08 Jun 2025,Hard,1st Round,L,3-6 3-6
+800666154,800601152.0,Seeun Baeg,KOR,J60 Yanggu,2025,29 Apr to 04 May 2025,Hard,2nd Round,L,2-6 3-6
+800666154,800644366.0,hanbi lee,KOR,J60 Yanggu,2025,29 Apr to 04 May 2025,Hard,1st Round,W,6-3 6-3
+800666154,800601152.0,Seeun Baeg,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,Quarter-final,L,0-6 4-6
+800666154,800777729.0,HEERANG BYEON,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,2nd Round,W,6-0 6-0
+800666154,800725714.0,HAHYUN DO,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,1st Round,W,6-2 6-4
+800666154,800688000.0,Hyoeun Chung,KOR,J60 Yanggu-Gun,2024,14 May to 19 May 2024,Hard,1st Round,L,4-6 3-6
+800595696,800599005.0,Eunsoo Lee,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,1st Round,L,4-6 6-0 4-6
+800595696,800707120.0,Ji Yeon Park,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,2nd Round,L,5-7 6-7
+800595696,800709106.0,Jennifer Chang,KOR,J30 Andong,2025,01 Apr to 06 Apr 2025,Hard,1st Round,W,6-1 6-0
+800595696,800593326.0,Jay Lee,KOR,J300 Wanju (Closed Regional Championships),2024,21 Oct to 27 Oct 2024,Hard,1st Round,L,0-6 2-6
+800595696,800573152.0,Kakou Narita,JPN,J100 Seoul,2024,01 Oct to 06 Oct 2024,Hard,1st Round,L,4-6 2-6
+800595696,800593326.0,Jay Lee,KOR,J60 Yanggu-Gun,2024,14 May to 19 May 2024,Hard,1st Round,L,4-6 3-6
+800595696,800685173.0,Ha-an Park,KOR,J60 Gimcheon,2024,07 May to 12 May 2024,Hard,1st Round,L,0-6 6-3 5-10
+800595696,800680081.0,YESEO PARK,KOR,J30 Sunchang,2024,30 Apr to 05 May 2024,Hard,1st Round,L,1-6 3-6
+800595696,800685173.0,Ha-an Park,KOR,J30 Sunchang,2024,30 Apr to 05 May 2024,Hard,Quarter-final,L,5-7 0-6
+800595696,800682601.0,Christina Bennett,AUS,J30 Sunchang,2024,30 Apr to 05 May 2024,Hard,1st Round,W,6-2 3-6 10-7
+800595696,800602339.0,Min Kyeong Kim,KOR,J30 Yeongwol,2024,26 Mar to 31 Mar 2024,Hard,1st Round,L,2-6 2-6
+800595696,800689989.0,Jiwon Hwang,KOR,J30 Yeongwol,2023,31 Oct to 05 Nov 2023,Hard,1st Round,L,1-6 1-6
+800595696,800578639.0,Chaewon Whang,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,2nd Round,L,2-6 1-6
+800595696,800584382.0,Ji Hye Moon,KOR,JB1 Osan - Asia Closed,2022,31 Oct to 06 Nov 2022,Hard,1st Round,W,6-3 7-5
+800595696,800622121.0,Jiyeon Lee,KOR,J5 Yanggu,2022,30 Aug to 04 Sep 2022,Hard,1st Round,L,2-6 1-6
+800856795,800743171.0,Clemence SCHNEIDER,FRA,J30 Saint-François,2026,30 Mar to 04 Apr 2026,Hard,1st Round,L,0-6 4-6
+800856795,800743171.0,Clemence SCHNEIDER,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,1st Round,L,1-6 3-6
+800785698,800734284.0,Pauline Hardy Frauger,FRA,J30 Le Diamant,2026,23 Mar to 28 Mar 2026,Hard,1st Round,L,1-6 2-6
+800785698,800739949.0,Bronwyn Duggan,CAN,J100 Woodbridge,2025,20 Oct to 25 Oct 2025,Hard,1st Round,L,0-6 0-6
+800785698,800829633.0,Carlota Moreno,USA,J60 Lexington,2025,13 Oct to 18 Oct 2025,Hard,1st Round,L,0-6 0-6
+800785698,800848409.0,Zannah Roberson,USA,J60 Lexington,2025,13 Oct to 18 Oct 2025,Hard,Quarter-final,L,2-6 1-6
+800796881,800750365.0,Amy Leigh Stuart,RSA,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,,
+800796881,800742925.0,Amalie Johnston,GBR,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,L,1-6 0-6
+800796881,800829077.0,Rutendo Tom,ZIM,J30 Bulawayo,2026,30 Mar to 04 Apr 2026,Hard,Group C,L,1-6 2-6
+800796881,800738462.0,Tamara Todorovic,SRB,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,2-6 3-6
+800796881,800834504.0,Chelsea Abigael Fryer,ZIM,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,2-6 2-6
+800796881,800737870.0,Botshelo Diseko,RSA,J30 Bulawayo,2026,23 Mar to 28 Mar 2026,Hard,Group H,L,1-6 0-6
+800796881,800662490.0,Caroline Hermanns,DEN,J100 Harare,2025,28 Jul to 02 Aug 2025,Hard,2nd Round,L,0-6 2-6
+800796881,800709569.0,kreethika reddy vangala,IND,J60 Harare,2025,21 Jul to 26 Jul 2025,Hard,1st Round,L,0-6 0-6
+800796881,800769944.0,Lyndsey Philipps,RSA,J30 Bulawayo,2025,19 May to 25 May 2025,Hard,1st Round,L,0-6 0-6
+800796881,800675756.0,Niamh Sutherland,IRL,J30 Bulawayo,2025,12 May to 17 May 2025,Hard,1st Round,L,6-4 4-6 1-6
+800796881,800653700.0,Nina Sekonopo,BOT,J30 Harare,2024,18 Nov to 23 Nov 2024,Hard,2nd Round,L,1-6 1-6
+800738082,800712926.0,Sofia Kuzmina,IRL,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,Quarter-final,L,6-3 3-6 0-10
+800738082,800850441.0,Chloe Katie Mahon,IRL,J30 Kilkenny,2026,30 Mar to 03 Apr 2026,Carpet,1st Round,W,6-1 6-4
+800738082,800738737.0,Mary Ocallaghan,IRL,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,1st Round,L,6-7 4-6
+800738082,800743021.0,Alexandra Bigiu,SWE,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,Quarter-final,W,6-2 6-2
+800738082,800790284.0,Olivia Burrows,IRL,J30 Waterford,2026,23 Mar to 27 Mar 2026,Carpet,1st Round,W,6-1 6-1
+800738082,800654706.0,Irem Ozbayram,TUR,J30 Adana,2026,19 Jan to 25 Jan 2026,Clay,1st Round,L,3-6 2-6
+800738082,800829108.0,Ayse Ozbaba,TUR,J30 Adana,2026,19 Jan to 25 Jan 2026,Clay,2nd Round,W,6-3 6-2
+800738082,800814472.0,Stiene Janssens,BEL,J30 Adana,2026,19 Jan to 25 Jan 2026,Clay,1st Round,W,6-2 6-4
+800738082,800600750.0,Carla Cascioferro,ITA,J100 Palermo,2024,25 Sep to 29 Sep 2024,Clay,1st Round,L,4-6 5-7
+800720517,800677794.0,Boram Lee,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,2nd Round,L,5-7 1-6
+800720517,800714678.0,YunHa Kim,KOR,J30 Anseong,2026,24 Mar to 29 Mar 2026,Clay,1st Round,W,7-6 6-1
+800720517,800667606.0,Hyeju Jang,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,2nd Round,L,1-6 6-7
+800720517,800770140.0,Byeol KIM,KOR,J30 Incheon,2026,17 Mar to 22 Mar 2026,Hard,1st Round,W,6-3 6-1
+800720517,800722482.0,ji yeong Jung,KOR,J100 Seoul,2025,04 Nov to 09 Nov 2025,Hard,1st Round,L,2-6 5-7
